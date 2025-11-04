@@ -38,6 +38,7 @@ ENV/
 *.epub
 *.mobi
 *.azw3
+output/
 
 # Temporary files
 *.tmp
