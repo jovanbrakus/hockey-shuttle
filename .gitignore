@@ -61,3 +61,7 @@ Thumbs.db
 *.fdb_latexmk
 *.fls
 *.synctex.gz
+
+# Claude configuration
+.claude/settings.local.json
+.claude/*.local.*

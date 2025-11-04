@@ -9,7 +9,15 @@
       "Bash(brew:*)",
       "Bash(export:*)",
       "Bash(chmod:*)",
-      "Bash(./build-book.sh:*)"
+      "Bash(./build-book.sh:*)",
+      "Bash(for file in /Users/jovan/personal/book-series/series/hockey-shuttle/season-01/episode-01-returning-to-center-ice/draft/*.md)",
+      "Bash(done)",
+      "Bash(for file in /Users/jovan/personal/book-series/series/hockey-shuttle/season-01/episode-02-new-lines/draft/chapter-*.md)",
+      "Bash(for ep_num in 03 04 05 07 08)",
+      "Bash(do ep_dir=/Users/jovan/personal/book-series/series/hockey-shuttle/season-01/episode-$ep_num-*)",
+      "Bash(if [ -d $ep_dir ])",
+      "Bash(then echo '=== Episode $ep_num ===' ls -la $ep_dir/draft/)",
+      "Bash(test:*)"
     ],
     "deny": [],
     "ask": []
