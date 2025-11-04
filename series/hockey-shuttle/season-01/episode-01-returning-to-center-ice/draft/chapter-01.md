@@ -4,7 +4,7 @@
 
 The ice was perfect that morning.
 
-Sophia Chen knew ice the way other kids knew their favorite books—by feel, by sound, by the way light caught on the surface. This ice was smooth and hard, recently zambonied, with just enough texture that her blades could grip without fighting. She pushed off from the boards and glided across center, arms out for balance, feeling the cold air stream past her face.
+Sophia Chen knew ice the way other kids knew their favorite books—by feel, by sound. This ice was smooth and hard, recently zambonied, with just enough texture that her blades could grip without fighting. She pushed off from the boards and glided across center, arms out for balance, feeling the cold air stream past her face.
 
 "You're leaning left again!" Ethan's voice carried across the empty rink.
 
@@ -22,7 +22,11 @@ Sophia was nine years old and she hated crossovers. They made her feel clumsy an
 
 "Yeah, that." He grinned at her. "Your feet are doing a double helix."
 
-It was ridiculous. It was perfect. Sophia tried again, thinking about DNA spiraling, and this time her feet cooperated. She made it halfway around the rink before she had to stop, breathing hard, her cheeks burning from cold and effort.
+It was ridiculous.
+
+Perfect.
+
+Sophia tried again, thinking about DNA spiraling, and this time her feet cooperated. She made it halfway around the rink before she had to stop, breathing hard, her cheeks burning from cold and effort.
 
 "You did it!" Ethan crashed into the boards beside her, sending up a spray of ice shavings. His helmet was crooked and his cheeks were red and he was smiling so wide she could see the gap where he'd lost a tooth last month. "That was perfect, Soph!"
 
@@ -58,7 +62,7 @@ They made slow laps around the rink, not racing now, just gliding. This was Soph
 
 "The one about the trains?" Sophia wrinkled her nose. "I think there's a mistake in it. The numbers don't make sense."
 
-"That's what I thought!" Ethan's face lit up. "The second train would have to be going like two hundred miles an hour to make the answer work."
+"That's what I thought!" Ethan's face lit up. "The second train would have to be going, like, two hundred miles an hour to make the answer work."
 
 This was the other thing they shared, besides ice: numbers. Sophia loved math the way she loved physics, the way everything had rules and reasons and made sense if you just thought about it hard enough. Most of the other kids in their fourth-grade class groaned when Mrs. Patterson handed out the advanced math packets, but Sophia and Ethan leaned forward in their seats.
 
@@ -100,7 +104,7 @@ She pressed her ear to the floor register and listened.
 
 "—an incredible opportunity," Mr. Price was saying. His voice was deep and earnest, the same voice he used when he talked about Ethan's future at parent-teacher conferences. "The Winnipeg AAA program is one of the best in the country. They've produced three NHL players in the last five years."
 
-"Ethan is very talented." That was her mother, in her careful professional voice. Dr. Linda Chen, associate professor of chemistry, who chose every word like she was writing a research paper. "But he's only nine. Isn't that quite young to be thinking about professional athletics?"
+"Ethan is very talented." That was her mother, in her careful professional voice. Dr. Lisa Chen, associate professor of chemistry, who chose every word like she was writing a research paper. "But he's only nine. Isn't that quite young to be thinking about professional athletics?"
 
 "The window is small." That was Mrs. Price now, higher-pitched, urgent. "If we want Ethan to have a real shot, we need to get him into elite training now. The scouts start watching at twelve, thirteen. We can't wait."
 
@@ -108,7 +112,7 @@ She pressed her ear to the floor register and listened.
 
 A pause. Then Mr. Price said, "Because we want you to know that it's not about Ethan not wanting to spend time with Sophia. They're good friends. Good for each other, honestly. Both so bright."
 
-Sophia's chest tightened.
+Sophia's throat closed up.
 
 "We're moving to Winnipeg," Mrs. Price said. "In two weeks. Paul's been transferred—it's a promotion, a good one—and the hockey program there is exactly what Ethan needs. But we wanted you to hear it from us first, not from the kids."
 
@@ -116,13 +120,29 @@ The silence that followed was terrible.
 
 "Well." Her mother's voice was very controlled. "Thank you for telling us. Sophia will be... she'll miss him."
 
-"They can stay in touch," Mr. Price said quickly. "Email, phone calls. Maybe visits."
+"They can stay in touch," Mr. Price said quickly. "Phone calls, maybe visits."
 
 But Sophia knew how these things worked. She was nine, not stupid. Ethan would go to Winnipeg and join an AAA team and get busy with practices and games and tournaments. He'd make new friends, better skaters, kids whose parents understood hockey in a way her parents never would. He'd forget about the girl from Millbrook who could barely do crossovers and liked math competitions more than actual competitions.
 
 She'd lose her best friend.
 
-Sophia pulled away from the vent and lay flat on her bedroom floor, staring at the ceiling. Forces in equilibrium, she thought. Net force equals zero. But that was the problem—all the forces in her life had just shifted, and she had no idea how to balance them again.
+Sophia pulled away from the vent and lay flat on her bedroom floor, staring at the ceiling.
+
+The grief came slowly. Not all at once like in movies, but in waves over the next few days. She'd be fine, and then she'd remember Ethan wouldn't be at school tomorrow, and her hands would go numb.
+
+At school, she kept expecting to see him. In the cafeteria, at morning assembly, on the playground where they sometimes did math problems in the dirt with sticks. But he wasn't there. His desk in Mrs. Patterson's class sat empty, and nobody else even seemed to notice.
+
+Sophia ate lunch alone. She walked home alone. She did her math homework alone, and every problem felt hollow because there was no one to compare answers with, no one to get excited about elegant solutions.
+
+Her mother tried talking to her. "I know you're sad about Ethan leaving. It's okay to be upset."
+
+But Sophia wasn't upset. Upset was too small a word.
+
+Demolished.
+
+Like something essential had been ripped out of her and she didn't know how to function around the hole it left.
+
+She was nine years old, and her heart was breaking, and nobody understood that this wasn't just losing a friend. This was losing the only person who'd ever really seen her.
 
 ---
 
@@ -152,7 +172,7 @@ Sophia didn't tell him that she was already thinking about quitting. That skatin
 
 "Maybe," she said.
 
-"And you're definitely going to win at math competition next year. You only lost to me by like three points."
+"And you're definitely going to win at math competition next year. You only lost to me by, like, three points."
 
 "Four points."
 
@@ -162,7 +182,7 @@ Sophia didn't tell him that she was already thinking about quitting. That skatin
 
 "Everyone's stupid, then." He said it so matter-of-factly that Sophia almost smiled. "We're going to be scientists or engineers or something. We're going to do important stuff. Who cares what everyone else thinks?"
 
-The figure skater landed a jump with a sharp crack of blades, and it broke something open in Sophia's chest.
+The figure skater landed a jump with a sharp crack of blades, and Sophia's vision tunneled.
 
 "I don't want you to go," she said.
 
@@ -184,7 +204,7 @@ They skated until Mrs. Price called from the lobby that it was time to go. They 
 
 In the parking lot, standing by the minivan in the weak March sunshine, they faced each other awkwardly.
 
-"I'll email you," Ethan said. "As soon as we get there and my dad sets up the computer."
+"I'll call you," Ethan said. "As soon as we get there and my dad sets up the phone."
 
 "Okay."
 
@@ -200,11 +220,15 @@ Mrs. Price called for Ethan again. He picked up his equipment bag, hesitated, th
 
 Then he was in the van, and the van was pulling away, and Sophia stood in the parking lot of Millbrook Community Rink watching her best friend disappear down Oak Street.
 
-She didn't cry. She was too numb for crying.
+She didn't cry. Not yet. She was too numb for crying.
 
-Instead, she walked the mile and a half home, went straight to her room, and pulled out the email address Ethan had written on a piece of paper for her. EthanPrice2023@millbrook.net. She stared at it for a long time, memorizing the letters, wondering if he'd really write to her or if this was just something kids said when they were leaving forever.
+The tears came later, that night, when she was alone in her bed and the reality settled in like ice forming over water. Ethan was gone. Really gone. And she'd never see him again, not really, because phone calls weren't the same and promises to visit always faded and people moved on.
 
-That night, her father knocked on her door.
+She cried into her pillow so her parents wouldn't hear, great gulping sobs that shook her whole body. She cried for the Saturday mornings that wouldn't happen anymore, for the math competitions they'd never share, for all the conversations about nothing and everything that had made her feel less alone.
+
+She cried until she was empty, and then she lay in the dark feeling hollow.
+
+That night, her father knocked on her door late. He must have heard her after all.
 
 "Hey, kiddo. Want to talk about it?"
 
@@ -218,7 +242,7 @@ He sat on the edge of her bed anyway. Dr. James Chen, professor of physics, bril
 
 "You're talented too, you know. That math competition score was exceptional."
 
-Sophia turned to look at him. "Did you know I only beat him by four points?"
+Sophia turned to look at him, eyes still swollen from crying. "Did you know I only beat him by four points?"
 
 "Three points, actually. I saw the full results."
 
@@ -234,42 +258,112 @@ After he left, Sophia pulled out her notebook—the one where she worked on extr
 
 She wondered what Ethan was doing right now. Packing boxes, probably. Or thinking about AAA hockey and Coach Boychuk and his big future. She wondered if he was thinking about her at all.
 
-Forces in equilibrium, she thought. Net force equals zero.
-
-But nothing felt balanced anymore.
+Nothing felt balanced anymore.
 
 ---
 
+## Eight Years Later
+
 ## Age 17 - Present Day - Early September
 
-The moving truck pulled into Winnipeg on a Saturday morning, and Sophia Chen felt like she was nine years old again, losing something she couldn't name.
+The moving truck pulled into Winnipeg on a Saturday morning, and Sophia Chen felt like she was driving straight into the past.
 
 "This is it!" Her mother's voice was aggressively cheerful from the front seat. "Our new adventure!"
 
-Sophia stared out the window at the unfamiliar streets. Winnipeg was bigger than she'd expected—not city-huge like Toronto or Vancouver, but substantial. Real buildings, real traffic, real anonymity. In Millbrook, everyone had known her as "the Chen girl" or "Linda and James's daughter" or occasionally "that quiet kid who's good at math." Here, she'd be nobody.
+Sophia stared out the window at the unfamiliar streets, her phone in her lap showing Ethan's Instagram profile.
 
-She wasn't sure if that was better or worse.
+She'd found it last night. @ethanprice23. Public account, because of course it was—hockey players needed visibility. The most recent photo was from two days ago: him in full gear, stick raised, celebrating what must have been a playoff goal. Caption: "Summer training starts Monday. Ready to work."
 
-"The house is just a few blocks from St. Paul's," her father said, checking his phone GPS. "You'll be able to walk to school."
+847 likes. 63 comments.
 
-St. Paul's High School. The place she'd be starting in—she checked her own phone—nine days. Junior year, new city, knowing absolutely no one.
+Before that: graduation photo with his arm around a girl. Beautiful, dark hair, perfect smile. Caption: "Couldn't have made it through without this one. Love you @beccamartinez."
 
-Well. Not absolutely no one.
+Sophia had clicked through to Becca's profile. Student council president. Debate team captain. Every photo perfectly curated, showing a life of effortless achievement and social success.
 
-The thought came before she could stop it, and with it came the memory: Ethan Price. Her best friend from elementary school, the boy she'd spent every Saturday morning with at the rink, the boy who'd moved to Winnipeg for AAA hockey when they were nine.
+Then she'd gone back to Ethan's page and scrolled further. Team photos. Workout videos. Pictures with friends at parties, someone's backyard pool.
 
-That Ethan Price.
+He looked happy. Confident. Like someone who'd figured out exactly who he was supposed to be.
 
-Who would be seventeen now, same as her. Who would probably be at St. Paul's, since that's where the hockey players went. Who definitely wouldn't remember the nine-year-old girl who couldn't do crossovers and came in second at math competitions.
+She'd almost sent a message: "Hey, moving to Winnipeg next week. Weird coincidence, right?"
 
-Sophia closed her eyes and tried to make herself smaller, invisible, someone who could slip through the next two years of high school without anyone noticing.
+But what if he didn't remember her? What if he did remember but didn't care? What if eight years was too long and they'd become completely different people?
 
-Forces in equilibrium, she thought. Net force equals zero.
+So she'd closed Instagram and tried to convince herself it didn't matter.
 
-But even as she thought it, she knew it was a lie. Moving to Winnipeg, to the city where Ethan Price had become whoever he was now—that was a force she couldn't calculate. A variable she couldn't predict.
+"Winnipeg is bigger than I expected," her father said now, checking his phone's GPS. "Not city-huge like Toronto, but substantial."
 
-The truck turned onto their new street, and Sophia felt every certainty she'd ever had shift beneath her.
+Sophia locked her phone screen, Ethan's face disappearing. "Yeah."
 
-This was going to change everything.
+"The house is just a few blocks from St. Paul's," her mother added. "You'll be able to walk to school."
 
-She just didn't know how yet.
+St. Paul's High School. The same school Ethan attended. She'd checked the hockey team roster on their website: Ethan Price, Center, #23, Captain.
+
+Of course he was captain.
+
+"Junior year in a new city is going to be an adjustment," her father was saying. "But it's also an opportunity for a fresh start. You can be anyone you want to be."
+
+Sophia didn't want to be anyone. She wanted to be invisible. She wanted to slip through the next two years unnoticed and get to college where maybe, finally, things would make sense.
+
+But even as she thought it, she knew she was lying to herself. Because Ethan Price was here, at her new school, and there was no way she was going to be able to avoid him.
+
+The question was whether she wanted to.
+
+The truck turned onto their new street—tree-lined, quiet, the kind of neighborhood where people actually knew their neighbors. Their house was a two-story brick colonial, nice but not fancy, with a small front yard and a garage that her father was already eyeing for his woodworking projects.
+
+"Home sweet home," her mother announced, pulling into the driveway.
+
+Sophia climbed out and looked around. This was it. This was where she'd spend the next two years of her life. In the city where Ethan Price had become a hockey star with a perfect girlfriend and a predetermined future.
+
+She pulled out her phone again, thumb hovering over Instagram. She could message him. Tell him she was here.
+
+But fear stopped her.
+
+Fear that he wouldn't respond. Fear that he would respond with polite disinterest. Fear that eight years had erased whatever they'd had.
+
+"Sophia!" Her mother called from the front door. "Come see your room!"
+
+She pocketed her phone and followed her parents inside, trying to ignore the way her heart was racing.
+
+Everything was already in motion.
+
+And she had no idea where it would take her.
+
+---
+
+That night, unpacking boxes in her new bedroom, Sophia's phone buzzed.
+
+Text from Maya, her best friend from Brampton: **How's Winnipeg? Made any friends yet?**
+
+**Sophia: Got here this morning. Mostly unpacked. No friends.**
+
+**Maya: You'll find your people. Just takes time.**
+
+**Sophia: Yeah.**
+
+**Maya: You okay? You sound weird.**
+
+Sophia sat on her bed, surrounded by half-empty boxes, and considered telling Maya the truth. That her childhood best friend was here. That she'd spent the last two days stalking his Instagram like a creep. That she was terrified of what Monday would bring.
+
+Instead she typed: **Just tired. Long drive.**
+
+**Maya: Get some sleep. Love you.**
+
+**Sophia: Love you too.**
+
+She put her phone down and stared at the ceiling of her unfamiliar room. Through the window, she could hear the distant sound of traffic, the rustle of leaves, the general hum of a city settling into Saturday night.
+
+Somewhere out there, Ethan Price was doing whatever Ethan Price did on Saturday nights. Hanging out with his girlfriend, probably. Or his hockey teammates. Living the life he'd built here, completely unaware that the girl he used to teach crossovers to was now living four miles away.
+
+Sophia closed her eyes and tried to sleep, but all she could see was nine-year-old Ethan saying "see you around, Soph" before driving away forever.
+
+Except it hadn't been forever.
+
+In two days, she'd walk into St. Paul's High School.
+
+In two days, she might see him again.
+
+And then she'd find out if those Saturday mornings at the rink had meant anything at all, or if they'd just been two lonely kids who'd found each other for a little while before real life pulled them apart.
+
+Everything was tilting.
+
+And Sophia Chen had no idea how to stop it.

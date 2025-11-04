@@ -1,22 +1,56 @@
 # Chapter 2: Now
 
-## Present Day - September 5th - First Day, Junior Year
+## Sunday, September 4th - Day Before School
 
-Sophia stood in front of her closet at 6:47 AM, trying to decide who she wanted to be.
+Sophia spent Sunday trying on different versions of herself.
 
-The problem with moving to a new school junior year was that everyone else had already figured out their identities. They'd had two years to establish themselves, make friends, join clubs, become recognizable. Meanwhile, Sophia was standing in her bedroom surrounded by half-unpacked boxes, holding up two different shirts like they were going to solve her existential crisis.
+Navy henley and jeans.
 
-"Just pick one," she muttered to herself.
+Black t-shirt and jeans.
 
-She went with the navy blue henley. Casual but not trying too hard. Paired with jeans and her beat-up Converse, she looked like someone who wasn't desperate to make friends. Which was perfect, because she was absolutely desperate to make friends but couldn't let anyone know that.
+Green sweater.
 
-Her phone buzzed. Text from her mother, who'd already left for her first day at the University of Manitoba chemistry department:
+Gray hoodie.
 
-**Mom: You've got this! Remember—smile, make eye contact, be yourself. Love you! ❤️**
+She settled on the navy henley, then immediately questioned the decision. Because what did it matter what she wore? Ethan might not even remember her. Or worse, he might remember her and not care.
 
-Sophia typed back a thumbs up emoji and tried not to think about how "be yourself" was terrible advice when yourself was an introverted badminton player with exactly zero social skills.
+Her phone buzzed. Maya: **First day outfit check? Send pics!**
 
-She grabbed her backpack—new, because apparently her old one from Brampton High wasn't good enough for "a fresh start"—and headed downstairs. Her father was in the kitchen, already deep into his laptop, probably reviewing lecture notes for his first class at U of M.
+Sophia took a selfie in the mirror, forcing a smile that didn't reach her eyes.
+
+**Maya: You look cute! Very "smart but approachable." The henley is perfect.**
+
+**Sophia: Thanks. Nervous.**
+
+**Maya: You'll be fine. Just be yourself.**
+
+But Sophia had no idea who herself was anymore. The girl who'd left Brampton three days ago? The nine-year-old who used to race Ethan across fresh ice? Someone completely new?
+
+She opened Instagram again, thumb hovering over Ethan's profile. She'd looked at it probably fifty times since yesterday. @ethanprice23. His most recent story was from this morning: a video of him doing pull-ups in what looked like a home gym. Caption: "Season starts tomorrow. Ready."
+
+732 views already.
+
+Before she could overthink it, she typed a message: **Hey. Weird question, but do you remember me? Sophia Chen from Millbrook. I'm starting at St. Paul's tomorrow.**
+
+Her finger hovered over send for thirty seconds.
+
+Then she deleted it.
+
+Too desperate. Too needy. Too much like she'd spent eight years thinking about him when he'd probably forgotten her entirely.
+
+She put her phone face-down and tried to sleep, but all she could see was the staircase at St. Paul's, the one from the virtual tour on the school's website. That's where people gathered between classes. That's where she'd probably see him.
+
+If she saw him at all.
+
+---
+
+## Monday, September 5th - First Day, Junior Year
+
+Sophia woke up at 5:47 AM after barely sleeping.
+
+She showered, dressed in the outfit she'd picked out, and spent twenty minutes on her hair before giving up and pulling it into a ponytail. Natural. Effortless. Like she wasn't going to a school where her former best friend was now a hockey star with a perfect life.
+
+Downstairs, her father was already deep in his laptop, reviewing lecture notes. Her mother had left earlier for a faculty meeting.
 
 "Ready?" he asked without looking up.
 
@@ -28,7 +62,7 @@ She grabbed her backpack—new, because apparently her old one from Brampton Hig
 
 He finally glanced at her. "How does high school work?"
 
-Sophia poured herself coffee—too much creamer, not enough actual caffeine to deal with this day. "It's a complex social ecosystem with hierarchies based on arbitrary factors like athletic ability, physical attractiveness, and whether you know the right people. Academic achievement is actually a negative indicator of social success."
+Sophia poured herself coffee—too much creamer, not enough actual caffeine. "It's a complex social ecosystem with hierarchies based on arbitrary factors like athletic ability, physical attractiveness, and whether you know the right people. Academic achievement is actually a negative indicator of social success."
 
 "That sounds like something you read on the internet."
 
@@ -50,9 +84,11 @@ He studied her with that physicist look, like she was a problem he was trying to
 
 "About a year."
 
-A year. Sophia had two years of high school left. That meant she'd be friendless until senior year, and then what? Everyone would already have their college plans, their established groups, their inside jokes she'd never understand.
+A year. Sophia had two years of high school left. That meant she'd be friendless until senior year. And by then everyone would already have their college plans, their established groups.
 
 Perfect.
+
+Just perfect.
 
 "I have to go," she said, dumping the rest of her coffee in the sink. "Don't want to be late."
 
@@ -60,11 +96,9 @@ St. Paul's High School was a twelve-minute walk from their new house. Sophia kne
 
 The building was newer than Brampton High—all glass and modern architecture, probably renovated in the last decade. The parking lot was full of nice cars. Not rich-rich, but comfortable-rich. Hockey money, probably. Everyone knew Winnipeg was a hockey city.
 
-Sophia joined the stream of students flowing through the main entrance. Her schedule said to report to the main office first, get her locker assignment and student ID. Simple enough.
+Sophia joined the stream of students flowing through the main entrance, trying to look like she belonged. The hallways were crowded and loud, full of people hugging and laughing and picking up conversations from wherever they'd left them in June.
 
-Except nothing about high school was ever simple.
-
-The hallways were crowded and loud, full of people hugging and laughing and picking up conversations from wherever they'd left them in June. Sophia navigated through them like she was crossing a busy intersection—quick, efficient, trying not to make eye contact.
+She navigated through them with her head down, avoiding eye contact, trying to be invisible.
 
 The main office was easy to find. The secretary—Mrs. Kowalski, according to her nameplate—was efficient and kind, the type of adult who actually remembered what it felt like to be sixteen and terrified.
 
@@ -78,31 +112,47 @@ Sophia nodded, accepting her schedule and locker assignment. Locker 247, second 
 
 The hallway was even more crowded now. Sophia checked her phone: 8:23. Classes started at 8:45. She had time to find her locker, drop off her jacket, maybe hide in the bathroom until first period.
 
-She was halfway up the stairs when she saw him.
+The staircase to the second floor was wide and central, with students gathering on every step. This was the heart of the school, she realized. The place where social hierarchies played out in real time.
+
+She was halfway up when she saw him.
+
+---
+
+Seventh step up when she saw him.
+
+Her brain just—stopped.
+
+Sophia's foot was on the seventh step when her eyes found him at the top landing, and everything else disappeared.
 
 Ethan Price.
 
-She recognized him instantly, which was insane because it had been eight years and people changed dramatically between nine and seventeen. But something about the way he moved—confident, easy, like he knew exactly where he belonged—was exactly the same. His hair was darker than she remembered, and he was taller (obviously), and his shoulders were broader (hockey training), and he was surrounded by at least six people, all talking at once.
+She recognized him instantly, which was insane because it had been eight years and people changed dramatically between nine and seventeen. But something about the way he moved—confident, easy, like he knew exactly where he belonged—was exactly the same.
 
-Sophia froze on the staircase.
+He was taller. Obviously. His hair was darker than she remembered, pushed back carelessly from his face. His shoulders were broader, his jaw more defined. He was wearing a St. Paul's hockey jacket—navy and gold—and he was surrounded by at least six people, all talking at once, all vying for his attention.
 
-He looked... good. Really good. Not in a objective-observation way but in a way that made her stomach flip. Dark hair pushed back carelessly, strong jawline, the kind of athletic build that came from years of elite training. He was wearing a St. Paul's hockey jacket—navy and gold—and he was laughing at something one of his friends said, and Sophia suddenly remembered with perfect clarity what it felt like to be nine years old and racing him across fresh ice.
+He looked good. Really good. Not in an objective observation way but in a way that made her mouth go dry.
 
-She should keep walking. Should get to her locker, start her day, pretend she'd never seen him. What were the odds he'd remember her anyway? They'd been kids. He'd probably had dozens of friends since then, important friends, hockey friends, friends who mattered.
+She should keep walking. Should get to her locker, start her day, pretend she'd never seen him. What were the odds he'd remember her anyway? They'd been kids. He'd had eight years to become someone completely different, make important friends, build a life that had nothing to do with Saturday mornings at a community rink.
 
 But then—impossibly—he looked up.
 
-Their eyes met across the crowded hallway, and Sophia watched recognition dawn on his face. His expression shifted from casual laughter to surprise to something she couldn't read, and then he was excusing himself from his group and moving toward the stairs.
+Their eyes met across the crowded staircase.
+
+Sophia watched recognition dawn on his face. Saw his expression shift from casual laughter to surprise to something she couldn't read. Saw him excuse himself from his group and start moving toward the stairs.
 
 Toward her.
 
 No no no no no.
 
+She was frozen on step seven, students streaming past her, bumping her shoulder, muttering "excuse me." Her ears rang.
+
+Ethan reached her, and the world came crashing back—sound, the smell of bodies and cafeteria food. But all Sophia could see was him standing two steps above her, looking at her like she was a math problem that didn't make sense.
+
 "Sophia?" He said her full name, not Soph, and something about that felt wrong. "Sophia Chen?"
 
-She forced herself to breathe. "Hi."
+Her voice came out smaller than she wanted. "Hi."
 
-"Holy shit." He ran a hand through his hair, looking genuinely shocked. "What are you— When did you— You're here?"
+"Holy shit." He ran a hand through his hair, still staring. "What are you— When did you— You're here?"
 
 "Apparently."
 
@@ -110,71 +160,25 @@ She forced herself to breathe. "Hi."
 
 "Eight years."
 
-"Yeah. Eight years." He was staring at her like she was a math problem that didn't make sense. "You look— You look different. Obviously. We were nine."
+"Yeah. Eight years." He was staring at her like she was a ghost. "You look— You look different. Obviously. We were nine."
 
 "You look different too."
 
-This was excruciating. This was worse than being friendless. This was seeing someone who used to know you and realizing they didn't anymore, not really, and having to navigate that gap in a crowded high school hallway while people stared.
+This was excruciating. This was worse than being friendless. This was seeing someone who used to know you and realizing they didn't anymore, not really, and having to navigate that gap in a crowded high school staircase while people stared.
 
 "Are you transferring here?" Ethan asked. "To St. Paul's?"
 
 "Yeah. My parents got jobs at U of M. We moved last weekend."
 
-"That's—wow. That's crazy." He seemed to remember they were blocking the stairs and stepped aside, gesturing for her to come up. "Sorry. Do you have a locker assignment yet? I can help you find it. This place is confusing at first."
+"That's—wow. That's crazy." He seemed genuinely shocked, which meant he hadn't been stalking her Instagram. Which meant he probably hadn't thought about her at all in eight years. "I can't believe you're here."
 
-"I'm okay."
+A girl's voice cut through the moment: "Ethan! There you are!"
 
-"It's really no problem. I have—" He checked his phone. "Twenty minutes before calc. And we should—I mean, it would be good to catch up. If you want."
+Sophia's stomach sank as Becca Martinez appeared—tall, beautiful, perfect dark hair and perfect makeup and a perfect smile aimed directly at Ethan. This had to be Becca. The girlfriend from Instagram.
 
-The thing was, Sophia did want to catch up. She wanted to ask him a thousand questions: Did you make the NHL like everyone said you would? Do you still do math competitions? Do you remember teaching me crossovers? Do you remember me at all, or am I just some girl from elementary school who doesn't matter anymore?
+"Hey Becs." Ethan straightened up slightly, his body language shifting. "What's up?"
 
-But she couldn't ask any of that. So instead she said, "Sure. My locker's 247."
-
-"West wing, perfect. I'm 198, so we're close." He started walking, and she fell into step beside him. "This is so weird. Good weird, but weird. Like, what are the odds?"
-
-"Four hundred thirty thousand to one," Sophia said automatically, then winced. "Sorry. That's— I'm not actually calculating odds. It's just something I do when I'm nervous."
-
-Ethan glanced at her, and for just a second, she saw something familiar in his expression. "You still do that? The math thing?"
-
-"What math thing?"
-
-"When we were kids, you'd always turn things into equations. Especially when you were anxious." He grinned. "One time you tried to calculate the exact trajectory needed to throw a dodgeball in gym class. You got hit in the face while you were doing the math."
-
-Sophia felt her face heat. "I don't remember that."
-
-"I do. You had to go to the nurse. I felt terrible because I was the one who threw it."
-
-"You threw it at me?"
-
-"Not on purpose! You were just standing there, not paying attention—" He broke off, laughing. "God, I'm making this worse. The point is, it's good to see you haven't changed completely."
-
-They reached her locker. Sophia spun the combination—12-34-18, easy to remember—and it opened on the first try. Small miracle.
-
-"So you're taking calc?" Ethan asked, leaning against the locker next to hers. "What else?"
-
-"Physics, chemistry, English, history. And badminton."
-
-"Badminton, nice. Maya Foster runs that program—she's great. Super competitive but in a good way." He paused. "Did you keep skating?"
-
-The question landed like a weight.
-
-"No," Sophia said quietly. "I quit after... after you moved."
-
-Something flickered across Ethan's face. Regret, maybe. Or guilt. "Why?"
-
-Because it wasn't fun without you. Because every time I went to the rink I remembered our last day together. Because I was nine and heartbroken and didn't have the emotional vocabulary to understand what I was feeling.
-
-"Just lost interest," she said instead.
-
-"That's too bad. You were getting really good."
-
-Before Sophia could respond, a voice called out: "Ethan! There you are!"
-
-A girl appeared—tall, pretty, confident in that effortless way that made Sophia want to disappear. She had perfect dark hair and perfect makeup and a perfect smile that she aimed directly at Ethan.
-
-"Hey Becs." Ethan straightened up. "What's up?"
-
-"Student council meeting in five minutes. You promised you'd be there for the fall events discussion, remember?" The girl turned to Sophia, and her smile didn't waver but it changed somehow. Became more polite, less warm. "Hi! I'm Becca Martinez. You're new, right?"
+"Student council meeting in five minutes. You promised you'd be there for the fall events discussion, remember?" Becca turned to Sophia, and her smile didn't waver but it changed somehow. Became more polite, less warm. "Hi! I'm Becca Martinez. You're new, right?"
 
 "Sophia Chen. I just transferred."
 
@@ -201,15 +205,85 @@ What she actually said was: "Sure."
 
 "Okay."
 
-Becca linked her arm through Ethan's. "We really need to go. Nice meeting you, Sophia!"
+Becca linked her arm through Ethan's—a casual gesture that screamed *mine*—and smiled at Sophia. "Nice meeting you, Sophia!"
 
-Then they were gone, disappearing into the crowd, and Sophia was alone at her locker wondering what the hell just happened.
+Then they were gone, disappearing into the crowd, and Sophia was alone on the staircase wondering what the hell just happened.
 
-She closed her eyes. Forces in equilibrium. Net force equals zero.
+She closed her eyes.
 
-But that was the problem. Seeing Ethan again—that was a force she hadn't planned for. And she had no idea how to balance it.
+Seeing Ethan again—that was a force she hadn't planned for. And she had no idea how to balance it.
 
 ---
+
+## Ethan's POV - The Same Moment
+
+Ethan Price was telling Tyler about the new defensive strategy Coach wanted to implement when he saw her.
+
+At first, his brain didn't process it. Just registered *girl on staircase* and moved on. But something made him look again, and then—
+
+Holy shit.
+
+Sophia Chen.
+
+He hadn't thought about Sophia Chen in years. Well, that wasn't true. He thought about her sometimes, in that vague way you think about childhood friends who'd disappeared from your life. Wondered where she was, what she was doing, if she still remembered those Saturday mornings at the rink.
+
+But he hadn't expected her to materialize on the staircase at St. Paul's, looking completely different and exactly the same.
+
+"—are you even listening?" Tyler was saying.
+
+"Sorry, I—" Ethan watched her climb the stairs, uncertain and guarded. "I'll be right back."
+
+He excused himself from the group and headed for the stairs, his mind racing. Sophia Chen. Here. At his school. What were the odds?
+
+She'd changed. Of course she'd changed—eight years, childhood to almost-adult. But something in the way she moved was familiar. That careful precision, like she was calculating every step.
+
+He stopped two steps above her, and when she looked up at him, he felt something shift in his chest. Her eyes were the same. Dark, intelligent, seeing more than people expected.
+
+"Sophia?" He used her full name because Soph felt too familiar after eight years. "Sophia Chen?"
+
+She looked terrified. "Hi."
+
+And just like that, Ethan was nine years old again, teaching crossovers to a quiet girl who understood things no one else did. The only person in Millbrook who'd cared about math competitions as much as hockey.
+
+"Holy shit. What are you— When did you— You're here?"
+
+"Apparently."
+
+He laughed, trying to process this. "Sorry. I just— It's been a while."
+
+"Eight years."
+
+Eight years. He'd gone from nine-year-old Novice player to junior year captain. He'd lost his gap tooth, grown a foot, gotten serious about hockey. He'd made friends, gotten a girlfriend, built an entire life.
+
+And Sophia Chen had been... where? What had she been doing for eight years?
+
+"You look different," he said, because it was true and also completely inadequate. "Obviously. We were nine."
+
+"You look different too."
+
+Ethan wanted to ask her a thousand questions. Why was she here? How long had she been in Winnipeg? Did she still do math? Did she remember their last day at the rink? Did she ever think about him?
+
+But they were blocking the stairs, and people were staring, and Becca was going to find him any second and—
+
+"Are you transferring here? To St. Paul's?"
+
+"Yeah. My parents got jobs at U of M. We moved last weekend."
+
+Last weekend. Which meant she'd been here for days and hadn't told him. Which meant—what? That she hadn't wanted to? That she thought he wouldn't care?
+
+"That's crazy," he said, and it was. "I can't believe you're here."
+
+Then Becca appeared, and Ethan felt himself shift into performance mode automatically. Student council president's boyfriend. Team captain. The version of himself everyone expected.
+
+He introduced them, watched Sophia shrink under Becca's friendly interrogation, and felt weirdly protective. This was his friend from before. Before AAA hockey and scouts and the weight of everyone's expectations. She knew him when he was just Ethan, not "Ethan Price, future NHL player."
+
+"We should grab lunch," he heard himself say. "Catch up properly."
+
+Sophia agreed, and Becca pulled him away to the meeting, and Ethan spent the entire forty-five minutes thinking about a girl he used to teach crossovers to instead of fall event budgets.
+
+---
+
+## Sophia - Calculus, First Period
 
 First period: Calculus with Mr. Reynolds.
 
@@ -269,9 +343,43 @@ Then he was gone, swept up by friends who all seemed to need him urgently, and S
 
 ---
 
-Second period was English Literature with Ms. Park, and Sophia spent the entire class trying not to obsess about lunch.
+## Ethan's POV - Between Classes
 
-What would they even talk about? Eight years was a long time. They'd been children then. Now they were—what? Acquaintances? Former friends? People who used to know each other?
+Ethan couldn't stop thinking about her.
+
+Which was stupid. He had a chemistry quiz to study for and practice at 3:30 and Becca wanted to talk about homecoming plans. He didn't have time to be distracted by a girl from his past who'd randomly shown up.
+
+But he kept seeing her face when she'd said "eight years." Like she'd been counting. Like those Saturday mornings had mattered to her too.
+
+Tyler caught up to him outside the chemistry lab. "Dude, what was that?"
+
+"What was what?"
+
+"The staircase thing. Who's the girl?"
+
+"Old friend from Millbrook. Sophia Chen. We used to skate together."
+
+Tyler's eyebrows rose. "Old friend, huh?"
+
+"Yeah. Why?"
+
+"Nothing. Just, you looked pretty intense talking to her."
+
+"Did I?" Ethan hadn't realized. He'd just been... surprised. Thrown off balance by a variable he hadn't anticipated.
+
+"Becca noticed too."
+
+Of course she did. Becca noticed everything.
+
+"It's not a big deal," Ethan said. "Just weird seeing someone from that long ago."
+
+But even as he said it, he knew it wasn't true. Because standing on that staircase talking to Sophia, he'd felt something he hadn't felt in years: recognized. Like she could see past the performance to whoever he actually was underneath.
+
+And he had no idea what to do with that.
+
+---
+
+## Lunch - The Cafeteria
 
 By the time third period ended (Physics with Dr. Okafor, who seemed legitimately excited about mechanics), Sophia had worked herself into a state of low-level panic.
 
@@ -305,7 +413,9 @@ Becca smiled. "So tell us about Millbrook. Is it as small as Ethan says?"
 
 "That sounds kind of nice, actually," Jess said. "Winnipeg can be overwhelming sometimes."
 
-Tyler snorted. "You think Winnipeg is overwhelming? Try moving here from Toronto."
+Tyler snorted. "You think Winnipeg is overwhelming? Try moving here from Ontario."
+
+"Toronto's different though," Becca said. "That's actually a big city."
 
 They launched into a debate about city sizes, and Sophia sat quietly, eating her sandwich and trying to figure out the social dynamics. Tyler and Ethan were clearly close—probably teammates. Jess seemed quieter, more observant. And Becca was... Becca was the kind of person who made everything look easy. She laughed at the right moments, asked follow-up questions, kept the conversation flowing.
 
@@ -323,7 +433,7 @@ She was also sitting very close to Ethan. Not touching, exactly, but in that way
 
 "Still a nerd."
 
-Watching them banter felt like watching a play she hadn't rehearsed for. They had rhythms, inside jokes, shared history. Sophia was the outsider trying to catch up, and it was exhausting.
+Watching them banter felt like watching a play she hadn't rehearsed for. They had rhythms, shared history. Sophia was the outsider trying to catch up, and it was exhausting.
 
 "Do you know what you want to study?" Becca asked. "In college?"
 
@@ -355,11 +465,9 @@ The gesture was small, casual, but it hit Sophia like a wall. Right. They were t
 
 "That's okay. I'll figure it out." She grabbed her bag. "Thanks for lunch."
 
-She left before anyone could respond, navigating back through the cafeteria with her heart pounding. That was stupid. She'd been rude. They were being nice and she'd just run away like a scared kid.
+She left before anyone could respond, navigating back through the cafeteria. That was stupid. She'd been rude. They were being nice and she'd just run away like a scared kid.
 
-Forces in equilibrium, she thought. Net force equals zero.
-
-But she was lying to herself. Every force in her life was pointing in directions she didn't understand, and she had no idea how to find her balance anymore.
+Every force in her life was pointing in directions she didn't understand, and she had no idea how to find her balance anymore.
 
 She found the library and hid in the back corner until fourth period, trying not to think about Ethan's smile or Becca's hand on his or the way it felt to be the outsider looking in on a life that had once been partly hers.
 
@@ -400,27 +508,23 @@ Facts:
 2. He seemed genuinely happy to see her.
 3. He had a girlfriend.
 4. He had a whole life here that didn't include her.
-5. She still felt the same flutter in her chest when he smiled at her that she'd felt at nine years old, which was problematic on multiple levels.
+5. She still felt the same flutter when he smiled at her that she'd felt at nine years old.
 
 Conclusion: This situation required careful management. Minimal emotional investment. Protective distance.
 
-She was so busy constructing emotional defense mechanisms that she almost didn't notice the sign on the building she was passing:
+She made it home, survived dinner with her parents.
 
-**Winnipeg Badminton Club - Open Training Sessions - All Levels Welcome**
+"How was your first day?"
 
-Sophia stopped. She hadn't played badminton all summer—the move had disrupted her training schedule, and she'd told herself she'd get back to it once they settled. But maybe what she needed was something that was just hers. Something that had nothing to do with Ethan or high school social dynamics or feeling like she didn't belong.
+"Fine."
 
-She pulled out her phone and took a photo of the address.
+"Did you make any friends?"
 
-Tomorrow, maybe. Or this weekend. Whenever she felt ready to be someone other than "the new girl" or "Ethan's friend from elementary school."
+"Not really."
 
-Just Sophia. Playing badminton. Finding her own balance.
+"Give it time, honey."
 
-But even as she thought it, she knew it wasn't that simple. Because Ethan was here, in Winnipeg, at her school, in her calculus class. And she couldn't avoid him even if she wanted to.
-
-Which she didn't. And that was the real problem.
-
-She made it home, survived dinner with her parents ("How was your first day?" "Fine." "Did you make any friends?" "Not really." "Give it time, honey."), and retreated to her room to do homework she couldn't focus on.
+She retreated to her room to do homework she couldn't focus on.
 
 Her phone buzzed again at 9:47.
 
@@ -442,9 +546,7 @@ But she was already typing: **Maybe. I'll think about it.**
 
 She put her phone face-down on her nightstand and lay in the dark, staring at the ceiling.
 
-Forces in equilibrium. Net force equals zero.
-
-But that was impossible now. Ethan Price had reentered her life, and every calculation she'd ever made about how to survive high school had just become completely useless.
+Ethan Price had reentered her life, and every calculation she'd ever made about how to survive high school had just become completely useless.
 
 She was going to go to that game. She knew it already, even though she was trying to pretend she didn't.
 
