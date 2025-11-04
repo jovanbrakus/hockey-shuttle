@@ -1,0 +1,13 @@
+[project]
+name = "book-series"
+version = "0.1.0"
+description = "System for development of Hockey Shuttle book series"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ebooklib>=0.20",
+    "markdown2>=2.5.4",
+    "pillow>=12.0.0",
+    "pyyaml>=6.0.3",
+    "weasyprint>=66.0",
+]

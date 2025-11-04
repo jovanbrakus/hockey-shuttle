@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Book production
+*.pdf
+*.epub
+*.mobi
+*.azw3
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Personal notes (optional - uncomment if needed)
+# /personal-notes/
+# /drafts-old/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Compiled output
+*.out
+*.aux
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
