@@ -18,22 +18,34 @@ This will install:
 
 ## Usage
 
-### Generate Episode Files
+### Generate Episode Files (Recommended: Use Wrapper Script)
 
-Generate MD, PDF, HTML, and EPUB files from an episode directory:
+The easiest way to generate episodes is using the wrapper script which handles PDF library paths:
 
 ```bash
-# Generate all formats (MD, PDF, HTML, EPUB)
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
+# Generate all formats (MD, PDF, HTML, EPUB) - RECOMMENDED
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
 
 # Generate specific formats only
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats md,html
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats md,html
 
 # Generate markdown only (combined single file)
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats md
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats md
 
 # Specify custom output directory
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --output-dir my-output
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --output-dir my-output
+```
+
+### Alternative: Direct Python Script
+
+You can also call the Python script directly (requires setting library paths manually):
+
+```bash
+# macOS: Set library path for PDF generation
+export DYLD_LIBRARY_PATH=$(brew --prefix)/lib:$DYLD_LIBRARY_PATH
+
+# Then run the script
+uv run python scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
 ```
 
 ### Command Options
@@ -74,17 +86,18 @@ Generated files are placed in the `output/` directory (or custom directory if sp
 
 ```
 output/
-├── episode-01-returning-to-center-ice.md    # Combined markdown file
-├── episode-01-returning-to-center-ice.pdf
-├── episode-01-returning-to-center-ice.html
-└── episode-01-returning-to-center-ice.epub
+└── episode-01-returning-to-center-ice/           # Episode-specific subfolder
+    ├── episode-01-returning-to-center-ice.md    # Combined markdown (94 KB)
+    ├── episode-01-returning-to-center-ice.html  # Styled HTML (103 KB)
+    ├── episode-01-returning-to-center-ice.pdf   # Print-ready PDF (230 KB)
+    └── episode-01-returning-to-center-ice.epub  # E-reader format (51 KB)
 ```
 
 ## Examples
 
 ### Generate Episode 1 (all formats)
 ```bash
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
 ```
 
 Output:
@@ -93,32 +106,32 @@ Output:
    Hockey Shuttle - Season 1, Episode 1: Returning To Center Ice
 
 Found 4 chapters
-✓ Generated Markdown: output/episode-01-returning-to-center-ice.md
-✓ Generated HTML: output/episode-01-returning-to-center-ice.html
-✓ Generated PDF: output/episode-01-returning-to-center-ice.pdf
-✓ Generated EPUB: output/episode-01-returning-to-center-ice.epub
+✓ Generated Markdown: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.md
+✓ Generated HTML: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.html
+✓ Generated PDF: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.pdf
+✓ Generated EPUB: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.epub
 
-✅ Done! Output files in: output/
+✅ Done! Output files in: output/episode-01-returning-to-center-ice/
 ```
 
 ### Generate Markdown only (combined single file)
 ```bash
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-02-new-lines --formats md
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-02-new-lines --formats md
 ```
 
 ### Generate PDF only
 ```bash
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-02-new-lines --formats pdf
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-02-new-lines --formats pdf
 ```
 
 ### Generate HTML and EPUB
 ```bash
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-03-defensive-zone --formats html,epub
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-03-defensive-zone --formats html,epub
 ```
 
 ### Generate Markdown and HTML (no EPUB/PDF)
 ```bash
-uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-04-matchup --formats md,html
+./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-04-matchup --formats md,html
 ```
 
 ## Troubleshooting
@@ -161,9 +174,9 @@ sudo apt-get install libpango-1.0-0 libpangocairo-1.0-0
 To generate files for all episodes:
 
 ```bash
-# From repository root
+# From repository root - generate all episodes
 for episode in series/hockey-shuttle/season-01/episode-*/; do
-    uv run scripts/generate_episode.py "$episode"
+    ./scripts/generate-episode.sh "$episode"
 done
 ```
 
@@ -171,21 +184,36 @@ Or create a batch script:
 
 ```bash
 #!/bin/bash
-# scripts/generate_all.sh
+# scripts/generate-all-episodes.sh
 
 EPISODES=(
     "series/hockey-shuttle/season-01/episode-01-returning-to-center-ice"
     "series/hockey-shuttle/season-01/episode-02-new-lines"
     "series/hockey-shuttle/season-01/episode-03-defensive-zone"
-    # Add more episodes...
+    "series/hockey-shuttle/season-01/episode-04-matchup"
+    "series/hockey-shuttle/season-01/episode-05-storm-warning"
+    "series/hockey-shuttle/season-01/episode-06-the-weight"
+    "series/hockey-shuttle/season-01/episode-07-spring-training"
+    "series/hockey-shuttle/season-01/episode-08-recruiting-season"
+    # Add episodes 9-10 when complete
 )
 
 for episode in "${EPISODES[@]}"; do
-    echo "Generating $episode..."
-    uv run scripts/generate_episode.py "$episode"
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    echo "Generating: $episode"
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    ./scripts/generate-episode.sh "$episode"
+    echo ""
 done
 
-echo "All episodes generated!"
+echo "✅ All episodes generated!"
+```
+
+Make it executable and run:
+
+```bash
+chmod +x scripts/generate-all-episodes.sh
+./scripts/generate-all-episodes.sh
 ```
 
 ## Output Styling

@@ -176,8 +176,13 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{episode_info['full_title']}</title>
     <style>
+        @page {{
+            size: letter;
+            margin: 1in;
+        }}
+
         body {{
-            font-family: 'Georgia', 'Times New Roman', serif;
+            font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif;
             line-height: 1.6;
             max-width: 800px;
             margin: 0 auto;
@@ -185,25 +190,37 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path):
             color: #333;
             background: #fafafa;
         }}
+
         h1 {{
+            font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif;
             color: #2c3e50;
             border-bottom: 2px solid #3498db;
             padding-bottom: 10px;
             margin-top: 40px;
+            page-break-after: avoid;
         }}
+
         h2, h3 {{
+            font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif;
             color: #34495e;
             margin-top: 30px;
+            page-break-after: avoid;
         }}
+
         p {{
             margin: 1em 0;
             text-align: justify;
+            orphans: 3;
+            widows: 3;
         }}
+
         hr {{
             border: none;
             border-top: 1px solid #bdc3c7;
             margin: 40px 0;
+            page-break-after: always;
         }}
+
         blockquote {{
             border-left: 4px solid #3498db;
             padding-left: 20px;
@@ -211,16 +228,25 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path):
             font-style: italic;
             color: #555;
         }}
+
         em {{
             font-style: italic;
         }}
+
         strong {{
             font-weight: bold;
         }}
+
+        /* Prevent emoji font embedding */
+        * {{
+            font-variant-emoji: text;
+        }}
+
         @media print {{
             body {{
                 max-width: 100%;
                 background: white;
+                padding: 0;
             }}
         }}
     </style>
@@ -354,9 +380,13 @@ def main():
     # Combine chapters
     combined_markdown = combine_chapters(chapters, episode_info)
 
+    # Create episode-specific subdirectory
+    episode_output_dir = output_dir / episode_path.name
+    episode_output_dir.mkdir(parents=True, exist_ok=True)
+
     # Determine output filename base
     safe_name = episode_path.name
-    output_base = output_dir / safe_name
+    output_base = episode_output_dir / safe_name
 
     # Parse requested formats
     formats = [f.strip().lower() for f in args.formats.split(",")]
@@ -388,7 +418,7 @@ def main():
     if "html" not in formats and "pdf" not in formats and html_path.exists():
         html_path.unlink()
 
-    print(f"\n✅ Done! Output files in: {output_dir}/")
+    print(f"\n✅ Done! Output files in: {episode_output_dir}/")
 
 
 if __name__ == "__main__":
