@@ -752,21 +752,43 @@ Her phone buzzed during her dinner break.
 
 **S: Sound plan**
 
-The finals match started at 6:07. Morrison was everything Sophia had heard—fast, powerful, strategic. She'd been training at a national level for years. This wasn't a match. It was an education.
+The finals match started at 6:07. The gym had filled with spectators—other players who'd been eliminated, parents, coaches, scouts taking notes. The sharp crack of shuttlecocks from other courts had died away. Everyone was watching court one.
+
+The lights felt hotter. Sophia's shirt was already damp with sweat from the day's matches. Her grip tape was wearing thin, the handle slightly slippery despite the powder she'd applied.
+
+Morrison stood across the net, bouncing on her toes, completely fresh. She'd had a bye in the semifinals when her opponent withdrew with an injury. The unfairness of it made Sophia's jaw clench.
+
+The first rally set the tone. Morrison's clear sailed high and deep, the shuttlecock making that distinctive whistle as it cut through the air. Sophia retreated, set up for the return, but Morrison was already moving forward, anticipating. The smash came fast—a sharp crack that echoed through the gym. Sophia barely got her racket up in time.
+
+Point to Morrison.
+
+The shuttlecock felt heavier with each rally. The synthetic feathers caught the air differently when Sophia was tired, her timing off by milliseconds that felt like centuries. The court squeaked under her shoes as she scrambled for Morrison's drops, lunged for her drives. The crowd's gasps and cheers became white noise.
 
 Sophia lost the first game 21-12.
 
-Between games, Coach Yun pulled her aside. "She's better than you."
+Her legs were shaking as she walked to her bag for water. The bottle was warm, the water tasting like plastic. She could hear Morrison talking to her coach, calm and analytical. Not even breathing hard.
 
-"I know."
+Coach Yun pulled Sophia aside, his voice low and urgent. "She's better than you."
+
+"I know." The admission burned her throat.
 
 "But you're faster. And you're smarter. Stop playing her game. Make her play yours."
 
 "How?"
 
-"Variation. She's expecting power. Give her finesse. Then when she adjusts, hit her with power."
+"Variation. She's expecting power. Give her finesse. Then when she adjusts, hit her with power. Make her guess."
 
-The second game started. Sophia changed strategy. Drop shots, slices, weird angles. Anything to disrupt Morrison's rhythm. It worked—sort of. The game was closer. But Morrison adjusted, and Sophia lost 21-18.
+The second game started. Sophia changed strategy. Delicate drop shots that barely cleared the net, the shuttlecock dying just past the service line. Slices that curved away from Morrison's backhand. Cross-court drives at impossible angles.
+
+The crowd started murmuring. Morrison's smooth rhythm faltered. For the first time, she looked frustrated, wiping sweat from her forehead between points.
+
+It worked—sort of. The game was closer, each point a battle. The rallies got longer, both players grunting with effort. At 18-17, Sophia could taste blood in her mouth from breathing so hard. Her calves were cramping.
+
+But Morrison adjusted, finding her rhythm again. A perfect clear pushed Sophia deep. A deceptive drop brought her scrambling forward. Then the final smash—clean, powerful, unreturnable.
+
+The shuttlecock hit the floor with a soft thud that sounded like finality.
+
+21-18. Match to Morrison.
 
 Silver medal. Second in the province. Qualified for nationals.
 
@@ -835,6 +857,28 @@ And tomorrow, she'd see Ethan. They'd celebrate. For one afternoon, they could j
 Tomorrow could be different.
 
 Tomorrow had to be different.
+
+Her phone buzzed. Not Ethan this time. The unknown number from last week.
+
+**Unknown: Congratulations on silver. You played well.**
+
+**Unknown: Halloween party tomorrow at Jordan's, right?**
+
+**Unknown: His parents will be interested to know their son is hosting while they're away.**
+
+**Unknown: Unless certain boundaries are maintained.**
+
+Sophia stared at her phone. Whoever this was, they weren't just watching her and Ethan. They were watching everyone. They knew about the party. They were making threats.
+
+**S: Who is this?**
+
+But the messages showed as read with no response.
+
+Tomorrow wasn't just going to be different.
+
+Tomorrow was going to be—
+
+Her phone rang. Maya. Fuck.
 
 ---
 

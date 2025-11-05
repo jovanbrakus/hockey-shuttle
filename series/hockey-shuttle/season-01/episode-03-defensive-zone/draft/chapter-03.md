@@ -968,15 +968,27 @@ Sophia didn't tell him to stop.
 
 She closed the remaining distance and kissed him.
 
-Later, she'd remember the moment in precise detail. How his hand came up to cup her face, how her fingers tangled in that ridiculous Einstein wig, how he tasted like the soda he'd been drinking and something underneath that was just him.
+She kissed him.
 
-How it felt like everything clicking into place.
+And immediately forgot how to do it properly.
 
-How it felt like the phase transition she'd been describing in physics—the moment when everything changes state, when water becomes ice or ice becomes water, the structure fundamentally different but still essentially the same atoms.
+Their noses bumped. The Einstein wig got in her mouth somehow—synthetic hair, tasted terrible. She started to pull back, embarrassed, but then his hand was on her face and oh—
 
-How it felt like coming home.
+Oh.
 
-They broke apart, both breathing hard.
+Apple cider. That's what she noticed first, maybe the only thing she could process. Apple cider and the mint gum he'd been chewing and then just... warmth. Everywhere. Her face felt like it was on fire. Good fire. Was that a thing?
+
+Her knees did something weird—not romantic movie weak, more like she'd forgotten they existed—and she grabbed his shoulders hard. Probably too hard. The Einstein wig was definitely in her mouth again but she didn't care because he made this sound, this tiny gasp, and her entire body just—
+
+The party noise disappeared. Or maybe her ears stopped working. Time did something impossible. Her heartbeat was so loud he had to hear it, had to feel it where her chest pressed against his costume (when had that happened?).
+
+She'd read about first kisses. They were supposed to be perfect or terrible. This was neither. This was messy and overwhelming and his thumb on her cheek was the only point of clarity in a world that had gone completely sideways.
+
+Like finding home in a place she'd never been. Like her molecules rearranging. Like—
+
+God, even now her brain wanted to make it physics.
+
+They broke apart, both breathing hard. Her lips tingled. She could still taste him.
 
 "We just kissed," Sophia said.
 
@@ -1078,7 +1090,7 @@ Ethan hesitated. Just for a second, but Sophia saw it. The choice: tell the trut
 
 "Ethan," his father said, voice hard. "I asked you a question."
 
-And time stopped.
+Ethan opened his mouth—
 
 ---
 
