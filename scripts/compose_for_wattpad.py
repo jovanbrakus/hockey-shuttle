@@ -42,8 +42,8 @@ def parse_args():
     parser.add_argument(
         "--output-dir",
         type=str,
-        default="wattpad",
-        help="Output directory relative to repo root. Default: wattpad"
+        default="output/wattpad",
+        help="Output directory relative to repo root. Default: output/wattpad"
     )
     parser.add_argument(
         "--combine",

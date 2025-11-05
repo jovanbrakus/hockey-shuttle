@@ -47,7 +47,7 @@ uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01
 ### Individual Chapters Mode (Default)
 
 ```
-wattpad/
+output/wattpad/
 └── episode-01-returning-to-center-ice/
     ├── chapter-01.txt
     ├── chapter-02.txt
@@ -59,7 +59,7 @@ wattpad/
 ### Combined Mode
 
 ```
-wattpad/
+output/wattpad/
 └── episode-01-returning-to-center-ice-complete.txt
 ```
 
@@ -116,7 +116,7 @@ Don't forget to vote ⭐ and comment 💬
 | Option | Description | Default |
 |--------|-------------|---------|
 | `episode_path` | Path to episode directory | Required |
-| `--output-dir` | Custom output directory | `wattpad` |
+| `--output-dir` | Custom output directory | `output/wattpad` |
 | `--combine` | Combine all chapters into one file | `false` |
 | `--add-metadata` | Add episode/chapter headers | `true` |
 | `--word-count` | Display word counts | `false` |
