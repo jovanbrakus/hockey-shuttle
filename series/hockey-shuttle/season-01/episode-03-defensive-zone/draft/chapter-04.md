@@ -74,9 +74,17 @@ In Jordan's car, she finally asked: "Did you know Ethan's dad was that controlli
 
 "Everyone knows. The whole team knows. It's just... that's Ethan's life, you know? He's dealt with it forever."
 
-"It's not right."
+"It's not right." Sophia's voice shook with anger. "What they're doing—monitoring his phone, controlling his relationships, threatening his college funding—that's not just controlling. That's abuse."
 
-"No. But it's his reality."
+Jordan was quiet for a moment. "You're right. It is abuse. But no one calls it that because they're rich and they're 'invested in his success' and he's going to get a college scholarship out of it."
+
+"That doesn't make it okay."
+
+"No, it doesn't. I've tried talking to him about it. Even suggested he talk to the school counselor. But he's been conditioned to think this is normal. That this is just what elite athlete parents do."
+
+"It's not normal. And someone needs to tell him that."
+
+"I know. We all know. But he has to be ready to hear it."
 
 Jordan pulled up to her house. The lights were on inside—her parents still awake, waiting.
 
@@ -350,9 +358,19 @@ Sophia felt like she'd been punched. "What?"
 
 "He said public interaction is fine. But no study sessions. No texts. No time alone together." Ethan finally looked at her. "He's monitoring my phone, Sophie. He installed some app that lets him see my messages."
 
-"That's—he can't—"
+"That's—he can't—" Sophia stopped, her mind racing. "Ethan, that's surveillance. That's a violation of your privacy."
 
-"He can. I'm seventeen and dependent on him for college funding. He can do whatever he wants."
+"He says it's for my own good. To keep me focused."
+
+"That's what abusers always say." The words came out sharper than she intended. "They dress it up as concern or protection, but it's about control."
+
+Ethan flinched. "It's not—my parents aren't—"
+
+"Aren't what? They're monitoring your phone. They're controlling who you can see. They're using money to manipulate you. What would you call it if this was happening to someone else?"
+
+"He can do it. I'm seventeen and dependent on him for college funding. He can do whatever he wants."
+
+"Just because he can doesn't mean it's right. And being financially dependent doesn't give them the right to control every aspect of your life."
 
 Sophia's brain immediately started problem-solving. "Okay. So we don't text. We use a different app. Something he doesn't know about."
 
@@ -440,9 +458,27 @@ Maya was furious on her behalf. "His parents are controlling assholes."
 
 "They're protecting their investment."
 
-"He's not an investment. He's a person."
+"He's not an investment. He's a person." Maya's voice rose. "What they're doing is abusive, Sophie. You know that, right?"
 
-"Tell that to them."
+"I know. But what can we do about it?"
+
+"Has he talked to anyone? A counselor? A trusted adult?"
+
+"Jordan said he suggested the school counselor, but Ethan won't go."
+
+"Of course he won't. He's been taught that this is normal. That this is just how successful families operate." Maya shook her head. "My therapist says that's how emotional abuse works. It gets normalized until the victim can't even see it anymore."
+
+"You talked to your therapist about this?"
+
+"Not specifically about Ethan. But about the patterns. She gave me some resources about recognizing abuse in relationships—not just romantic ones, but family ones too. I could share them with you. Maybe you could share them with Ethan when he's ready."
+
+"Maybe," Sophia said, though she wasn't sure Ethan would ever be ready to see his parents' behavior for what it really was.
+
+"The school counselor knows, by the way," Maya added. "Mrs. Peterson. She can't do anything without Ethan coming forward, but she knows. She's watching. If he ever wants help, it's there."
+
+"That's something, I guess."
+
+"It's not enough. But it's something."
 
 Sophia threw herself into training. Badminton practice became her escape—two hours where she could just hit shuttles and run drills and not think about brown eyes and Einstein costumes and kisses in art studios.
 
@@ -804,7 +840,17 @@ She hung up with Maya and immediately called Ethan. He answered on the first rin
 
 "I'm transferring to prep school after Christmas break."
 
-Sophia felt like the world had stopped. "What?"
+The words didn't make sense at first. Sophia heard them, but her brain refused to process them. She stared at him, waiting for him to say he was joking, that this was some terrible Halloween prank extending into the next morning.
+
+But his face was serious. Broken.
+
+"No." The word came out as a whisper. Then louder. "No, they can't—"
+
+Her vision blurred. She was crying. When had she started crying? Her chest felt too tight, like someone had wrapped bands around her ribs and was pulling them tighter with each breath.
+
+"Sophie—"
+
+"What?" The word came out harsh, angry, not at him but at everything. "What do you mean? When? How?"
 
 "Shattuck-St. Mary's in Minnesota. They called this morning. There's a spot available for second semester. My parents already paid the deposit."
 
@@ -1068,15 +1114,175 @@ They spent three hours in her car in the Tim Hortons parking lot where they'd ha
 
 This became their routine. Stolen hours between his schedule and hers. Study sessions in her car. Walks through Assiniboine Park as November turned colder. His hockey games where she sat in the stands and cheered and his parents watched her watching him.
 
-Thanksgiving came and went. One week down. Five to go.
+---
 
-December arrived with snow and Christmas decorations and the countdown to finals and winter break.
+By the second Wednesday of their countdown—day ten, not that she was obsessively tracking—things started fraying at the edges.
 
-Two weeks down. Four to go.
+They were in Ethan's Jeep in the school parking lot after his practice. Forty-five minutes before his parents expected him home, which she knew because she'd memorized his schedule like exam dates.
 
-Sophia played in a badminton tournament and won gold. Ethan had a hockey game the same day, couldn't watch. But he texted after: *Heard you destroyed everyone. Obviously.* And she sent back a picture of her gold medal.
+"You're doing it again," Sophia said, frustrated.
 
-Three weeks down. Three to go.
+"Doing what?"
+
+"Shutting down. Going quiet. Acting like everything's fine when it's clearly not."
+
+"I'm just tired from practice."
+
+"No, you're not. Your dad said something. I saw him pull you aside after warm-ups."
+
+Ethan's jaw tightened. "It doesn't matter."
+
+"It does matter. We have five weeks left and you're already pulling away."
+
+"I'm not pulling away."
+
+"You are. You've barely looked at me for two days."
+
+"Because they're watching!" His voice cracked with frustration. "My dad has been at every practice, every game. He times how long I talk to people. He asks the team manager who I eat lunch with. I can't even breathe without him analyzing it."
+
+Sophia reached for his hand. He pulled back.
+
+"Don't," he said. "Someone might see."
+
+"So what? They already know. Everyone already knows."
+
+"Knowing and seeing are different. If he sees—" Ethan stopped, running his hands through his hair. "He threatened to move the departure date up. Said if I can't maintain boundaries for six weeks, maybe I need to leave sooner."
+
+The words hung between them like ice.
+
+"I'm sorry," Sophia said quietly. "I didn't know."
+
+"How could you? I didn't tell you. Because telling you makes it real and I'm trying so hard to pretend this is all normal when it's not, none of this is normal, and I hate that you're caught in the middle of it."
+
+"Hey." She waited until he looked at her. "We're in this together. But you have to talk to me. Even when it's hard. Especially when it's hard."
+
+"I know. I'm sorry. I just... sometimes I think it would be easier if we..."
+
+"If we what?"
+
+"Nothing. Forget it."
+
+But she knew what he'd been about to say. Sometimes it would be easier if they ended it now.
+
+The thought sat between them, unspoken but present.
+
+---
+
+Thanksgiving came faster than expected. Somewhere between the fight and the making up and trying to act normal at school, November slipped into its final week.
+
+Sophia's house smelled like turkey and her mom's famous stuffing. Her extended family filled the dining room, aunts and uncles and cousins she hadn't seen since moving back.
+
+"So," her Aunt Linda said, "your mom mentioned you have a boyfriend. The hockey player?"
+
+Sophia felt her parents' attention sharpen even as they pretended to be focused on their plates.
+
+"Yes," she said simply.
+
+"The one whose family is sending him away?" Her uncle's tone was sympathetic but probing.
+
+"To prep school. For one semester."
+
+"That must be hard," Aunt Linda said. "Long distance at your age rarely works out."
+
+"Linda," Sophia's mom warned.
+
+"I'm just being realistic. These teenage relationships, they burn bright but they don't last. Especially with that kind of distance."
+
+Sophia set down her fork. "We're not most teenage relationships."
+
+"Of course you're not, dear. You never are when you're in them."
+
+Later, helping with dishes, Sophia's mom said quietly, "Don't listen to Linda. She's bitter about her own divorce."
+
+"Is she wrong though? About teenage relationships not lasting?"
+
+Her mom was quiet for a moment, drying a plate with careful attention. "Most don't. But some do. The ones built on real connection, real understanding. The ones where both people are willing to fight for it."
+
+"His parents have all the power."
+
+"For now. But that won't always be true." Her mom looked at her. "The question is whether you're both willing to wait for that to change."
+
+---
+
+The weekend tournament came at the worst possible time—three weeks left, his parents watching everything, and Sophia desperately needing to win something, anything, to feel like she had control.
+
+She stood on the podium, gold medal around her neck, scanning the crowd. Her parents were there, beaming. Maya and Sarah cheering loudly. Jordan taking pictures.
+
+But no Ethan.
+
+She knew why. His game was at the same time, across the city. His parents would never let him miss it for her tournament.
+
+Still, it stung.
+
+Later, in her room, she stared at the medal. Her phone buzzed.
+
+**E: Heard you destroyed everyone. Obviously.**
+
+She sent him a photo of the medal.
+
+**E: I'm so proud of you**
+
+**E: I wish I could have been there**
+
+**S: I know. It's okay.**
+
+**E: It's not okay. Nothing about this is okay.**
+
+**S: Two more weeks**
+
+**E: Two more weeks**
+
+But what then? This was just the beginning of missed moments. If he was in Minnesota for five months, how many tournaments would he miss? How many games would she not see? How many everything?
+
+She put the medal in her drawer and tried not to think about it.
+
+---
+
+December hit like a slap. Suddenly it was the 15th and she was counting down on her fingers—thirteen days, that's it, how was it already—
+
+They were in his room. His parents at another lawyer meeting, the house empty for maybe an hour. They'd been kissing on his bed, careful at first, then less careful, then his hands were in her hair and she forgot what careful even meant.
+
+"Wait," Ethan said suddenly, pulling back.
+
+"What's wrong?"
+
+"Nothing. Everything. I just..." He sat up, creating distance between them. "This is torture."
+
+"What is?"
+
+"Being with you knowing I have to leave. Kissing you knowing we have less than two weeks. Getting closer when we should be preparing for distance."
+
+"So what are you saying?"
+
+"I don't know. Maybe we should... maybe this would be easier if we started creating distance now. Emotional distance. So it doesn't hurt so much when—"
+
+"No." Sophia's voice was sharp. "Don't you dare."
+
+"Sophie—"
+
+"We have thirteen days. I'm not wasting them on fake distance to make it easier. Nothing's going to make this easier."
+
+"But if we—"
+
+"If we what? Pretend we don't care? Act like we're already broken up? How does that help?"
+
+"I don't know!" His voice cracked. "I don't know how to do this. I don't know how to love you and leave you at the same time."
+
+The words hung there. Love. First time he'd said it outside of their later scene.
+
+"You love me?" Sophia asked quietly.
+
+"Of course I love you. How could I not love you? You're brilliant and stubborn and you make terrible physics jokes and you remember how I take my coffee and you're the only person who's ever made me want something more than hockey." He looked at her, eyes wet. "I love you and it's destroying me because I have to leave."
+
+"Then don't leave."
+
+"You know I can't—"
+
+"Then we make the most of thirteen days. We don't create fake distance. We don't practice being apart. We just... be together. While we can."
+
+Ethan pulled her back into his arms, holding her like she might disappear.
+
+"Okay," he whispered. "Okay."
 
 Finals week approached. They studied together in the library, surrounded by other stressed students, trying to focus on calculus and physics while acutely aware that every day brought them closer to goodbye.
 
@@ -1186,7 +1392,63 @@ They spent it together. All day. Drove around the city visiting places that matt
 
 "I'm learning."
 
-They drove to her house. Sat in his Jeep in her driveway, neither wanting to be the first to leave.
+They drove to Assiniboine Park one more time. The parking lot was almost empty—too cold for most people, the sun already setting at 4:30. They walked to their usual bench, the one where they'd sat so many times before.
+
+"Sophie," Ethan said, his voice different. Heavier. "I need to tell you—I have to—"
+
+Her heart started racing. "That sounds ominous."
+
+"It's not. Or maybe—fuck, I don't know." He turned to face her fully, grabbing both her hands. His were shaking. Actually shaking. "I've been trying to figure out when to—how to—shit, this is coming out wrong."
+
+"Ethan—"
+
+"Just let me—I can't leave without—tomorrow morning I'll be in that car and—" He stopped. Started laughing, but it sounded more like he might cry. "God, I practiced this. Had a whole speech. And now I'm just—"
+
+He took a shaky breath. She could see him trying to gather courage, failing, trying again.
+
+"I love you, Sophie."
+
+The words came out in a rush, like if he didn't say them fast they'd get stuck.
+
+Sophia's brain just... stopped. Like someone pulled the plug. All her equations, all her—she couldn't even—
+
+"You don't have to—I mean, fuck, I know it's fast. Six weeks, that's nothing, but I've felt—since you came back, or maybe when you fixed my derivative that first day and called me an idiot but like, fondly? Or when you remembered the hot chocolate thing and I just—"
+
+"Ethan—"
+
+"And tomorrow I'm leaving and this timing is shit and I probably shouldn't even—"
+
+"I love you too."
+
+He stopped mid-word. Mouth still open. "What?"
+
+"I love you too." The words came out broken, half-sob, half-laugh. "I've been trying not to—trying to make it make sense but nothing about this makes sense and I can't—I can't make it logical—"
+
+"Sophie..." His voice cracked completely.
+
+"I love how you—God, this is so stupid—you remember everyone's coffee orders. Everyone's. Who does that? And you quote movies when I'm sad and you're trying so fucking hard to be yourself when everyone wants you to be this perfect—" She was definitely crying now, tears freezing on her face, probably looking like a disaster. "I love you and I'm terrified because you're leaving and I don't—how am I supposed to—"
+
+Ethan pulled her into his arms, and they held each other on that bench in the freezing cold, both crying, both laughing at themselves for crying.
+
+"This is so dramatic," Sophia said against his shoulder. "We're being those people."
+
+"I don't care." He pulled back to look at her face. "I love you, Sophia Chen. Distance doesn't change that."
+
+"I love you, Ethan Price. Even if your parents hate me."
+
+"Especially because my parents hate you."
+
+She laughed, watery but real. "That's a terrible reason."
+
+"I have better ones." He wiped tears from her cheeks with his thumbs. "Remember this, okay? When things get hard. When my parents try to keep us apart. When five months feels like forever. Remember that we said this. Here. Together."
+
+"I'll remember."
+
+"Promise?"
+
+"I promise."
+
+They drove back to her house in comfortable silence, hands intertwined over the center console. Sat in his Jeep in her driveway, neither wanting to be the first to leave.
 
 "This isn't goodbye," Ethan said.
 
@@ -1198,7 +1460,13 @@ They drove to her house. Sat in his Jeep in her driveway, neither wanting to be 
 
 "See you later, Sophie."
 
-He kissed her one more time. Long, slow, memorizing. Then she got out of his Jeep and walked to her door, didn't look back because if she looked back she'd cry.
+He kissed her one more time. Long, slow, memorizing. Like he was trying to store enough kisses to last five months. When they finally pulled apart, they were both crying again.
+
+"I love you," he whispered.
+
+"I love you too," she whispered back.
+
+Then she got out of his Jeep and walked to her door, didn't look back because if she looked back she'd never be able to let him leave.
 
 Inside, her mom was waiting.
 
@@ -1292,13 +1560,25 @@ Sophia woke to her phone buzzing.
 
 **E: I love you**
 
-Sophia stared at her phone. Those three words, sent in a rush before driving away, were the first time either of them had said it.
+**E: I know we said it yesterday but I needed to say it again**
 
-She typed back immediately:
+**E: Before the distance makes everything harder**
 
-**S: I love you too**
+Sophia stared at her phone. Even though they'd said it yesterday, seeing it written still made her heart race.
 
-**S: Now GO before your parents get suspicious**
+She typed: **I love you t**
+
+Deleted it. Started again: **Me too, always**
+
+Deleted that. Just sent:
+
+**S: ❤️**
+
+Then immediately typed:
+
+**S: GO before your parents get suspicious**
+
+**S: I mean it Ethan GO**
 
 But the message showed as delivered, not read. He was already in the car, already driving away, already leaving.
 
@@ -1480,31 +1760,37 @@ Tried to believe in them.
 
 *"Ethan turned eighteen. Legally he could leave their control. His dad is preemptively building a case that Ethan's judgment is impaired. That he's being negatively influenced. That they need to maintain control."*
 
-*"They can't—"*
+*"That's... that's illegal. That's coercion. That's—"*
 
-*"They can. If they can prove you're a negative influence, they can make it really hard for him to break free."*
+*"That's abuse, Sophie. Financial abuse, emotional abuse, psychological abuse. And now they're trying to make it legal abuse." Jordan's voice was urgent. "But here's the thing—if we document it, if we build our own case, Ethan might have grounds for emancipation despite their efforts."*
 
-*Sophia's blood ran cold.*
+*Sophia's blood ran cold, then hot with anger.*
 
 *"Why are you telling me this?"*
 
-*"Because Ethan doesn't know. And I think you need to decide something. Keep fighting for this, knowing it might hurt his chances of ever getting free from them. Or—"*
+*"Because Ethan doesn't know. And I think we need to do something. My mom's a family lawyer. She says what they're doing crosses lines. Real legal lines. But Ethan has to be willing to fight back."*
 
-*"Or what?"*
+*"He won't. He's been conditioned to think this is normal."*
 
-*"Or let him go. Make it look like you moved on. Give him a chance to get through prep school without his parents having ammunition against you both."*
+*"Then we need to show him it's not. Document everything. Every threat, every control tactic, every violation of his privacy. Build a case that shows he's not the one with impaired judgment—they are."*
 
-*Sophia sat in her dark room, phone pressed to her ear, facing an impossible choice.*
+*Sophia sat in her dark room, phone pressed to her ear, facing a different kind of choice.*
 
-*Fight for them and risk making everything worse.*
+*Help Ethan see the truth about his situation and fight for his freedom.*
 
-*Or walk away to protect him from his own parents.*
+*Or let him stay trapped in a cycle of abuse he couldn't even recognize.*
 
 *"Sophie? You still there?"*
 
 *"Yeah. I'm here."*
 
 *"What are you going to do?"*
+
+*"I'm going to fight. Not just for us. For him. For his right to make his own choices."*
+
+*"Even if he's not ready to fight for himself?"*
+
+*"Especially then. Someone has to show him this isn't normal. This isn't love. This is abuse."*
 
 And that was the question.
 

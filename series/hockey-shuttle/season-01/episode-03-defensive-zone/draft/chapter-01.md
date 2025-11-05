@@ -26,7 +26,7 @@ Sophia sat up in bed, something warm spreading through her chest that had nothin
 
 **E: See you at 7:15, Soph**
 
-She set the phone down and pressed her palms to her face. Her brain immediately started calculating probabilities, running scenarios, optimizing for variables she couldn't even name. It was what she did when things got complicated—retreat into equations where everything had clear answers.
+She set the phone down and pressed her palms to her face. Her brain did that thing again—the spiral where everything became an equation except nothing actually solved for x. Numbers jumping around, probabilities that didn't... she couldn't even finish the thought.
 
 But this wasn't physics. This was Ethan Price sitting in his car somewhere right now, probably in his driveway, texting her while his parents slept upstairs. Ethan who'd kissed Becca Martinez goodbye yesterday and then stood with Sophia watching the Esplanade Riel Bridge lights and said things that made her forget how to breathe.
 
@@ -68,9 +68,9 @@ Mom's expression did something complicated. "The hockey boy? From when you were 
 
 "Just..." Mom turned back to the congee. "Be careful with serious people's children. They have expectations."
 
-Sophia thought about that as she pulled on her jacket. Expectations. Like Ethan was some kind of prototype being engineered to specification by parents who'd invested everything in his success. It made her think of potential energy—all that stored force, waiting for the right conditions to convert into motion.
+Sophia thought about that as she pulled on her jacket. Expectations. Like Ethan was something to be built according to a plan, not a person who might want different things.
 
-Maybe that's what yesterday was. A phase transition.
+Maybe that's what yesterday was. Everything changing at once.
 
 She grabbed her keys and headed out into the dark morning. October in Winnipeg meant the sun didn't care about your schedule—it showed up when it felt like it. The air bit at her face, frost already forming on car windshields up and down the street.
 
@@ -156,15 +156,17 @@ Ethan looked at her, and in his eyes, Sophia saw something that made her want to
 
 "They gave me an ultimatum," he said quietly. "Focus on hockey or lose their support for college."
 
-The words hung there like a weight.
+The words hung there like something physical she could choke on.
 
-"What?" Sophia whispered.
+"What?" Sophia whispered. Then louder: "What?"
 
-"They said they've invested everything in my training. The AAA program, the skating coaches, the private lessons, the camps every summer. They said I've worked too hard to throw it away for—" He stopped.
+"They said—it's not—they've invested everything. The AAA program, the skating coaches, the camps every summer. My dad kept saying 'investment' like I'm a fucking stock portfolio and—" He stopped. Started again. "He had spreadsheets, Sophie. Actual spreadsheets of my performance metrics."
 
 "For a girl."
 
-"They didn't say that exactly, but yeah. The implication was pretty clear." Ethan's hands tightened on his cup. "My dad brought up my stats from the last two games. Pointed out that my assists are down, my penalty minutes are up, Coach Morrison mentioned I seem distracted."
+"They didn't say—well, actually no, my dad literally said 'that Chen girl' which is somehow worse?" Ethan's laugh came out wrong. "He had stats. My assists from the last two games. Penalty minutes. Morrison apparently said I seemed 'distracted' which is bullshit because I played fine, I played—"
+
+His hands were shaking around the cup.
 
 "So I am the distraction."
 
@@ -180,7 +182,25 @@ Sophia remembered. She remembered being seven and terrible at skating, Ethan lau
 
 "They're paying. So yeah, they can do whatever they want." Ethan's voice was bitter. "I have a trust fund from my grandparents for college, but it's not enough for Ivy League tuition. Not without their help."
 
-Sophia's mind raced through calculations. Tuition, room and board, fees. His parents' income level based on their house and his training expenses. The trust fund amount he'd need. She was working through optimization algorithms before she realized she was doing it—her brain's default response to unsolvable problems.
+Sophia felt something crack in her chest. The unfairness of it, the control, the way they held his future hostage—it made her want to scream. Her hands were shaking, and she pressed them flat against her thighs to steady them.
+
+She couldn't breathe. The Jeep was too small, too hot, everything was—
+
+"I need—" She fumbled for the door handle, couldn't find it, fuck where was—"I need air."
+
+"Sophie—"
+
+But she was already out, stumbling, the November wind hitting her face like a slap. She bent forward, hands on her knees, trying to—lungs, how did lungs—just breathe, just—
+
+This was too much. Too complicated. Too unfair.
+
+After a moment, Ethan was beside her, not touching, just standing close enough that she could feel his warmth.
+
+"I'm sorry," she gasped. "I don't know why—"
+
+"It's okay. It's a lot."
+
+She forced herself to straighten, to breathe normally. And then, only then, did her mind start racing through calculations. Tuition, room and board, fees. His parents' income level based on their house and his training expenses. The trust fund amount he'd need. She was working through optimization algorithms—her brain's default response after the panic passed.
 
 "Stop," Ethan said gently.
 
@@ -302,9 +322,9 @@ Her phone buzzed.
 
 She put the car in drive and followed his Jeep out of the parking lot, down Portage Avenue toward St. Paul's. Two cars, separate but together. Like particles with charge, close enough to affect each other but not quite touching.
 
-In physics, that was called an electric field. The space between charges where forces operated invisibly, pulling and pushing according to rules you couldn't see but could measure.
+That feeling between them—invisible but definitely there, pulling them together even while they stayed apart.
 
-Sophia had never related to a scientific concept more in her life.
+God, she had it bad.
 
 ---
 
@@ -346,11 +366,13 @@ Maya's eyes went wide. "Holy shit."
 
 "Wait, so his parents are basically saying you're a distraction and he has to choose hockey over you?"
 
-"Not exactly. They're saying he needs to focus on hockey. The 'over me' part is implied but not explicitly stated."
+"Not exactly. They're saying he needs to focus on hockey. The 'over me' part is—wait, no, actually his dad did say something about 'certain influences' or was it 'social distractions'? I can't remember the exact—"
 
 "That's the same thing!"
 
-"Technically it's different."
+"It's not though, the wording matters because—"
+
+"Sophia. It's the same fucking thing."
 
 "Sophia. Come on." Maya leaned against the wall. "His parents are controlling as hell. Everyone knows it. They've basically engineered his whole life around getting him to the NHL."
 
@@ -752,9 +774,9 @@ She was. She couldn't help it. Something about him turned her brain off and some
 
 "Okay," she said. "I accept your terms. Public distance, private honesty."
 
-"Yeah?"
+"Mm-hmm."
 
-"Yeah."
+She nodded, couldn't quite speak.
 
 They sat there, the afternoon sun warm on her face, the air smelling like autumn and leaves and the particular scent of Winnipeg in October—wood smoke from somewhere, the last cut grass, cold water from the pond.
 
@@ -917,6 +939,26 @@ It was enough.
 It had to be enough.
 
 For now.
+
+Her phone buzzed again. She almost didn't check it, assuming it was Maya with more questions.
+
+But it wasn't Maya.
+
+It was an unknown number. A photo attachment.
+
+She opened it and her blood ran cold.
+
+The photo showed her and Ethan in the Tim Hortons parking lot from that morning. Through the fogged windows of his Jeep, you could clearly see them sitting close, her hand on his face, the moment right before their almost-kiss.
+
+Another text appeared:
+
+**Unknown: Interesting study session. His parents might want to see how their son "focuses" on academics.**
+
+Then nothing. No more messages. No explanation.
+
+Someone had been watching them. Someone had evidence.
+
+And someone wanted her to know they had—
 
 ---
 
