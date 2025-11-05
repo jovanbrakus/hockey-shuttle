@@ -18,7 +18,7 @@ Sophia had been avoiding texts, calls, and all forms of human contact since the 
 
 "Eight," Maya called. "We're on a schedule."
 
-Sophia made it downstairs in seven minutes—jeans, Westwood hoodie, hair in a messy ponytail—grabbed her coat and the coffee Maya offered, and let herself be dragged to the car.
+Sophia made it downstairs in seven minutes—jeans, St. Paul's hoodie, hair in a messy ponytail—grabbed her coat and the coffee Maya offered, and let herself be dragged to the car.
 
 "So," Maya said once they were driving toward the mall. "Dinner."
 
@@ -46,7 +46,7 @@ Something warm uncurled in Sophia's chest. "You're making this a Thing for me."
 
 "Obviously. You look like you're about to spontaneously combust from repressed feelings, and I refuse to let you implode before our tournament." Maya's expression softened. "Plus, you're my friend. Friends make Things."
 
-They spent the next hour wandering the mall, purchasing entirely too much candy, trying on sunglasses they had no intention of buying, and generally existing in the kind of easy companionship Sophia had been missing since Thunder Bay. Maya was good at this—pulling her out of her own head, making her laugh, reminding her that life existed outside the Ethan Hayes emotional crisis zone.
+They spent the next hour wandering the mall, purchasing entirely too much candy, trying on sunglasses they had no intention of buying, and generally existing in the kind of easy companionship Sophia had been missing since Millbrook. Maya was good at this—pulling her out of her own head, making her laugh, reminding her that life existed outside the Ethan Price emotional crisis zone.
 
 By the time they headed to Bell MTS Iceplex, Sophia felt almost normal. Ready. She could watch a hockey game, support her friend, and keep her heart from doing stupid things.
 
@@ -54,7 +54,7 @@ That lasted approximately thirty seconds into warm-ups.
 
 ---
 
-The thing about watching Ethan Hayes play hockey is that it rewires your understanding of grace.
+The thing about watching Ethan Price play hockey is that it rewires your understanding of grace.
 
 Sophia had seen him skate before—the Sunday morning session, casual and easy—but that was Ethan at fifty percent. This was Ethan at full intensity: explosive speed, impossible precision, the kind of control that made physics look like choreography.
 
@@ -69,6 +69,8 @@ They'd gotten seats three rows up from the glass, right at center ice—Maya's d
 Sophia felt a twist of something uncharitable. She squashed it. Becca hadn't done anything wrong. Becca was exactly what Ethan needed: uncomplicated support, clear boundaries, appropriate ambition.
 
 Then Ethan skated past their section during warm-ups, and his head turned. Their eyes met through the glass. He smiled—not the magazine-cover smile, the real one—and deliberately shot the puck toward their section. It hit the glass directly in front of them with a satisfying thunk.
+
+Sophia noticed phones immediately coming out around them—people filming, taking photos of warm-ups. She felt a flutter of anxiety. Last time people had their phones out around her and Ethan, it had caused problems.
 
 Maya burst out laughing. "Oh my god, he's showing off for you."
 
@@ -98,23 +100,53 @@ He was incredible. There was no other word for it. The way he read the ice, anti
 
 She was right. Ethan was playing like he had something to prove, going for the spectacular instead of the safe. And it was working—he'd assisted on Tyler's goal five minutes in, nearly scored twice himself—but Sophia could see Coach Richards yelling from the bench about something.
 
+The second period started with even more intensity. Ethan won the faceoff, passed back to the defense, then immediately drove toward the net. The opposing center tried to check him—hard, into the boards—but Ethan bounced off like he'd barely felt it and was back on the play in seconds.
+
+"He's playing angry," Maya said, leaning forward. "Look at his face."
+
+Sophia looked. Maya was right. Ethan's jaw was set, his movements sharper than usual, almost aggressive. Every shift, he was going hard—backchecking with intensity, finishing every check, playing forty-five seconds when most players could barely handle thirty.
+
+On his third shift of the period, he nearly got in a fight. The opposing defenseman had been targeting him all game—small hooks, slashes when the refs weren't looking. This time, after Ethan beat him wide and nearly scored, the guy cross-checked him from behind.
+
+Ethan spun around fast, dropping his gloves halfway before Tyler grabbed him, pulling him away. The ref called a penalty on the other team—two minutes for cross-checking—but Ethan skated to the bench still burning with adrenaline.
+
+"Intensity's good," Sophia heard Jordan say from a few rows behind them. "But he needs to channel it better or he's gonna get himself suspended."
+
+Coach Richards was clearly saying the same thing, based on his gestures. But when Ethan came back out for the power play, he was even more focused—controlled aggression instead of wild energy.
+
+And that's when everything changed.
+
 Then, eight minutes left in the second period, it happened.
 
 Ethan stole the puck at center ice, deked past one defender, then another. Instead of passing to Jordan who was wide open, he went for it himself—full speed, one-on-one with the goalie. Time seemed to slow down. The defenseman was closing fast. Ethan should pull up, make the safe play.
 
 Instead he went high glove side, impossible angle, and the puck went in so fast the goalie never moved.
 
-The arena exploded. Sophia was on her feet screaming before she realized she'd stood up. Maya was yelling beside her, candy flying everywhere. On the ice, Ethan's teammates mobbed him, but he was skating toward their section, pointing directly at Sophia through the celebration.
+The arena exploded. Sophia was on her feet screaming before she realized she'd stood up. Maya was yelling beside her, candy flying everywhere. On the ice, Ethan's teammates mobbed him—Tyler jumping on his back, Jordan pounding his helmet—but through the celebration, Ethan was already looking up.
 
-"Oh my god," Maya said. "Did he just—"
+His eyes found hers in the crowd. Found her specifically, like he'd known exactly where she was sitting. Time seemed to stretch as he skated toward their section, his teammates still celebrating around him.
 
-"He did," Sophia whispered, still standing, heart absolutely thundering. "He just dedicated that goal to you. In front of everyone. Including Becca."
+Then he pointed. Directly at her. Not vague, not general—his arm extended, his finger aimed right at her face, and he was smiling that real smile, the one that wasn't performance.
 
-Sophia finally looked across the arena. Becca was standing too, clapping, but her expression was confused. She'd seen where Ethan was pointing.
+Everything went sharp at the edges—the way it did before a tournament serve, her body deciding fight or flight without asking permission. The noise of the arena faded to white noise. Her hands went to her mouth without conscious decision, and she felt heat everywhere—chest, neck, cheeks, her whole torso trying to protect something.
 
-"I need to sit down," Sophia said faintly.
+"Oh my god," Maya said beside her, grabbing her arm. "Did he just—"
 
-"You need to process what just happened."
+"He did," Sophia whispered, still standing, still staring. Her whole body was pulsing now, her heartbeat too loud, too fast. She couldn't hold still. "He just—in front of everyone—"
+
+Around them, phones were up. So many phones. Recording, filming, taking photos. This moment was being captured from every angle, would be on Instagram Stories within minutes, probably already being texted to group chats. Sophia felt exposed, seen, claimed in the most public way possible.
+
+On the ice, Tyler had noticed where Ethan was pointing and started laughing, shoving Ethan toward the bench. Jordan was grinning, shaking his head. The whole team had seen it. Everyone in their section had definitely seen it.
+
+And across the arena—Sophia's eyes finally tracked there—Becca was standing too, clapping, but her smile had frozen. Her head turned, following Ethan's point, finding Sophia in the crowd.
+
+Their eyes met for one horrible second. Becca's expression shifted—confused, then understanding, then hurt. Before her friend beside her said something and she sat down.
+
+"I need to sit down," Sophia said faintly, sinking back into her seat. Her legs felt like water. She couldn't stop trembling.
+
+"You need to process what just happened," Maya said, sitting too but keeping her hand on Sophia's arm—grounding, supportive. "He just claimed you. Publicly. In front of his girlfriend, his team, everyone. That wasn't subtle, Sophie. That was a declaration."
+
+Sophia couldn't breathe right. The arena was still celebrating—horn blaring, crowd cheering—but all she could feel was the weight of that point. The deliberateness of it. The way Ethan had found her eyes first, like he'd needed her to know it was for her.
 
 "He was just excited. It doesn't mean—"
 
@@ -124,11 +156,23 @@ The rest of the period passed in a blur. Sophia's hands were shaking. She kept r
 
 Friends didn't do that. Players didn't dedicate goals to Just Friends while their girlfriends watched from across the arena.
 
-Her phone buzzed. Text from an unknown number: *This is Jordan. Maya gave me your number. We need to talk after the game. About Ethan. Don't worry, it's not bad. Just... we should talk.*
+Her phone buzzed. Text from an unknown number: *this is jordan*
+
+*maya gave me your number*
+
+*we need to talk after the game*
+
+*about ethan*
+
+*dont worry its not bad*
+
+*just... we should talk*
 
 Sophia stared at the message, anxiety spiking. What did Jordan want to talk about? How much had he noticed? How much did everyone notice?
 
-The third period was scoreless—both teams exhausted, playing defensive. Westwood won 3-2, Ethan's goal proving to be the game winner. As the final buzzer sounded, Sophia felt relief and dread in equal measure.
+She opened Instagram, immediately regretting it. Three people had already tagged her in Stories—clips of Ethan's goal, his point, her reaction. The comments were starting: heart emojis, ship names, speculation. Her notifications were climbing by the second.
+
+The third period was scoreless—both teams exhausted, playing defensive. St. Paul's won 3-2, Ethan's goal proving to be the game winner. As the final buzzer sounded, Sophia felt relief and dread in equal measure.
 
 "Okay," Maya said, gathering their candy debris. "Post-game tradition: we wait for them to change, then group outing to Stella's Diner. You ready?"
 
@@ -140,7 +184,7 @@ The third period was scoreless—both teams exhausted, playing defensive. Westwo
 
 Stella's Diner was a Winnipeg institution—red vinyl booths, chrome accents, a jukebox that still played actual records. The kind of place that served breakfast all day and knew everyone's orders by heart.
 
-By the time Sophia and Maya arrived, half the team was already there, crowded into the big corner booth. Tyler, Jordan, a few other guys Sophia recognized from the hallways. And Ethan, freshly showered, hair still damp, wearing jeans and his Westwood Hockey hoodie.
+By the time Sophia and Maya arrived, half the team was already there, crowded into the big corner booth. Tyler, Jordan, a few other guys Sophia recognized from the hallways. And Ethan, freshly showered, hair still damp, wearing jeans and his St. Paul's Hockey hoodie.
 
 He lit up when he saw her. Actually, visibly, lit up.
 
@@ -202,9 +246,55 @@ This was dangerous. This was crossing lines. They were in a public place surroun
 
 Their food arrived. Sophia focused on her grilled cheese like it was the most important thing in the world. Beside her, Ethan was doing the same thing, both of them carefully not looking at each other, both of them acutely aware of every point of contact.
 
-"So Sophie," Jordan said casually, "how was dinner with the Hayes family last night?"
+"Okay but seriously," Tyler said, gesturing with a fry, "that goal? I've been on the team with you for two years and I've never seen you play that aggressive. What was different today?"
 
-The entire table went quiet. Ethan's leg tensed against hers.
+Ethan shrugged, but Sophia felt him tense beside her. "Just felt focused."
+
+"Focused," Jordan repeated, and his tone was loaded with meaning. "Sure. That's one word for it."
+
+Marcus leaned forward, grinning. "He's been different all week. Keeps checking his phone in the locker room, smiling at nothing. Tyler thought he was sick."
+
+"I did not—"
+
+"You literally asked if he had a fever," Marcus interrupted. "Yesterday. In the shower."
+
+"The point is," Tyler said, "something's got him in his feelings. And based on that goal dedication—"
+
+"Can we not?" Ethan cut in, but he was smiling despite the embarrassment in his voice. "Can we please not do this?"
+
+"Do what?" Maya asked innocently, though Sophia could see she was enjoying this. "Discuss the fact that you pointed at Sophie after scoring? In front of the entire arena?"
+
+"Girl squad's got jokes," Jordan said, but he was watching Ethan with that assessing director's gaze. "But she's not wrong. That was pretty public, man."
+
+Ethan's jaw tightened. Under the table, his leg pressed more firmly against Sophia's—whether seeking comfort or offering it, she couldn't tell.
+
+"It was a heat of the moment thing," Ethan said finally, his voice careful. "I scored, I was excited, I saw Sophie in the crowd. That's it."
+
+"Uh-huh," Marcus said, clearly not believing a word. "And the fact that you asked Coach three times yesterday if we were sure she was coming to the game?"
+
+Ethan's ears went slightly red. "I didn't—"
+
+"You did," Tyler confirmed. "Jordan and I were there. You were weirdly intense about it."
+
+Sophia wanted to sink through the floor. Or possibly combust. Both seemed like reasonable options. Everyone was looking at them now—her and Ethan, pressed together in the booth, his leg against hers, tension thick enough to cut.
+
+"We're friends," Sophia said, trying to rescue the situation. "Childhood friends. That's—that's allowed, right? Friends support friends?"
+
+"Of course," Jordan said smoothly. "Though most friends don't get goal dedications. Or have dinner with each other's parents. Or look at each other like—"
+
+"Jordan," Ethan warned.
+
+"What? I'm just observing." Jordan's grin was wicked. "You know, for my documentary. This is great character development."
+
+"I will end your documentary," Ethan threatened, but there was no heat in it.
+
+Maya was watching this whole exchange with barely suppressed laughter. When she caught Sophia's eye, she mouthed: *You okay?*
+
+Sophia wasn't sure. The attention was overwhelming. But also—there was something oddly thrilling about it. About everyone seeing what had been carefully hidden. About Ethan's friends teasing him about her. About being claimed, even if it complicated everything.
+
+"So Sophie," Jordan said casually, clearly enjoying himself, "how was dinner with the Price family last night?"
+
+The entire table went quiet at the shift. Ethan's leg tensed against hers.
 
 "It was good," Sophia said carefully. "His parents are intense but nice."
 
@@ -296,17 +386,17 @@ Outside, the October afternoon was cold and getting colder—the sun already low
 
 "You played really well."
 
-"I played better because you were there." He said it simply, like it was just fact. "I always do."
+"I played better because you were there." He said it simply, like it was just fact. "I always— I just always do."
 
-Sophia's chest tightened. "Ethan—"
+Her ribcage felt two sizes too small. "Ethan—"
 
-"I know. I know I shouldn't say stuff like that. I know it's complicated." He ran a hand through his hair, frustrated. "But it's true. When you're watching, I want to be better. I want to be the person you remember, not just the hockey player everyone else sees."
+"I know. I know I shouldn't— stuff like that. Saying stuff like that. I know it's a mess." He ran a hand through his hair, frustrated. "But it's true. When you're watching, I want to— I want to be better. The person you remember. Not just the hockey player everyone else sees, you know?"
 
 "You are that person. You don't have to prove anything to me."
 
-"Maybe I want to anyway." He looked at her, and the vulnerability in his expression hurt. "This is all so messed up. You being back, my parents, Becca, all of it. I don't know how to—"
+"Maybe I want to anyway." He looked at her, and the vulnerability in his expression hurt. "This is all— it's so messed up. You being back. My parents. Becca. All of it. I don't know how to—" He made a frustrated gesture. "I can't figure out how to—"
 
-He stopped, shaking his head. "Never mind. I should get back. Becca's waiting."
+He stopped, shaking his head. "Never mind. I should— I should get back. Becca's waiting."
 
 "Yeah. You should."
 
@@ -332,7 +422,45 @@ Maya appeared at her elbow. "You okay?"
 
 "Sophie. Babe. Friend of my heart." Maya unlocked the car, and they both got in. "He pointed at you after scoring a goal. While his girlfriend watched. Your life is absolutely a disaster."
 
-Sophia couldn't argue with that. So she just buckled her seatbelt and let Maya drive, and tried not to think about Ethan's leg against hers under the table, or the way he'd looked at her in the parking lot, or how she was supposed to survive being Just Friends when every interaction felt like slowly breaking her own heart.
+Sophia couldn't argue with that, so she just buckled her seatbelt and let Maya drive to the nearest DQ—because when your life was imploding, only a Blizzard would do.
+
+They got their ice cream and sat in Maya's car in the parking lot, heater running, condensation forming on the windows like they were in their own little world.
+
+"Okay," Maya said, attacking her Oreo Blizzard with determination. "Let's process. He dedicated a goal to you in front of everyone. Including Becca. What are you feeling?"
+
+Sophia took a bite of her Reese's Blizzard, trying to find words for the chaos in her chest. "Guilty, mostly. But guilt that feels suspiciously like hope around the edges."
+
+"That's valid."
+
+"Is it though?" Sophia set down her spoon, suddenly not hungry. "He has a girlfriend, Maya. A girlfriend who was sitting right there watching him point at another girl. That's—I'm the other girl. I'm the one making him act like this."
+
+"No." Maya's voice was firm. "He's the one making himself act like this. You're not controlling him. You're just existing, being yourself, and he's the one who can't handle it."
+
+"But what if I'm encouraging it? What if by being around him, by going to his games, by—" Sophia's voice cracked. "What if I'm the reason he's going to mess everything up?"
+
+Maya reached over and grabbed her hand. "Listen to me. Ethan Price is almost eighteen years old. He's smart, he's capable of making his own decisions, and if he's having feelings he can't control, that's on him to manage. Not you."
+
+"But his parents—"
+
+"His parents don't get to dictate who he has feelings for. And neither does Becca, honestly. I like Becca, she's great, but you can't force someone to feel what they don't feel." Maya squeezed her hand. "The real question is: what do you want?"
+
+That was the question, wasn't it? Sophia stared out at the darkening parking lot, at the other cars with their own stories, their own complications.
+
+"I want him," she whispered. "I want to be the person he points at. I want to be the one sitting next to him at dinner, wearing coordinated homecoming colors, being part of his actual life instead of just the complication he has to explain." She wiped at her eyes, frustrated with herself. "But I also want him to be happy. And I don't think choosing me makes him happy. It just makes everything harder."
+
+"Or," Maya said gently, "maybe it makes things honest. Maybe all this performing he's doing—for his parents, for Becca, for everyone—maybe that's what's actually making him miserable."
+
+Sophia didn't have an answer for that. She just ate her ice cream in silence while Maya put on music—something upbeat and empowering, because Maya was good at reading moments—and they sat there until the Blizzards were gone and Sophia felt marginally more human.
+
+"Better?" Maya asked.
+
+"Getting there."
+
+"Good. Because I refuse to let you implode before our badminton tournament next weekend. I need you functional." Maya started the car. "Now let's get you home so you can overthink this in the privacy of your own room like a normal teenager."
+
+Despite everything, Sophia laughed. "You're the worst."
+
+"I'm the best and you know it."
 
 ---
 

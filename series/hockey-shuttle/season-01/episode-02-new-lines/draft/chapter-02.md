@@ -2,37 +2,47 @@
 
 The Millennium Library downtown was Sophia's new favorite place in Winnipeg.
 
-Not the school library—that was too small, too full of people who knew her or wanted to know her or were analyzing her friendship with Ethan Hayes like it was a social experiment. No, the downtown library was perfect: huge and anonymous, with study rooms and quiet corners and the kind of focused silence that made thinking possible.
+Not the school library—that was too small, too full of people who knew her or wanted to know her or were analyzing her friendship with Ethan Price like it was a social experiment. No, the downtown library was perfect: huge and anonymous, with study rooms and quiet corners and the kind of focused silence that made thinking possible.
 
 Plus, it was neutral territory. Not Ethan's world or hers, just a shared space where they could be two students working on calculus without everyone having opinions about it.
 
-She'd been coming here every Tuesday and Thursday after badminton practice for the past week, usually alone. Getting ahead on homework, reviewing for tests, finding the kind of rhythm she'd had in Thunder Bay before everything got complicated.
+She'd been coming here every Tuesday and Thursday after badminton practice for the past week, usually alone. Getting ahead on homework, reviewing for tests, finding the kind of rhythm she'd had in Millbrook before everything got complicated.
 
 But today—Wednesday afternoon, grey and drizzly—her phone buzzed as she was settling into her usual corner desk on the third floor.
 
-**Ethan:** *Test Friday?*
+**ethan:** *test friday?*
 
-**Sophia:** *Yeah, derivatives and chain rule*
+**sophia:** *yeah derivatives and chain rule*
 
-**Ethan:** *I'm dead. Jordan's no help. He just keeps making jokes about deriving meaning from life*
+**ethan:** *im dead*
 
-**Sophia:** *That's actually pretty good*
+**ethan:** *jordans no help*
 
-**Ethan:** *Don't encourage him. Study session? I can meet wherever*
+**ethan:** *he just keeps making jokes about deriving meaning from life*
+
+**sophia:** *lmao thats actually pretty good*
+
+**ethan:** *dont encourage him*
+
+**ethan:** *study session?*
+
+**ethan:** *can meet wherever*
 
 She should say no. She'd just spent Monday's lunch period tutoring him through the homework, and Maya's voice was still echoing in her head: *Just friends. Sure, Sophie.*
 
-But her thumbs were already typing: *Millennium Library, third floor, northeast corner. I'm here now.*
+But her thumbs were already typing: *millennium library third floor northeast corner*
 
-**Ethan:** *On my way*
+Another bubble: *im here now*
 
-Sophia stared at her phone, heart doing something arhythmic. This was fine. Friends studied together. It didn't mean anything.
+**ethan:** *on my way*
+
+Sophia stared at her phone, her pulse stuttering in a way that had nothing to do with badminton practice. This was fine. Friends studied together. It didn't mean anything.
 
 She was definitely lying to herself again.
 
 ---
 
-Ethan arrived twenty minutes later, hair damp from the rain, backpack slung over one shoulder. He was wearing his Westwood Hockey hoodie and jeans that probably cost more than Sophia's entire outfit, but he moved through the library like he belonged in this space too—easy, confident, drawing eyes without seeming to notice.
+Ethan arrived twenty minutes later, hair damp from the rain, backpack slung over one shoulder. He was wearing his St. Paul's Hockey hoodie and jeans that probably cost more than Sophia's entire outfit, but he moved through the library like he belonged in this space too—easy, confident, drawing eyes without seeming to notice.
 
 "Hey," he said quietly, dropping into the chair across from her. The study desk was small, intimate, their knees almost touching underneath. "Thanks for this. I know you're busy with your tournament coming up."
 
@@ -62,11 +72,11 @@ For the next hour, they worked through problems with the kind of focus Sophia re
 
 "Right. Obviously." Sophia looked down at her own homework, heat creeping up her neck. "That's what I meant."
 
-The silence that followed was complicated, full of things neither of them was saying. Outside the windows, Winnipeg was turning gray and gold in the late afternoon—that particular October light that made everything look like memory.
+The silence that followed was full of things neither of them was saying. Outside the windows, Winnipeg was turning gray and gold in the late afternoon—that particular October light that made everything look like memory.
 
 "So," Ethan said finally, breaking the tension. "My parents' dinner on Friday. You're still coming, right?"
 
-Sophia had been trying not to think about that. Meeting Robert and Caroline Hayes felt like walking into an evaluation, which is exactly what Ethan said it was.
+Sophia had been trying not to think about that. Meeting Robert and Caroline Price felt like walking into an evaluation, which is exactly what Ethan said it was.
 
 "If you want me to."
 
@@ -74,33 +84,33 @@ Sophia had been trying not to think about that. Meeting Robert and Caroline Haye
 
 "Appropriately ambitious," Sophia repeated slowly. "What does that even mean?"
 
-"It means ambitious enough that you won't distract me, but not so ambitious that you'll compete with me for the same opportunities." Ethan's expression was tight. "It's how they evaluate everyone in my life. Becca passed because she's focused on business school, completely different track from mine. Jordan passed because he's planning film school. Tyler barely passed because he's another hockey player, which my dad sees as potential competition."
+"It means ambitious enough that you won't distract me, but not so ambitious that you'll— I don't know, compete with me?" Ethan's expression was tight. "It's how they evaluate everyone in my life. Like, Becca passed because she's business school, completely different track. Jordan passed because he's film. Tyler barely passed because he's hockey too, which my dad sees as— like, competition or whatever."
 
 "That's..." Sophia searched for a word that captured how messed up that was. "Intense."
 
-"That's my life." He said it matter-of-factly, without self-pity, which somehow made it worse. "They mean well. They just have this very specific vision of my future, and they're terrified anything that doesn't fit the vision will derail me."
+"That's my life." He said it matter-of-factly, without self-pity, which somehow made it worse. Shrugged. "They mean well. I know they mean well. They just— they have this vision. Very specific. And anything that doesn't fit..." He made a frustrated gesture. "They're terrified I'll get derailed."
 
 "And I don't fit the vision."
 
-"You complicate the vision." Ethan leaned forward, elbows on the desk, close enough that she could see the small scar through his eyebrow again. "You make me want things I set aside years ago. MIT. Engineering. A life that's mine instead of theirs."
+"You make me think about it again." Ethan leaned forward, elbows on the desk, close enough that she could see the small scar through his eyebrow again. "You make me want— things I set aside. Years ago. MIT. Engineering. A life that's..." He trailed off, shaking his head. "Mine instead of theirs. Does that make sense?"
 
-This was dangerous territory, the same conversation they'd had at The Forks but more pointed, more raw. Sophia's heart was doing that arhythmic thing again.
+This was dangerous territory, the same conversation they'd had at The Forks but more pointed, more raw. Sophia's whole chest went tight—hope or panic, she couldn't tell which.
 
 "What do you want?" she asked quietly. "Really?"
 
-Ethan looked at her for a long moment, and she watched him weigh honesty against safety. Finally, he said, "I want to play hockey because I love it, not because it's the plan. I want to study engineering because it makes my brain light up the way it did when we were kids competing in math competitions. And I want—"
+Ethan looked at her for a long moment, and she watched him weigh honesty against safety. Finally, he said, "I want to— I want to play hockey because I love it. Not because it's the plan, you know? And I want to study engineering because it makes my brain—" He gestured at his head. "Like it did when we were kids. Math competitions. Remember? It felt like—" He ran his hand through his hair, jaw tight. "And I want—"
 
-He stopped. Pulled back. The shutters came down.
+He looked away. Whatever he'd been about to say, he swallowed it.
 
 "What?" Sophia pressed. "You want what?"
 
-"To not disappoint anyone," he finished, but she could tell that wasn't what he'd been about to say. "My parents, my coaches, the scouts who are already watching. I want to be who everyone needs me to be."
+"To not disappoint anyone." He said it quickly, but she could tell that wasn't what he'd been about to say. "My parents. Coaches. The scouts who are already— they're watching. I just want to be who everyone needs me to be."
 
 "That's not the same as being who you are."
 
 "Maybe who I am isn't good enough."
 
-The words landed like stones in still water. Sophia stared at him—Ethan Hayes, star center, straight-A student, objectively perfect in every measurable way—and saw the nine-year-old kid who'd cried because his parents were making him move away from everything he knew.
+The words landed like stones in still water. Sophia stared at him—Ethan Price, star center, straight-A student, objectively perfect in every measurable way—and saw the nine-year-old kid who'd cried because his parents were making him move away from everything he knew.
 
 "You're wrong," she said fiercely. "Who you are is—you're not giving yourself enough credit."
 
@@ -116,15 +126,15 @@ Sophia started to pull away, but Ethan turned his hand over, lacing his fingers 
 
 "Always," Sophia said, and meant it more than she'd meant anything in her life.
 
-They sat like that for a moment—hands linked, the library quiet around them, something huge and unspoken taking up all the air in the room. Sophia could feel her pulse in her throat. This was crossing lines. This was definitely crossing lines.
+They sat like that for a moment—hands linked, the library quiet around them, something huge and unspoken taking up all the air in the room. Sophia felt it in her teeth, somehow. That electric almost-pain. This was crossing lines. This was definitely crossing lines.
 
-Then Ethan's phone buzzed, shattering the moment. He pulled his hand away to check it, and Sophia felt the loss like cold air on skin.
+Ethan's phone buzzed, shattering the moment. He pulled his hand away to check it, and Sophia felt the loss like cold air on skin.
 
 "Becca," he said, typing a response. "She wants to know if I'm still coming over after this."
 
 Right. Becca. His girlfriend. Who existed and was lovely and hadn't done anything wrong except date someone who was holding another girl's hand in a library.
 
-"You should go," Sophia said, gathering her books with hands that shook slightly. "I have badminton practice anyway."
+"You should go," Sophia said, gathering her books. Her fingers fumbled with the zipper on her bag. "I have badminton practice anyway."
 
 "Sophie—"
 
@@ -144,13 +154,83 @@ She left before he could respond, hurrying down the library stairs and out into 
 
 Her phone buzzed.
 
-**Ethan:** *I'm sorry. That was...*
+**ethan:** *im sorry*
 
-Three dots appeared, disappeared, appeared again. Finally: *I'll see you Friday.*
+**ethan:** *that was*
 
-Sophia stared at the message, then typed and deleted five different responses before settling on: *See you Friday.*
+Three dots appeared, disappeared, appeared again.
+
+**ethan:** *ill see you friday*
+
+Sophia stared at the message, then typed and deleted five different responses before settling on: *see you friday*
 
 She shoved her phone in her pocket and started walking toward the bus stop. Her car was in the school parking lot, a twenty-minute bus ride away, but she needed the time to think. To process. To stop feeling the ghost of his hand in hers.
+
+---
+
+The bus was nearly empty—just her, an elderly woman with shopping bags, and a university student with headphones on. Sophia slumped into a window seat near the back, pressed her forehead against the cold glass, and tried to breathe.
+
+She couldn't hold still. Her whole body was wired, restless.
+
+She looked down at them—her left hand, the one he'd held. Turned it over, studying her palm like she could still see the imprint of his fingers. She could feel it still, the warmth of his skin, the way he'd laced their fingers together without hesitation. Like it was the most natural thing in the world. Like they did this all the time.
+
+Friends didn't hold hands like that.
+
+Sophia checked Instagram out of habit—Maya had posted a Story from badminton practice (a shuttlecock with the caption "pain is temporary, glory is forever"), Priya had tagged her in a team photo. Normal things. No drama from last weekend's skating session, thank god. The group chat had finally quieted down. But now there was this. Whatever this was.
+
+She closed the app and stared out the window. Winnipeg rolled past—familiar now, after three weeks. The route from downtown to St. Paul's was becoming automatic. Landmarks she could name. Streets she knew.
+
+Three weeks. She'd been here three weeks and somehow Ethan Price had become the axis her world turned on.
+
+That was dangerous. That was so dangerous.
+
+Sophia replayed the library scene on loop: his vulnerability about his parents, the way he'd opened up about wanting MIT and engineering and a life that was his. The moment when she'd reached across the table—what had she been thinking? She hadn't been thinking. She'd just needed to touch him, to ground him, to say *I see you* without words.
+
+And he'd turned his hand over. Laced their fingers together. Held on.
+
+*Thanks for seeing me. Not just the performance.*
+
+Breathing got hard. She pressed harder against the window, watching her breath fog the glass.
+
+The worst part—the absolutely worst part—was that she understood why he couldn't choose her. His parents had his entire future mapped out. Hockey. Maybe college, but only if it fit the plan. NHL scouts were watching. Coaches were invested. Becca was perfect for that life: supportive, appropriate, content to be the girlfriend who fit the narrative.
+
+Sophia was chaos. Sophia made him question everything. Sophia was the variable that didn't compute.
+
+Her phone buzzed. She pulled it out, heart jumping—but it wasn't Ethan. It was her dad, texting about dinner, asking if she wanted butter chicken or pizza.
+
+She typed back: *pizza*
+
+Then opened her thread with Ethan, staring at his last message: *ill see you friday*
+
+She should create distance. Should stop studying with him, stop going to his games, stop putting herself in situations where her heart got ideas her brain couldn't support. That would be the smart thing. The safe thing.
+
+But Sophia looked at her hand again—the one he'd held—and knew she wouldn't do the smart thing. Couldn't do it. Because for twenty minutes in that library, holding his hand across a study table while he talked about dreams he'd buried, she'd felt more herself than she had in months.
+
+He made her feel possible.
+
+That was worth the risk. Even if it killed her. Even if it ended badly. Even if she was just the complication he'd eventually have to manage out of his perfectly planned life.
+
+The bus lurched to a stop at St. Paul's. Sophia gathered her bag, wiped her eyes quickly—when had she started crying?—and headed toward the parking lot.
+
+Her car sat exactly where she'd left it that morning. Same spot. Same world. But everything felt different.
+
+She sat in the driver's seat for a long moment, hands on the wheel, breathing. Then she pulled out her phone and looked at their text thread one more time.
+
+*ill see you friday*
+
+She typed: *cant wait*
+
+Deleted it. Too eager.
+
+Typed: *sounds good*
+
+Deleted it. Too casual.
+
+Finally settled on a heart emoji—simple, could be friendly, could be more—and hit send before she could overthink it.
+
+Then she started the car and drove toward practice, toward normal, toward a world where she could hit shuttlecocks and not think about the way Ethan Price's hand had felt in hers.
+
+Except she couldn't stop thinking about it. All through practice, through dinner, through homework. His hand in hers. The warmth. The rightness of it.
 
 Maya was right. This wasn't just friendship. This was something bigger and messier and more dangerous, and Sophia had no idea what to do about it except lie to herself and pretend her heart wasn't breaking in real-time.
 
@@ -166,7 +246,7 @@ She played against Maya first, winning two games to one, then against Priya, who
 
 "Nothing. Just focused."
 
-"Right. And I'm the Queen of England." Maya took a long drink from her water bottle. "Does this have anything to do with Ethan Hayes?"
+"Right. And I'm the Queen of England." Maya took a long drink from her water bottle. "Does this have anything to do with Ethan Price?"
 
 "Why does everything have to be about Ethan?"
 
@@ -174,11 +254,11 @@ She played against Maya first, winning two games to one, then against Priya, who
 
 Sophia's throat tightened. Maya had known her all of three weeks but had somehow become the person she trusted most here. It was alarming how quickly that had happened.
 
-"We studied together," Sophia said finally. "At the library. And it was... complicated."
+"We studied together," Sophia said finally. "At the library. And it was... messy."
 
-"Complicated how?"
+"Messy how?"
 
-"Complicated like we held hands and he has a girlfriend complicated."
+"Messy like we held hands and he has a girlfriend messy."
 
 Maya's eyes widened. "Oh."
 
@@ -194,7 +274,7 @@ Maya's eyes widened. "Oh."
 
 "I'm just saying—"
 
-"Don't," Sophia said more firmly. "He's with Becca. He's happy with Becca. I'm the complication, the distraction, the variable that doesn't fit. And even if he wasn't with her, his parents would never approve. So it doesn't matter what I feel or what he feels or what any of this means."
+"Don't," Sophia said more firmly. "He's with Becca. He's happy with Becca. I'm the one who doesn't fit the plan. I'm a distraction. And even if he wasn't with her, his parents would never approve. So it doesn't matter what I feel or what he feels or what any of this means."
 
 "It matters to you," Maya said quietly.
 
@@ -210,7 +290,7 @@ By the time practice ended, she was exhausted enough that thinking about Ethan f
 
 "Getting there."
 
-"Good. Because we have a tournament in two weeks and I need you focused." Maya bumped her shoulder affectionately. "But also, for what it's worth? Whatever you're feeling is valid. Even if it's complicated."
+"Good. Because we have a tournament in two weeks and I need you focused." Maya bumped her shoulder affectionately. "But also, for what it's worth? Whatever you're feeling is valid. Even if it's impossible."
 
 Sophia managed a smile. "When did you become so wise?"
 
@@ -218,33 +298,51 @@ Sophia managed a smile. "When did you become so wise?"
 
 They changed and headed out to the parking lot together. The evening was cool and clear, stars beginning to emerge over the city. Sophia's phone buzzed as she unlocked her car.
 
-**Ethan:** *How was practice?*
+**ethan:** *how was practice?*
 
-Her heart did that stupid flutter thing. She typed carefully: *Good. Violent. Coach had us doing drills until we couldn't feel our legs.*
+Her heart did that stupid flutter thing. She typed carefully: *good*
 
-**Ethan:** *Ha. I know that feeling. We had suicide skates today. Pretty sure I left a lung on the ice.*
+Another bubble: *violent*
 
-**Sophia:** *Maybe you'll find it before your game Saturday*
+Another: *coach had us doing drills until we couldnt feel our legs*
 
-**Ethan:** *Are you coming? To the game?*
+**ethan:** *ha*
+
+**ethan:** *i know that feeling*
+
+**ethan:** *we had suicide skates today*
+
+**ethan:** *pretty sure i left a lung on the ice*
+
+**sophia:** *maybe youll find it before your game saturday*
+
+**ethan:** *are you coming*
+
+**ethan:** *to the game?*
 
 She should say no. She should create distance, protect herself, stop walking willingly into situations that would hurt.
 
-But her thumbs typed: *Planning on it.*
+But her thumbs typed: *planning on it*
 
-**Ethan:** *Good. I play better when you're watching.*
+**ethan:** *good*
+
+**ethan:** *i play better when youre watching*
 
 Sophia stared at that message for a full minute, trying to decode it. What did that mean? Why did he play better? And why was he telling her that?
 
-Before she could figure out how to respond, another message arrived: *Becca says hi btw. She's excited you're coming to more games.*
+Before she could figure out how to respond, another message arrived: *becca says hi btw*
+
+Another bubble: *shes excited youre coming to more games*
 
 Oh. Right. Becca. Who was excited that her boyfriend's childhood friend was supporting him. Because she was a good person who had no idea her boyfriend held other girls' hands in libraries.
 
-**Sophia:** *Tell her hi back. See you at school tomorrow.*
+**sophia:** *tell her hi back*
+
+**sophia:** *see you at school tomorrow*
 
 She drove home with the radio loud, trying to drown out the noise in her head. But Ethan's words kept echoing: *I play better when you're watching.*
 
-And the worse truth underneath: she felt more herself when he was around too. Like the Sophia who'd existed in Thunder Bay—confident, smart, ambitious—could coexist with this new Sophia who didn't quite fit anywhere yet.
+And the worse truth underneath: she felt more herself when he was around too. Like the Sophia who'd existed in Millbrook—confident, smart, ambitious—could coexist with this new Sophia who didn't quite fit anywhere yet.
 
 He made her feel possible. That was the problem. That was the whole entire problem.
 
@@ -270,7 +368,7 @@ When class ended, he caught up to her in the hallway.
 
 "Getting there."
 
-They walked in comfortable silence toward the cafeteria. This was safe—this easy banter, this friendship without complications. Sophia could do this. She could be his friend and nothing more and eventually her heart would catch up with her brain.
+They walked in comfortable silence toward the cafeteria. This was safe—this easy banter, this friendship. Sophia could do this. She could be his friend and nothing more and eventually her heart would catch up with her brain.
 
 "So tomorrow," Ethan said as they approached the cafeteria doors. "My parents' place. You're still good for six?"
 
@@ -278,7 +376,7 @@ They walked in comfortable silence toward the cafeteria. This was safe—this ea
 
 "Great." He hesitated, then added, "And Sophie? Don't worry about impressing them. Just be yourself. That's enough."
 
-But Sophia wasn't sure being herself was enough when herself was the variable that complicated his equation.
+But Sophia wasn't sure being herself was enough when herself was the thing that didn't fit his equation.
 
 ---
 
@@ -296,17 +394,19 @@ Maya found her doing this and just shook her head. "You're meeting his parents, 
 
 Sophia hugged back, grateful. "When did you become my emotional support person?"
 
-"When you showed up to Westwood looking lost and I decided you needed a friend." Maya pulled back, grinning. "Now go. Dazzle them with your brain. Report back tomorrow."
+"When you showed up to St. Paul's looking lost and I decided you needed a friend." Maya pulled back, grinning. "Now go. Dazzle them with your brain. Report back tomorrow."
 
-The Hayes family lived in Tuxedo, one of Winnipeg's wealthy neighborhoods, in a house that was somehow both modern and traditional—lots of windows, clean lines, perfectly landscaped yard even in October. Sophia parked her mom's Honda on the street, feeling suddenly inadequate in every possible way.
+The Price family lived in Tuxedo, one of Winnipeg's wealthy neighborhoods, in a house that was somehow both modern and traditional—lots of windows, clean lines, perfectly landscaped yard even in October. Sophia parked her mom's Honda on the street, feeling suddenly inadequate in every possible way.
 
 Her phone buzzed.
 
-**Ethan:** *You here?*
+**ethan:** *you here?*
 
-**Sophia:** *Parked outside having a small crisis*
+**sophia:** *parked outside having a small crisis*
 
-**Ethan:** *Come inside. I'm having a bigger crisis and misery loves company*
+**ethan:** *come inside*
+
+**ethan:** *im having a bigger crisis and misery loves company*
 
 Despite her nerves, Sophia smiled. She grabbed the wine her parents had insisted she bring (even though she tried to explain that showing up with wine when you're sixteen was probably weird), and headed up the walk.
 
@@ -322,9 +422,9 @@ Ethan opened the door before she could knock.
 
 "Right." Ethan's expression softened. "You do. You've always got this."
 
-He stepped back to let her in, and Sophia entered the Hayes family home feeling like she was crossing a border into foreign territory. The house was beautiful—hardwood floors, modern furniture, family photos on the walls showing Ethan's progression from gap-toothed kid to hockey star. But it felt more like a showroom than a home, everything a little too perfect.
+He stepped back to let her in, and Sophia entered the Price family home feeling like she was crossing a border into foreign territory. The house was beautiful—hardwood floors, modern furniture, family photos on the walls showing Ethan's progression from gap-toothed kid to hockey star. But it felt more like a showroom than a home, everything a little too perfect.
 
-"Sophia!" Caroline Hayes emerged from the kitchen, wiping her hands on a dish towel. She was tall and elegant, blonde hair pulled back, wearing casual clothes that somehow looked formal. "It's so wonderful to see you again! You've grown up so much!"
+"Sophia!" Caroline Price emerged from the kitchen, wiping her hands on a dish towel. She was tall and elegant, blonde hair pulled back, wearing casual clothes that somehow looked formal. "It's so wonderful to see you again! You've grown up so much!"
 
 "Thank you for having me, Mrs. Hayes." Sophia held out the wine bottle awkwardly. "My parents sent this."
 
@@ -334,9 +434,9 @@ He stepped back to let her in, and Sophia entered the Hayes family home feeling 
 
 "What? You have." Caroline smiled at them both, and there was something assessing in her gaze. "Come, dinner's almost ready. Robert's in the living room."
 
-Robert Hayes was exactly what Sophia remembered, just older: tall like Ethan, dark hair going gray at the temples, the kind of handshake that evaluated grip strength. He was wearing slacks and a polo shirt, business casual at home.
+Robert Price was exactly what Sophia remembered, just older: tall like Ethan, dark hair going gray at the temples, the kind of handshake that evaluated grip strength. He was wearing slacks and a polo shirt, business casual at home.
 
-"Sophia Chen," he said, his voice warm but measuring. "I remember you from Thunder Bay. You and Ethan were quite the pair—always competing in those math competitions."
+"Sophia Chen," he said, his voice warm but measuring. "I remember you from Millbrook. You and Ethan were quite the pair—always competing in those math competitions."
 
 "He usually won," Sophia said, which was mostly true.
 
@@ -360,7 +460,7 @@ His parents exchanged a look—quick, wordless communication that Sophia couldn'
 
 The dining room was as perfect as the rest of the house—table set with cloth napkins, wine glasses (empty for the teenagers), serving dishes arranged precisely. Caroline had made roast chicken with vegetables and potatoes, everything beautifully presented.
 
-As they ate, the conversation flowed through safe topics: badminton, Sophia's tournament, how she was adjusting to Westwood. But underneath, Sophia could feel the real evaluation happening. Robert asked careful questions about her academic achievements, her extracurriculars, her time management strategies. Caroline asked about her family, her values, what she wanted from life.
+As they ate, the conversation flowed through safe topics: badminton, Sophia's tournament, how she was adjusting to St. Paul's. But underneath, Sophia could feel the real evaluation happening. Robert asked careful questions about her academic achievements, her extracurriculars, her time management strategies. Caroline asked about her family, her values, what she wanted from life.
 
 They were mapping her, Sophia realized. Trying to figure out if she fit into their vision for Ethan's future, or if she was the threat he'd warned her about.
 
@@ -376,7 +476,7 @@ The implication was clear: Becca wasn't a threat to his academic focus because s
 
 "Of course not," Caroline interjected smoothly. "We're thrilled you're maintaining your academic performance. Coach Richards mentioned you've been even more focused lately."
 
-Coach Richards. Right. Because they tracked everything—his grades, his practice attendance, his social connections. The Hayes family approach to parenting was data-driven and comprehensive.
+Coach Richards. Right. Because they tracked everything—his grades, his practice attendance, his social connections. The Price family approach to parenting was data-driven and comprehensive.
 
 "I just want to make sure," Robert continued, still looking at Sophia, "that everyone in Ethan's life understands what's at stake. NHL scouts are already watching. The next two years determine his entire future. Any distractions—"
 
@@ -390,11 +490,11 @@ Then, slowly, Robert smiled.
 
 The emphasis on the last word was pointed. This wasn't just about academics or distraction. This was about Becca, about boundaries, about making sure Sophia knew her place in Ethan's carefully planned life.
 
-"Crystal clear," Sophia said, her voice calm even though her heart was hammering.
+"Crystal clear," Sophia said, her voice calm even though her pulse was in her throat.
 
 "Good." Robert returned to his chicken. "Now, tell me about this badminton tournament. Ethan says you're quite talented."
 
-The rest of dinner passed in slightly less tense conversation. They talked about sports, about Winnipeg versus Thunder Bay, about college application timelines. Caroline served apple pie for dessert—homemade, perfect, of course—and by the time Sophia thanked them and headed for the door, she felt wrung out and exhausted.
+The rest of dinner passed in slightly less tense conversation. They talked about sports, about Winnipeg versus Millbrook, about college application timelines. Caroline served apple pie for dessert—homemade, perfect, of course—and by the time Sophia thanked them and headed for the door, she felt wrung out and exhausted.
 
 Ethan walked her outside, hands shoved in his pockets against the cold.
 
@@ -416,37 +516,69 @@ Instead, she said, "See you at the game tomorrow?"
 
 "Yeah." Ethan's expression shifted, something warm breaking through. "Yeah. I'll play better knowing you're there."
 
-There it was again—that echo from his text, loaded with meaning she couldn't quite decipher. Sophia got in her car before she could do something stupid, and drove home with her hands shaking slightly on the wheel.
+There it was again—that echo from his text, loaded with meaning she couldn't quite decipher. Sophia got in her car before she could do something stupid, and drove home gripping the wheel too tight.
 
 Her phone buzzed at a red light.
 
-**Ethan:** *Thanks for surviving that. You were amazing. My parents are already discussing how "appropriate" you are. I think you passed.*
+**ethan:** *thanks for surviving that*
 
-**Sophia:** *Yay me. Do I get a certificate?*
+**ethan:** *you were amazing*
 
-**Ethan:** *Better. You get my eternal gratitude and first pick of study spot next week.*
+**ethan:** *my parents are already discussing how "appropriate" you are*
 
-**Sophia:** *Living the dream*
+**ethan:** *i think you passed*
 
-**Ethan:** *Seriously though. Thank you. For being you. For not running away. For still being my friend after experiencing the Hayes family evaluation process.*
+**sophia:** *yay me*
+
+**sophia:** *do i get a certificate*
+
+**ethan:** *better*
+
+**ethan:** *you get my eternal gratitude and first pick of study spot next week*
+
+**sophia:** *living the dream*
+
+**ethan:** *seriously though*
+
+**ethan:** *thank you*
+
+**ethan:** *for being you*
+
+**ethan:** *for not running away*
+
+**ethan:** *for still being my friend after experiencing the price family evaluation process*
 
 Friend. Sophia stared at that word until the car behind her honked.
 
-**Sophia:** *Always*
+**sophia:** *always*
 
 She drove the rest of the way home on autopilot, walked through her front door to her parents asking how it went, mumbled something about it being fine, and retreated to her room.
 
-Maya had texted: *How was it? Did you survive?*
+Maya had texted: *how was it? did you survive?*
 
-**Sophia:** *Survived. His dad basically told me to know my place. His mom served perfect pie. I smiled through it all like a pageant contestant.*
+**sophia:** *survived*
 
-**Maya:** *Ugh. I'm sorry. Want to talk about it?*
+**sophia:** *his dad basically told me to know my place*
 
-**Sophia:** *Not tonight. Tomorrow?*
+**sophia:** *his mom served perfect pie*
 
-**Maya:** *Tomorrow. Game first, emotional processing after.*
+**sophia:** *i smiled through it all like a pageant contestant*
 
-Sophia set her phone aside and lay back on her bed, staring at her ceiling. The dinner had confirmed what she already knew: she was the complication. The variable. The friend who could be tolerated as long as she stayed in her lane and didn't interfere with the master plan.
+**maya:** *ugh*
+
+**maya:** *im sorry*
+
+**maya:** *want to talk about it?*
+
+**sophia:** *not tonight*
+
+**sophia:** *tomorrow?*
+
+**maya:** *tomorrow*
+
+**maya:** *game first emotional processing after*
+
+Sophia set her phone aside and lay back on her bed, staring at her ceiling. The dinner had confirmed what she already knew: she was the one who didn't fit. The friend who could be tolerated as long as she stayed in her lane and didn't interfere with the master plan.
 
 And she would. She would be his friend, nothing more, because that's what he needed. Even if it killed her.
 
@@ -454,9 +586,9 @@ Even if every time he smiled at her or touched her hand or said she made him rem
 
 Her phone buzzed one more time.
 
-**Ethan:** *Sleep well, Soph.*
+**ethan:** *sleep well soph*
 
-**Sophia:** *You too.*
+**sophia:** *you too*
 
 But she didn't sleep well. She lay awake replaying every moment of the evening—Robert's pointed questions, Caroline's measuring looks, Ethan's quiet fury on her behalf—and tried to figure out how to be satisfied with friendship when her heart wanted so much more.
 

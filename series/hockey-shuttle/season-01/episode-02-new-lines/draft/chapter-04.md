@@ -2,7 +2,7 @@
 
 Monday morning arrived with the kind of cold that felt personal—wind cutting through Sophia's coat, her breath visible in angry little clouds, the Honda's heater refusing to work until she was halfway to school.
 
-She'd spent Sunday with Maya consuming ice cream and watching bad movies and carefully not discussing Ethan Hayes. But now it was Monday and she had to face school and him and the aftermath of Saturday's game and that conversation in the parking lot.
+She'd spent Sunday with Maya consuming ice cream and watching bad movies and carefully not discussing Ethan Price. She'd also turned off Instagram notifications after the goal point video hit fifty reposts and her mentions became unmanageable. People had opinions. So many opinions. But now it was Monday and she had to face school and him and the aftermath of Saturday's game and that conversation in the parking lot.
 
 *I play better because you were there. I always do.*
 
@@ -40,7 +40,7 @@ This sounded ominous. Sophia followed him toward the less-crowded back hallway, 
 
 "He's into you." Jordan said it bluntly, without preamble. "Like, really into you. Has been since you showed up three weeks ago."
 
-Sophia's heart stopped. "What?"
+Sophia's ribcage felt two sizes too small. "What?"
 
 "He won't admit it—keeps calling you his friend, keeps trying to do the right thing with Becca—but it's obvious to everyone who has working eyes." Jordan leaned against a locker, watching her carefully. "I thought you should know. Because watching you two do this dance is painful and someone needs to just say it out loud."
 
@@ -74,11 +74,21 @@ And none of it mattered because he was with Becca and his parents were planning 
 
 Her phone buzzed.
 
-**Maya:** *You okay? Need extraction?*
+**maya:** *you okay?*
 
-**Sophia:** *I'm fine. Just needed a minute. See you in AP Calc.*
+**maya:** *need extraction?*
 
-**Maya:** *Liar. But okay. I'm here when you're ready to talk.*
+**sophia:** *im fine*
+
+**sophia:** *just needed a minute*
+
+**sophia:** *see you in ap calc*
+
+**maya:** *liar*
+
+**maya:** *but okay*
+
+**maya:** *im here when youre ready to talk*
 
 Sophia took three deep breaths, fixed her ponytail, and headed to first period. She could do this. She could face the day and Ethan and all of it without falling apart.
 
@@ -106,13 +116,13 @@ Sophia looked up. Ethan was standing beside her desk, backpack slung over one sh
 
 "Can we talk? After class?"
 
-Her heart was doing that arhythmic thing again. "Sure."
+Her whole body pulsed. "Sure."
 
 "Great. Good." He hesitated, like he wanted to say more, then nodded and went back to his seat.
 
 The class lasted approximately seventeen years. Every time Sophia glanced over, Ethan was either staring at his textbook with intense focus or looking at her. They made eye contact three times. Each time felt like touching a live wire.
 
-When the bell finally rang, Sophia gathered her stuff with hands that shook slightly. Ethan was waiting by the door, and they fell into step together heading toward the cafeteria.
+When the bell finally rang, Sophia gathered her stuff. Her fingers wouldn't cooperate with the zipper on her bag. Ethan was waiting by the door, and they fell into step together heading toward the cafeteria.
 
 "So," he said once they were in the hallway. "About Saturday."
 
@@ -122,17 +132,17 @@ When the bell finally rang, Sophia gathered her stuff with hands that shook slig
 
 "You didn't—"
 
-"I did. You're trying to be my friend and I keep making it complicated." They stopped near the science wing lockers, creating a small pocket of space in the crowded hallway. "I'm sorry. I'm going to do better. Keep things... clearer."
+"I did. You're trying to be my friend and I keep making it tangled." They stopped near the science wing lockers, creating a small pocket of space in the crowded hallway. "I'm sorry. I'm going to do better. Keep things... clearer."
 
 Clearer. Right. Friend zone, established and maintained.
 
-"Okay," Sophia said, even though her heart was screaming. "Clearer. Good."
+"Okay," Sophia said, even though something under her sternum was squeezing—hope or panic or both. "Clearer. Good."
 
 "Good." Ethan smiled, but it looked painful. "So we're good?"
 
 "We're good."
 
-They weren't good. Nothing about this was good. But Sophia nodded anyway and let him walk away toward the cafeteria, toward Becca and his normal life, while she stood there trying to figure out how to breathe around the tightness in her chest.
+They weren't good. Nothing about this was good. But Sophia nodded anyway and let him walk away toward the cafeteria, toward Becca and his normal life, while she stood there trying to remember how to breathe.
 
 Maya found her three minutes later, still standing in the same spot.
 
@@ -174,11 +184,11 @@ She stopped, pressing herself against the wall, and listened. Because apparently
 
 "I have made a decision." Ethan sounded tired. "Becca's great. We work. I'm not going to screw that up because I have feelings for someone I can't have."
 
-Sophia's heart stopped. *Feelings for someone I can't have.*
+Her lungs forgot how to work for a second. *Feelings for someone I can't have.*
 
 "Why can't you have her?" Jordan pressed. "You're both miserable pretending—"
 
-"Because my parents are already on high alert. Because Becca deserves better than me breaking up with her for my childhood friend who makes me question everything. Because Sophie needs to be able to have a normal life here without me complicating it." Ethan's voice dropped. "And because if I'm being honest, I'm scared."
+"Because my parents are already on high alert. Because Becca deserves better than me breaking up with her for my childhood friend who makes me question everything. Because Sophie needs to be able to have a normal life here without me making it a mess." Ethan's voice dropped. "And because if I'm being honest, I'm scared."
 
 "Of what?"
 
@@ -198,13 +208,85 @@ She made it to the bathroom before the first tears fell, locking herself in a st
 
 That's what she was to him. A problem requiring a solution. A distraction requiring management. Not someone he had feelings for—despite what he'd said to Jordan—but someone he needed to neutralize so he could focus on his real life.
 
-Her phone buzzed. Maya: *Where are you? You missed the bell.*
+Her phone buzzed.
 
-Sophia wiped her eyes, took three shaky breaths, and texted back: *Bathroom. Be there in a minute.*
+**maya:** *where are you*
 
-She couldn't fall apart. She had European History and then badminton practice and a tournament this weekend that required focus. She could cry later. She could process later.
+**maya:** *you missed the bell*
+
+Sophia wiped her eyes, took three shaky breaths, and texted back: *bathroom*
+
+*be there in a minute*
+
+She stared at her reflection in the bathroom mirror—red eyes, blotchy cheeks, the look of someone who'd just had her heart casually ripped out in a hallway. She splashed cold water on her face, but it didn't help. She still looked wrecked.
+
+*Setting her up with someone.*
+
+The words kept echoing. He'd said it so casually, like it was the obvious solution. Like she was a problem to be managed. A distraction to be neutralized. Not someone he cared about—not really. Just an inconvenience in his carefully planned life.
+
+She couldn't fall apart. She had European History in five minutes, then badminton practice, and a tournament this weekend that required focus. She could cry later. She could process later.
 
 Right now, she needed to put on her "I'm fine" face and get through the day.
+
+---
+
+European History was torture.
+
+Sophia sat in the back row, staring at her notebook without seeing it. Mr. Thompson was lecturing about the Congress of Vienna, something about balance of power and diplomatic marriages, and normally she'd be taking notes. Normally she'd care.
+
+But all she could think about was Ethan's voice: *I'm thinking of setting her up with someone. Alex Chen maybe?*
+
+Alex Chen. She knew him vaguely—pre-med track, quiet, nice enough. Exactly the kind of person who made sense for her. Someone appropriate. Someone who wouldn't complicate Ethan's life.
+
+Her phone buzzed silently in her pocket. Probably Maya, checking on her. Sophia didn't look.
+
+At lunch, she couldn't face the cafeteria. Couldn't face seeing Ethan with Becca, couldn't face pretending everything was fine. She hid in the library instead, at a back table behind the stacks, and tried to eat her sandwich. It tasted like cardboard.
+
+Maya found her anyway.
+
+"Hey," Maya said, sliding into the seat across from her. "I've been texting you."
+
+"Sorry. Phone's on silent."
+
+"Sophie." Maya's voice was gentle. "What happened? You disappeared after second period looking like—" She stopped, studying Sophia's face. "Oh god. What did he do?"
+
+"Nothing. He didn't do anything." Sophia set down her sandwich, appetite gone. "I just— I overheard him talking to Jordan. About me. About setting me up with someone so he can focus on Becca and hockey and his perfect life."
+
+Maya's expression went from concerned to furious. "He what?"
+
+"It's fine. He's doing the right thing. The responsible thing." Sophia's voice cracked slightly. "I'm the distraction, Maya. He's just managing the situation."
+
+"That's not—" Maya stopped, took a breath. "Okay. First of all, you are not a distraction. You're a person with feelings who he clearly has feelings for. Second, if he's too much of a coward to deal with that honestly, that's on him. Not you."
+
+"But I understand why he can't—"
+
+"Stop," Maya interrupted firmly. "Stop making excuses for him. Stop understanding. He hurt you. You're allowed to be hurt."
+
+Was she? Sophia stared at her hands—the same hands Ethan had held across a study table just yesterday. Less than twenty-four hours ago, he'd laced their fingers together and thanked her for seeing him. And now he was planning to set her up with someone else so she'd stop being a problem.
+
+"I have badminton practice after school," Sophia said numbly. "I need to focus on that. The tournament's Saturday."
+
+"Okay. But we're talking about this later. Real talk. Not you pretending you're fine." Maya squeezed her hand. "You're allowed to not be fine, Sophie."
+
+Sophia nodded, but she knew she wouldn't talk about it later. She'd keep being fine, keep smiling, keep pretending her heart wasn't shattered. Because that's what you did when you were the thing someone needed to solve.
+
+---
+
+The rest of Wednesday afternoon dragged. In AP Calc, she kept her head down, avoided eye contact with Ethan across the room. She felt him looking at her—felt it like a physical thing—but she didn't look back. Couldn't.
+
+After class, as she was gathering her books, he appeared beside her desk.
+
+"Hey," he said. "You okay? You seemed off today."
+
+Off. She was off. Like a light switch. Like something that needed adjusting.
+
+"I'm fine," Sophia said, shouldering her backpack. "Just tired."
+
+"Sophie—"
+
+"I have to go. Badminton practice." She was moving before he could say more, before she could see whatever expression was on his face, before she could do something humiliating like cry in the hallway.
+
+She felt him watching her leave, but she didn't turn around.
 
 ---
 
@@ -224,31 +306,47 @@ Instead, she sat in her car and stared at her phone.
 
 The group chat—the hockey team plus friends, which now included her—was full of messages about a party Saturday night. Tyler's house, parents out of town, low-key hangout post-game and post-tournament.
 
-**Tyler:** *Everyone better show up. I'm making my famous nachos.*
+**tyler:** *everyone better show up*
 
-**Jordan:** *Your nachos are not famous. They're barely edible.*
+**tyler:** *im making my famous nachos*
 
-**Tyler:** *Lies and slander.*
+**jordan:** *your nachos are not famous*
 
-**Becca:** *We'll be there! Sounds fun.*
+**jordan:** *theyre barely edible*
 
-**Maya:** *Me and Sophie are in, assuming we don't die from badminton exhaustion.*
+**tyler:** *lies and slander*
+
+**becca:** *well be there! sounds fun*
+
+**maya:** *me and sophie are in*
+
+**maya:** *assuming we dont die from badminton exhaustion*
 
 Then a private message popped up, separate from the group chat. From Ethan.
 
-**Ethan:** *Can we talk before the party? There's something I want to ask you about.*
+**ethan:** *can we talk before the party?*
+
+**ethan:** *theres something i want to ask you about*
 
 Sophia stared at the message, stomach sinking. This was it. This was him setting her up with Alex Chen or whoever he'd decided was appropriate for her. This was him managing the situation, doing the right thing, solving the problem of her feelings.
 
 She should say no. She should protect herself, create distance, stop walking into situations that would hurt.
 
-But her thumbs were already typing: *Sure.*
+But her thumbs were already typing: *sure*
 
-Three dots appeared immediately. **Ethan:** *Meet at The Forks around 5? Before we head to Tyler's?*
+Three dots appeared immediately.
 
-**Sophia:** *Okay.*
+**ethan:** *meet at the forks around 5?*
 
-**Ethan:** *Great. See you tomorrow. Good luck at your tournament.*
+**ethan:** *before we head to tylers?*
+
+**sophia:** *okay*
+
+**ethan:** *great*
+
+**ethan:** *see you tomorrow*
+
+**ethan:** *good luck at your tournament*
 
 Sophia locked her phone and dropped it in the passenger seat. Then she sat in the dark parking lot and let herself feel everything she'd been holding back all week.
 
@@ -266,9 +364,9 @@ Sophia rolled down the window. "Hey."
 
 "Want to talk about it?"
 
-Did she? Sophia looked at Maya—her friend, her teammate, the person who'd adopted her three weeks ago and refused to let her suffer alone—and felt something crack.
+Did she? Sophia looked at Maya—her friend, her teammate, the person who'd adopted her three weeks ago and refused to let her suffer alone—and felt something break loose.
 
-"He's going to set me up with someone," she said, voice breaking. "I overheard him talking to Jordan. He has feelings for me but he's doing the 'right thing,' which apparently means setting me up with Alex Chen or someone equally appropriate so he can stay with Becca and I can stop being a problem."
+"He's going to set me up with someone," she said, voice cracking. "I overheard him talking to Jordan. He has feelings for me but he's doing the 'right thing,' which apparently means setting me up with Alex Chen or someone equally appropriate so he can stay with Becca and I can stop being a problem."
 
 Maya's expression went from concerned to furious in about two seconds. "Are you kidding me?"
 
@@ -280,7 +378,7 @@ Sophia moved over. Maya climbed into the driver's seat, shut the door, and turne
 
 "Okay. Real talk. Do you have feelings for him?"
 
-"Yes," Sophia whispered. "So many feelings. Too many feelings."
+"Yes," Sophia whispered. "Everything. All at once. I can't stop."
 
 "And he has feelings for you."
 
@@ -328,7 +426,7 @@ She'd become an expert at it.
 
 Saturday morning arrived with brutal clarity: tournament day.
 
-Sophia woke up at six, did her visualization exercises like Coach taught her, ate a protein-heavy breakfast, and carefully did not think about Ethan Hayes.
+Sophia woke up at six, did her visualization exercises like Coach taught her, ate a protein-heavy breakfast, and carefully did not think about Ethan Price.
 
 The tournament was at a community center across town, hosted by one of the other high schools in their division. Twelve schools competing, singles and doubles matches, running from nine AM until roughly forever.
 
@@ -356,7 +454,7 @@ By lunch break, she'd won three matches and was seeded into the afternoon semifi
 
 Sophia had seen Jennifer play that morning—tall, powerful, smart strategy. This would be a real match.
 
-Good. She needed a real match. She needed something to pour all this feeling into that wasn't Ethan Hayes and his careful distance and his plan to set her up with someone appropriate.
+Good. She needed a real match. She needed something to pour all this feeling into that wasn't Ethan Price and his careful distance and his plan to set her up with someone appropriate.
 
 The semifinal match started at two PM. Sophia and Jennifer were evenly matched—long rallies, strategic shots, both of them refusing to give an inch. The first game went to deuce, Sophia finally winning 24-22. The second game was brutal—Jennifer adjusted her strategy, targeted Sophia's backhand, won 21-18.
 
@@ -380,7 +478,7 @@ Sophia's serve now. She took a breath, visualized the shot, served deep to Jenni
 
 One more point. She could do this.
 
-She served again, Jennifer returned aggressive, and they went into the longest rally of the match. Sophia's lungs were burning, her legs shaking, but she wouldn't lose. Couldn't lose. This was what she controlled. This was where she got to win.
+She served again, Jennifer returned aggressive, and they went into the longest rally of the match. Sophia's lungs were burning, her whole body trembling, but she wouldn't lose. Couldn't lose. This was what she controlled. This was where she got to win.
 
 Finally, Jennifer's shot went wide by inches. Out.
 
@@ -388,19 +486,27 @@ Finally, Jennifer's shot went wide by inches. Out.
 
 Sophia had won.
 
-She shook Jennifer's hand, accepted Coach Patterson's proud hug, and made it to the bathroom before her hands started shaking.
+She shook Jennifer's hand, accepted Coach Patterson's proud hug, and made it to the bathroom before she started shaking for real.
 
-She'd won. She was going to the finals. She was good at something, excellent at something, something that had nothing to do with Ethan Hayes and complicated feelings.
+She'd won. She was going to the finals. She was good at something, excellent at something, something that had nothing to do with Ethan Price and impossible feelings.
 
 Her phone buzzed. Multiple texts.
 
-**Maya:** *THAT WAS AMAZING. YOU'RE A WARRIOR.*
+**maya:** *THAT WAS AMAZING*
 
-**Priya:** *Holy shit Sophie you're in the finals!!!*
+**maya:** *YOURE A WARRIOR*
 
-**Coach Patterson (group text to team):** *Chen advances to finals. 4 PM. Everyone better be there to cheer.*
+**priya:** *holy shit sophie youre in the finals!!!*
 
-And then, from Ethan: *Maya posted on her story. I saw your match. You were incredible. Good luck in the finals.*
+**Coach Patterson (group text to team):** *chen advances to finals. 4 pm. everyone better be there to cheer.*
+
+And then, from Ethan: *maya posted on her story*
+
+*i saw your match*
+
+*you were incredible*
+
+*good luck in the finals*
 
 Sophia stared at that message, emotions warring in her chest. He was watching. Somehow, even from wherever he was, he was paying attention.
 
@@ -432,11 +538,15 @@ Right. The conversation. Where he was going to set her up with someone and she w
 
 Sophia changed out of her athletic clothes, got into Maya's car, and checked her phone. Five-fifteen. She was supposed to meet Ethan at The Forks at five.
 
-**Ethan:** *Running a few minutes late. Coach wanted to talk after the game. Meet you at our spot by the river at 5:30?*
+**ethan:** *running a few minutes late*
+
+**ethan:** *coach wanted to talk after the game*
+
+**ethan:** *meet you at our spot by the river at 5:30?*
 
 Their spot. The bench he'd shown her that first day at The Forks, his quiet place.
 
-**Sophia:** *Okay.*
+**sophia:** *okay*
 
 Maya drove her to The Forks, giving her hand one last squeeze before she got out. "You're amazing and brilliant and if he can't see that, it's his loss. Remember that."
 
@@ -448,7 +558,7 @@ Maya drove her to The Forks, giving her hand one last squeeze before she got out
 
 Sophia walked through The Forks market—quieter on a Saturday evening, tourists thinning out—toward the path that led to Ethan's bench. The October sun was setting, painting everything gold and orange, and she tried to memorize this moment. Before. Whatever came next, this was the before.
 
-Ethan was already there, sitting on the bench, staring at the river. He looked up when he heard her footsteps, and his smile was complicated.
+Ethan was already there, sitting on the bench, staring at the river. He looked up when he heard her footsteps, and his smile was full of things he wasn't saying.
 
 "Hey," he said, standing. "You made it."
 
@@ -458,19 +568,19 @@ This was it. The moment where he set her up with someone appropriate and she pre
 
 But Ethan didn't sit down. He stayed standing, running a hand through his hair—nervous gesture, childhood tell.
 
-"I need to ask you something," he said. "And I need you to be honest with me."
+"I need to ask you something," he said. "And I need— you need to be honest with me. Okay?"
 
 "Okay..."
 
-"Do you—" He stopped. Started again. "These past few weeks, being around you again, it's been... God, Sophie, it's been the best part of moving back to Winnipeg. You make me feel like myself again. Like the person I was before everything got so complicated."
+"Do you—" He laughed, frustrated with himself. "These past few weeks. Being around you again. It's been..." Another rough laugh. "God, Sophie, it's been the best part of— of moving back to Winnipeg. Coming back here. You make me feel like myself again. Like the person I was before everything got so..." He gestured vaguely, couldn't find the word.
 
-Sophia's heart was hammering. This wasn't the speech she'd expected.
+Sophia's heart was going wild. This wasn't the speech she'd expected.
 
-"And I know I'm with Becca, and I know my parents have opinions, and I know this is all super messed up." He was pacing now, words coming faster. "But I need to know if I'm imagining this. If it's just me feeling—"
+"And I know— I know I'm with Becca. I know my parents have opinions. I know this is all super messed up." He was pacing now, words coming faster. "But I need to know if I'm— if I'm imagining this. If it's just me who's feeling—" He cut himself off with a noise of frustration. "I don't know how to ask this."
 
-He stopped. Looked at her directly. "Do you feel it too? This thing between us?"
+He stopped pacing. Looked at her directly. "Do you feel it too? This— whatever this is. Between us. Do you feel it?"
 
-The world condensed to this moment: Ethan Hayes, asking the question she'd been too scared to ask. Offering her a chance to be honest instead of safe.
+The world condensed to this moment: Ethan Price, asking the question she'd been too scared to ask. Offering her a chance to be honest instead of safe.
 
 Sophia opened her mouth to answer—to say yes, I feel it, I've felt it since the moment I saw you again—when her phone exploded with notifications.
 
@@ -478,7 +588,7 @@ Buzz buzz buzz buzz buzz.
 
 Group chat going crazy. Multiple messages from Maya, from Jordan, from numbers she didn't recognize.
 
-"Sorry," she said, pulling out her phone to silence it. But she saw the preview of Maya's message: *DON'T GO TO THE PARTY. BECCA KNOWS. EMMA'S COUSIN TOLD HER ABOUT—*
+"Sorry," she said, pulling out her phone to silence it. But she saw the preview of Maya's message: *DONT GO TO THE PARTY. BECCA KNOWS. EMMAS COUSIN TOLD HER ABOUT—*
 
 "What's wrong?" Ethan asked, reading her expression.
 
@@ -496,15 +606,35 @@ Becca knew. About what? About them? About the hand-holding, the library sessions
 
 Her phone wouldn't stop buzzing. More messages, different people:
 
-**Jordan:** *Heads up - Becca confronted Ethan about you after the game. It got messy.*
+**jordan:** *heads up*
 
-**Tyler:** *Party might be cancelled. Drama incoming.*
+**jordan:** *becca confronted ethan about you after the game*
 
-**Maya:** *Where are you? Are you with him? Call me.*
+**jordan:** *it got messy*
+
+**tyler:** *party might be cancelled*
+
+**tyler:** *drama incoming*
+
+**maya:** *where are you*
+
+**maya:** *are you with him?*
+
+**maya:** *call me*
 
 And then, from an unknown number:
 
-**Unknown:** *This is Becca. We need to talk. About you and Ethan. I'm not angry, I just want to understand what's happening. Can you call me?*
+**unknown:** *this is becca*
+
+**unknown:** *we need to talk*
+
+**unknown:** *about you and ethan*
+
+**unknown:** *im not angry*
+
+**unknown:** *i just want to understand whats happening*
+
+**unknown:** *can you call me?*
 
 Sophia stopped in the middle of the parking lot, staring at her phone, the sunset painting everything the color of ending.
 
@@ -514,15 +644,29 @@ And Ethan—Ethan had been about to ask her something. Had been about to be hone
 
 Her phone buzzed again. Private message from Ethan:
 
-**Ethan:** *I need to talk to you. Not about setting you up with someone - I was never going to do that. Jordan misunderstood. I was going to ask if you felt the same way I feel. Because Sophie, I'm falling for you. And I need to know if I'm doing this alone.*
+**ethan:** *i need to talk to you*
+
+**ethan:** *not about setting you up with someone*
+
+**ethan:** *i was never going to do that*
+
+**ethan:** *jordan misunderstood*
+
+**ethan:** *i was going to ask if you felt the same way i feel*
+
+**ethan:** *because sophie*
+
+**ethan:** *im falling for you*
+
+**ethan:** *and i need to know if im doing this alone*
 
 Sophia stared at that message, the words blurring through sudden tears.
 
-*I'm falling for you.*
+*im falling for you*
 
 He'd said it. Actually said it. And she'd run.
 
-She started typing a response—*I feel the same way, I've felt the same way since I saw you again, I'm falling for you too*—when Maya's car screeched into the parking lot.
+She started typing a response—*i feel the same way, ive felt the same way since i saw you again, im falling for you too*—when Maya's car screeched into the parking lot.
 
 "Get in," Maya yelled through the window. "Everything's exploding and we need to figure out what to do."
 
@@ -532,25 +676,67 @@ Sophia got in, phone still in her hand, Ethan's message still unanswered. Behind
 
 "Emma's cousin told Becca about Saturday—about him pointing at you after the goal, about the way you were sitting together at Stella's. Becca confronted him after his game today. He tried to explain and it went badly." Maya glanced at her. "She broke up with him, Sophie. Told him to figure out what he actually wants before dragging her along for it."
 
-Sophia's chest tightened. "He got dumped because of me."
+It hit Sophia somewhere behind her collarbone—that oh shit feeling. "He got dumped because of me."
 
 "He got dumped because he was emotionally cheating with you while dating her. That's on him, not you." Maya's voice was firm. "But now the question is: what do you want to do about it?"
 
-Sophia looked at her phone. Ethan's message: *I'm falling for you. And I need to know if I'm doing this alone.*
+Sophia looked at her phone. Ethan's message: *im falling for you. and i need to know if im doing this alone*
 
-She started typing, hands shaking: *You're not alone. I feel it too. I'm sorry I ran. I'm sorry for all of this. But I—*
+She started typing, fingers unsteady: *youre not alone*
 
-Before she could finish, another message came through from Ethan: *My parents just called. They saw what happened with Becca. They want me home now for a "family discussion." Pretty sure that means they're going to tell me to stop seeing you.*
+*i feel it too*
 
-Then: *I don't know what happens next. But I need you to know - whatever happens - you weren't the distraction. You were the reminder. Of who I'm supposed to be. Who I want to be.*
+*im sorry i ran*
 
-Another message: *I have to go deal with my parents. But can we talk? Tomorrow? Actually talk this time?*
+*im sorry for all of this*
 
-Sophia typed with shaking fingers: *Yes. Tomorrow. I'm sorry about Becca. I'm sorry about all of it.*
+*but i—*
 
-**Ethan:** *Don't be sorry. Nothing about you is something to be sorry for.*
+Before she could finish, another message came through from Ethan: *my parents just called*
 
-Then: *Talk tomorrow. I promise.*
+*they saw what happened with becca*
+
+*they want me home now for a "family discussion"*
+
+*pretty sure that means theyre going to tell me to stop seeing you*
+
+Then: *i dont know what happens next*
+
+*but i need you to know*
+
+*whatever happens*
+
+*you werent the distraction*
+
+*you were the reminder*
+
+*of who im supposed to be*
+
+*who i want to be*
+
+Another message: *i have to go deal with my parents*
+
+*but can we talk?*
+
+*tomorrow?*
+
+*actually talk this time?*
+
+Sophia typed back: *yes*
+
+*tomorrow*
+
+*im sorry about becca*
+
+*im sorry about all of it*
+
+**ethan:** *dont be sorry*
+
+**ethan:** *nothing about you is something to be sorry for*
+
+Then: *talk tomorrow*
+
+*i promise*
 
 Sophia locked her phone and stared out the window as Maya drove. The sun was setting over Winnipeg, painting the sky in shades of gold and crimson, and everything was falling apart and coming together at the same time.
 
@@ -562,15 +748,27 @@ Sophia didn't have an answer. She just sat in the passenger seat, watching the c
 
 Her phone buzzed one more time. Private message from Ethan:
 
-**Ethan:** *For the record? I was never going to set you up with Alex Chen. I was going to ask if you wanted to go to homecoming. With me. As more than friends.*
+**ethan:** *for the record?*
+
+**ethan:** *i was never going to set you up with alex chen*
+
+**ethan:** *i was going to ask if you wanted to go to homecoming*
+
+**ethan:** *with me*
+
+**ethan:** *as more than friends*
 
 Sophia stared at that message, and something in her chest broke open—not painful, but like sunlight through clouds.
 
-*With me. As more than friends.*
+*with me. as more than friends*
 
-She typed back: *Ask me tomorrow. When everything isn't exploding.*
+She typed back: *ask me tomorrow*
 
-**Ethan:** *Tomorrow. I promise.*
+*when everything isnt exploding*
+
+**ethan:** *tomorrow*
+
+**ethan:** *i promise*
 
 Maya glanced over. "You okay?"
 
@@ -594,25 +792,33 @@ Sophia thought about it—the party full of people with opinions, questions, jud
 
 As they drove through Winnipeg, Sophia pulled up her text thread with Ethan and read his messages again:
 
-*I'm falling for you.*
+*im falling for you*
 
-*You weren't the distraction. You were the reminder.*
+*you werent the distraction. you were the reminder*
 
-*I was going to ask if you wanted to go to homecoming with me. As more than friends.*
+*i was going to ask if you wanted to go to homecoming with me. as more than friends*
 
 Tomorrow, she'd tell him yes. To all of it. Yes to being more than friends. Yes to homecoming. Yes to figuring out how to make this work despite his parents' plans and her own fears and the complicated mess of their lives.
 
 Tomorrow, she'd stop being the variable that didn't fit and start being the equation's solution.
 
-But tonight—tonight she was going to eat ice cream with her best friend and try to process the fact that Ethan Hayes was falling for her, and everything was about to change.
+But tonight—tonight she was going to eat ice cream with her best friend and try to process the fact that Ethan Price was falling for her, and everything was about to change.
 
 Her phone buzzed one last time. Another message from Ethan:
 
-**Ethan:** *Sleep well, Soph. Tomorrow, everything's going to be different. Better. I promise.*
+**ethan:** *sleep well soph*
+
+**ethan:** *tomorrow everythings going to be different*
+
+**ethan:** *better*
+
+**ethan:** *i promise*
 
 Sophia smiled at her phone, at the nickname only he used, at the promise in those words.
 
-She typed back: *Better. I like the sound of that.*
+She typed back: *better*
+
+*i like the sound of that*
 
 Then she locked her phone, leaned back in her seat, and let herself feel everything—the fear, the hope, the cautious joy of maybe, possibly, this could actually work.
 

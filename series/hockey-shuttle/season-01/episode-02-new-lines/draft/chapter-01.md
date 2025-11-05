@@ -2,7 +2,7 @@
 
 ## Previously On...
 
-*Two weeks ago, Sophia Chen returned to Winnipeg after six years away, reconnecting with her childhood friend Ethan Hayes—now the star center of Westwood High's hockey team and dating the most popular girl in school. Their Sunday morning skating session at Bell MTS Iceplex reminded them both of who they used to be, before life got complicated. Before his parents' ambitions. Before her family moved away. Before Becca Morrison.*
+*Two weeks ago, Sophia Chen returned to Winnipeg after six years away, reconnecting with her childhood friend Ethan Price—now the star center of St. Paul's High School's hockey team and dating the most popular girl in school. Their Sunday morning skating session at Bell MTS Iceplex reminded them both of who they used to be, before life got tangled. Before his parents' ambitions. Before her family moved away. Before Becca Martinez.*
 
 *"See you Monday, Soph," he'd said, using the nickname only he remembered.*
 
@@ -12,15 +12,15 @@
 
 The problem with hot chocolate at The Forks on a late September afternoon is that it makes you believe in things that don't exist.
 
-Sophia wrapped both hands around the paper cup, watching steam curl into air that smelled of cinnamon and burnt sugar from the nearby BeaverTails stand. Beside her, Maya Foster was mid-story about Coach Patterson's latest motivational speech—something involving a badminton birdie and the nature of resilience—but Sophia's attention kept drifting to the picnic table fifteen feet away.
+Sophia wrapped both hands around the paper cup, watching steam curl into air that smelled of cinnamon and burnt sugar from the nearby BeaverTails stand. She'd checked her phone twice in the last ten minutes—no new Instagram notifications, thank god—and was trying to focus on Maya Foster's story about Coach Patterson's latest motivational speech. Something involving a badminton birdie and the nature of resilience. But Sophia's attention kept drifting to the picnic table fifteen feet away.
 
-Ethan Hayes sat with his back to the Red River, golden hour light making his dark hair look almost bronze. His arm rested along the back of the bench behind Becca Morrison, who was laughing at something Jordan Nakamura had just said. The whole scene looked like it belonged on Westwood High's Instagram feed: beautiful people being effortlessly beautiful in a beautiful place.
+Ethan Price sat with his back to the Red River, golden hour light making his dark hair look almost bronze. His arm rested along the back of the bench behind Becca Martinez, who was laughing at something Jordan Nakamura had just said. The whole scene looked like it belonged on St. Paul's High School's Instagram feed: beautiful people being effortlessly beautiful in a beautiful place.
 
 "—and then she made us all hold the birdie above our heads for like five minutes," Maya was saying. "My arms are still sore. Are you even listening?"
 
 "Yes. Birdie. Resilience. Sore arms." Sophia took a sip of hot chocolate and immediately burned her tongue. Perfect. That's what she got for not paying attention.
 
-Maya followed her gaze, then sighed. "You know, for someone who claims to be 'just friends' with Ethan Hayes, you spend a lot of time watching him."
+Maya followed her gaze, then sighed. "You know, for someone who claims to be 'just friends' with Ethan Price, you spend a lot of time watching him."
 
 "I'm not watching him. I'm observing group dynamics. It's sociological research."
 
@@ -30,15 +30,15 @@ Before Sophia could formulate a response that sounded anything other than pathet
 
 "Sociological research," Maya muttered. "Sure."
 
-The walk across fifteen feet of weathered dock felt like crossing a border checkpoint. Sophia was hyper-aware of her jeans (old), her Westwood Badminton hoodie (new but not stylish), and the way her hair was probably doing that thing where it tried to escape her ponytail in five different directions.
+The walk across fifteen feet of weathered dock felt like crossing a border checkpoint. Sophia was hyper-aware of her jeans (old), her St. Paul's Badminton hoodie (new but not stylish), and the way her hair was probably doing that thing where it tried to escape her ponytail in five different directions. At least no one had their phones out. The last thing she needed was more social media drama.
 
-"Sophia! Maya!" Becca Morrison shifted to make room, patting the bench beside her like they were all best friends. Which made everything so much worse. It would be easier if Becca was terrible. She wasn't. She was kind and genuine and apparently incapable of noticing that her boyfriend had entire conversations with his childhood friend using only eye contact.
+"Sophia! Maya!" Becca Martinez shifted to make room, patting the bench beside her like they were all best friends. Which made everything so much worse. It would be easier if Becca was terrible. She wasn't. She was kind and genuine and apparently incapable of noticing that her boyfriend had entire conversations with his childhood friend using only eye contact.
 
 "We were just talking about homecoming," Becca said as they sat down. "Are you guys going?"
 
-"Probably," Maya said easily. She'd been in Winnipeg her whole life, transferred to Westwood from St. Mary's Academy freshman year, and had the kind of social confidence Sophia envied. "Sophie and I might go together. Girl squad."
+"Probably," Maya said easily. She'd been in Winnipeg her whole life, transferred to St. Paul's from St. Mary's Academy freshman year, and had the kind of social confidence Sophia envied. "Sophie and I might go together. Girl squad."
 
-Sophie. She'd been in Winnipeg three weeks and already had a second nickname. Back in Thunder Bay, she'd just been Sophia. Occasionally Chen. Here she was Soph (Ethan only) and Sophie (everyone else) and sometimes that girl who's really good at badminton (overheard in hallways).
+Sophie. She'd been in Winnipeg three weeks and already had a second nickname. Back in Millbrook, she'd just been Sophia. Occasionally Chen. Here she was Soph (Ethan only) and Sophie (everyone else) and sometimes that girl who's really good at badminton (overheard in hallways).
 
 "You should definitely come," Becca said warmly. "The fall dance is pretty great. They do it outside if the weather holds—lanterns and everything."
 
@@ -54,7 +54,7 @@ Sophia nodded, trying not to look at Ethan. She could feel him watching her the 
 
 "Perfect," Ethan said, his first words since they'd joined the group. "I don't skateboard either. We can judge everyone else's form together."
 
-Becca laughed. "Ethan Hayes, afraid of a skateboard but throws himself in front of hundred-mile-an-hour slap shots."
+Becca laughed. "Ethan Price, afraid of a skateboard but throws himself in front of hundred-mile-an-hour slap shots."
 
 "It's about control," Ethan said, but he was still looking at Sophia. "Hockey, I know. Skateboarding?" He shrugged. "Too many variables."
 
@@ -104,11 +104,11 @@ Had she? Sophia replayed the last two weeks of conversations and winced. She'd d
 
 "You should be. Coach Patterson doesn't put juniors on varsity unless they're seriously good." He bumped her shoulder with his. "My dad knows her from the athletic director meetings. He said she called you 'championship material.'"
 
-Sophia's stomach did a complicated flip. "Your dad talks about me?"
+That falling-elevator feeling hit. "Your dad talks about me?"
 
 "Mentioned you once. In passing." Something shifted in Ethan's expression, a cloud crossing the sun. "He and my mom want to meet you, actually. They remember you from when we were kids."
 
-"Oh." She tried to imagine sitting across from Robert and Caroline Hayes, the power couple who'd moved their nine-year-old son to Winnipeg for better hockey opportunities, who had his next eight years planned down to which NCAA Division I program would give him the best shot at the NHL. "That sounds... formal."
+"Oh." She tried to imagine sitting across from Robert and Caroline Price, the power couple who'd moved their nine-year-old son to Winnipeg for better hockey opportunities, who had his next eight years planned down to which NCAA Division I program would give him the best shot at the NHL. "That sounds... formal."
 
 "It is formal. That's the problem." Ethan's jaw tightened in a way that reminded her of Sunday morning, when he'd talked about MIT and engineering and all the things he wanted that weren't hockey. "They've invited you to dinner next Friday. My mom called it 'reconnecting with Ethan's childhood friend.' I call it 'vetting someone who might distract him from his hockey future.'"
 
@@ -128,7 +128,7 @@ They jogged to catch up, and Sophia told herself that whatever had just happened
 
 Except he wasn't. She'd watched him at school these past weeks. He had different versions of himself: Hockey Ethan (focused, intense), Boyfriend Ethan (attentive, charming), Student Ethan (smart but carefully not too smart), and Friend Ethan (easy, funny, well-liked).
 
-But with her, especially when they were sort-of alone, he was just Ethan. The kid who used to quiz her on multiplication tables while they skated circles around the outdoor rink in Thunder Bay. The kid who cried when his family told him they were moving but pretended he was excited. The kid who wrote her letters for six months before they both got busy with new lives.
+But with her, especially when they were sort-of alone, he was just Ethan. The kid who used to quiz her on multiplication tables while they skated circles around the outdoor rink in Millbrook. The kid who cried when his family told him they were moving but pretended he was excited. The kid who wrote her letters for six months before they both got busy with new lives.
 
 That Ethan was dangerous. That Ethan could break her heart.
 
@@ -142,7 +142,7 @@ Jordan's "impossible" attempt turned out to be a kickflip off a low rail, which 
 
 "Sophia and Sophie are the crowd. Crowd of two. Still counts."
 
-Sophia found herself laughing too, pulled into the easy rhythm of their friendship. This was what she'd been missing in Thunder Bay—not romance, just this. People. Connection. The casual intimacy of inside jokes and shared history she wasn't part of yet but could be, if she stayed long enough.
+Sophia found herself laughing too, pulled into the easy rhythm of their friendship. This was what she'd been missing in Millbrook—not romance, just this. People. Connection. The casual intimacy of inside jokes and shared history she wasn't part of yet but could be, if she stayed long enough.
 
 Ethan leaned against the fence beside her, not skating, just watching. Their shoulders touched. She didn't move away.
 
@@ -152,11 +152,11 @@ Ethan leaned against the fence beside her, not skating, just watching. Their sho
 
 "What about you, Sophie?" Jordan asked. "Secret skateboarding skills we should know about?"
 
-Sophia shook her head. "I tried once. In Thunder Bay. I have video evidence of exactly how badly it went."
+Sophia shook her head. "I tried once. In Millbrook. I have video evidence of exactly how badly it went."
 
 "Now I need to see this video," Becca said, coming to stand on Ethan's other side. She linked her arm through his with easy possession, and Sophia felt something twist in her chest. Not jealousy exactly. More like grief for a thing that never existed.
 
-"It's lost to time," Sophia lied. It wasn't lost. It was on her old phone in a drawer somewhere, her thirteen-year-old self eating concrete while her Thunder Bay friends laughed. "Probably for the best."
+"It's lost to time," Sophia lied. It wasn't lost. It was on her old phone in a drawer somewhere, her thirteen-year-old self eating concrete while her Millbrook friends laughed. "Probably for the best."
 
 "Come on," Ethan said suddenly, pushing off the fence. "If we're not skating, let's at least walk. There's somewhere I want to show Sophia."
 
@@ -180,27 +180,31 @@ Sophia sat beside him, leaving careful space between them. "It's nice."
 
 "Ethan—"
 
-"Let me finish." He turned to face her, and his expression was so earnest it hurt to look at. "Having you back makes me remember who I was before everything got so planned out. You make me want to do the engineering thing again, actually try for MIT instead of just following the hockey path my parents paved. That's positive."
+"Let me— just, let me finish." He turned to face her, and his expression was so earnest it hurt to look at. "Having you back, it's like— I don't know how to explain this." He ran his hand through his hair again. "I remember who I was? Before everything got so... planned out. Does that make sense?"
+
+"Yeah, I—"
+
+"And like, you make me want— the engineering thing. MIT. I actually think about it now instead of just... not thinking about it. Because that's easier, you know? Not thinking. Just following the path they—" He stopped. "That's the positive part. You make me think again."
 
 "And the distraction part?"
 
-He smiled, but it was complicated. "You make me think about things I can't have right now. MIT. Engineering. A life that's mine instead of theirs." He paused. "And you make me remember that I used to be happier. That's distracting when you're trying to stay focused on the thing everyone expects you to do."
+He smiled, but there was something tangled in it. Took a breath. "You make me think about stuff I can't— things I can't have right now. Like MIT. Engineering. A life that's actually mine instead of—" He gestured vaguely. "And you make me remember that I used to be, like, happier? Is that weird to say? That's distracting when you're trying to stay focused on the thing everyone expects you to do."
 
-Sophia's heart was doing something arhythmic and painful. This felt like a confession, but she couldn't tell what exactly he was confessing to. Friendship? Regret? Something more that neither of them could name?
+Her heartbeat was in her ears, loud and uneven. This felt like a confession, but she couldn't tell what exactly he was confessing to. Friendship? Regret? Something more that neither of them could name?
 
 "I don't want to mess things up for you," she said carefully.
 
-"You won't. You couldn't." He said it with such certainty that she almost believed him. "I just needed you to know that having you here is good. Even when it's complicated."
+"You won't. You couldn't." He said it with such certainty that she almost believed him. "I just needed you to know that having you here is good. Even when it's... a lot."
 
-"Complicated because of Becca?"
+"A lot because of Becca?"
 
 The question slipped out before she could stop it, and immediately she wanted to take it back. But Ethan didn't look away.
 
-"Complicated because of everything," he said quietly. "But yeah. Becca's great. She's been great all summer. It's just..."
+"A lot because of everything," he said quietly. "But yeah. Becca's— she's great. She's been great all summer. It's just..." He trailed off, staring at the river.
 
 "Not what you expected?"
 
-"Not what I feel." He stood up abruptly, running a hand through his hair. "We should get back. They'll think we got lost."
+"Not what I—" He laughed, frustrated. "I don't feel what I'm supposed to feel. You know?" He stood up abruptly, running a hand through his hair. "We should get back. They'll— they'll think we got lost or whatever."
 
 Sophia stood too, her mind racing. *Not what I feel.* What did that mean? What was he feeling? And why was he with Becca if—
 
@@ -218,7 +222,7 @@ He'd gotten this before they even started walking. He'd planned this moment, thi
 
 "Come on." Ethan started walking back toward the skateboard park. "Jordan's probably attempted three more impossible tricks by now."
 
-They walked in comfortable silence, drinking their hot chocolate, the sun painting everything amber and gold. Sophia thought about complicated things and feelings that didn't match and the way Ethan Hayes remembered her favorite ratio of marshmallows to cocoa.
+They walked in comfortable silence, drinking their hot chocolate, the sun painting everything amber and gold. Sophia thought about complicated things and feelings that didn't match and the way Ethan Price remembered her favorite ratio of marshmallows to cocoa.
 
 Maya's voice echoed again: *How's that working out for your heart?*
 
@@ -238,7 +242,7 @@ By the time they got back, full darkness was creeping in and the group was packi
 
 But Becca just smiled. "That's sweet. He's always doing stuff like that. Last week he brought me coffee in the middle of practice because I'd texted that I was tired." She linked her arm through Ethan's again, natural and easy. "He's a good one."
 
-"Yeah," Sophia said, her throat suddenly tight. "He is."
+"Yeah," Sophia said, breathing getting complicated. "He is."
 
 They all walked back through The Forks together, the market closing down for the evening, vendors pulling shutters and counting registers. Sophia found herself in the middle of the group, half-listening to Tyler and Jordan argue about the physics of skateboarding while Ethan and Becca walked slightly ahead, her head on his shoulder.
 
@@ -256,9 +260,9 @@ By the time Sophia got home, her parents were setting the table for dinner and h
 
 "Good. Met some of Ethan's friends."
 
-Her mom's eyebrows rose with interest. "Ethan Hayes? From Thunder Bay? I didn't know you two reconnected."
+Her mom's eyebrows rose with interest. "Ethan Price? From Millbrook? I didn't know you two reconnected."
 
-"Yeah. He goes to Westwood." Sophia helped set out plates, avoiding her mother's gaze. Susan Chen had a particular talent for reading subtext, and Sophia wasn't ready to discuss the subtext of her afternoon.
+"Yeah. He goes to St. Paul's." Sophia helped set out plates, avoiding her mother's gaze. Lisa Chen had a particular talent for reading subtext, and Sophia wasn't ready to discuss the subtext of her afternoon.
 
 "That's nice, sweetie. It's good you have a friend here."
 
@@ -272,9 +276,9 @@ David looked up from his "homework." "Is he the hockey guy you used to skate wit
 
 "At hockey? Yeah. Really good. Like, probably-going-to-the-NHL good."
 
-David made an impressed noise and went back to his phone-homework. Sophia's dad emerged from his home office, looking tired but pleased. James Chen was an aerospace engineer at StandardAero, one of the reasons they'd moved to Winnipeg. Better job, more opportunities, closer to family. All good reasons that didn't make Sophia miss Thunder Bay any less.
+David made an impressed noise and went back to his phone-homework. Sophia's dad emerged from his home office, looking tired but pleased. Mark Russell was an aerospace engineer at StandardAero, one of the reasons they'd moved to Winnipeg. Better job, more opportunities, closer to family. All good reasons that didn't make Sophia miss Millbrook any less.
 
-Except lately, she'd been missing Thunder Bay a little less. Lately, she'd been settling into Winnipeg like maybe it could be home.
+Except lately, she'd been missing Millbrook a little less. Lately, she'd been settling into Winnipeg like maybe it could be home.
 
 "So," her dad said, sitting down at the head of the table. "How's school? Badminton? Social life?"
 
@@ -294,9 +298,11 @@ She pulled out her phone, opened their text thread. No new messages since this m
 
 Her thumbs hovered over the keyboard. What do you say to someone who's both your oldest friend and a complete mystery? Someone who has a girlfriend but buys you hot chocolate the way you liked it when you were nine?
 
-Finally, she typed: *Thanks for the hot chocolate. And for showing me your spot.*
+Finally, she typed: *thanks for the hot chocolate. and for showing me your spot*
 
-Three dots appeared immediately, like he'd been waiting for her to text. Then: *Anytime, Soph. See you Monday.*
+Three dots appeared immediately, like he'd been waiting for her to text. Then: *anytime soph*
+
+Another bubble: *see you monday*
 
 Just friends, she told herself firmly. They were just friends.
 
@@ -306,7 +312,7 @@ Or maybe she was just really bad at it.
 
 ---
 
-Monday morning arrived with rain—cold, insistent, autumn rain that made Winnipeg feel smaller and grayer. Sophia parked her mom's Honda in the Westwood lot and sprinted for the main entrance, dodging puddles and already-soaked students.
+Monday morning arrived with rain—cold, insistent, autumn rain that made Winnipeg feel smaller and grayer. Sophia parked her mom's Honda in the St. Paul's lot and sprinted for the main entrance, dodging puddles and already-soaked students.
 
 Inside, the hallways smelled like wet clothes and teenage desperation. First day back after a weekend always had this particular energy, everyone slightly feral, readjusting to structure.
 
@@ -316,19 +322,19 @@ She found Maya at their usual spot by the science wing lockers, surrounded by a 
 
 "Can't wait," Sophia said, meaning it. Badminton made sense. Clear rules, definable outcomes, skill she could control. Unlike literally everything else in her life right now.
 
-"Speaking of tournaments," Priya said, her dark eyes sharp with interest, "I heard you were at The Forks with Ethan Hayes and his crew on Saturday."
+"Speaking of tournaments," Priya said, her dark eyes sharp with interest, "I heard you were at The Forks with Ethan Price and his crew on Saturday."
 
-News traveled fast at Westwood. Sophia had been here three weeks and was still adjusting to how quickly information moved through social networks she wasn't quite part of.
+News traveled fast at St. Paul's. Sophia had been here three weeks and was still adjusting to how quickly information moved through social networks she wasn't quite part of.
 
 "Yeah. Just hanging out."
 
-"Just hanging out," Emma repeated, loading the words with meaning. "With Ethan Hayes. Who has a girlfriend."
+"Just hanging out," Emma repeated, loading the words with meaning. "With Ethan Price. Who has a girlfriend."
 
 "Becca was there too," Sophia said quickly. "The whole group was there."
 
 "Mm-hmm." Priya exchanged a look with Emma that Sophia couldn't decode. "And then you two disappeared for like twenty minutes."
 
-Oh god. They'd been noticed. Of course they'd been noticed. Privacy didn't exist in high school, and apparent privacy definitely didn't exist when one of you was Ethan Hayes.
+Oh god. They'd been noticed. Of course they'd been noticed. Privacy didn't exist in high school, and apparent privacy definitely didn't exist when one of you was Ethan Price.
 
 Maya jumped in, bless her. "It's not like that. Sophie and Ethan are old friends. From before. They're just reconnecting."
 
@@ -342,7 +348,7 @@ The bell rang, saving Sophia from having to explain something she didn't underst
 
 "You're new here. That's what matters." Maya hesitated, then added, "Just be careful, okay? Emma's cousin is friends with Becca. Word gets around."
 
-Sophia's stomach dropped. "There's nothing to get around. We're friends."
+Nausea hit. "There's nothing to get around. We're friends."
 
 "I know that. You know that. Does Ethan know that?"
 
@@ -370,11 +376,11 @@ Maya's eyebrows climbed toward her hairline, but she moved her backpack to make 
 
 "Excellent. I've titled it *Hubris on Wheels: A Cautionary Tale*. Thinking of submitting it to film festivals." Jordan took a bite of his sandwich, chewed thoughtfully, then said with careful casualness, "So you and Ethan seem tight."
 
-There it was. Apparently everyone wanted to discuss her relationship with Ethan Hayes today.
+There it was. Apparently everyone wanted to discuss her relationship with Ethan Price today.
 
 "We're friends," Sophia said for the third time that day. "From when we were kids."
 
-"Right. Friends." Jordan said it the same way Emma had, with too much emphasis. "It's cool. Ethan needs more friends who knew him before he was Ethan Hayes, star center, future NHL draft pick. He gets weird about it sometimes."
+"Right. Friends." Jordan said it the same way Emma had, with too much emphasis. "It's cool. Ethan needs more friends who knew him before he was Ethan Price, star center, future NHL draft pick. He gets weird about it sometimes."
 
 Sophia studied Jordan, trying to figure out what game he was playing. But his expression was open, genuine. Not testing—observing.
 
@@ -390,7 +396,7 @@ Maya was watching this conversation like it was a tennis match, head swiveling b
 
 Before Sophia could figure out how to respond to that, the cafeteria doors opened and Ethan walked in with Becca and Tyler. They were laughing about something, Becca's hand in Ethan's, picture-perfect as always.
 
-Ethan's eyes scanned the cafeteria, found Sophia, and something in his expression shifted. Not unhappy exactly. Just... complicated.
+Ethan's eyes scanned the cafeteria, found Sophia, and something in his expression shifted. Not unhappy exactly. Just... harder to read.
 
 He said something to Becca, who nodded, then he was walking toward their table. Jordan grinned like this was exactly what he'd expected.
 
