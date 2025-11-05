@@ -39,6 +39,7 @@ ENV/
 *.mobi
 *.azw3
 output/
+wattpad/
 
 # Temporary files
 *.tmp
