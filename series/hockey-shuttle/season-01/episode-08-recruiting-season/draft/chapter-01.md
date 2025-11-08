@@ -186,15 +186,15 @@ Dr. Martinez closed her notepad. "Same time Friday. We'll talk more then."
 
 ---
 
-Between Wednesday and Friday, Ethan existed in a strange limbo. His father was coldly polite, not mentioning the evaluation or the emancipation hearing. Jordan smuggled in messages from Sophia—brief texts through a shared email account they accessed through deleted draft messages.
+Between Wednesday and Friday, Ethan existed in a strange limbo. His father was coldly polite, not mentioning the evaluation or the emancipation hearing. Jordan smuggled in messages from Sophia—brief texts through a Signal chat on Jordan's phone that Ethan could access when his brother was home.
 
-Thursday morning: "How's it going with the doctor?"
+Thursday morning: "hows it going with the doctor?"
 
-Thursday evening: "Okay I think. Hard to tell. She doesn't give anything away."
+Thursday evening: "okay i think. hard to tell. she doesn't give anything away"
 
-Friday morning: "Two weeks until nationals. First seed."
+Friday morning: "two weeks until nationals. first seed"
 
-Friday afternoon: "You're going to destroy them."
+Friday afternoon: "youre going to destroy them"
 
 The messages were lifelines. Proof that the world beyond his father's house still existed.
 
@@ -374,7 +374,7 @@ Jordan's expression was skeptical. "How?"
 
 "There has to be another way."
 
-His phone buzzed. Jordan's carefully routed message: "Nationals are April 25-27. Toronto. I qualified first seed."
+Jordan's phone buzzed on the desk. He glanced at it, then passed it to Ethan. Sophia's message on Signal: "nationals april 25-27. toronto. qualified first seed"
 
 Sophia. Three weeks until her national championships.
 

@@ -10,53 +10,64 @@ Right tab: Email from NHL Central Scouting. Final reminder about draft-eligible 
 
 The coffee in front of him was cold, third cup of a morning spent researching financial aid, emancipation procedures, backup plans. Jordan's apartment was quiet, his brother already at work, giving Ethan space to think.
 
-His phone buzzed. Sophia's message: "You awake?"
+His phone buzzed. Text from Sophia:
 
-"Yeah. You?"
+"you awake?"
 
-"Couldn't sleep. Is today really happening?"
+"yeah you?"
 
-"Today is really happening."
+"couldn't sleep"
+"is today really happening"
 
-"I'm scared."
+"today is really happening"
 
-"Me too."
+"i'm scared"
 
-"What if we're making a mistake?"
+"me too"
+
+"what if we're making a mistake"
 
 Ethan looked at the MIT letter. Everything he wanted. Everything he'd fought for.
 
-"We're not," he typed. "This is right. We know it's right."
+"we're not," he typed. "this is right. we know it's right"
 
-"Then why am I terrified?"
+"then why am i terrified"
 
-"Because it's real now. Because there's no going back after today."
+"because its real now. because theres no going back after today"
 
-Pause. Then: "Have you signed yet?"
+Pause. Then: "have you signed yet?"
 
-"No. You?"
+"no. you?"
 
-"No. I keep staring at it."
+"no. keep staring at it"
 
-"Same."
+"same"
 
-"Want to sign together? Later?"
+"want to sign together? later?"
 
-Ethan's chest tightened with something that felt like hope. "Where?"
+Ethan's chest tightened with something that felt like hope. "where?"
 
-"The Forks? 3 PM? Where we met when we were nine?"
+"the forks? 3pm? where we met when we were nine"
 
-"I'll be there."
+"ill be there"
 
-"Bring your decision letter. I'll bring mine."
+"bring your decision letter. ill bring mine"
 
-"Deal."
+"deal"
 
 The messages ended. Ethan closed his phone, looked back at the MIT acceptance.
 
 National College Decision Day. May 1st. The day thousands of high school seniors across the country committed to their futures.
 
 For most of them, it was exciting. Celebrating their choices, posting acceptance letters on social media, wearing college sweatshirts, planning dorm rooms.
+
+For most of them, social media would be flooded today. Instagram posts with MIT graphics, "I'm going to..." captions, college decision TikToks, Snapchat geofilters at signing events. Friends commenting congratulations, parents posting proud parent moments, the whole performative celebration of college commitment day.
+
+For Ethan, it meant none of that. No Instagram post. No celebration video. No college sweatshirt photos. His father monitored his social media obsessively, would screenshot anything as evidence, twist celebration into proof of defiance. Ethan's Instagram had been deactivated for weeks, one less way for Robert to track his life.
+
+His commitment would be silent, private, shared only with Sophia and the MIT admissions portal.
+
+The absence of performance didn't make it less real. If anything, it made it more his own.
 
 For Ethan, it was choosing between two futures: one safe and funded by surrendering his autonomy, one uncertain and purchased with massive debt and legal battles.
 
@@ -700,13 +711,11 @@ Either way, his father won.
 
 Either way, they lost.
 
-Ethan pulled out his phone, hands shaking, and called Sophia.
+Ethan pulled out his phone, hands shaking. This news was too big for text, too devastating for typing. He called Sophia.
 
-She answered on the second ring. "Hey, how did it go?"
+She answered on the second ring, voice immediately concerned. He never called unless it was serious. "Hey, what happened?"
 
 "We need to talk," he said. "In person. As soon as possible."
-
-"What happened?"
 
 "Not on the phone. Can you meet me? The Forks. One hour."
 

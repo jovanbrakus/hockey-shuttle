@@ -140,27 +140,30 @@ The realization was both freeing and terrifying. He didn't need his father's sup
 
 This was all or nothing.
 
-His phone buzzed. Jordan: "Dad's setting up meetings with scouts. Next week. Tuesday and Thursday."
+His phone buzzed—text from Jordan:
 
-"I'm not meeting with them."
+"dads setting up meetings with scouts"
+"next week tues and thurs"
 
-"He's scheduling them anyway."
+"i'm not meeting with them"
 
-"Then I won't show up."
+"hes scheduling them anyway"
 
-"This is going to get ugly."
+"then i wont show up"
 
-"It's already ugly."
+"this is gonna get ugly"
 
-"Fair point."
+"its already ugly"
 
-Ethan stared at his phone, then typed: "Can you get a message to Sophia?"
+"fair point"
 
-"Probably. What message?"
+Ethan stared at his phone, then typed: "can you get a message to sophia?"
 
-"Tell her I'm coming to nationals. April 26th. No matter what."
+"probably. what message"
 
-Pause. Then: "Confirmed. I'll tell her."
+"tell her im coming to nationals. april 26. no matter what"
+
+Pause. Then: "confirmed. ill tell her"
 
 Ethan set down his phone and pulled up his research. Student loans, work-study, emancipated student aid. There was a path here. Narrow, uncertain, but real.
 
@@ -260,25 +263,25 @@ All he had to do was delay his education by three years. Play a sport he was goo
 
 And in three years, would MIT still feel possible? Or would he be twenty-one, established in hockey, the path to engineering feeling more and more distant?
 
-His email pinged. Sophia's carefully routed message: "Two weeks until Toronto. Training hard. Can't wait to compete. Miss you."
+Jordan's phone buzzed on the desk—Sophia's message on Signal: "two weeks until toronto. training hard. cant wait to compete. miss you"
 
 Two weeks.
 
-He typed back: "I'm coming. April 26th. Jordan's driving me. Dad doesn't know yet."
+Ethan picked up Jordan's phone, typed back: "i'm coming. april 26. jordan's driving me. dad doesn't know yet"
 
-Her response came quickly: "Are you sure? He'll be furious."
+Her response came quickly: "are you sure? he'll be furious"
 
-"I'm sure. I want to watch you win."
+"i'm sure. want to watch you win"
 
-"It might cost you the MIT money."
+"might cost you the mit money"
 
-"It'll be worth it."
+"worth it"
 
-Pause. Then: "I can't wait to see you."
+Pause. Then: "cant wait to see you"
 
-"Same. Two weeks."
+"same. two weeks"
 
-Ethan closed the email and pulled up the calendar. April 26th, semifinals. April 27th, finals. National championships. Everything she'd trained for.
+Ethan set down Jordan's phone and pulled up the calendar on his own. April 26th, semifinals. April 27th, finals. National championships. Everything she'd trained for.
 
 And he was going to be there, no matter what his father threatened.
 
@@ -468,9 +471,9 @@ Three days until Toronto. Three days until he defied his father's ultimatum and 
 
 Three days until everything changed.
 
-He pulled out his phone, sent a message through the carefully routed email: "Saturday. 7 AM. Jordan's driving. See you at 2."
+He picked up Jordan's phone, sent a message through Signal: "saturday. 7am. jordans driving. see you at 2"
 
-Her response: "Can't wait."
+Her response: "cant wait"
 
 Neither could he.
 
