@@ -82,9 +82,12 @@ They hit Toronto at 1:47 PM, navigating downtown traffic to the Toronto Pan Am S
 
 Jordan found parking while Ethan checked his phone. Seventeen messages from his father, three from unknown numbers that were probably scouts or lawyers.
 
-And one from Sophia: "Just finished warm-up. Semifinals at 3. Court 2. Can't believe you're really here."
+And one from Sophia:
+"just finished warmup"
+"semifinals at 3, court 2"
+"cant believe youre actually here"
 
-"We're parking now. See you soon."
+He typed back: "parking now. see you soon"
 
 Inside, the sports centre hummed with energy. Multiple courts, matches in progress, athletes warming up, parents and coaches clustered in viewing areas. Somewhere overhead, an announcer called a match score.
 
@@ -331,6 +334,10 @@ You've got this.
 At 1:50, officials called finalists to the court. The announcement echoed through the facility: "Women's Singles National Championship Final. Sophia Chen, Manitoba, versus Amy Chen, Vancouver. Best of three games."
 
 The stands were packed now, hundreds of spectators, cameras, live streaming setup. This was the highest level of badminton competition in Canada. The winner would be national champion, get funding, international competition opportunities, national team consideration.
+
+The championship would be live-streamed on Badminton Canada's YouTube channel, archived for recruiting coaches and national team scouts to review. The stands were full of parents with phones raised, recording every point for personal archives and social media. Instagram stories and TikToks were already appearing with #NationalsFinals tags.
+
+Ethan had turned off his Instagram account weeks ago, one less thing for his father to monitor. He wouldn't be posting celebration videos or tagging Sophia in victory photos. This moment would exist for them, not for public consumption.
 
 Everything Sophia had trained for.
 
