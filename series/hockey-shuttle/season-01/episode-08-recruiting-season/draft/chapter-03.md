@@ -1,40 +1,68 @@
 # CHAPTER 3: CHAMPIONSHIPS
 
-Saturday morning, April 26th, 7:03 AM. Ethan slipped out of the house carrying a backpack with two days of clothes, phone charger, and MIT financial aid documents he'd printed for obsessive review.
+Saturday morning, April 26th, 7:03 AM. Ethan slipped out of Jordan's apartment building carrying a backpack with two days of clothes, phone charger, and MIT financial aid documents he'd printed for obsessive review during sleepless hours.
 
-Jordan's car idled at the end of the driveway, headlights cutting through the gray dawn.
+Jordan's car—a ten-year-old Honda Civic with a dent in the passenger door and a "Michigan Engineering" sticker fading on the back window—idled at the curb, exhaust visible in the cool morning air.
 
-Ethan climbed into the passenger seat. "He's still asleep."
+Ethan climbed into the passenger seat. The car smelled like old coffee and the pine air freshener hanging from the rearview mirror. "Ready?"
 
-"Good. Let's get gone before that changes."
+"Let's go before I change my mind," Jordan said, but he was smiling.
 
-Jordan pulled away from the house, accelerating toward the highway. The neighborhood slid past, quiet suburban streets giving way to arterial roads, then the entrance to I-94 East.
+They pulled away from the apartment complex, navigating empty morning streets toward the highway. The sunrise was just beginning, painting the eastern sky in shades of rose and gold. Spring in Michigan meant unpredictable weather—yesterday had been warm, today promised rain—but right now, everything felt possible.
 
-"Six hours," Jordan said. "We'll stop once for gas and food. Should be there by two."
+"Six hours," Jordan said, merging onto I-94 East. "We'll stop once for gas and food in Michigan. Should be there by two."
 
-Ethan pulled out his phone. No messages yet from his father, but that would change once he woke and realized both sons were gone.
+Ethan pulled out his phone. No messages yet from his father, but that would change once Robert woke and realized both sons had left. He checked Signal—Sophia had sent a message at 6:30 AM: "team breakfast. so nervous i cant eat. cant believe today is happening"
 
-"You ready for the fallout?" Jordan asked.
+He typed back: "on the road. youre going to be amazing"
+
+"Six hours is so long"
+
+"itll go fast"
+
+"what if i lose"
+
+"you wont. but even if you do, youre a national semifinalist. thats incredible"
+
+"i want gold though"
+
+"i know. youre going to get it"
+
+Pause. Then: "thank you for coming. means everything"
+
+"wouldnt miss it"
+
+Ethan put his phone in the cup holder and watched Michigan slide past. Farmland, small towns, billboards advertising truck stops and Jesus. The highway was quiet this early on a Saturday, mostly long-haul truckers and a few other travelers with places to be.
+
+"You ready for the fallout?" Jordan asked after they'd been driving for twenty minutes.
 
 "No. But I'm going anyway."
 
-"That's the spirit."
+"That's the spirit." Jordan adjusted his grip on the steering wheel. "For the record, this is either the most romantic or the most stupid thing I've ever done."
 
-They drove in comfortable silence for a while, Michigan farmland rolling past under heavy clouds. Ethan watched the landscape change and thought about the last time he'd driven to see Sophia compete. February, provincials, the beginning of everything escalating. Now it was April, nationals, and the stakes had multiplied exponentially.
+"Can't it be both?"
 
-His phone buzzed. His father's name on the screen.
+"Probably is." Jordan turned up the radio—some indie rock station from Detroit—then turned it down again. "You know Dad's going to cut off my housing money after this."
+
+"I know. I'm sorry."
+
+"Don't be. I'm making this choice. He doesn't get to control both of us forever."
+
+Ethan looked at his brother. "What are you going to do? About the apartment?"
+
+"I've been thinking about it. My scholarship covers tuition. I can pick up more hours at work, maybe find a roommate to split costs. It'll be tight, but doable." Jordan glanced over. "We'll figure it out. That's what we do."
+
+Forty minutes into the drive, Ethan's phone buzzed. His father's name on the screen.
 
 "That was fast," Jordan said.
 
-Ethan answered. "I'm with Jordan. We're fine. I'll be back Sunday night."
+Ethan answered, putting it on speaker. "I'm with Jordan. We're fine. I'll be back Sunday night."
 
-"Where are you going."
-
-Not a question. His father already knew.
+"Where are you going." Not a question. His father already knew.
 
 "Toronto. Sophia's national championships."
 
-"Turn around."
+"Turn around." The voice was cold, controlled, dangerous.
 
 "No."
 
@@ -42,98 +70,153 @@ Not a question. His father already knew.
 
 "The MIT money is gone. You've said that. I understand. I'm going anyway."
 
-"You're making a mistake."
+"You're making a mistake that will follow you for the rest of your life."
 
-"I'm watching someone I care about compete at the highest level. That's not a mistake."
+"I'm watching someone I care about compete at the highest level. That's not a mistake. That's what decent people do."
 
-His father's voice went cold. "You have two hours to come back. After that, there are consequences beyond money."
+His father's voice dropped lower, more menacing. "You have two hours to come back. After that, there are consequences beyond money."
 
-"I'm seventeen years old. I can travel with my adult brother. You can't stop me."
+"I'm seventeen years old traveling with my twenty-one-year-old brother. That's legal. You can't stop me."
 
 "I can make your life very difficult."
 
-"You're already doing that."
+"You're already doing that. How much worse can it get?"
 
-The line went silent. Then: "Your emancipation hearing is May 15th. You better hope you win, because you're getting nothing from me after this."
+The silence on the other end felt heavy, pregnant with threat. Then: "Your emancipation hearing is May 15th. You better hope you win, because you're getting nothing from me after this. Nothing."
 
 "I know."
 
-"Do you? Do you really understand what you're throwing away? Not just money. Your family. Your father. Everything."
+"Do you? Do you really understand what you're throwing away? Not just money. Your family. Your father. Your future. Everything."
 
-"I understand I'm choosing my own path. If you can't accept that, that's your choice, not mine."
+"I understand I'm choosing my own path. If you can't accept that, if you'd rather destroy me than let me make my own choices, that's your decision. Not mine."
 
 His father hung up.
 
-Ethan lowered the phone, hands unsteady.
+Ethan lowered the phone, hands shaking. He pressed them flat against his thighs, tried to steady his breathing.
 
-"That sounded fun," Jordan said.
+"Well," Jordan said after a moment. "That was about as bad as expected."
 
-"He's furious."
+"He sounded... cold. Like he's already decided something."
 
-"He'll get over it. Or he won't. Either way, we're going to Toronto."
+"Probably has. But we're already an hour out. We're not turning back now."
 
-Ethan leaned back in the seat, watching Ohio countryside replace Michigan farmland. His phone buzzed repeatedly—texts from his father, increasingly angry, increasingly desperate. He put the phone on silent and tucked it in his backpack.
+Ethan leaned back in the seat, watching Michigan landscape roll past. His phone buzzed repeatedly over the next hour—texts from his father, increasingly hostile, each one a variation on the same theme: come back, you're making a mistake, there will be consequences.
 
-For the next six hours, he was free.
+He turned off his phone completely and tucked it in his backpack.
 
----
+For the next five hours, he was free.
 
-They hit Toronto at 1:47 PM, navigating downtown traffic to the Toronto Pan Am Sports Centre in Scarborough. The facility was massive, modern glass and steel, tournament banners hanging outside the entrance.
+They crossed into Canada at the Windsor-Detroit border just after 10 AM. The customs agent looked at their IDs, asked about the purpose of their visit.
 
-Jordan found parking while Ethan checked his phone. Seventeen messages from his father, three from unknown numbers that were probably scouts or lawyers.
+"Badminton tournament," Jordan said. "Watching a friend compete."
 
-And one from Sophia:
-"just finished warmup"
-"semifinals at 3, court 2"
-"cant believe youre actually here"
+"How long will you be in Canada?"
 
-He typed back: "parking now. see you soon"
+"One night. Leaving tomorrow evening."
 
-Inside, the sports centre hummed with energy. Multiple courts, matches in progress, athletes warming up, parents and coaches clustered in viewing areas. Somewhere overhead, an announcer called a match score.
+The agent waved them through.
 
-Ethan found the tournament bracket posted near registration. Women's Singles, Elite Division. Semifinals: Court 1, 3 PM, Amy Chen vs. Jessica Tran. Court 2, 3 PM, Sophia Chen vs. Rachel Kim.
+Ontario looked remarkably like Michigan—flat farmland, similar weather, same highway monotony. But as they drove east on Highway 401, Ethan felt something shift. Distance from his father. Distance from the house that had felt like a prison. Every kilometer put more space between him and the life Robert had tried to force him into.
 
-Rachel Kim. Ethan recognized the name. Current national champion, defending her title. Sophia's toughest possible matchup.
+"Feel better?" Jordan asked.
 
-"Court 2," Jordan said, checking his phone. "This way."
+"Yeah. Actually, yeah."
 
-They made their way through the facility, following signs and crowds. Court 2 was surrounded by bleachers already half-full with spectators. On the court, athletes were finishing a men's doubles match.
+They stopped for lunch at a Tim Hortons somewhere between London and Milton. The place was packed with families, highway travelers, teenagers on road trips. Ethan ordered a sandwich and coffee, sat in a booth by the window watching traffic stream past.
+
+"Five more hours and we'll be there," Jordan said, checking his phone. "Tournament starts at 3 PM. We'll have time."
+
+Ethan pulled out his own phone, powered it back on. Seventeen messages from his father. He deleted them all unread. One Signal message from Sophia: "warmup in 30 min. getting real now"
+
+"youre going to kill it"
+
+"scared"
+
+"you got this. ill be there cheering"
+
+"cant wait to see you"
+
+"same. two more hours"
+
+He put his phone away and finished his sandwich. The coffee was terrible but necessary. He hadn't slept well, anxiety about the drive and the competition and whatever his father was planning keeping him awake until past 2 AM.
+
+Back on the highway, the landscape started to change. More traffic, more urban sprawl. They were entering the Greater Toronto Area, one of the largest metro regions in North America. Office parks, strip malls, residential developments stretched for miles.
+
+"Toronto's huge," Ethan said.
+
+"Fourth largest city in North America," Jordan replied. "Nearly three million people in the city proper, six million in the metro. Makes Detroit look small."
+
+They hit Toronto proper at 1:47 PM, navigating increasingly dense traffic toward Scarborough. The Toronto Pan Am Sports Centre was on the eastern edge of the city, a massive modern facility built for the 2015 Pan American Games.
+
+Jordan found parking while Ethan checked his phone. Twenty-one messages from his father now, three from unknown numbers that were probably scouts or lawyers.
+
+And one from Sophia: "just finished warmup. semifinals at 3, court 2. cant believe youre actually here"
+
+He typed back: "parking now. see you in 5 min"
+
+They walked toward the entrance, backpacks slung over shoulders. The facility was enormous—glass and steel and concrete, clean lines and modern architecture. Tournament banners hung outside: "Badminton Canada National Championships 2025."
+
+Inside was controlled chaos.
+
+The sports centre hummed with energy that hit Ethan like a physical force. The smell struck him first—a mixture of sweat, sports tape, the rubber of court shoes against polished floors, and something else he couldn't quite identify. Determination, maybe. Competition.
+
+Multiple badminton courts filled the massive space, matches already in progress on several. The distinctive *thwack* of shuttles being hit echoed through the facility, mixed with referee calls, coach instructions, and crowd reactions. Athletes warmed up in designated areas, their movements sharp and focused. Parents and coaches clustered in viewing sections, phones out, recording every moment.
+
+Overhead, the PA system called match updates: "Court 3, women's doubles quarterfinals now beginning. Court 5, men's singles semifinals in ten minutes."
+
+Ethan scanned the space, trying to orient himself. The facility was enormous—he counted at least twelve courts, all with matches or warmups happening simultaneously. Tournament brackets were posted near registration, showing the day's schedule.
+
+"There," Jordan pointed to a digital display showing court assignments. "Court 2. Women's Singles Semifinals at 3 PM."
+
+They navigated through the crowd toward Court 2. The bleachers were already half-full, parents and fans claiming good viewing spots. A livestream camera was being set up courtside—Badminton Canada would be streaming the semifinals and finals on YouTube, archived for coaches and scouts to review later.
+
+Ethan scanned the warm-up area. Athletes in team uniforms stretched, practiced footwork, shadow-swung their rackets. Team Manitoba wore blue and white. British Columbia was red. Ontario gold. Quebec black and white. Every province represented, every athlete at this level representing years of training and sacrifice.
+
+And then he saw her.
 
 Ethan scanned the warm-up area and found her.
 
-Sophia stretched near the court entrance, wearing Team Manitoba blue and white, hair pulled back, face focused. Her coach stood nearby, talking through strategy. She nodded, listening, but her eyes swept the crowd.
+Sophia stretched near the court entrance, wearing Team Manitoba blue and white, hair pulled back in a competition braid, face focused. She was checking her phone, probably looking for his text, and hadn't seen him yet.
 
-Looking for him.
+For a second, Ethan just watched her. Two weeks since he'd seen her in person. Two weeks of isolation had been photographs and monitored phone calls and messages smuggled through Jordan. Now she was right there, twenty feet away, real and solid and—
 
-Ethan moved closer to the court barrier. When her gaze passed his direction, he raised a hand.
+She looked up. Saw him.
 
-She saw him. The focus broke into a smile, just for a second, before she controlled it back to competition mode. But he saw the relief, the joy, the you're really here in her expression.
+The smile that broke across her face made the six-hour drive, the furious voicemails, all of it worth it.
 
-Her coach noticed the distraction, looked over, saw Ethan. Michael Chen's face was complex—concerned, resigned, maybe a little relieved too.
+She crossed the distance between them quickly, and suddenly they were hugging, fierce and relieved, her racket bag hitting his shoulder, her hair smelling like tournament venue and hotel shampoo and something that was just her.
 
-Sophia said something to her coach, then jogged over to the barrier.
+"You came," she said into his shoulder.
 
-"You came."
+"Always." His arms tightened around her. Two weeks of isolation breaking in one hug. He'd forgotten what this felt like—being close to her, being allowed to just be close without supervision or countdown timers or his father listening from another room.
 
-"I said I would."
+She pulled back just enough to look at him, still in his arms. Her eyes were bright, maybe tears held back, maybe just overwhelming relief. "I can't believe you're actually here."
 
-"I know, but after everything—" She stopped herself, glancing at Jordan. "Hi, Jordan."
+"I can't believe it either." His heart was still racing. "I know, but after everything—"
+
+She stopped herself, glancing past him. "Hi, Jordan."
 
 "Hey, Sophia. Go win this thing."
 
 "I'll try."
 
+Her hand was still on his arm. She noticed, started to pull away, but he covered her hand with his own, holding it there for a second longer.
+
+"How do you feel? Ready?"
+
+"Terrified. But less terrified now."
+
 The previous match ended, players shaking hands, exiting the court. An official called for semifinals players to take positions.
 
 "That's me," Sophia said. "I have to—"
 
-"Go," Ethan said. "We'll be up there." He pointed to the bleachers.
+"Go." He made himself let go, even though every instinct said to hold on. "We'll be up there." He pointed to the bleachers. "Go win."
 
-She nodded, started to turn, then stopped. "I'm really glad you're here."
+She grabbed her bag, squeezed his hand once more, then jogged toward the court entrance. Ten feet away, she looked back, grinning.
 
-"I wouldn't miss this."
+Then Michael Chen emerged from the team area, and his expression when he saw Ethan was complicated—concern, resignation, maybe a little relief too. He nodded at Ethan, a small gesture that said I'm glad you're here even if this makes everything more complicated.
 
-She ran back to her coach, grabbed her racket, stepped onto the court.
+Sophia ran back to her coach, grabbed her racket, stepped onto the court, but Ethan could still feel the warmth of her hand in his.
 
 Ethan and Jordan climbed into the bleachers, finding seats with clear view of the court. Around them, other spectators settled in, cameras ready, coaching notes open.
 
@@ -423,9 +506,19 @@ Sophia won.
 
 National Champion.
 
-The crowd exploded. Sophia dropped her racket, bent over, hands on knees, breathing hard, disbelief and joy on her face.
+The crowd exploded. Sophia dropped her racket, bent over, hands on knees, lungs burning, legs shaking from exhaustion and adrenaline. The arena lights seemed too bright, sounds washing over her in waves—cheering, applause, her name being called.
 
-Her coach ran onto the court, embracing her. Her teammates followed. Officials were clapping, Amy was shaking her hand, congratulating her.
+Disbelief and joy crashed through her simultaneously. She'd done it. She'd actually done it.
+
+Her coach reached her first—Coach Rivera sprinting onto the court, tears streaming down her face, pulling Sophia into a fierce embrace. "National champion! I knew you could do it!"
+
+Then Maya tackled them both, screaming. Then the rest of the team—everyone crying and laughing and shouting. Sophia couldn't breathe but she didn't care, surrounded by teammates who'd supported her through three months of the hardest training of her life.
+
+The weight of the moment hit her: national champion. The gold medal. The recognition. Everything she'd worked for since switching from hockey at age nine.
+
+Officials were clapping, Amy crossing the court to shake her hand, genuine congratulations despite her own disappointment. "That was incredible. You earned it."
+
+"Thank you," Sophia managed, voice hoarse from exertion. "You played amazing."
 
 And in the stands, Ethan was standing, clapping, overwhelmed with pride and joy.
 
@@ -435,19 +528,47 @@ National Champion.
 
 All hers, earned through her own talent and work and determination.
 
-The victory ceremony was ten minutes later. Three podiums set up on the court, bronze and silver finalists already in position.
+---
 
-When they called Sophia's name for gold, she stepped onto the top podium. The official placed the gold medal around her neck, the national anthem played, and she stood there at the highest level of her sport.
+The victory ceremony was ten minutes later, but first came the media gauntlet.
 
-Her eyes swept the crowd, found Ethan.
+Photographers positioned Sophia with the trophy—heavy gold-plated metal that caught arena lights, Badminton Canada logo engraved on the base. She held it up, grinning so wide her face hurt, cameras clicking from every angle.
+
+"Smile bigger! Hold it higher! Look this way!"
+
+Behind the photographers, teammates held up phones recording TikToks and Instagram stories. Maya was already live-streaming, commentary breathless with excitement: "National champion, you guys! Sophia freaking Chen!"
+
+The trophy was heavier than Sophia expected, substantial weight of accomplishment. Her arms shook slightly from match exhaustion, but she kept holding it up, kept smiling, this moment too important to let fatigue show.
+
+"Team photo!" Coach Rivera called. Team Manitoba clustered around Sophia, trophy in the center, everyone grinning and crying. Multiple phones capturing the same moment from different angles, immortalizing victory for Instagram feeds and family albums and future recruiting portfolios.
+
+Sophia's phone was somewhere in her equipment bag, buzzing constantly. She could imagine the flood: congratulations messages, social media notifications, texts from friends who'd watched the livestream. Later she'd scroll through it all, save the screenshots, reply to the messages.
+
+But right now, she was living it.
+
+She pulled out her phone briefly—one message she needed to see. Ethan's text: "NATIONAL CHAMPION. I knew you would. I'm so proud of you."
+
+She was still smiling, still reading his message, still feeling the weight of the trophy in her hands when her mother's expression changed. When Jordan's hand gripped her shoulder with sudden urgency. When she looked up and saw Robert Price walking toward her across the arena floor.
+
+---
+
+The victory ceremony happened in a daze.
+
+Three podiums set up on the court, bronze and silver finalists already in position. Sophia tried to refocus, tried to be present for this moment she'd worked three years to reach.
+
+When they called her name for gold, she stepped onto the top podium. The official placed the gold medal around her neck—cold metal against her throat, red and white ribbon, maple leaf embossed on the face. The national anthem played, and she stood at the highest level of her sport, hand over heart.
+
+Her eyes swept the crowd, found Ethan in the bleachers.
 
 Their eye contact held across the distance.
 
 This moment was hers. This achievement was hers. The medal was hers.
 
-But having him there to witness it made it complete.
+But Robert's presence in the building tainted everything, victory turning hollow before she'd even stepped off the podium.
 
-The ceremony ended. Photographs, interviews, official business. Ethan waited in the lobby area, letting her have her moment with coaches and teammates and family.
+The ceremony ended. Photographs, interviews, official business. Sophia moved through it mechanically, smile painted on, mind racing about what Robert's appearance meant.
+
+Ethan waited near the lobby area with Jordan and her parents, their faces reflecting the same worry she felt.
 
 Finally, she emerged from the athlete area, gold medal still around her neck, smile radiant.
 
@@ -517,11 +638,11 @@ Jordan nodded. "Me too."
 
 They moved toward the entrance, celebration evaporating into dread. The lobby was still crowded with post-tournament athletes and families, but they cut through to the main doors.
 
-Outside, under gray April sky, Robert Price waited.
+Outside, under gray April sky threatening rain, Robert Price waited.
 
-He wasn't alone. Two men in business attire stood with him, briefcases, professional demeanor. Lawyers or investigators, Ethan guessed.
+He wasn't alone. Two men in business attire stood with him—expensive suits, briefcases, professional demeanor radiating authority. Lawyers or investigators, Ethan guessed. Probably both.
 
-His father's expression was controlled, cold, dangerous.
+His father's expression was controlled, cold, dangerous calm that was worse than anger.
 
 "Ethan."
 
@@ -535,9 +656,15 @@ His father's expression was controlled, cold, dangerous.
 
 "I chose to support someone I care about. That's not mutually exclusive with family."
 
-His father's jaw tightened. "You left Michigan against my direct order. You ignored my calls. You prioritized a relationship over your future."
+His father stepped closer, voice dropping to barely above a whisper. Close enough that Ethan could smell his cologne—expensive, suffocating. The same cologne from every childhood memory, now associated only with threat.
+
+"You left Michigan against my direct order. You ignored seventeen phone calls. You crossed international borders to be with her. You prioritized a relationship over your future, your family, everything I've built for you."
 
 "I prioritized being a decent human being over your control."
+
+Jordan moved to Ethan's side, protective stance. Michael Chen positioned himself between Robert and Sophia.
+
+The unspoken battle lines drawn on a Toronto parking lot outside a badminton tournament.
 
 One of the men with his father stepped forward, handed Ethan a document. "This is notification of change to your financial support status. Effective immediately, college funding is terminated. Your access to family accounts is revoked. You're financially independent as of today."
 
@@ -565,13 +692,25 @@ Ethan found his voice. "The emancipation hearing is May 15th."
 
 "I'm still filing."
 
-"I know that too." His father's smile was cold. "You better hope you win. Because you're getting nothing from me after this. Not college, not housing, not support of any kind."
+"I know that too." His father's smile was cold, sharp as broken glass. "You better hope you win. Because you're getting nothing from me after this. Not college, not housing, not support of any kind."
 
-He turned to leave, the two professionals following.
+He turned to leave, the two professionals following like shadows. Five steps away, he stopped, looked back.
 
-"Enjoy the championship," he called back. "It's the last happy moment you'll have."
+His eyes found Sophia—still in her Team Manitoba warm-up jacket, gold medal visible around her neck.
 
-Then he was gone, disappearing into Toronto traffic.
+"Miss Chen," Robert said, voice pleasant, poisonous. "Congratulations on your championship. Impressive performance."
+
+Sophia's hand found Ethan's, squeezed tight.
+
+Robert's smile widened. "Enjoy it. Because after your eighteenth birthday, supporting a minor in defying his parents has legal implications. Criminal implications. My attorneys have been reviewing the statutes. Contributing to the delinquency of a minor. Interference with custody. Fascinating reading."
+
+Michael Chen went rigid. "Robert, don't—"
+
+"May 15th," Robert continued, ignoring Michael entirely. "The emancipation hearing. I'll see you both in court. And Sophia? I'd recommend consulting a criminal defense attorney. You're going to need one."
+
+Then he was gone, disappearing into Toronto afternoon, leaving his threat hanging in the cold April air.
+
+The parking lot felt silent despite traffic noise, other families loading into cars, normal life continuing around them while theirs imploded.
 
 Ethan stood there, document in hand, world tilting.
 
@@ -617,18 +756,42 @@ Every escape route narrowed.
 
 Sophia took his hand. "We'll figure it out," she echoed Jordan's words.
 
-Ethan looked at her—gold medal, victory, national champion—and felt the weight of what his father had just done.
+Ethan looked at her—gold medal glinting in gray afternoon light, Team Manitoba jacket, national champion—and felt the weight of what his father had just done.
 
-Last happy moment.
+What he was threatening to do.
 
-The words echoed.
+Criminal charges. Prison time. Sophia's MIT acceptance revoked. Engineering career destroyed before it started.
 
-"Let's get out of here," he said.
+All because she'd supported him. All because she'd believed he deserved to choose his own future.
 
-They left the sports centre, Toronto afternoon gray and cold despite spring. The championship was won, the celebration destroyed, and Ethan's phone was already filling with automated texts about closed bank accounts and canceled credit cards.
+Last happy moment, his father had said.
 
-Financial independence, forced at seventeen.
+The words echoed, prophetic and poisonous.
 
-This was what freedom cost.
+Sophia's face had gone pale, processing the threat. Her hand trembled in his, the gold medal around her neck suddenly feeling like a target, marking her as someone who'd achieved something beautiful right before Robert tried to destroy her for it.
 
-And the bill was just beginning.
+"Let's get out of here," Ethan said, voice rough.
+
+They left the sports centre, Toronto afternoon gray and cold despite being late April. The championship was won but the celebration was destroyed, victory tainted before Sophia had even left the building.
+
+In the car—Jordan driving, Michael and Helen following in their own vehicle—Sophia stared at her gold medal.
+
+National Champion. The title she'd worked three years to earn. The achievement that should have been pure joy, pure accomplishment.
+
+Instead, it felt hollow. Dangerous. Like holding proof of everything Robert could take away.
+
+Her phone buzzed. Instagram notifications flooding in—congratulations from friends, teammates celebrating, her championship photo being shared and liked and commented on.
+
+Normal people having normal reactions to a normal victory.
+
+While she processed the threat of criminal charges for the crime of supporting someone she cared about.
+
+She turned off her phone and closed her eyes, gold medal cold against her throat.
+
+National Champion.
+
+And possibly, soon, criminal defendant.
+
+The bill for freedom, she was learning, kept getting higher.
+
+And payment was due in two weeks.

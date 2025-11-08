@@ -1,8 +1,8 @@
 # CHAPTER 1: THE EVALUATION
 
-The waiting room was designed to be calming. Soft gray walls, abstract watercolor prints, a white noise machine humming somewhere behind the reception desk. Natural light filtered through gauzy curtains. Magazines fanned across the glass coffee table—Psychology Today, National Geographic, Time.
+The waiting room was designed to be calming. Soft gray walls, abstract watercolor prints, a white noise machine humming somewhere behind the reception desk. Natural light filtered through gauzy curtains. Magazines fanned across the glass coffee table—Psychology Today, National Geographic, Time. The air carried that particular medical-building smell—cleaning products mixed with the faint lavender from a diffuser trying too hard to create calm.
 
-Ethan sat on the edge of a cream-colored armchair and felt like he was waiting for execution.
+Ethan sat on the edge of a cream-colored armchair, the fabric rough under his palms where he gripped the armrests. Muffled voices leaked through the wall—Dr. Martinez with another patient, words indistinct but tone measured. He felt like he was waiting for execution.
 
 His phone buzzed. Jordan's text: "You got this. She's a professional. Dad can't buy her."
 
@@ -40,7 +40,7 @@ Her expression didn't change. "And are you being manipulated?"
 
 He'd practiced this answer with Michael Chen, with Jordan, with himself. Keep it factual. Don't sound angry or emotional. Adults respond to logic, not feeling.
 
-"My father and I have fundamental disagreements about my future. He wants me to pursue professional hockey. I want to attend MIT and study engineering. He's using financial control and isolation to force his preferred path. Emancipation would allow me to make my own educational and life choices."
+"We don't agree on... basically anything about my future." Ethan paused, trying to find the right words. "He's all about hockey—professional hockey. Like, that's the only option. I want MIT. Engineering. And he's using money and basically keeping me prisoner to make me do what he wants." He took a breath, steadied himself. "That's why I need emancipation. So I can actually choose."
 
 Dr. Martinez wrote something in her notepad. "How long have you wanted to study engineering?"
 
@@ -62,7 +62,11 @@ Dr. Martinez looked up from her notes. "Tell me about the girl."
 
 Here it was. The real reason for this evaluation.
 
-"Her name is Sophia. We've known each other since we were kids. We reconnected last year when her family moved back to Winnipeg. She's smart, driven, talented. She's going to MIT too, but she made that decision independently. She got in on her own merit."
+"Her name is Sophia Chen. We've known each other since we were kids—we were nine. We reconnected last year when her family moved back to Winnipeg. She's smart, driven, talented. She's going to MIT too, but she made that decision independently. She got in on her own merit."
+
+"How old is Sophia now?"
+
+"Eighteen. She turned eighteen in February—Valentine's Day actually." Ethan felt his stomach tighten. Why was she asking about ages? "I'm still seventeen. Turn eighteen in August."
 
 "Your father believes she's influencing your college choice."
 
@@ -88,13 +92,19 @@ Dr. Martinez made another note. "Tell me about Sophia. How much time do you spen
 
 "It's an accurate word. I haven't left the house except for hockey practice in three weeks."
 
-Dr. Martinez studied him for a moment. "Ethan, I'm going to ask you something, and I need you to be completely honest with me."
+Dr. Martinez studied him for a moment, and Ethan felt his pulse quicken. This was the trap question. The one Robert would've coached her to ask. His leg started bouncing under the table—he forced it still.
 
-"Okay."
+"Ethan, I'm going to ask you something, and I need you to be completely honest with me."
+
+His palms were sweating. He wiped them on his jeans, trying to look casual but probably failing. "Okay."
 
 "Do you believe Sophia wants what's best for you, or what's best for herself?"
 
-He met her eyes. "Both. The same way I want what's best for her and what's best for me. That's what caring about someone means."
+The room felt smaller. Tunnel vision creeping in at the edges. If he answered wrong, if he sounded defensive or obsessive or manipulated—everything could fall apart. He forced himself to breathe normally, to meet her eyes without looking desperate. His voice cracked slightly when he started to speak, had to clear his throat and try again.
+
+"Both," he managed, the word coming out steadier on the second try. "I mean... the same way I want what's best for her and what's best for me. That's what... that's what caring about someone means, right?"
+
+He held her gaze, heart hammering so loud he was sure she could hear it. His hands were trembling slightly—he pressed them flat against his thighs. Wondering if he'd just lost everything.
 
 "And if you had to choose between MIT and Sophia? If you could only have one?"
 
@@ -112,7 +122,13 @@ Ethan leaned back in the chair, trying to organize thirteen years into coherent 
 
 "It's suffocating."
 
-Dr. Martinez was quiet for a moment, pen still. "Ethan, I'm going to see you three times this week. Today, Wednesday, and Friday. After that, I'll compile my evaluation and submit it to the court. During these sessions, I'm not on your side or your father's side. I'm here to assess your decision-making capacity, your emotional state, and whether emancipation serves your best interests. Do you understand?"
+Dr. Martinez set down her pen and looked at Ethan directly. "Before I continue, I need to tell you something professional. What you've described—complete isolation, surveillance of your relationships, using money as a control mechanism—these are recognized patterns of what we call coercive control. It's a form of emotional abuse."
+
+Ethan's breath caught. Abuse. The word felt too big, too serious. He'd never let himself use that word.
+
+"I'm not making a formal diagnosis," Dr. Martinez continued. "But you should know that what you're experiencing has a name. Parents can love their children deeply and still engage in controlling behaviors that cross the line into harm. Understanding that can help you make informed decisions about your own wellbeing."
+
+She picked up her pen again. "Now, Ethan, I'm going to see you three times this week. Today, Wednesday, and Friday. After that, I'll compile my evaluation and submit it to the court. During these sessions, I'm not on your side or your father's side. I'm here to assess your decision-making capacity, your emotional state, and whether emancipation serves your best interests. Do you understand?"
 
 "Yes."
 
@@ -138,7 +154,7 @@ This time, Dr. Martinez started with questions about his academic record. GPA, t
 
 Dr. Martinez nodded, making notes. "Tell me about the science fair project I saw in your file. Something about prosthetics?"
 
-He relaxed slightly, familiar territory. "Advanced prosthetic control systems using neural feedback. The idea is to create more intuitive interfaces between prosthetic limbs and users' nervous systems. Current systems rely on muscle contractions or manual controls, but with better sensors and processing, you could potentially restore near-natural movement."
+He relaxed slightly, familiar territory. "It's like... okay, so prosthetics now are pretty basic, right? But what if we could connect them directly to nerves? Like, actually feel through them?" His voice picked up speed, enthusiasm breaking through the evaluation stress. "Current systems use muscle contractions or manual controls, but with better sensors and neural feedback processing, you could potentially restore near-natural movement. Maybe even sensation."
 
 "That sounds complex."
 
@@ -302,7 +318,15 @@ The words should have felt like victory. Instead, Ethan saw his father's face an
 
 "Dad—"
 
-"She doesn't understand." His father stood, report still in his hand. "She spent three hours with you. I've spent seventeen years. She sees an articulate teenager who knows what he wants. I see my son throwing away everything we've built."
+His father stood so abruptly the chair scraped against the floor. The report crumpled slightly in his grip before he forced his fingers to relax, smoothing the pages with deliberate care that barely masked fury.
+
+"She doesn't understand." His voice was too controlled, the kind of quiet that preceded explosions. A muscle jumped in his jaw. "She spent three hours with you. I've spent seventeen years."
+
+He set the report down with such precise, trembling care that Ethan knew if he wasn't controlling himself this carefully, the pages would be torn in half.
+
+"She sees an articulate teenager who knows what he wants. I see my son throwing away everything we've built."
+
+Ethan noticed his father's knuckles were white where he gripped the edge of the desk. That terrified him more than yelling would have. This was Robert cornered, desperate, about to escalate to something worse.
 
 "I'm not throwing anything away. I'm choosing something different."
 
@@ -438,14 +462,50 @@ Jordan gripped his shoulder. "Okay. Toronto. April 26th. We'll leave at seven AM
 
 "That's what brothers are for."
 
+---
+
+Robert Price sat alone in his office long after Ethan left, the psychiatric report spread across his desk like evidence of betrayal. Twenty-three years of practice, Dr. Martinez had. Twenty-three years, and she couldn't see what was right in front of her.
+
+He picked up his phone, scrolled to a contact labeled "Investigator - Detroit."
+
+"Mr. Price," the voice answered on the first ring. "I was expecting your call."
+
+"You've been tracking them for three months. Tell me you have something more substantial than photos and emails."
+
+"We have everything, Mr. Price. Every meeting location, duration, content when possible. The science fair incident you mentioned—we have security footage. The rink meetings in December. The coffee shop study sessions. But more importantly, we have the dates."
+
+"The dates?"
+
+"Miss Chen turned eighteen on February 14th. Your son remains seventeen until August 12th. In the eyes of the law, she's an adult in a relationship with a minor."
+
+Robert felt something cold and certain settle in his chest. "Go on."
+
+"There's more. The girl has been actively encouraging him to defy parental authority. We have messages where she supports his emancipation, helps him research financial aid, essentially coaching him through rebellion. In Michigan, that could be construed as interference with custody."
+
+"Could be?"
+
+"With the right prosecutor, the right presentation, it becomes a pattern of an adult manipulating a minor away from parental guidance. Contributing to delinquency. Interference with custody. The age gap may be small, but the law is the law."
+
+Robert stood, walked to his window. Outside, the April evening was gray, fitting. "Send me everything. Organized, documented, ready for legal review."
+
+"Already prepared, sir. I'll have it delivered tomorrow morning."
+
+"Good."
+
+He ended the call, stood at the window looking out at nothing. Ethan thought this was about control. He was wrong. This was about saving his son from the biggest mistake of his life, even if Ethan hated him for it.
+
+The psychiatric evaluation said Ethan demonstrated exceptional maturity. Well, maturity meant understanding consequences. And consequences were coming.
+
+---
+
 Ethan went back to his room, closed the door, and pulled up the financial aid information for MIT. There had to be a way. Scholarships, loans, work-study. Emancipated students qualified differently for aid, Michael Chen had mentioned. He started researching, clicking through pages, taking notes.
 
-Somewhere in the numbers and application deadlines and eligibility requirements, there had to be an answer.
+His phone buzzed. Text from an unknown number.
 
-Because his father was right about one thing: adults face financial realities.
+"Your father hired us three months ago. We have everything. Every meeting, every call, every moment you thought was private. She's eighteen now. You're still seventeen. That changes everything."
 
-But adults also make their own choices.
+The phone slipped from his hand.
 
-And Ethan was choosing MIT, choosing his future, choosing freedom.
-
-No matter what it cost.
+They'd been watching.
+The whole time.
+And Sophia had turned eighteen without him even realizing what that meant legally.

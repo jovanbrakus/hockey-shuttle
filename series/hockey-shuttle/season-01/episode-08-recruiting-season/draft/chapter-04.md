@@ -1,6 +1,116 @@
 # CHAPTER 4: SIGNING DAY
 
-May 1st, 8:47 AM. Ethan sat at the kitchen table in Jordan's apartment—his new temporary home since his father's Toronto ultimatum—staring at two documents on his laptop screen.
+May 1st, 5:47 AM. Sophia woke three minutes before her alarm, heart already racing.
+
+The nightmare had been vivid—courtroom, handcuffs, her MIT acceptance letter burning in someone's hands. She'd woken with the taste of fear in her mouth, sheets tangled around her legs, gray dawn light creeping through her bedroom window.
+
+National College Decision Day.
+
+Also: fourteen days until criminal charges.
+
+She rolled over, grabbed her phone from the nightstand. Instagram showed dozens of overnight notifications—more congratulations on her national championship from Sunday, photos of the gold medal ceremony being shared and reshared. Her championship photo had 847 likes now. Comments: "So proud!" and "National champion!" and "MIT is lucky to have you!"
+
+They didn't know. None of them knew that MIT might revoke her acceptance before she ever set foot in Cambridge. That a criminal record could destroy her engineering career before it started. That supporting Ethan's right to choose his own future might cost her everything.
+
+She turned off Instagram and opened her conversation with Ethan. No new messages since last night's "See you this afternoon." They'd agreed to meet at 3 PM to sign their commitment letters together—romantic gesture that now felt weighted with desperation.
+
+What if they were signing documents that would be meaningless in two weeks?
+
+Sophia tried to go back to sleep. Failed. Her mind kept circling: Contributing to the delinquency of a minor. Interference with custody. Criminal harassment. Robert's attorney had listed them like menu items, casual recitation of charges that could mean jail time.
+
+At 6:15, she gave up on sleep entirely. Showered, dressed, went downstairs to the kitchen where her mother was already making breakfast.
+
+"You're up early," Helen said, then saw Sophia's face. "Couldn't sleep?"
+
+"Nightmares."
+
+"About today? Or about May 15th?"
+
+"Both."
+
+Helen poured tea, slid the mug across the counter. "Your father's been researching. The charges Robert's threatening—they're difficult to prove. You'd need clear evidence of intent to harm, pattern of behavior, documented interference. Robert has surveillance and timeline, but that's not the same as criminal intent."
+
+"But it's possible," Sophia said. "He could file charges. The prosecutor could accept them. I could actually be criminally charged for—for what? Supporting my boyfriend? Encouraging him to think for himself?"
+
+"For being eighteen when he's seventeen. That's what Robert's weaponizing. The age difference."
+
+"It's five months. I turned eighteen in February, he turns eighteen in August. Five months."
+
+"I know, sweetheart. It's not fair. It's not right. But Robert's lawyers are good at finding technicalities."
+
+Sophia wrapped her hands around the tea mug, seeking warmth. Her stomach churned too much for food. The kitchen smelled like toast and coffee—normal breakfast smells on the least normal morning of her life.
+
+"What if MIT finds out?" she asked quietly. "What if they revoke my acceptance because I'm facing criminal charges?"
+
+"You're not facing charges yet. And you might never face charges. This could be entirely bluff and intimidation."
+
+"It doesn't feel like a bluff."
+
+Helen was quiet for a moment. Then: "Are you still sure? About MIT? About Ethan? About all of it?"
+
+Sophia looked at her mother—genuinely asking, not pressuring, giving her space to doubt.
+
+"I'm sure about MIT," she said. "I've wanted this since I was fourteen. Engineering degree, research opportunities, everything."
+
+"And Ethan?"
+
+"I'm sure about him too. About supporting him. About us trying to make this work."
+
+"Even if it costs you?"
+
+Sophia thought about that. Really thought about it. Criminal charges. Court dates. Legal fees. Possible jail time. Criminal record. Everything she'd worked for put at risk.
+
+"Yeah," she said finally. "Even then. Because what Robert's doing is wrong. And if I walk away now, I'm saying it's okay for parents to control their kids like this. I'm saying money and threats are enough to destroy someone's autonomy. And I can't—I can't live with that."
+
+Her mother's eyes were bright with unshed tears. "That's very brave."
+
+"That's very stupid."
+
+"Both things can be true."
+
+They sat in the kitchen as dawn brightened to full morning. At 7:30, Sophia's father came downstairs, already in lawyer mode—he'd been researching legal precedents until past midnight.
+
+"Good morning," he said, then looked at Sophia. "Did you sleep?"
+
+"Not really."
+
+"Me neither." He poured coffee, joined them at the table. "I've been reviewing Romeo and Juliet laws—close-in-age exemptions for relationships involving minors. Michigan has one. So does Manitoba. In both jurisdictions, if you're within five years age difference and the younger party is above age of consent, it's legal. You and Ethan are five months apart, both above sixteen. Robert's criminal charges would have to prove more than just age difference."
+
+"What would they have to prove?"
+
+"That you intentionally interfered with his parental authority. That you encouraged illegal behavior—like truancy. That you maintained contact against explicit parental instructions. That's harder to prove, but possible if Robert has documentation."
+
+"He has fourteen months of surveillance."
+
+Michael's expression darkened. "Which is its own kind of disturbing. But surveillance of you and Ethan being together isn't the same as evidence of criminal intent. You'd need a very aggressive prosecutor to move forward with charges this weak."
+
+"But it's possible."
+
+"It's possible."
+
+Sophia's phone buzzed. Ethan's text: "you awake?"
+
+"yeah you?"
+
+"couldn't sleep"
+
+"is today really happening"
+
+"today is really happening"
+
+She put her phone down, looked at her parents. "Ethan and I are meeting at 3 PM to sign our commitment letters. Together. At The Forks. Where we reconnected in September."
+
+"That's romantic," her mother said.
+
+"That's terrifying," Sophia replied.
+
+"Both things—" Helen started.
+
+"—can be true," Sophia finished. "I know."
+
+---
+
+Meanwhile, two hundred miles southwest in Jordan's Winnipeg apartment, Ethan sat at the kitchen table staring at two documents on his laptop screen.
 
 Left tab: MIT acceptance letter. Unsigned commitment form. Deadline: 11:59 PM tonight.
 
@@ -159,111 +269,203 @@ Six and a half hours until everything became real.
 
 ---
 
-The Forks at 2:50 PM was alive with spring energy. Families walking along the river, joggers on the paths, food trucks setting up for evening crowds. The Red River flowed with snowmelt, ice long gone, water reflecting gray sky.
+The Forks at 2:50 PM was alive with spring energy—first truly warm day of May, winter finally releasing its grip on Manitoba. Families walked along the Red River, joggers on the paths, food trucks setting up for evening crowds. Trees showed early green, buds opening, everything promising renewal.
 
-Ethan arrived first, Jordan dropping him off with promise to return at 5 PM. He stood on the bridge where they'd stood in September, where everything had started again.
+The water flowed with late snowmelt, ice long gone, river reflecting gray sky that threatened rain later but held off for now.
 
-Seven months ago, Sophia had appeared in the community center, unexpected and impossible. Seven months of reconnection, complications, escalation, battle.
+Ethan arrived first, Jordan dropping him off with promise to return at 5 PM. He stood on the pedestrian bridge where they'd stood in September, where everything had restarted.
 
-Now they were here. Decision day.
+Seven months ago, Sophia had appeared in the community center—unexpected, impossible, someone from his past who'd somehow become his future. Seven months of reconnection, complications, escalation. Seven months of fighting for the right to choose their own paths.
 
-He pulled the printed MIT acceptance letter from his backpack, still unsigned. The paper felt weighted, significant beyond its physical mass.
+And now: decision day.
+
+He pulled the printed MIT acceptance letter from his backpack. Heavy paper stock, official MIT letterhead, "We are pleased to offer you admission to the Massachusetts Institute of Technology" in formal typeface. The signature line at the bottom waited, blank, for his commitment.
+
+One signature. That's all it took. His future, determined by his own hand instead of his father's plans.
+
+The bridge had memorial plaques along the railing—Winnipeg history, significant dates, names of people who'd shaped the city. Ethan leaned against the railing, looking at the confluence of the Red and Assiniboine rivers. The Forks. Where two paths met and became something new.
+
+Fitting place for this.
 
 "Hey."
 
-He turned. Sophia approached from the parking area, carrying her own envelope.
+He turned. Sophia approached from the parking area, carrying a manila envelope, her expression nervous and determined simultaneously.
 
-"Hey."
+She was wearing her MIT sweatshirt—the one she'd ordered the day after getting accepted, gray with the MIT logo and "Class of 2030" on the back. Ethan had the same sweatshirt in his backpack, unworn, waiting for today to make it official.
 
-They stood facing each other, letters in hand, river flowing behind them.
+"Hey." His voice came out rougher than intended.
 
-"This is really happening," she said.
+They stood facing each other on the bridge, letters in hand, river flowing sixty feet below, Winnipeg spring happening around them while their futures hung in balance.
+
+"This is really happening," Sophia said.
 
 "This is really happening."
 
-"Should we sit?"
+She glanced around—families passing by, joggers, normal people having normal Tuesday afternoons. "Should we sit?"
 
-There was a bench nearby, same bench they'd sat on at nine years old, talking about hockey and skating and everything being simple. They sat there now, seventeen and complicated and deciding their futures.
+There was a bench nearby, weathered wood with a view of both rivers. The same bench, Ethan realized, where they'd sat at nine years old during hockey tournaments. Back when everything was simple—skating and competition and friendship uncomplicated by control and threats and impossible choices.
 
-Sophia pulled out her acceptance letter, still unsigned.
+They sat there now, seventeen and eighteen, deciding futures that their families had tried to prevent.
 
-Ethan did the same.
+Sophia pulled out her acceptance letter—identical to his, same letterhead, same formal language. Her hands trembled slightly as she held it.
 
-Two identical letters, two identical deadlines, two intertwined futures.
+"Are you scared?" she asked.
 
-"Are you sure?" she asked.
+"Terrified. You?"
+
+"Same." She looked at the signature line, blank and waiting. "This morning I had a nightmare that MIT revoked my acceptance. That the criminal charges went through and they sent me a letter: 'We regret to inform you...'"
+
+"That's not going to happen."
+
+"You don't know that."
+
+"No," Ethan admitted. "But I know we're making the right choice. MIT, engineering, our own futures—that's right. Whatever happens with my father, with the emancipation hearing, with the threats—we're choosing what's right for us."
+
+Sophia's eyes were bright with unshed tears. "What if it costs us everything?"
+
+"Then we rebuild. Together."
+
+Two identical letters in their hands. Two identical deadlines: 11:59 PM tonight. Two futures that had been separate for six years, now intertwining again.
+
+"Are you sure?" Sophia asked quietly. "Really sure? Because once we sign, it's binding. No taking it back."
 
 "Are you?"
 
 "I asked first."
 
-Ethan looked at the letter, all the MIT letterhead and formal language and "We are pleased to offer you admission."
+Ethan looked at the letter in his hands—heavy paper, official seal, words that represented everything he'd wanted since realizing engineering was possible, since understanding he could have a future beyond hockey.
 
-"I'm sure," he said. "I want this. I want MIT, I want engineering, I want to build my own life. I want you. All of it. I'm sure."
+"I'm sure," he said. "I want this. MIT, engineering, building my own life on my own terms. Research, innovation, maybe grad school, maybe startup companies—I don't know exactly what yet, but I know it starts here. And I want—" He paused, meeting her eyes. "I want to try this. Us. At MIT. See if what we have now can survive distance, can grow into something more. I'm sure."
 
-"Even without your father's support?"
+"Even without your father's support? Even with the emancipation hearing and the financial uncertainty and all of it?"
 
-"Especially without his support. That's the whole point."
+"Especially without his support. That's the whole point. Choosing my own path instead of following the one he decided for me when I was five years old."
 
-Sophia was quiet for a moment. "My dad warned me. Last week. He said your father will escalate."
+Sophia looked down at her own letter, reading words she'd memorized weeks ago. "My dad warned me Sunday night. After Toronto. He said your father will escalate, that men like that don't accept losing. He said it might get worse before it gets better."
 
-"He already has. Cut me off financially, showed up in Toronto, threatened the emancipation case."
+"He already has escalated. Cut me off financially, showed up in Toronto, threatened criminal charges against you, sabotaged the emancipation case. I don't know what worse looks like."
 
-"What if it gets worse?"
+"What if we lose?" Her voice was small. "What if the emancipation fails and you can't get financial aid? What if Robert actually files charges and I end up with a criminal record? What if MIT revokes our acceptances or we can't afford it or—"
 
-"Then we handle it."
+"Then we handle it." Ethan took her hand, the one not holding her letter. "Together. We defer for a semester, we regroup, we find another path. But giving up now, letting him win without even trying—I can't live with that. Can you?"
 
-"Together?"
+Sophia was quiet, processing. River water flowing below them, spring breeze carrying the smell of thawing earth and new growth. Around them, Winnipeg continued—joggers, families, teenagers on skateboards, all the normal chaos of life happening while they decided their futures on a bridge in the middle of the city.
 
-"Together."
+"No," she said finally. "I can't live with that either. I can't let Robert's threats determine my choices. That's exactly what he wants—for me to be so scared of consequences that I walk away, leaving Ethan isolated and alone. And I won't do it."
 
-She nodded, decision made. "Okay. Together."
+She looked at Ethan, determination replacing fear in her expression. "Okay. Together."
 
-They opened their letters simultaneously, reading through the acceptance text they'd both already memorized.
+They opened their letters simultaneously, though they'd both already memorized every word.
 
-"On three?" Sophia said, pen ready.
+"On three?" Sophia said, pulling a pen from her bag—MIT blue ink, of course, purchased specifically for this moment.
 
-"On three."
+"On three." Ethan had his own pen ready, black ink, ordinary, borrowed from Jordan's kitchen counter this morning.
 
 "One."
 
+Ethan's hand trembled slightly as he positioned his pen above the signature line. His handwriting would commit him to MIT, to engineering, to a future built on massive debt and legal uncertainty and hope that the emancipation hearing would succeed. His signature, his choice, his future.
+
 "Two."
+
+Sophia's eyes met his across the bench, both of them on the edge of something irreversible. Her hand was shaking too, pen hovering, breath held.
+
+Around them, Winnipeg was beautiful—spring afternoon, river flowing, sky clearing, everything promising possibility.
 
 "Three."
 
-They signed. Ethan Price on his letter, Sophia Chen on hers. Signatures that would appear in MIT's system, confirm their enrollment, commit them to September.
+They signed.
 
-"Done," Ethan said.
+Ethan Price, his signature taking longer than usual because his hand was shaking, because the weight of the moment made the pen feel heavy, because this was everything.
 
-"Done," Sophia echoed.
+Sophia Chen, her signature slanting slightly upward the way it always did when she was emotional, her face bright with determination and terror and hope all at once.
 
-They pulled up MIT's commitment portal on their phones, uploaded photos of the signed letters, submitted.
+For three seconds, they just sat there. Holding their signed letters. Staring at their own handwriting committing them to futures Robert had tried to prevent, to paths they'd chosen despite threats, to MIT together against all odds.
 
-Loading icon spinning.
+The letters felt different now. Heavier. More real.
 
-Then: "COMMITMENT RECEIVED - Ethan Price, Class of 2030."
+Binding.
 
-And: "COMMITMENT RECEIVED - Sophia Chen, Class of 2030."
+"Done," Ethan said, voice rough with emotion he was trying to control.
 
-Official. Binding. Real.
+"Done," Sophia echoed, and her voice broke on the word.
 
-They looked at each other, and Sophia started laughing, relief and disbelief and joy.
+Then she was crying—happy tears, overwhelmed tears, relief and fear and joy all mixed together. Ethan pulled her against him, both of them still holding their letters, and she pressed her face into his shoulder while her whole body shook.
 
-"We did it."
+"We did it," she said into his jacket. "We actually did it."
 
-"We actually did it."
+"We did it." Ethan's own eyes were burning. He blinked hard, not quite crying, but close.
 
-"September in Cambridge."
+They pulled up MIT's commitment portal on their phones with fumbling fingers. Uploaded photos of the signed letters. Hovered over "Submit."
 
-"Both of us."
+"Together?" she asked.
 
-Ethan pulled her into a hug, fierce and celebrating and victorious. Against odds, against pressure, against his father's control, they'd chosen their own path.
+"Together."
 
-"MIT," Sophia said into his shoulder.
+They pressed submit simultaneously.
 
-"MIT," he confirmed.
+Loading icon spinning. Ethan's heart hammered. This was it. Official. Binding. No taking it back after this.
 
-They pulled apart, both smiling, both overwhelmed.
+Then his screen refreshed: "COMMITMENT RECEIVED - Ethan Price, Class of 2030."
+
+And hers: "COMMITMENT RECEIVED - Sophia Chen, Class of 2030."
+
+Sophia made a sound between a laugh and a sob. "We did it."
+
+"We actually did it." Ethan felt something break loose in his chest—relief, disbelief, overwhelming joy threatening to crack him open. "September in Cambridge. Both of us."
+
+She was crying, he realized. Happy tears running down her face, and she was laughing at the same time, overwhelmed and relieved and terrified all at once. Then she was in his arms and he was holding her tight, both of them shaking with the magnitude of what they'd just done.
+
+"We're going to MIT," she said into his shoulder, words muffled but joyful.
+
+"We're going to MIT," he confirmed, and his own voice cracked.
+
+They pulled apart, both grinning despite wet eyes, despite everything. And then they were kissing—brief but meaningful, sealing the commitment with more than just signatures. Seventeen and eighteen years old, choosing their futures on a bridge over the Red River, making promises they intended to keep.
+
+When they broke apart, Ethan kept his forehead pressed to hers, both of them breathing hard, still processing reality.
+
+"I can't believe we did it," Sophia whispered.
+
+"Believe it." He pulled back, showed her his phone screen again. Her name. His name. Class of 2030. Official. Binding. Real. "It's done."
+
+Sophia looked at her own phone, the confirmation screen glowing. Then she glanced at her Instagram notifications—still muted from the morning, but the badge showed 127 unread. She opened it briefly.
+
+Her feed was flooded with college decision posts. Friends from school, teammates from badminton, people she'd competed against over the years. Everyone posting their commitment photos: acceptance letters, college sweatshirts, graphics with university logos and "I'm going to..." captions.
+
+Normal kids making normal posts about normal college decisions.
+
+#DecisionDay trending. #MIT2030 showing dozens of posts from students across the world. Everyone celebrating, everyone excited, everyone's futures looking bright and uncomplicated.
+
+Sophia could post her commitment. Could share her acceptance letter, could add to the #MIT2030 feed, could participate in the collective celebration happening across social media.
+
+But Robert monitored everything. A public post would give him more ammunition, more evidence of "defiance," more fuel for whatever he was planning.
+
+So she saved the confirmation screenshot to her camera roll—private archive, not public celebration—and put her phone away.
+
+"You're not posting?" Ethan asked quietly. He'd seen her scroll through the Decision Day posts.
+
+"Are you?"
+
+He shook his head. "My Instagram's been deactivated for weeks. One less thing for my father to weaponize."
+
+"Same reasoning. I want to post. I want to celebrate like everyone else. But—"
+
+"But we can't. Not without consequences."
+
+"Yeah."
+
+They sat there, commitment letters in hand, official MIT confirmations on their phones, unable to share the moment the way their peers were sharing theirs.
+
+Silent celebration. Private victory.
+
+Another cost of choosing their own paths.
+
+They sat there, hands clasped, commitment letters between them, both overwhelmed by what had just become official.
+
+Against everything. Against his father's threats and financial control and psychiatric evaluations and isolation.
+
+They'd chosen their own future.
+
+Together.
 
 "What now?" she asked.
 
@@ -593,15 +795,17 @@ The fifth folder. Legal documents. Statutes, case law, precedents.
 
 The lawyer walked Ethan through them:
 
-Contributing to the delinquency of a minor. When an adult encourages illegal behavior (like truancy) in a minor.
+Contributing to the delinquency of a minor. When an adult encourages illegal behavior (like truancy) in a minor. Up to six months jail time.
 
-Interference with custody. When someone interferes with a parent's legal right to control their minor child's activities and relationships.
+Interference with custody. When someone interferes with a parent's legal right to control their minor child's activities and relationships. Can be escalated to felony. Up to two years.
 
-Criminal harassment under Canadian law. Maintaining unwanted contact with a family member of someone who's set boundaries.
+Criminal harassment under Canadian law. Maintaining unwanted contact with a family member of someone who's set boundaries. Fines and possible jail time.
 
 "These are all potential charges," the lawyer said. "Based on the documented evidence."
 
-Ethan's blood went cold. "You're going to press charges against Sophia."
+Ethan's blood went cold. His hands started shaking. He had to set down the folder he was holding before he dropped it.
+
+"You're going to press charges against Sophia." His voice came out hollow, disbelieving.
 
 "I'm going to protect my son," his father said. "From someone who's been manipulating him for fourteen months. Someone who encouraged rebellion, defiance, legal action against his family."
 
@@ -621,11 +825,17 @@ His father laid out the final folder. A legal document, formal and typed, signat
 
 "Criminal complaint," the lawyer explained. "Detailing the charges against Sophia Chen. Contributing to delinquency, interference with custody, harassment. Based on fourteen months of documented evidence."
 
-Ethan read the complaint, words blurring together into nightmare reality.
+Ethan tried to read the complaint, but the words blurred together into nightmare reality. His hands were trembling so badly the pages shook.
+
+Sophia. Criminal charges. Prison time. Criminal record. MIT revoked. Engineering career destroyed.
+
+All because she'd supported him.
 
 "These will be filed with the prosecutor's office on May 14th," his father said. "The day before your emancipation hearing. The prosecutor will review and decide whether to press charges. Given the documentation, I'm confident they will."
 
-"You can't do this."
+Nausea hit him hard and sudden. Ethan stood up too fast, the room tilting.
+
+"You can't do this." His voice cracked.
 
 "I can. And I will. Unless."
 
@@ -711,38 +921,142 @@ Either way, his father won.
 
 Either way, they lost.
 
-Ethan pulled out his phone, hands shaking. This news was too big for text, too devastating for typing. He called Sophia.
+Ethan pulled out his phone, hands shaking so badly he almost dropped it. This news was too big for text, too devastating for typing.
 
-She answered on the second ring, voice immediately concerned. He never called unless it was serious. "Hey, what happened?"
+He called Sophia.
 
-"We need to talk," he said. "In person. As soon as possible."
+She answered on the second ring, voice bright—probably still riding the high of committing to MIT together three hours ago. "Hey! I was just looking at dorm options—"
+
+"We need to talk." His voice came out flat, dead. "In person. As soon as possible."
+
+Silence. Then, carefully: "What happened?"
 
 "Not on the phone. Can you meet me? The Forks. One hour."
 
 "Ethan, you're scaring me."
 
-"I know. I'm sorry. One hour. Please."
+"I know. I'm sorry. Just—please. One hour."
 
 "I'll be there."
 
 The call ended.
 
-Ethan started walking, didn't call Jordan for a ride, needed the movement to process what he'd just heard.
+Ethan stood on the sidewalk outside his father's house—former home, now enemy territory—and tried to steady his breathing.
 
-Criminal charges. Jail time. Criminal record. MIT revoked. Engineering career destroyed.
+Fourteen months of surveillance. Photographs of them together. Text messages encouraging emancipation. School records showing truancy. Location data. All of it weaponized, all of it twisted into evidence of manipulation instead of support, criminal intent instead of care.
 
-All because she'd supported him. All because she'd believed in his right to choose his own future.
+And the legal documents. Contributing to the delinquency of a minor. Interference with custody. Harassment. Charges that could mean jail time, criminal record, MIT revoked, engineering career destroyed before it started.
 
-His father had found the ultimate weapon. Not money, not control, but law itself.
+All because Sophia had turned eighteen in February while he was still seventeen until August.
 
-And there was no defense that didn't cost everything.
+Five months. That's all the difference was. Five months of age gap that Robert's lawyers had found a way to weaponize.
 
-Sophia would face the impossible choice: sacrifice their relationship and her support for him, or sacrifice her entire future and risk prison.
+Ethan started walking. Didn't call Jordan for a ride, needed the movement to process the nightmare his father had just unveiled. Michigan streets quiet in late afternoon, spring evening settling in, everything looking normal while his world imploded.
 
-And Ethan would have to watch, helpless, as his father destroyed the person who'd believed in him.
+An hour later, he stood on the same bridge where they'd signed their MIT letters that afternoon. The bench where they'd committed to their futures together, celebrating in private because public celebration would cost too much.
+
+Now even private celebration was poisoned.
+
+Sophia appeared at 4:47 PM, out of breath from running. She'd changed out of her MIT sweatshirt into a hoodie, hair pulled back, face showing worry that turned to fear when she saw his expression.
+
+"What happened?" she asked immediately. "What did your father do?"
+
+Ethan handed her the folder. Five sections. Fourteen months of documentation. Legal statutes. Proposed criminal charges.
+
+She read in silence, face going progressively paler, until she had to sit down on the bench. The same bench where they'd signed their futures three hours ago.
+
+"Criminal charges," she said finally, voice hollow. "He's actually going to file criminal charges against me."
+
+"Unless you end all contact. Permanently. Written statement, legally binding. Due May 15th at 9 AM—one hour before the emancipation hearing."
+
+"So during your hearing, I'll be—what? Signing away our relationship? Or being charged with crimes?"
+
+"That's the choice he's giving you."
+
+Sophia stared at the legal documents. Her hands trembled holding them. "Contributing to delinquency. Interference with custody. Harassment. I could go to jail. I could have a criminal record. MIT could revoke my acceptance—"
+
+Her voice broke. She pressed a hand to her mouth, eyes wide with horror.
+
+"We just signed our commitment letters," she whispered. "Four hours ago. We committed to MIT together. And now—"
+
+"Now he's found a way to destroy that." Ethan sat beside her, feeling numb. "Unless you walk away. Unless you sign the statement ending all contact, leaving me to face the emancipation hearing alone."
+
+"And if I don't sign?"
+
+"Criminal charges filed May 15th. Prosecutor reviews. With Robert's documentation, they'll probably accept the case. You'd need a criminal defense attorney, court dates, legal fees. Even if you win, the record follows you. Background checks for jobs, security clearances for engineering positions—all of it affected."
+
+"Because I'm eighteen and you're seventeen."
+
+"Because you're eighteen and I'm seventeen and he has fourteen months of surveillance proving you encouraged me to defy him."
+
+Sophia looked at the documents in her lap. At the bench where they'd signed their futures. At the river flowing below. At Ethan, sitting beside her, both of them seventeen and eighteen years old and facing choices no one their age should face.
+
+"We committed to MIT today," she said. "Together. Class of 2030."
+
+"I know."
+
+"And now he's saying I have to choose between that future and—and you. Between my entire life and supporting you."
+
+"That's what he's saying."
+
+Sophia's eyes were bright with tears she was fighting. "What do we do?"
+
+"I don't know."
+
+"Thirteen days until May 15th."
+
+"Thirteen days."
+
+Her phone buzzed. Instagram notification: someone congratulating her on the national championship, asking if she'd decided on college yet. Normal question, normal conversation, normal life continuing around them while theirs crumbled.
+
+She turned off her phone completely.
+
+They sat on the bench as evening shadows lengthened, commitment letters to MIT signed and submitted, criminal charges looming in thirteen days.
+
+"We did it," Sophia said finally, voice bitter. "We chose our own futures. We committed to MIT. We signed the letters four hours ago."
+
+"Four hours ago," Ethan echoed.
+
+"And now it might all be for nothing."
+
+Ethan took her hand. It was shaking. "We'll figure it out. We have to."
+
+"How? How do we figure out a choice between criminal charges and abandoning you?"
+
+"I don't know yet. But we have thirteen days. Maybe—maybe your dad can help. He's a lawyer, he understands—"
+
+Sophia's phone rang, cutting him off. Michael Chen's name on the screen.
+
+She answered, put it on speaker. Her father's voice was tense, urgent: "Sophia, where are you?"
+
+"At The Forks. With Ethan. Why?"
+
+"Robert's attorney just called me. Courtesy notification that criminal complaints have been drafted and will be filed May 15th unless you sign the termination of contact. He wanted me to know that he's offering one opportunity for you to consult legal counsel before making your decision."
+
+"Dad, what do I do?"
+
+Michael was quiet for a long moment. "Come home. We need to talk. All of us. This is serious, sweetheart. More serious than I feared."
+
+"How serious?"
+
+"Come home. Now. Please."
+
+The call ended.
+
+Sophia and Ethan sat on the bench in deepening twilight, their MIT commitment letters signed and official, their futures together committed, and Robert's criminal charges looming like a countdown timer.
 
 May 15th.
 
 Thirteen days.
 
-The countdown to losing everything had begun.
+The choice impossible, the consequences devastating either way.
+
+And somewhere in Michigan, Robert Price was waiting, confident that Sophia would choose self-preservation over supporting Ethan.
+
+That fear would win over love.
+
+That threats would succeed where control had failed.
+
+The countdown had begun.
+
+And everything they'd fought for hung in the balance.

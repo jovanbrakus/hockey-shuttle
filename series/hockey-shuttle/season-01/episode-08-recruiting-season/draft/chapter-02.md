@@ -2,358 +2,425 @@
 
 The MIT financial aid website was designed for clarity, but at 1 AM, the numbers blurred together into one overwhelming truth: even with aid, the cost was staggering.
 
-Ethan sat at his desk, laptop casting blue light across his face, working through the calculator. Expected Family Contribution: $65,000. Student Contribution: $8,000. MIT Grant: $7,000. Total remaining: $73,000 per year. Times four years: $292,000.
+Ethan sat at Jordan's desk—his temporary workspace in his brother's cramped apartment—laptop casting blue light across his face. The apartment smelled like the Thai takeout they'd had for dinner, mixed with the faint mustiness of a building that had seen better decades. Through the thin walls, he could hear the upstairs neighbor's TV, some late-night talk show laugh track punctuating his financial panic.
+
+He rubbed his eyes, refocused on the screen. Expected Family Contribution: $65,000. Student Contribution: $8,000. MIT Grant: $7,000. Total remaining: $73,000 per year. Times four years: $292,000.
+
+His neck cramped from hunching over the laptop. He rolled his shoulders, heard them crack. Three days since Toronto. Three days since his father had cut him off financially. Three days of living on Jordan's couch, eating Jordan's food, using Jordan's Wi-Fi to research how to afford the future he'd just committed to.
 
 Even with the grant, he'd need loans for most of it. Federal loans maxed at $7,500 per year for undergrads. The rest would be private loans, at higher interest rates, requiring a co-signer he wouldn't have.
 
-His savings account: $4,247. Summer job money from the past three years.
+He pulled up his mobile banking app. Savings account: $4,247. Summer job money from the past three years. His checking account—the one his father had funded—showed $0.00. Access revoked, just like he'd promised.
 
 The math didn't work.
 
-He opened another tab, searched "financial aid for emancipated students." The results were more promising. Without parental income counted, his Expected Family Contribution dropped to zero. MIT's need-blind admission meant they'd cover demonstrated need. With emancipation, his need would be total.
+Ethan opened another browser tab, the sixth one currently open, each containing a different piece of the impossible puzzle. "Financial aid for emancipated students." The results were more promising. Without parental income counted, his Expected Family Contribution dropped to zero. MIT's need-blind admission meant they'd cover demonstrated need. With emancipation, his need would be total.
 
-Full ride possible, Michael Chen had written.
+Full ride possible, Michael Chen had written in the email now buried in Ethan's spam folder.
 
-Ethan clicked through to MIT's emancipated student guidelines. Documentation required: court order of emancipation, proof of self-support, verification of no parental financial assistance. Processing time: 4-6 weeks after emancipation granted.
+He clicked through to MIT's emancipated student guidelines, skimming information he'd already memorized. Documentation required: court order of emancipation, proof of self-support, verification of no parental financial assistance. Processing time: 4-6 weeks after emancipation granted.
 
 May 15th hearing. June processing. June 30th first payment due.
 
-It was tight, but possible.
+It was tight, but possible. If everything went perfectly.
 
-If he won the hearing. If the paperwork processed in time. If MIT accepted the updated financial aid application.
+If he won the hearing. If the paperwork processed in time. If MIT accepted the updated financial aid application. If his father didn't find new ways to sabotage him.
 
 A lot of ifs.
 
-His phone buzzed. Jordan's message: "Still up?"
+His phone buzzed, screen lighting up on the desk beside the laptop. Signal notification from Jordan: "still up?"
 
-"Yeah."
+"yeah"
 
-"Dad's on the phone with someone. Sounds like NHL stuff."
+"dads on the phone with someone. sounds like nhl stuff"
 
-Ethan closed the laptop. The financial aid research would be there tomorrow. Right now, he needed sleep before another day of walking on eggshells in his father's house.
+Ethan's stomach tightened. He closed the laptop—the financial aid research would be there tomorrow—and stared at his phone. NHL stuff. More scouts. More pressure. More opportunities to say yes to the life his father had designed and no to the one he actually wanted.
+
+He fell back onto Jordan's pull-out couch, springs creaking beneath him. The borrowed sheets smelled like generic laundry detergent, nothing like the expensive fabric softener his father's housekeeper used. Everything in his life now was temporary, borrowed, uncertain. And somehow, despite the fear and instability, it felt more his than anything in his father's house ever had.
 
 But sleep didn't come easily. Every time he closed his eyes, he saw the numbers. $292,000. Three hundred thousand dollars of debt versus three million dollars guaranteed.
 
-His father's voice in his head: "Adults face financial realities."
+His father's voice echoed in his head: "Adults face financial realities."
 
-Ethan turned over, pulled the blanket up, tried to quiet his mind.
+Yeah, well. He was facing them. He was just choosing which reality he'd rather live with.
+
+Ethan turned over, pulled the scratchy blanket up, tried to quiet his mind. The apartment's radiator clanked and hissed. Somewhere down the hall, someone's dog barked. Normal sounds. Working-class sounds. Not the quiet perfection of his father's neighborhood where everything was controlled, managed, pristine.
 
 Tomorrow. He'd figure it out tomorrow.
 
 ---
 
-The next morning, Wednesday, Ethan was making breakfast when his father entered the kitchen already on the phone.
+The next morning, Wednesday, April 10th. Ethan woke on Jordan's couch to his phone buzzing insistently on the coffee table. He grabbed it, squinting at the screen: Unknown number, Michigan area code.
 
-"Yes, he's here now. One moment." His father held out the phone. "Mike Hoffman from the Detroit Red Wings."
+He let it go to voicemail.
 
-Ethan froze, spatula in hand.
+Thirty seconds later, it rang again. Same number.
 
-"Take it," his father said.
+"Hello?" His voice came out rough with sleep.
 
-Ethan set down the spatula, accepted the phone. "Hello?"
+"Ethan Price?" A warm voice, friendly, professional. "Mike Hoffman, Director of Player Development for the Detroit Red Wings. Did I catch you at a bad time?"
 
-"Ethan Price?" A warm voice, friendly. "Mike Hoffman, player development for the Red Wings. How are you this morning?"
+Ethan sat up, suddenly wide awake. NHL. His father must have given them his number. "Uh, no. I'm... I'm up."
 
-"I'm... good. Fine."
+"Excellent. Listen, I know you're probably getting a lot of calls right now, so I'll try to be respectful of your time. You got a few minutes to talk hockey?"
 
-"Glad to hear it. Listen, I'll keep this brief. We've been watching you all season. Really impressive work. Your skating, your vision on the ice, your leadership. You're exactly the kind of player we build franchises around."
+Through the phone, Ethan could hear office sounds—keyboards, conversations, the bustle of a professional sports organization. Real. Not theoretical anymore.
 
-"Thank you."
+"Yeah. Sure."
 
-"The draft is June 28th this year. We're picking twelfth. If you're still on the board, we're taking you. But we'd like to talk commitment before then. Get you signed to an entry-level contract, start planning your development path."
+"Great. So here's the thing, Ethan. We've had scouts at your games all season. League games, provincials, even a couple practices. My staff has watched probably forty hours of footage on you. And I'm going to be straight with you—we're impressed. Really impressed."
 
-Ethan's father was watching him intently.
+Ethan's mouth was dry. He reached for the water glass on the coffee table, found it empty. "Thanks."
 
-"I appreciate the interest," Ethan said carefully. "But I'm still considering my options."
+"Your skating is elite level. NHL-ready right now. Your vision on the ice, the way you read plays developing before they happen—that's the kind of hockey IQ you can't teach. And your leadership? Kid, you made every player on your team better. That's rare. That's special."
 
-"Of course, of course. But let me paint a picture for you. Entry-level contract, three years, $925,000 per year plus performance bonuses. Signing bonus, $850,000. That's guaranteed money, Ethan. Two point eight million over three years, minimum. And that's just the start. Players with your potential? Second contract could be eight, ten million per year."
+Despite himself, despite everything, Ethan felt a flush of pride. He'd worked for that. Years of early morning practices, weekend tournaments, summer training camps.
 
-The numbers were staggering. More money than most people saw in a lifetime.
+"The draft is June 28th this year," Hoffman continued. "We're picking twelfth overall. You're on our shortlist. Actually, you're at the top of our shortlist. If you're still on the board when we pick, we're taking you. But I'm calling because we'd like to talk about pre-draft commitment. Get ahead of this, make sure you land where you want to land."
 
-"We'd want you to start in Grand Rapids, our AHL affiliate. One season developing, then you're ready for the NHL. By twenty, you could be playing on our first line. By twenty-two, you could be wearing a letter. This is the path to elite hockey, Ethan. The path your father took. The path you were born for."
+"What does that mean exactly?" Ethan asked.
 
-"I need time to think about it."
+"It means we want to sign you before the draft. Entry-level contract, three years, locked in. That way there's no uncertainty, no draft day stress. You know where you're going, we know we're getting our guy. It's a win-win."
 
-"Sure, absolutely. But don't wait too long. Other teams are circling. We'd like to lock this down by May. Your dad has my number. Call anytime."
+Ethan heard his father's footsteps in the hallway outside Jordan's apartment. Checking on him probably. Making sure he was handling the financial reality of independence.
 
-The call ended. Ethan handed back the phone.
+"What kind of contract are we talking about?" He had to ask. He had to know what he was turning down.
 
-"Detroit," his father said. "First round, guaranteed. That's the fourth call this week."
+"Entry-level contract structure is pretty standard across the league, but we can make ours competitive. Three years, $925,000 per year base salary, plus performance bonuses that could add another $200K per year if you hit benchmarks. Signing bonus of $850,000 paid up front. That's two point eight million guaranteed over three years, potentially three point four if you perform well. Which, based on what we've seen, you will."
 
-"You've been giving them my number?"
+Ethan's brain tried to process the numbers. He'd been researching $292,000 in student loans last night. Now someone was offering him nearly three million dollars.
 
-"I've been facilitating opportunities. That's what parents do."
+"And listen," Hoffman's voice dropped, more personal now. "I know money isn't everything. I know you're a smart kid, got academic interests. We respect that. So here's what else we're offering: full education package. After your hockey career—whether that's five years or fifteen—we pay for college. Any school, any degree. You want MIT? You play a few years of hockey first, bank a few million, then go to MIT debt-free with money in your account. Best of both worlds, Ethan."
 
-"Parents who respect their kids ask first."
+It was smart. Targeting exactly his objection. Exactly his fear.
 
-His father pocketed the phone. "Ethan, I want you to understand something. This isn't just about money. This is about legacy. Your grandfather played semi-pro. I played in the NHL. You have the talent to go further than both of us. That's rare. That's special."
+"You could be starting engineering school at twenty-two, twenty-three, with ten million dollars in the bank," Hoffman continued. "Versus starting at eighteen with three hundred thousand in debt. From a pure financial standpoint, there's no comparison."
 
-"I don't want to play professional hockey."
+Ethan's hand tightened on the phone. The math was irrefutable. The logic was sound. This was the adult decision, the responsible decision, the decision any rational person would make.
 
-"You're seventeen. You don't know what you want yet."
+"I need to think about it," he said.
 
-"I'm seventeen and I know exactly what I want. That's why we're having this fight."
+"Of course, absolutely. This is a big decision. But here's the reality—other teams are circling. Tampa called your dad yesterday. Chicago the day before. Colorado's sniffing around. You're a hot commodity, kid. Teams are going to make offers. The question is whether you want to control where you land or leave it up to draft day chance."
 
-His father sighed, the sound heavy with frustration. "MIT will still be there in three years."
+"How long do I have?"
 
-"And what if I get injured? What if my first season I take a hit and my career ends before it starts? Then what? I've given up MIT, I've postponed my education, and I have nothing."
+"We'd like an answer by mid-May. Draft's June 28th, so we need time to make alternate plans if you're not interested. But between you and me?" Hoffman's voice went conspiratorial. "Don't wait too long. This offer won't be on the table forever."
 
-"That's why you sign the contract now. Even if you're injured, the money is guaranteed."
+Mid-May. After the emancipation hearing. After everything was decided.
 
-"I don't want the money. I want to study engineering."
+"Your father's a legend, Ethan. I played against him back in the day—he was tough as nails. He knows what this career means, what this opportunity is. He understands the path because he walked it. That's valuable guidance, having someone who's been there."
 
-"You can do both."
+The words landed wrong, a reminder that this call wasn't random. His father had orchestrated this. Timed it. Weaponized it.
 
-"No, I can't. NHL means full-time commitment. Training, games, travel. There's no time for MIT-level coursework."
+"Thanks for the call," Ethan said. "I'll think about it."
 
-"Then you take online classes. You do the engineering degree part-time."
-
-"That's not the same thing."
-
-His father's jaw tightened. "You're being stubborn."
-
-"I'm being clear about my goals."
-
-"Your goals are being influenced by someone who doesn't understand hockey."
-
-"This has nothing to do with Sophia."
-
-"Everything has to do with Sophia. Before she came back, you were fine with hockey. You played well, you focused, you understood your path. Then she shows up and suddenly you want MIT, you want emancipation, you want everything except what you've worked for your entire life."
-
-"I've worked for this my entire life because you decided that's what I should work for. I never got a choice."
-
-"You're getting one now. NHL or MIT. Money or debt. Success or struggle. Choose."
-
-Ethan left the kitchen before he said something he'd regret.
-
-In his room, he pulled up his email. Buried in the spam folder, flagged by his father's monitoring software, was a message from Michael Chen. Subject line: "Resources."
-
-The email was brief: "Ethan, I did some research on financial aid for emancipated students. MIT has specific provisions. Emancipated students are considered independent for FAFSA purposes, which dramatically changes aid eligibility. With your academic profile and demonstrated need, full-ride scholarship is very realistic. I've attached some documentation. This stays between us. Good luck with everything. - Michael"
-
-Three PDF attachments: MIT financial aid policy, emancipated student guidelines, FAFSA independent student information.
-
-Ethan read through them carefully. Michael was right. If emancipation was granted, MIT would cover the full cost. Room, board, tuition, fees. Everything. The only requirement was proving he was financially independent from his parents.
-
-Which meant his father's money wasn't just being withheld—it couldn't be accepted. Not if he wanted full aid.
-
-The realization was both freeing and terrifying. He didn't need his father's support. But he also couldn't have it, even if his father changed his mind.
-
-This was all or nothing.
-
-His phone buzzed—text from Jordan:
-
-"dads setting up meetings with scouts"
-"next week tues and thurs"
-
-"i'm not meeting with them"
-
-"hes scheduling them anyway"
-
-"then i wont show up"
-
-"this is gonna get ugly"
-
-"its already ugly"
-
-"fair point"
-
-Ethan stared at his phone, then typed: "can you get a message to sophia?"
-
-"probably. what message"
-
-"tell her im coming to nationals. april 26. no matter what"
-
-Pause. Then: "confirmed. ill tell her"
-
-Ethan set down his phone and pulled up his research. Student loans, work-study, emancipated student aid. There was a path here. Narrow, uncertain, but real.
-
-He just had to walk it without falling.
-
----
-
-The next week was a careful dance of avoidance. His father scheduled meetings with NHL scouts. Ethan claimed illness, fatigue, prior commitments. The scouts called his phone directly. He let the calls go to voicemail.
-
-His father's frustration built like pressure behind a dam.
-
-Thursday evening, the dam broke.
-
-"You missed the Chicago meeting."
-
-"I had tutoring."
-
-"Your tutor said you finished at three. The meeting was at five."
-
-"I needed time to prepare for an exam."
-
-"You're avoiding the scouts."
-
-"I'm focusing on school."
-
-"School is handled. You have a 4.0. You could stop going to classes and still graduate top of your class. The scouts are your future."
-
-"They're your future, Dad. Not mine."
-
-His father's control slipped, voice rising. "Do you understand what you're throwing away? Fourth-round picks make the money you're being offered. You're first round. Elite projection. Teams are fighting to talk to you, and you won't even take the meetings."
-
-"Because I'm not signing with anyone."
-
-"You don't have to sign. Just listen."
-
-"Listening is the first step to pressure. I'm not interested."
-
-"You're being childish."
-
-"I'm being clear about my boundaries."
-
-"Your boundaries are going to cost you millions of dollars."
-
-"I'm okay with that."
-
-His father stared at him, and Ethan saw something shift in his expression. Not anger now. Something colder.
-
-"May 1st," his father said quietly. "College decision day. You have three weeks. NHL commitment or MIT commitment. You can't do both. Choose."
-
-"I already have."
-
-"Then you'd better be ready to live with the consequences."
-
----
-
-Friday afternoon, Ethan's phone rang from an unknown number. He almost didn't answer, expecting another scout. But something made him pick up.
-
-"Ethan Price?"
-
-"Yes?"
-
-"This is Bill Peters, Tampa Bay Lightning. Got a minute?"
-
-Another scout. "I'm not really doing these calls right now."
-
-"I understand you're considering college. That's smart. But hear me out."
-
-Against his better judgment, Ethan listened.
-
-"Tampa's picking eighth this year. You're on our board. We're prepared to offer you the following: three-year entry-level contract, $925,000 per year, $900,000 signing bonus. That's two point eight million guaranteed. Plus, we'll add an education package. We pay for college. Any school you want, any degree you want, after your hockey career. You want MIT? You play four, five years of hockey, bank eight to ten million, then go to MIT with no debt. Best of both worlds."
-
-The offer was better than Detroit's. Smarter. Targeting exactly his objection.
-
-"How long would I have to play?"
-
-"That's up to you. Minimum three years for the entry contract. But most players your caliber, you're looking at ten to fifteen years in the league. But even if you only play three, that's three million in the bank. Then MIT, debt-free, with financial security."
-
-It was logical. Tempting.
-
-"I need time to think."
-
-"Of course. But don't wait too long. Draft is June 28th. We'd like to have this settled by mid-May. After the draft, the numbers might change."
-
-Mid-May. After the emancipation hearing.
-
-"I'll keep that in mind."
-
-"Your father's a legend, Ethan. We played against each other back in the day. He knows what this career means. Listen to him."
+"You do that. And Ethan? Your dad has my direct number. Any questions, any concerns, you call me. Day or night. We want you in Detroit. We think you could be special here."
 
 The call ended.
 
-Ethan sat with his phone, staring at nothing.
+Ethan sat on the couch in Jordan's apartment, holding his silent phone, trying to process what had just happened.
 
-Three million dollars. MIT paid for. No debt.
+Three million dollars. MIT paid for. No debt. No financial desperation. No emancipation hearings and courtroom battles.
 
-All he had to do was delay his education by three years. Play a sport he was good at but didn't love. Live the life his father had designed instead of the one he wanted.
+All he had to do was delay his life by three years. Play a sport he was good at but didn't love. Live in Detroit instead of Boston. Let his father win.
 
-And in three years, would MIT still feel possible? Or would he be twenty-one, established in hockey, the path to engineering feeling more and more distant?
+His phone buzzed. Text from his father: "Detroit made their offer. Smart money says you take it. Last chance to think clearly about your future."
 
-Jordan's phone buzzed on the desk—Sophia's message on Signal: "two weeks until toronto. training hard. cant wait to compete. miss you"
-
-Two weeks.
-
-Ethan picked up Jordan's phone, typed back: "i'm coming. april 26. jordan's driving me. dad doesn't know yet"
-
-Her response came quickly: "are you sure? he'll be furious"
-
-"i'm sure. want to watch you win"
-
-"might cost you the mit money"
-
-"worth it"
-
-Pause. Then: "cant wait to see you"
-
-"same. two weeks"
-
-Ethan set down Jordan's phone and pulled up the calendar on his own. April 26th, semifinals. April 27th, finals. National championships. Everything she'd trained for.
-
-And he was going to be there, no matter what his father threatened.
+Ethan deleted the message without responding.
 
 ---
 
-The next week crawled by. More scout calls, more pressure, more careful avoidance. His father didn't mention the meetings anymore, but the tension in the house was thick enough to feel.
+Later that afternoon, Jordan returned to the apartment with groceries. Ethan was still on the couch, laptop open, researching summer jobs that would hire a seventeen-year-old with limited availability.
 
-Jordan kept him updated on logistics. "I mapped the route. Six hours, straight shot to Toronto. We leave at 7 AM, we're there by 2 PM. Semifinals start at 3."
+"You look like you've been hit by a truck," Jordan observed, setting bags on the kitchen counter.
 
-"He's going to lose his mind when he realizes we're gone."
+"Detroit called this morning. Offered me a contract."
 
-"Probably. But I'll be with you. He can't physically stop us."
+Jordan paused in unpacking canned goods. "And?"
 
-"He can cut off your funding."
+"Three million guaranteed. Education package after I retire. MIT paid for if I play hockey first."
 
-Jordan shrugged. "I have a scholarship. He can cut off housing money, but I'll figure it out. This is important."
+"That's... actually a good offer."
 
-"Why are you risking this for me?"
+"I know."
 
-"Because you're my brother. Because what he's doing is wrong. Because someone needs to stand with you."
+"Are you considering it?"
 
-Ethan felt emotion tighten his throat. "Thank you."
+Ethan closed the laptop. "For like five seconds, yeah. Then I remembered I'd be living Dad's dream instead of mine for the next three to five years. Maybe longer."
+
+Jordan resumed unpacking. "For what it's worth, I think you're making the right choice. But it's going to be hard."
+
+"Everything's hard now."
+
+"True." Jordan pulled out a frozen pizza. "Dinner?"
+
+"Yeah."
+
+While Jordan preheated the oven, Ethan checked his Signal app. He and Sophia had switched to the encrypted messaging app after Toronto, one more way to communicate without his father monitoring. The messages deleted automatically after twenty-four hours, leaving no trail.
+
+New message from Sophia: "how r u doing?"
+
+He typed back: "detroit called. offered 3mil+"
+
+"omg"
+
+"told them i need time to think"
+
+"are you actually thinking about it"
+
+Ethan stared at the screen. Was he?
+
+"no," he finally typed. "just needed to know what im turning down"
+
+"thats a lot of money"
+
+"yeah"
+
+"still worth it though. right?"
+
+"right"
+
+Pause. Then: "training is intense. nationals in 2 weeks"
+
+"i know. im coming"
+
+"ethan your dad will lose it"
+
+"he already lost it. cant get worse"
+
+"famous last words"
+
+"probably"
+
+"i have to go. coach is calling team meeting"
+
+"ok. talk later"
+
+"miss you"
+
+"miss you too"
+
+The messages would disappear in twenty-four hours. Everything felt temporary now. Conversations, housing, financial security. The only permanent thing was the choice he'd made: MIT over NHL. Sophia over isolation. His future over his father's legacy.
+
+He just had to survive long enough to get there.
+
+---
+
+The next two weeks moved in a strange rhythm. Ethan spent his days job hunting—finding a landscaping company that would hire him for the summer—and his evenings researching emancipation law and financial aid procedures. Jordan worked his regular schedule, gave Ethan space when he needed it, company when he didn't.
+
+His father called twice more. Ethan didn't answer.
+
+Scout calls continued. Tampa. Chicago. Colorado. Each one offering variations on the same theme: money, security, future. Each one making it harder to remember why he was choosing the difficult path.
+
+But then Sophia would message him updates about training. Her coach thought she had a real shot at gold. The competition was fierce, but she was ready. And Ethan would remember: this was why. Not just her, but what she represented. The choice to pursue what you loved, not what was expected. The courage to risk failure for the chance at something authentic.
+
+April 24th, two days before nationals. Jordan found Ethan on the couch, staring at his laptop.
+
+"You've been looking at that screen for an hour," Jordan said. "What's going on?"
+
+"Mapquest directions to Toronto."
+
+"We're really doing this?"
+
+"We're really doing this."
+
+Jordan sat down beside him. "Dad's going to cut off my funding too, you know. He's already threatened it."
+
+Ethan looked at his brother. "I can't ask you to risk that."
+
+"You're not asking. I'm volunteering. Someone needs to stand with you." Jordan's voice was firm. "And honestly? I'm tired of watching him control everything. This isn't just your fight anymore."
+
+"What about your apartment? Your tuition?"
+
+"I have a scholarship. Covers tuition. I'll figure out the rest." Jordan pulled out his phone, opened a maps app. "Six hours to Toronto. We leave Saturday morning, 7 AM?"
+
+"You're sure?"
+
+"I'm sure."
+
+Ethan felt something loosen in his chest. He wasn't alone in this. Whatever happened at nationals, whatever his father did in response, he had Jordan.
+
+"Thank you," he said.
 
 "That's what brothers are for."
 
-Tuesday, April 23rd. Ethan's phone rang during dinner. His father glanced at the screen, then at him. "Detroit again."
+They mapped the route together. I-94 to Detroit, cross the border at Windsor, take Highway 401 to Toronto. Six hours, give or take. Semifinals started at 3 PM. They'd have time.
 
-"I'm not answering."
+Ethan sent a Signal message to Sophia: "confirmed. jordan and i leaving saturday 7am. there by 2pm"
 
-"They've called four times."
+Her response came quickly: "cant believe youre actually coming"
 
-"Then they should take the hint."
+"wouldnt miss it"
 
-His father set down his fork with careful precision. "You're making a mistake."
+"its going to cost you"
 
-"I'm making a choice."
+"i know"
 
-"You're throwing away three million dollars."
+"worth it?"
 
-"I'm choosing a different path to success."
+"definitely worth it"
 
-"There is no other path. Not for someone with your talent. You're built for hockey."
+---
 
-"I'm built for a lot of things. Hockey is just one of them."
+Friday night, April 25th. Ethan lay on Jordan's couch, too anxious to sleep. Tomorrow they'd drive six hours to watch Sophia compete. Tomorrow his father would realize both sons had defied him. Tomorrow everything would escalate.
 
-His father's jaw worked. "The phone call this afternoon. The one you ignored. That was management. Not scouts. Front office. They wanted to make a final offer before moving on to other prospects."
+But Sophia would be competing for a national championship. And he would be there to watch.
 
-"I don't want their offer."
+That was worth whatever came next.
 
-"You don't even know what it was."
+His phone lit up with a final message from Sophia: "see you tomorrow. cant wait"
 
-"It doesn't matter."
+"see you tomorrow"
 
-"Three point two million. Three-year entry-level contract, plus education package, plus signing bonus. That's the highest offer they can legally make. You just turned down generational wealth because you won't even listen."
+Twenty-four hours later, the message would disappear. But the choice would remain.
 
-Ethan met his father's eyes. "I heard you. I understand what I'm turning down. And I'm still choosing MIT."
+Ethan closed his eyes, finally found sleep.
 
-"Because of her."
+---
 
-"Because of me."
+Six hundred miles away in Winnipeg, Sophia Chen wasn't sleeping. She was training.
 
-The silence stretched, heavy and hostile.
+The badminton club was nearly empty at 10 PM on a Friday night. Just her, two other national-level players grinding through late practice, and Coach Williams watching from the sidelines with his ever-present clipboard.
 
-Finally, his father spoke, voice quiet and cold. "I have a supervised call scheduled with Sophia tonight. Eight PM. You have fifteen minutes."
+Sophia's lungs burned. Her legs screamed. She'd been doing footwork drills for forty minutes straight—lunges, split steps, defensive shuffles—and Coach wasn't letting up.
 
-The call was later, Ethan at the kitchen table, his father at the counter pretending to read the paper but obviously listening.
+"Again!" he called. "Faster on the recovery!"
 
-Sophia's voice, when she answered: "Hey."
+She lunged forward, racket extended, imagined the shuttle dropping just over the net. Pushed back, reset to center court, lunged again to the opposite corner. Her shirt was soaked through with sweat. The gym smelled like effort and rubber court shoes and the protein shake she'd chugged an hour ago.
 
-"Hey. How's training?"
+"Thirty more seconds! Push through it!"
 
-"Good. Intense. Coach thinks I have a real shot at gold."
+This was the part most people didn't see. The gold medals and championship matches were glamorous. The late-night training sessions where every muscle burned and your brain begged you to stop—those weren't Instagram-worthy. But they were where championships were won.
+
+Twenty more seconds. Fifteen. Ten.
+
+"Time!" Coach called.
+
+Sophia collapsed onto the court, chest heaving. Beside her, Maya Wong—another national team hopeful—was equally destroyed.
+
+"That was brutal," Maya gasped.
+
+"That's nationals prep," Coach said, walking over. "The competition in Toronto isn't going to go easy on you. Rachel Kim has been training six days a week. Amy Chen is backed by the BC provincial program. If you want gold, you need to be better conditioned than everyone else."
+
+Sophia pushed herself to sitting, grabbed her water bottle. The cold liquid was heaven on her raw throat. "How's my footwork looking?"
+
+"Better. Your recovery speed is up. But your defensive lunge to the left is still half a second slower than your right. That's where Rachel will attack you."
+
+Sophia nodded, already mentally drilling the left lunge. Nationals were two weeks away. Two weeks to eliminate every weakness, sharpen every strength, arrive in Toronto ready to win.
+
+Her phone buzzed in her bag on the sideline. She ignored it. No phones during practice. That was the rule.
+
+"Fifteen minute break," Coach said. "Then we're running match simulations."
+
+The other players dispersed to the benches. Sophia finally checked her phone. Signal notification from Ethan: "confirmed. jordan and i leaving saturday 7am. there by 2pm"
+
+Her heart jumped. He was really coming. Risking everything—his father's wrath, possibly his MIT funding, definitely whatever fragile peace existed between them—to watch her compete.
+
+She typed back: "cant believe youre actually coming"
+
+His response appeared immediately: "wouldnt miss it"
+
+Maya noticed her smile. "Ethan?"
+
+"He's driving to Toronto for nationals."
+
+"From Michigan? That's like six hours."
+
+"I know."
+
+"His dad's going to freak."
+
+"I know that too."
+
+Maya shook her head, grinning. "That's either really romantic or really stupid."
+
+"Can't it be both?"
+
+"Fair point." Maya stretched her hamstrings. "You're going to be distracted."
+
+"No, I won't."
+
+"Sophia, your boyfriend is going to be in the stands watching you compete at nationals. You're going to be distracted."
+
+"He's not my—" Sophia stopped herself. What was Ethan, exactly? They'd never officially defined it. Too much chaos, too much parental interference, too much everything. "It's complicated."
+
+"Everything about you two is complicated." Maya stood, offered a hand to pull Sophia up. "But for the record? I think he's good for you. You smile more when you talk about him."
+
+"I smile plenty."
+
+"You smile like a competitive athlete who just won a match. When you talk about him, you smile like a person."
+
+Coach Williams called them back to the court before Sophia could respond.
+
+The next two hours were match simulations. Coach threw everything at them—scenarios where they were down match point, scenarios where they were up but their opponent was rallying, scenarios where they were exhausted and every point was agony but they had to dig deeper.
+
+By midnight, Sophia could barely lift her arms.
+
+"Good work tonight," Coach said as they packed up. "Tomorrow, rest day. Sunday, strategy sessions. Then we ramp up for the final week."
+
+In the parking lot, Sophia's mom was waiting in the car, reading on her phone. Helen looked up as Sophia climbed in, sweaty and exhausted.
+
+"Late night," Helen observed.
+
+"Nationals prep."
+
+"How are you feeling?"
+
+"Tired. Sore. Ready."
+
+Helen drove through quiet Winnipeg streets, streetlights casting moving shadows. "Your father and I have been talking. About Toronto, about everything."
+
+Sophia's stomach tightened. "And?"
+
+"And we want you to know we're proud of you. National championships, MIT acceptance, maintaining your grades through everything with Robert Price creating drama. You've handled more this year than most adults handle."
+
+"Thanks, Mom."
+
+"We also want you to be careful. Michael's worried about legal implications. The age difference, Robert's accusations of manipulation. It's all complicated."
+
+"Everything's complicated."
+
+"Some things are worth the complication. We just want to make sure you're protecting yourself."
+
+Sophia leaned her head against the window, watching her city slide past. Winnipeg in late April was caught between winter and spring—patches of snow still clinging to shaded areas, but trees beginning to bud. Everything in transition.
+
+"Ethan's coming to nationals," she said.
+
+Her mother was quiet for a moment. "Michael said he might. That's a big risk."
+
+"I know. But he's coming anyway."
+
+"That means something."
+
+"Yeah." Sophia closed her eyes. "It does."
+
+At home, she showered, devoured leftover stir-fry straight from the container in the fridge, then collapsed into bed. Her muscles ached in that good way, the way that meant she'd pushed hard enough to improve.
+
+Two weeks until nationals. Fourteen days to be ready for the biggest competition of her life so far.
+
+And Ethan would be there to watch.
+
+She fell asleep smiling.
+
+8 PM. Ethan sat at the kitchen table, phone in hand, fifteen minutes allotted. His father leaned against the counter with his newspaper, not even pretending to read it anymore. Just watching. Listening.
+
+Ethan's throat was tight before he even dialed.
+
+Sophia's voice, when she answered, was careful. Controlled. "Hey."
+
+Just one word, but he heard everything she couldn't say in it. Two weeks since they'd talked. Fourteen days of isolation. He closed his eyes, let himself just hear her for a second.
+
+"Hey." His own voice came out rough. He cleared his throat. "How's training?"
+
+Behind him, his father turned a page. The sound was deliberate, a reminder: I'm here. Watch what you say.
+
+"Good. Intense." She paused, and he knew she was choosing words carefully too. "Coach thinks I have a real shot at gold."
+
+What she meant: I'm surviving. I miss you. Are you okay?
+
+What he heard: I'm here. I'm waiting. Don't give up.
+
+His chest ached with everything he couldn't say. Not with his father listening. Not with fourteen days of isolation stretching between them like a chasm he couldn't cross.
 
 "You're going to win. I know it."
 
@@ -379,7 +446,13 @@ His father turned a page of the newspaper, the sound sharp in the quiet kitchen.
 
 Sophia's voice softened. "I miss you."
 
-"Miss you too. Two and a half weeks, then we figure everything out."
+The words hit him harder than they should. Just three words, said quietly, but they carried two weeks of isolation in them.
+
+"I miss you too." He kept his voice neutral when what he wanted was to tell her how the isolation was killing him, how every day without her felt like holding his breath underwater, how he counted hours until these monitored calls just to hear her voice.
+
+But he couldn't say any of that. Not with his father listening.
+
+So he said, "Two and a half weeks, then we figure everything out," and hoped she understood everything the words carried.
 
 "May 1st. College decision day."
 
@@ -482,3 +555,69 @@ Because for the first time in his life, he was choosing what mattered to him ove
 And that felt like the first step toward freedom.
 
 Even if it cost him everything.
+
+---
+
+In his home office, Robert Price sat at his desk long after Ethan had gone to bed. The house was quiet—too quiet, the way it had been since Ethan moved out. Jordan's apartment wasn't far, but the distance felt vast. Two sons, both slipping away, both choosing defiance over family.
+
+He opened his laptop, pulled up the folder labeled "Emancipation Case - Evidence." Fourteen months of documentation. Photographs, text messages, location data, witness statements. Everything organized, indexed, ready for court.
+
+But court was May 15th. Three weeks away. Too long to wait while Ethan drove to Toronto to watch that girl compete, while his sons conspired against him, while everything he'd built for them crumbled because they couldn't see what was best.
+
+His phone sat on the desk. Three contacts were at the top of his recent calls: Mike Hoffman (Detroit), Bill Peters (Tampa), David Morrison (his lawyer).
+
+He dialed Morrison.
+
+"Robert. Late night."
+
+"I need options. Legal options."
+
+"For?"
+
+"Ethan's going to Toronto this weekend. To watch Sophia compete. Against my explicit instruction."
+
+"He's seventeen. You can't physically prevent him."
+
+"I know that. What I'm asking is: what consequences can I implement that are legal?"
+
+Morrison was quiet for a moment. "You've already cut him off financially."
+
+"Yes."
+
+"That's the main lever parents have. Beyond that, you're into territory that starts looking like harassment or coercion."
+
+"What about her? What about charges?"
+
+Another pause. Longer this time. "We've discussed the age gap issue. She turned eighteen in February. He's seventeen until August. Depending on the jurisdiction and specific actions, there could be grounds for contributing to delinquency, interference with custody."
+
+"Could be? Or would be?"
+
+"That depends on what evidence supports. The relationship itself isn't illegal in Michigan—age of consent is sixteen. But if we can demonstrate she encouraged him to defy parental authority, facilitated truancy, maintained contact after you explicitly forbade it—those start building a case."
+
+Robert leaned back in his chair. His office smelled like leather and expensive whiskey, the trappings of success. He'd built this life through discipline, through understanding that sometimes you had to make hard choices for the people you loved, whether they understood it or not.
+
+"How solid is the case?"
+
+"Honestly? Borderline. A prosecutor might take it, might not. Depends on how aggressive they're feeling, how sympathetic the defendant is. An eighteen-year-old girl with perfect grades and a national championship? That's not an easy target."
+
+"But possible."
+
+"Possible." Morrison's voice carried a warning. "Robert, I have to ask: is this really the path you want to take? Criminal charges against your son's girlfriend? That's scorched earth."
+
+"He's making a mistake that will destroy his future. Sometimes scorched earth is what love requires."
+
+"Or sometimes it destroys the very thing you're trying to protect."
+
+Robert ended the call.
+
+He sat in his office, looking at the photographs spread across his desk. Ethan and Sophia at science fairs, at games, at coffee shops. His son, smiling in ways he hadn't smiled in years. Happy in ways that had nothing to do with hockey, nothing to do with the path Robert had laid out so carefully.
+
+And Robert felt something crack in his chest—was it fear? Was it grief?—before he locked it away and returned to his planning.
+
+Saturday, Ethan would go to Toronto. Sunday, he'd watch her win or lose. And Monday, Robert would make sure there were consequences that would finally, finally make his son understand: defiance had a cost.
+
+Even if that cost was everything between them.
+
+He opened a new document, began typing. Subject: "Formal complaint regarding pattern of interference with parental custody."
+
+The words came easily. He'd been preparing them for months.
