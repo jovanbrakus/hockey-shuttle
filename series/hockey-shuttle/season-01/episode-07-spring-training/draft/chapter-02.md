@@ -172,6 +172,68 @@ Twenty-seven days.
 
 ---
 
+## Early March - Week 22 (Wednesday Evening)
+
+The third week was when Sophia broke.
+
+They were on their Wednesday call—her in the basement, him in his dorm, her mother upstairs doing that thing where she gave space but everyone knew she was listening—and Ethan was telling her about hockey practice, about calculus, about nothing important because everything important couldn't be said.
+
+And Sophia heard herself interrupt: "I hate this."
+
+Silence. Then: "What?"
+
+"This. Performing for supervision. Coding feelings into science metaphors. Pretending we're okay with phone calls when I want—" She stopped, aware of listening ears, aware of the court order they couldn't violate.
+
+"What do you want?"
+
+"To be in the same room as you. To have a conversation without an audience. To not feel like we're putting on a show just to be allowed to exist in each other's lives." Her voice cracked. "I'm grateful. I know it's better than nothing. But I'm also so tired of nothing being enough."
+
+From upstairs, her mother's footsteps retreated—giving them this moment.
+
+"Twenty-one days," Ethan said quietly. "Three weeks. Then I'm there and we can just be together. Supervised, but together. Real, not screens."
+
+"I know. I'm sorry. I'm just—"
+
+"Frustrated. Scared. Exhausted. Me too, Sophia. Me too." He paused. "You think I don't want to reach through this phone and just hold you? You think I'm okay with Wednesday evening calls and emails that have to be appropriate for parent reading? I'm not. But it's what we have. And twenty-one more days of this is survivable because the alternative is no contact at all."
+
+She pressed her hand over her mouth, fighting tears. He was right. Complaining about supervision when they'd had eight weeks of complete silence was ungrateful. But God, she was tired.
+
+"I miss you," she managed finally.
+
+"I miss you so much I've stopped noticing it. It's just background noise now. Like breathing underwater and forgetting what air tastes like."
+
+"That's depressing."
+
+"That's honest." His voice softened. "But in twenty-one days, we get five days of air. And that's going to have to be enough to last us until summer. So let's make it count."
+
+She nodded even though he couldn't see. "Okay. Twenty-one days."
+
+"We can do twenty-one days."
+
+"We've already done worse."
+
+"Exactly."
+
+After they hung up, Sophia sat in the basement and let herself cry—not the pretty kind, the ugly kind where her face got splotchy and her nose ran and she felt twelve years old and overwhelmed. Her mother appeared with tissues and tea and sat beside her without speaking, just being present while Sophia fell apart.
+
+"It's hard," Grace said finally. "Loving someone and not being able to just be with them. It's one of the hardest things."
+
+"I feel ungrateful. We won in court. We have permission. I should be happy."
+
+"You can be grateful and frustrated simultaneously. Feelings aren't either-or." Her mother tucked hair behind Sophia's ear. "You're seventeen. You should be able to text your boyfriend whenever you want, video call at midnight, see him on weekends. Instead you get supervised Wednesday calls and emails we can read. That's hard. You're allowed to hate it sometimes."
+
+"But it's better than nothing."
+
+"It's better than nothing," Grace agreed. "But it's still not enough. And that's okay to feel."
+
+Sophia leaned into her mother's shoulder and felt something release. Permission to not be okay with this. Permission to be tired.
+
+"Three more weeks," she whispered.
+
+"Three more weeks," her mother confirmed. "You can do three more weeks. You've already proven you can do anything."
+
+---
+
 ## Mid-March - Week 23
 
 Sophia watched the livestream on her phone during lunch period, earbuds in, trying to split her attention between Ethan's prep school hockey game and Maya talking about badminton strategy across the cafeteria table.

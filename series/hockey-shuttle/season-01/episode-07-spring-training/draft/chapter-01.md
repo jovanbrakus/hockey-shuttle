@@ -312,15 +312,21 @@ Sophia's fingers fumbled on the screen, finding the number, pressing call. It ra
 
 "Sophia."
 
-His voice. His actual voice in her ear after eight weeks of nothing.
+His voice. His actual voice after fifty-six days of silence, of phantom texts she couldn't send, of things she'd saved up to tell him that piled up like snow until she thought she'd suffocate under the weight of everything she couldn't say.
 
-"Ethan."
+She tried to answer and couldn't. Her throat closed completely, eight weeks of holding it together dissolving all at once. She heard herself make a sound—half sob, half laugh—utterly undignified and completely real.
 
-"Are you okay?"
+"Sophia? Are you there?"
 
-"I'm—" Her voice broke. "I'm so okay. Are you?"
+"I can't—" She pressed her hand over her mouth, fighting for control and losing. "I can't talk. I'm trying. I just—"
 
-"I heard everything. Watched the whole thing. You were incredible. When you said that thing about me being allowed to want more than one thing—" He broke off. "I'm sorry. I'm sorry my father put you through this."
+"Breathe. Just breathe. I'm here."
+
+And somehow that made it worse, the kindness in his voice after so much silence. She bent forward, phone pressed to her ear, crying so hard her mother's hand found her shoulder, steadying.
+
+"I'm okay," she managed finally, voice wrecked. "I'm so okay. Are you?"
+
+"I heard everything. Watched the whole thing. You were incredible. When you said that thing about me being allowed to want more than one thing—" He broke off, and she could hear that he was crying too. "I'm sorry. I'm sorry my father put you through this."
 
 "It's not your fault."
 

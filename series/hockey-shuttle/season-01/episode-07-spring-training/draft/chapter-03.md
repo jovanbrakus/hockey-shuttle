@@ -42,9 +42,11 @@ Did you hear back yet???
 
 —S (who is apparently going to MIT!!!)
 
-She hit send and then just sat there, staring at the inbox, willing a response to appear through sheer force of wanting.
+She hit send and then couldn't sit still. She paced her room, checked email obsessively, refreshed the page, checked her phone, came back to her laptop—
 
-It took six minutes. Six minutes that felt like six hours.
+And there it was. Six minutes later but feeling like six hours. Subject line: **Checking mail right now**
+
+She opened it with shaking hands:
 
 **From:** ethan.price@concordiaprep.edu
 **To:** sophia.chen@winnipegmail.ca
@@ -53,6 +55,10 @@ It took six minutes. Six minutes that felt like six hours.
 Checking mail right now.
 
 Hold on.
+
+Sophia stared at those two words, heart hammering. He was opening his letter. Right now. Finding out if they'd both—if this was real—if they could actually—
+
+Her inbox refreshed.
 
 **From:** ethan.price@concordiaprep.edu
 **To:** sophia.chen@winnipegmail.ca
@@ -68,47 +74,57 @@ BOTH OF US.
 
 WE'RE GOING TO MIT.
 
-Can I call you? I know it's not Wednesday but this is emergency levels of good news.
+Call me RIGHT NOW. I don't care about supervision. This is emergency levels of good news.
 
 —E (who is also apparently going to MIT!!!)
 
-Sophia ran downstairs where both her parents were now hovering, her father having materialized from his home office. "Can Ethan call? He got into MIT too. We both got in. Can he call right now?"
+She was already running downstairs, phone in one hand, his email still open on her laptop behind her. Her parents were hovering in the kitchen, her father having materialized from his home office.
 
-Michael and Grace exchanged one of their wordless parent looks, and then her father smiled. "Call him. We'll give you privacy."
+"He got in," Sophia said, and her voice came out high and breathless. "Ethan got into MIT too. We both got in. Can he call? Right now?"
 
-Privacy. Actual unsupervised privacy. Sophia's eyes widened.
+Michael and Grace exchanged one of their wordless parent looks. Her mother's eyes were wet.
 
-"Supervised doesn't mean surveilled," Michael said. "It means we're available if needed. Go. Celebrate with your boyfriend. Just keep the door open."
+"Call him," her father said. "Go. We'll give you space."
 
-Sophia bolted back upstairs, already dialing. He answered on the first ring.
+Sophia was already dialing, bolting back upstairs, door left open as required but her parents staying downstairs. He answered before it fully rang.
 
-"We did it," Ethan said, and he was laughing, that rare unguarded sound she loved. "We actually did it."
+"WE DID IT!" They said it simultaneously, talking over each other, and then they were both laughing—that kind of relief-laughter that comes after months of pressure, the sound of two people who'd been told they were bad for each other getting dual acceptance to one of the best schools in the world.
 
-"Both of us. Together." Sophia sat on her bed, letter still clutched in her hand. "I know we have to officially decide by May first, and we haven't visited campus, and there are other schools, but—"
+"I can't believe—"
 
-"It's MIT."
+"Both of us—"
 
-"It's MIT."
+"Same school—"
 
-"You chose it first," he said, and something in his voice made her pay attention. "In November. Before we were really us. Before my dad lost his mind. You applied early action to MIT because it was your dream school. Nobody can ever say I influenced that decision."
+"Together—"
 
-"Nobody worth listening to ever thought you did."
+Sophia collapsed on her bed, MIT letter still clutched in her hand, and felt something release in her chest. Joy. Pure, uncomplicated joy she hadn't let herself feel fully in months because everything had been so hard, so controlled, so supervised.
 
-"My dad did. His lawyers did. Everyone who thought you were manipulating me or I was manipulating you—they all assumed we were making each other worse. Distraction and bad decisions and choosing each other over everything else." He paused. "But we both got into MIT. Separately. On our own merit. Because being together doesn't make us less. It makes us more."
+"Sophia?" Ethan's voice gentled. "You okay?"
 
-Sophia lay back on her bed, phone pressed to her ear, letter against her chest. "We're really doing this. College. Massachusetts. Together."
+"I'm so okay." She pressed her hand over her mouth, fighting happy tears and losing. "I'm just—you got in. We both got in. And nobody can say—"
 
-"If you want to."
+"Nobody can say anything," he finished. "You applied early action. November. Before we were really us. Before my dad lost his mind. You chose MIT because it was your dream school, not because of me."
 
-"Do you want to?"
+"And you got in on your own merit. Not because I influenced you or distracted you or made you worse." Her voice cracked. "We did this separately. We earned this."
 
-"I want whatever future has you in it. If that's MIT, I'm there. If it's Caltech or Stanford or anywhere else, I'll figure it out. You come first."
+"And now we get to do it together." He was quiet for a moment, and she heard him breathing, heard the emotion he was holding back. "They said we were bad for each other. Distraction and poor decisions and choosing each other over everything important. But we both got into MIT, Sophia. We're both going to one of the best schools in the world. Because being together doesn't make us less. It makes us—"
 
-"That's not how it should work. Your choice should matter too."
+"Better," she whispered. "It makes us better."
 
-"It does. I'm choosing you. Every time, I'm choosing you."
+"Yeah. It does."
 
-Her throat tightened. "Eleven days until you're here."
+They were quiet for a moment, just breathing across the connection, the weight of vindication settling over both of them. Her parents had been afraid she'd sacrifice her future for him. His father had said she was destroying his potential. And they'd both just proven everyone wrong.
+
+"I'm crying," Sophia admitted. "Happy crying. Is that ridiculous?"
+
+"I'm crying too. Also happy. Also ridiculous." He laughed, wet and genuine. "We're really doing this. College. Massachusetts. Together."
+
+"If that's what you want."
+
+"It's what I want. You're what I want. Every time, I'm choosing you."
+
+Sophia's throat tightened. "Eleven days until you're here."
 
 "Eleven days until I can say this to your face."
 
@@ -130,11 +146,21 @@ Sophia blinked. "Sorry for what?"
 
 "For not trusting you sooner. For letting fear make decisions instead of faith." Grace set down the towel, serious now. "You chose MIT in November. You've been working toward this for years. The relationship with Ethan didn't distract you or derail you. If anything, it's made you more focused."
 
-"We handled everything wrong," Michael added. "The hotel thing—we should have talked with you, set real boundaries, trusted you to learn from mistakes. Instead we got scared, and that fear let Robert weaponize the legal system. We're sorry it took a court hearing for us to remember who you are."
+"We handled everything wrong," Michael added, and his voice roughened. "The hotel thing—we should have talked with you, set real boundaries, trusted you to learn from mistakes. Instead we got scared, and that fear let Robert weaponize the legal system. We're sorry it took a court hearing for us to remember who you are."
 
-Sophia felt tears prick her eyes. "You were trying to protect me."
+Sophia felt something crack open in her chest. She'd been strong for months—through restraining orders and court hearings and separation—because breaking down felt like proving Robert right, like demonstrating she couldn't handle this.
 
-"We were trying to control you," Grace corrected. "Same thing Robert does to Ethan. Different methods, same impulse. And watching you handle these past three months with such maturity—going to court, respecting the supervision structure, maintaining your grades and training—you showed us we were wrong. So we're apologizing."
+But her parents apologizing, admitting they were wrong, trusting her—that broke something loose.
+
+"I'm so angry," she said, and her voice shook. "I'm grateful, and I love you, and I'm also so angry that it took a court hearing for you to trust me. That I had to prove myself legally before you believed I could make good decisions."
+
+Her mother's eyes filled. "I know. You have every right to be angry."
+
+"But I also get it," Sophia continued, words spilling out now. "You were scared. I scared you with the hotel thing. And Robert weaponizing that fear—that's on him, not you. I just wish—" Her throat closed. "I wish we could have gotten here without the lawyers and the judges and all the time we lost being afraid of each other."
+
+"We can't get that time back," Michael said quietly. "But we can do better going forward. That's what we're promising. We were trying to control you," he admitted. "Same thing Robert does to Ethan. Different methods, same impulse. We see that now."
+
+"And watching you handle these past three months with such maturity," Grace added, reaching across to take Sophia's hand, "going to court, respecting the supervision structure, maintaining your grades and training—you showed us we were wrong. So we're apologizing. Truly."
 
 "And we're celebrating," Michael said firmly. "MIT! My brilliant daughter, accepted to one of the best schools in the world, where she will study things I don't understand and probably change the future. That deserves more than my mediocre cooking."
 
@@ -234,31 +260,51 @@ Sophia watched Ethan skate to the bench and pull off his helmet, and even throug
 
 It was relief.
 
-That night's call—their Wednesday routine—he confirmed it.
+That night's call—their Wednesday routine—he confirmed what she'd seen in his face on that grainy livestream.
 
 "I should be destroyed," Ethan said, and she could hear him moving around his room, that restless pacing energy he got. "Season over, championship gone, last chance at a prep school title finished. I should care more than this."
 
 "But you don't."
 
-"I don't." He stopped moving. "Is that terrible? My team needed me. I played okay but not great. We lost. And I feel like someone let me out of a cage."
-
-Sophia glanced at the basement stairs. Her mother was up there, probably listening, but giving more space these days. Trust earned through weeks of respecting boundaries.
-
-"What does that mean?" she asked carefully.
-
-"It means I've been playing hockey because my dad wanted me to. Because it was easier to be good at the thing he valued than to figure out what I valued. Because the path was clear: train, excel, get drafted, go pro." His voice dropped. "But that's his dream. Not mine. Maybe it never was."
-
-"What's your dream?"
-
-Silence. Then: "I'm figuring that out. But I know it involves choice. Real choice. Not following a path someone else laid out."
-
-"You still have time. You're seventeen."
-
-"In four months I'm eighteen. Legal adult. Free to make my own decisions." Something shifted in his tone, became more determined. "I've been thinking about that a lot. About what happens when I'm legally free from my dad's control. About what I can do now to prepare for that."
+"I don't." He stopped moving, and the silence stretched. "Is that terrible? My team needed me. I played okay but not great. We lost. And instead of being devastated, I feel like—"
 
 "Like what?"
 
-"I'll tell you when I'm there. Seven days, Sophia. Seven days and I can say everything in person."
+"Like someone unlocked a cage I didn't know I was in." His voice dropped, raw and uncertain. "I watched the clock run out and felt relief, Sophia. Not disappointment. Relief."
+
+Sophia glanced at the basement stairs. Her mother was up there, probably listening, but giving more space these days. Trust earned through weeks of respecting boundaries.
+
+"Tell me what you're thinking," she said quietly.
+
+"I'm thinking I've been playing hockey for him my whole life. Since I was six. Skating drills and practices and games and tournaments—all of it his dream, his plan, his vision of who I should be." Ethan's breathing sounded uneven. "And I was good at it, so I kept doing it. Easier to be good at the thing he valued than to figure out what I actually wanted."
+
+"And now?"
+
+"Now I don't know if I even like it anymore." The admission came out broken. "How messed up is that? Seventeen years of hockey, and I can't tell if I love it or if I just love that it made him proud. Can't tell if losing bothers me or if I'm just performing the emotion I'm supposed to feel."
+
+Sophia's chest ached for him. "What do you like? When you're not performing for anyone?"
+
+Silence. Long enough that she thought he might not answer.
+
+Then: "Science. Math. Building things. Figuring out how systems work and finding the elegant solution." His voice steadied. "Talking to you about thermodynamics at two in the morning. Working on our project. Reading about quantum mechanics just because it's interesting, not because it's on a test."
+
+"You."
+
+"What?"
+
+"I like you," he said simply. "The version of me that exists when I'm with you. The one who's curious instead of competitive. Who wants to understand things instead of win things. Who gets to choose what matters instead of having it chosen for me."
+
+Sophia felt tears prick her eyes. "That's who you actually are."
+
+"Maybe. Or maybe that's who I want to be, and I don't know if there's a difference." He was pacing again, she could hear it. "But I know I can't keep playing hockey just because my dad needs me to. Can't keep following a path I never chose just because changing direction feels like failure."
+
+"You're seventeen. You're allowed to change direction."
+
+"In four months I'm eighteen. Legal adult. Free to make my own decisions without his permission." Something shifted in his tone, became more determined. "I've been thinking about that a lot. About what happens when I'm legally free from his control. About what I can do now to prepare for that freedom."
+
+"Like what?"
+
+"I'll tell you when I'm there. Seven days, Sophia. Seven days and I can say everything in person. Show you what I've been working on."
 
 She wanted to push, wanted to know what he was planning, but she'd learned patience these months. Seven days. She could wait seven days.
 
@@ -388,62 +434,74 @@ Together?
 
 Together.
 
-Her phone rang—actually rang, not just texted—and she answered before thinking about supervision or structure or rules.
+Her phone rang—actually rang at 2:17 AM—and Sophia answered in the dark, heart already racing because middle-of-the-night calls meant something was wrong or something was so right it couldn't wait.
 
-"Hey," Ethan said, voice rough with exhaustion and anticipation.
+"Hey," Ethan said, voice rough with exhaustion and something else.
 
-"Hey yourself. It's two AM."
+"Are you okay?"
 
-"I know. I'm sorry. I just needed to hear your voice. The real thing, not supervised Wednesday calls."
+"I'm breaking the rules." He said it quietly, deliberately. "We're supposed to do scheduled supervised calls. This is neither scheduled nor supervised. Your parents are asleep. Mine think I'm asleep. And I don't care anymore, Sophia. I needed to hear your voice without performance, without audience. Just you."
 
-"My parents are asleep."
+Her throat tightened. The vulnerability in his voice—raw and unguarded in a way supervised calls never allowed.
 
-"I know. I'm breaking the rules. Are you going to report me?"
+"I'm glad you called."
 
-Sophia smiled in the darkness. "Absolutely not."
+"I'm scared," he admitted. "That tomorrow—today now, I guess—when I get there, it won't be what I've been imagining for seventy days. That we've built this up too much in our heads and reality will be awkward or disappointing or prove that distance was actually easier than proximity."
 
-They were quiet for a moment, just breathing across the connection, the comfort of knowing the other was there.
+"Nothing about you disappoints me."
 
-"I'm scared," Ethan said finally.
+"You don't know what I'm going to tell you. This thing I've been working on—it's big, Sophia. It changes everything. And I don't know if you'll think I'm brave or insane or if you'll look at me differently after."
 
-"Of what?"
+"Probably both. I usually think both things about you simultaneously." She rolled onto her side, phone pressed to her ear, pulling his hoodie tighter around her shoulders. "Brave and a little bit insane. That's kind of your brand."
 
-"That we've built this up too much. That five days will be awkward or disappointing or not enough. That what I need to tell you will change how you see me."
+He laughed, and some of the tension left his voice. "I've missed this. Just talking to you without worrying about who's listening or what we're allowed to say. Without performing for parents or lawyers or judges."
 
-"Nothing changes how I see you."
+"Me too." Sophia closed her eyes, imagining him in his dorm room fifteen hundred miles away, lying in the dark the same way she was. "What time is your flight?"
 
-"This might."
+"Six AM. I should sleep."
 
-"Then we'll deal with it." Sophia rolled onto her side, phone pressed to her ear. "Whatever it is, we're in this together. That's what all of this has been about. Not avoiding hard things. Facing them as partners."
+"You should definitely sleep."
 
-"Partners," he repeated. "Yeah. That's what we are."
+"But I want to stay on the phone with you until dawn and just exist in this space where we're breaking rules and it feels like freedom instead of rebellion."
 
-"So stop being scared and get some sleep. You have a flight in six hours."
+"That sounds perfect," Sophia admitted. "But also you'll be completely miserable on a six AM flight if you don't sleep. And I want you coherent when you get here, not a zombie who slept through his alarm."
 
-"Bossy."
+"Worth it, though. Losing sleep to talk to you without supervision."
 
-"Someone has to be, and you're clearly not going to be rational about this."
+"Not worth it. Sleep. Tomorrow—today—you'll be here, and we'll have five whole days of existing in the same space. Breaking rules in person."
 
-He laughed, soft and fond. "I missed you so much it stopped feeling like missing and started feeling like amputation."
+"Supervised."
 
-"Dramatic."
+"Still real. Still us. Still better than phone calls."
 
-"Accurate." He yawned. "Okay. Sleep. Six hours. Then I'm wheels-up."
+"Still real," he agreed, and she heard him shifting, settling. "Okay. Sleeping. But Sophia?"
+
+"Yeah?"
+
+"Thank you for answering. For always answering when I call, even when I'm breaking rules or falling apart or being irrational at two in the morning."
+
+"Always." She meant it. "That's what this is. We answer when the other calls. No matter what."
+
+"No matter what," he echoed. "Okay. Six hours. Then wheels up. Then I'm there."
 
 "Then you're here."
 
-"Then I'm there."
+"See you soon."
 
-"Goodnight, Ethan."
+"So soon."
 
-"Goodnight, Sophia. See you tomorrow."
+They hung up, and Sophia lay in the dark with her phone against her chest, his voice still echoing in her ear. The intimacy of that call—unsupervised, unguarded, just them in the middle of the night being honest about fear and hope—felt more precious than any supervised Wednesday conversation.
 
-"Tomorrow."
+Tomorrow he'd be here. Real and solid and present.
 
-They hung up, and Sophia lay in the dark with her phone against her chest and finally, finally felt sleep approaching.
-
-Tomorrow.
+After seventy days.
 
 After everything.
 
 Tomorrow.
+
+She fell asleep with his hoodie wrapped around her and woke four hours later to her alarm, feeling both exhausted and more awake than she'd been in months.
+
+Today.
+
+Finally, impossibly, today.

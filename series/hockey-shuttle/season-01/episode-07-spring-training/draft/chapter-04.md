@@ -26,15 +26,37 @@ Sophia touched the shorter ends—she'd trimmed it three inches in February, som
 
 "Yes."
 
-He hugged her. Just wrapped his arms around her and held on like she was the only solid thing in a tilting world. Sophia buried her face in his shoulder and breathed him in—different cologne, same underneath, still him—and felt seventy days of tension release all at once.
+He closed the distance and wrapped his arms around her, and Sophia stopped breathing.
 
-"You're really here," she said against his shirt.
+Seventy days. Ten weeks. An entire winter of screens and supervision and voices without bodies, and now he was solid and real and HERE. She felt her knees buckle and didn't care, felt him catch her weight and hold her up, felt everything she'd been holding together for months come apart all at once.
 
-"I'm really here."
+"You're real," she said against his shoulder, or tried to say, but it came out broken. "You're really here."
 
-They pulled back, and his hands found hers, fingers lacing together. Real. Present. Together.
+"I'm here. I'm here." He was shaking too, she realized. Both of them falling apart in an airport arrivals area while her parents watched and strangers flowed around them and nothing mattered except his arms and his solidity and the impossible fact of his presence.
 
-Her parents approached, giving them those thirty seconds but present as required. Michael extended a hand. "Ethan. Good to see you."
+She pulled back just enough to see his face—thinner, yes, harder around the edges, but his eyes were the same, dark and intense and looking at her like she was the only thing that existed.
+
+"Hi," she managed again, laughing through tears.
+
+"Hi yourself." His thumb traced her cheekbone, wiping away tears she hadn't realized she was crying. "You cut your hair."
+
+"That's what you notice?"
+
+"I notice everything about you. Always." His forehead touched hers, breathing the same air, and whispered: "Seventy days was too long."
+
+"Way too long."
+
+"I'm not leaving again. I mean, I have to in five days, but then—after emancipation, after eighteen, after—I'm not doing this again. This separation thing."
+
+"Good. Because I can't either."
+
+They kissed there in the airport, supervised by her parents twenty feet away, legal and public and real and tasting like salt from tears they were both crying now, relief and joy and homecoming tangled together until she couldn't separate them.
+
+When they finally pulled apart, her mother was dabbing at her own eyes, and her father was determinedly looking at something else, giving them this moment.
+
+"Come on," Ethan said, voice still rough. "Five days. Let's not waste them."
+
+Her parents approached now, her mother's eyes still wet, her father clearing his throat. Michael extended a hand. "Ethan. Good to see you."
 
 "Professor Chen. Thank you for having me."
 
@@ -164,83 +186,109 @@ Celebration dinner at her house—Thai food spread across the dining table, ever
 
 But as dinner wound down and people left—Jordan back to his dorm, Maya to evening practice—and her parents retreated to give them privacy, Sophia felt anticipation building. Tonight. He'd said tonight he'd tell her.
 
-They sat in the living room, supervision maintained by her parents being upstairs with the bedroom door open, and Ethan pulled a folder from his backpack.
+They sat in the living room, supervision maintained by her parents being upstairs with the bedroom door open. The house felt quiet in that weighted way, like everything was holding its breath.
+
+Ethan pulled a folder from his backpack, and his hands were shaking.
 
 "Remember I said I had something to tell you?"
 
 Sophia's heart kicked up. "Yeah."
 
-"It's big. It changes things. But I think—I hope—it changes them in the right way." He handed her the folder. "Read this."
+"It's big. And I don't know if you'll think I'm brave or insane." He held the folder like it might explode, couldn't seem to decide whether to hand it to her. "I've been working on this since the restraining order hearing. Your dad's been helping me. And I need you to understand—I'm not doing this just for us. I'm doing this for me. Because I have to."
 
-She opened it. Legal documents, official letterhead, language she didn't quite understand at first. Then the header came into focus:
+"Ethan, you're scaring me."
 
-PETITION FOR EMANCIPATION - ETHAN DAVID PRICE
+"Good. I'm terrified." He finally handed her the envelope. "Read it."
 
-Sophia looked up. "You're—what is this?"
+She opened it with shaking hands. Legal documents, official seals, language that took a moment to process. Then the heading came into focus:
 
-"I filed for legal emancipation on February 20th. The day after the hearing." Ethan leaned forward, hands clasped, intense in that way he got when something mattered. "If the judge grants it, I become a legal adult at seventeen. Free to make my own decisions about school, living arrangements, finances, everything. My dad can't control me anymore."
+**PETITION FOR EMANCIPATION - ETHAN DAVID PRICE**
+
+The world tilted.
+
+"You're—" She looked up at him. "You filed to legally emancipate from your father?"
+
+"February 20th. The day after the hearing." He was pacing now, that caged energy he got when processing huge things. "If the judge grants it, I become a legal adult at seventeen. Free to make my own decisions about school, living arrangements, finances. Everything. My dad loses all legal authority over me."
 
 "Can he—does he know?"
 
 "He will when he's served the papers. Probably next week." Ethan met her eyes. "Sophia, I'm not doing this just for us. I'm doing it for me. Because I'm tired of living under his control, tired of every choice being filtered through his approval, tired of hockey and expectations and being who he wants instead of who I am."
 
-Sophia's hands shook as she read through the documents. Financial plan. Academic record. Character references. He'd been building this case for months.
+Sophia's hands shook as she read through the documents. Financial plan. Academic record. Character references. Michael Chen listed as legal advisor. He'd been building this case for months.
 
-"Your dad's been helping you," she said, finding Michael Chen's name as legal advisor.
+"My dad's been helping you," she said, finding his name.
 
-"Since January. I asked him not to tell you because I wasn't sure it would work. Didn't want to get your hopes up." Ethan took a breath. "The hearing is April 15th. If the judge grants emancipation, I'm legally free. I can finish school where I want, choose college without his interference, make decisions about my own life."
+"Since January. I asked him not to tell you because I wasn't sure it would work. Didn't want to get your hopes up." Ethan stopped pacing, sat beside her on the floor. "The hearing is April 15th. If the judge grants emancipation, I'm legally free. I can finish school where I want, choose college without his interference, make decisions about my own life."
 
 "And if she denies it?"
 
-"Then I wait until July 16th when I turn eighteen naturally. Either way, I'm getting free. This just accelerates the timeline."
+"Then I wait. July 16th. Seventy days. But Sophia, if I win—when I win—I'm free. Legally free to choose where I live, what I do, who I'm with. No more restraining orders or supervision requirements because there's no parent to enforce them. Just us, making our own choices."
 
-Sophia set down the folder, mind racing. "This is huge."
+She wanted to believe it. Wanted to feel the hope radiating from him. "Your dad won't let you go without a fight."
 
-"I know."
+"I know. That's why I have to be ready for anything." He took her hands. "But I need you to understand—I'm doing this whether you approve or not. I can't live under his control anymore. Can't keep letting him weaponize courts and isolation and money to dictate my life. I need to fight back. I need to prove I'm my own person."
 
-"If you win—"
+She set down the papers and took his face in her hands. "I think you're brave."
 
-"When I win."
+"Yeah?"
 
-"If you win, your dad loses all legal authority over you. He'll be furious."
+"The bravest person I know. You're not running away from your dad or toward me. You're running toward yourself. That's everything."
 
-"He already is. This just makes it official." Ethan's jaw set. "I'm done letting him weaponize the courts. He used restraining orders to control me, so I'm using emancipation to free myself. Fighting back with the same system he tried to use against us."
+He kissed her then—desperate and relieved and full of fear—and she felt the weight of what he was about to do settle over both of them.
 
-"But you're seventeen. Don't you need money, housing, all of that?"
+This wasn't just about their relationship. This was about a seventeen-year-old boy declaring independence from a billionaire father who'd spent his whole life controlling him. This was warfare.
 
-"I have a trust fund from my grandmother that releases when I'm eighteen. I can access it early with emancipation. That covers college. Your parents said I can stay here this summer if needed. I have plans, Sophia. Real plans that don't depend on him."
+"What happens if you lose?" she asked when they broke apart.
 
-She looked at this boy who'd become so much more than she'd expected—not just her boyfriend, not just her science fair partner, but someone fighting for his own autonomy in ways that terrified and amazed her equally.
+"Then I wait. July 16th. Seventy days. But Sophia, if I win—" His voice broke with hope. "If I win, I'm free. We're free. No more Robert controlling everything. Just us."
 
-"When's the hearing?" she asked.
+Sophia felt tears sting her eyes—joy and fear tangled together. "When's the hearing?"
 
-"April 15th."
+"April 15th. Three weeks."
 
-"That's three weeks after you leave. I want to be there."
+"I want to be there."
 
 "You can't. It's in Massachusetts."
 
-"Then I'll watch via video conference like you did for the restraining order hearing. I'm not letting you do this alone."
+"Then I'll watch via video conference. I'm not letting you do this alone."
 
-Ethan smiled, relieved and grateful and something else she couldn't quite name. "See? This is why. Not because you make decisions for me. Because you support me making my own decisions. That's what I need. What I've always needed."
+Ethan pulled her close, and she felt him shaking—not crying, just trembling with the enormity of it. "Thank you. For not thinking I'm crazy."
 
-They sat with that for a moment, the weight of it settling. Then Sophia leaned forward and kissed him—door open upstairs, parents present, supervised and legal and real.
+"You're not crazy. You're fighting for yourself. That's the sanest thing you could do."
 
-"I'm proud of you," she said against his mouth.
+They sat like that, holding each other, feeling the future shift into new possibilities. Emancipation. Freedom. Partnership built on choice.
 
-"For what?"
+Ethan's phone rang.
 
-"For fighting. For yourself. Not just for us."
+He glanced at the screen and his entire body went rigid. "It's him."
 
-"It's the same thing. Fighting for myself means I get to choose you. That's the point."
+"Don't answer."
 
-They kissed again, deeper this time, and Sophia felt the future shifting into new shapes. Emancipation. Freedom. Partnership built on choice instead of circumstance.
+"He's called six times today. If I don't—" He answered, voice flat. "What?"
 
-Upstairs, her father cleared his throat—the universal parent signal for "we're still here."
+Sophia couldn't hear Robert's words, but she could hear his tone—sharp, angry, controlled fury.
 
-They broke apart, laughing.
+Ethan's face drained of color.
 
-"Three more days," Ethan said. "Then I go back and wait for the hearing."
+"How did you—" He stopped. Listened. His hand found Sophia's and gripped so hard it hurt. "You can't do that."
+
+More talking from Robert's end.
+
+"That's not legal."
+
+More.
+
+"I'll fight you."
+
+Then Robert said something that made Ethan close his eyes.
+
+"Monday," he said flatly. "Fine. I'll be there."
+
+He hung up. Sat frozen. Then looked at Sophia with devastated eyes.
+
+"He moved the hearing. April 1st. Three days from now. And he's filed an emergency petition for psychiatric evaluation. Claims I'm not mentally competent to request emancipation."
+
+The hope that had filled the room thirty seconds ago shattered like glass.
 
 "We wait for the hearing," Sophia corrected. "Together."
 
