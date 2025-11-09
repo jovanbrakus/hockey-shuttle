@@ -3,7 +3,12 @@
 
 ---
 
-Sophia's alarm went off at six AM, the harsh buzz cutting through the pre-dawn quiet of her room. She hadn't slept.
+**CONTENT NOTES:**
+This episode contains depictions of parental emotional abuse, legal proceedings involving minors, family conflict and estrangement, anxiety responses, and references to physical assault. Reader discretion is advised.
+
+---
+
+Sophia's alarm went off at six AM, the harsh buzz cutting through the pre-dawn quiet of her room, where legal documents covered her usual collage of MIT brochures and badminton tournament photos. She hadn't slept.
 
 May 15th.
 
@@ -17,13 +22,13 @@ A knock on her door, soft. "Sweetie? You awake?"
 
 "Yeah, Mom. I'm up."
 
-Her mother opened the door, already dressed. Michelle Chen looked like she hadn't slept either. The past six weeks had aged both her parents—new lines around her eyes, gray hairs she hadn't bothered to color, an exhaustion that went bone-deep.
+Her mother opened the door, already dressed. Michelle Chen looked like she hadn't slept either. The past six weeks had aged both her parents—new lines around her eyes, streaks of gray that seemed to have appeared overnight, an exhaustion that went bone-deep.
 
 "I made breakfast. You need to eat."
 
-"I'm not hungry."
+"Mom, I can't—"
 
-"I know. You're eating anyway." Mom's voice was gentle but firm. "Long day ahead. You need strength."
+"Just try? Please? Even just the toast."
 
 Sophia sat up, pulling her knees to her chest. "What if they charge me, Mom?"
 
@@ -35,7 +40,7 @@ Michelle crossed the room and sat on the edge of the bed, pulling Sophia into a 
 
 Sophia wanted to believe that. She'd spent six weeks trying to believe it. Six weeks since April 1st, when police showed up at her university badminton practice and arrested her in front of the entire team. Six weeks since Robert Price filed charges claiming she'd manipulated his seventeen-year-old son into abandoning his hockey future for her.
 
-Six weeks since she'd seen Ethan.
+Six weeks since she'd seen Ethan. Touched him. Heard his laugh without a screen between them. Felt his presence in the same room.
 
 No—that wasn't quite true. She'd seen him. At the preliminary hearing. At the legal proceedings. Across courthouse hallways and through glass windows of meeting rooms. But they couldn't touch. Lisa Huang had been adamant: any contact during the legal proceedings could be used against them. No touching. No talking except in official capacities. Nothing that Robert's lawyers could twist into evidence of manipulation or coercion.
 
@@ -48,6 +53,14 @@ So for six weeks, they'd only had text messages. Carefully worded, always aware 
 *Not much longer now. May 15th.*
 
 May 15th. Today.
+
+She made it to the bathroom before the panic attack hit. Sat on the cold tile floor, head between her knees, trying to remember how to breathe. Six weeks. Forty-two days. One thousand and eight hours of not knowing if she'd see him free or in prison or at all.
+
+The mirror showed a stranger—hollow-eyed, too thin, wearing exhaustion like a second skin.
+
+"Sophia?" Mom's voice through the door. "Honey, I heard you fall."
+
+"I'm okay." She wasn't. But she would be. She had to be.
 
 Sophia hugged her mother tighter. "I'm scared."
 
@@ -73,13 +86,15 @@ Sophia took a shaky breath. "Okay. Okay, I'll come eat breakfast."
 
 Downstairs, Sophia found Maya sitting at the kitchen table with what looked like an entire bakery spread out in front of her. Croissants, muffins, donuts, breakfast sandwiches, and several thermoses of what smelled like very expensive coffee.
 
+The kitchen still smelled like last night's untouched dinner—pasta sauce gone cold, garlic bread wrapped in foil. Six weeks of family dinners eaten in tense silence had left their mark on the room: Dad's legal pad always at his place, Mom's phone face-up for urgent calls, Maya's angry energy radiating from her corner.
+
 "Whoa."
 
 Maya looked up, her expression fierce and determined. Her younger sister had always been protective, but the past six weeks had turned her into a warrior. "You need options. I don't know what you can eat when you're stressed, so I got everything."
 
 Sophia felt tears prick her eyes. "Maya—"
 
-"Don't cry yet. Save the crying for when we win." Maya stood up and pulled Sophia into a hug. "Today's the day we destroy Robert Price's bullshit legal theater. Today's the day you get your boyfriend back. Today's the day everything goes back to normal."
+"No crying. Not yet. Save it for when we absolutely destroy them." Maya stood up and pulled Sophia into a hug. "Today's the day we destroy Robert Price's bullshit legal theater. Today's the day you get your boyfriend back. Today's the day everything goes back to normal."
 
 "Or I get charged with a crime."
 
@@ -91,13 +106,13 @@ Sophia looked at the breakfast spread, at her sister's fierce eyes, at her paren
 
 "Damn right you're not." Maya pushed her toward a chair. "Now eat. We've got a legal battle to win."
 
-Sophia managed half a croissant and some coffee. Her father sat next to her, reviewing their strategy for the hundredth time. Thomas Chen was an accountant, methodical and careful, and he'd approached Sophia's legal defense the same way he approached tax returns—with exhaustive preparation.
+Sophia managed half a croissant and some coffee. Her father sat next to her, reviewing their strategy for the hundredth time. Thomas Chen was an accountant who also taught law, methodical and careful, and he'd approached Sophia's legal defense the same way he approached complex cases—with exhaustive preparation.
 
 "Criminal charges hearing is at nine AM," Dad said, checking his notes. "Lisa will meet us at the courthouse at eight. The prosecution has until nine AM to proceed or drop charges. If you don't publicly recant your relationship with Ethan by then, they can move forward."
 
 "Which I'm not doing." Sophia's voice was steady.
 
-"Which you're not doing," Dad agreed. "Lisa believes they'll drop it. The law is technically on their side—you were eighteen, he was seventeen, that's illegal in Manitoba—but practically, no prosecutor wants to take this to trial. Too much bad publicity. The optics of charging a young woman for dating someone eleven months younger are terrible."
+"Which you're not doing," Dad agreed. "Lisa believes they'll drop it. Technically, the age of consent in Manitoba is 16, with close-in-age exceptions for peers. What Robert is doing is unusual—most prosecutors won't touch cases where both parties are high school students within a year of each other. He's weaponizing a technicality that was designed to protect children from adults, not to control teenage peer relationships. That's why Lisa's confident they'll drop it. Too much bad publicity. The optics of charging a young woman for dating someone eleven months younger are terrible."
 
 "Unless Robert's paying them enough not to care about optics," Maya muttered.
 
@@ -111,9 +126,15 @@ Sophia had read them anyway.
 
 *She groomed him. Age gap relationships are always about power.*
 
+The accusation stung not because it was true—they were classmates, born eleven months apart—but because it reduced their entire childhood friendship, their shared interests, their equal partnership to a predatory dynamic that didn't exist.
+
 *He's a child. She took advantage.*
 
+Ethan was seventeen years and nine months old. They'd grown up together, separated for years, then reunited as equals. There was no taking advantage. There was just love.
+
 *If the genders were reversed, everyone would see this as predatory.*
+
+Sophia had thought about this. A lot. If Ethan were 18 and she were 17, would Robert have filed charges? Would anyone be calling it grooming? The double standard was real, but so was the fact that neither scenario would be predatory. They were peers. That's what people didn't seem to understand.
 
 *This is a teenage boy and his childhood friend. Get over yourselves.*
 
@@ -147,11 +168,11 @@ Her reflection stared back, scared but determined.
 
 ---
 
-Across Winnipeg, in a hotel room that smelled like cheap coffee and Jordan's Axe body spray, Ethan Price was staring at his own reflection with similar determination and similar fear.
+Across Winnipeg, in a hotel room that smelled like cheap coffee and too much Axe body spray, Ethan Price was staring at his own reflection with similar determination and similar fear.
 
 He hadn't slept either.
 
-Jordan had smuggled him into the hotel last night—checking in under his own name, sneaking Ethan in through a side entrance, making sure nobody saw them. Robert didn't know Ethan was in Winnipeg yet. He thought Ethan was still in Brandon, still under house arrest, still controllable.
+Jordan Nakamura had smuggled him into the hotel last night—checking in under his own name, sneaking Ethan in through a side entrance, making sure nobody saw them. Robert didn't know Ethan was in Winnipeg yet. He thought Ethan was still in Brandon, still under house arrest, still controllable.
 
 He was going to be very surprised when Ethan showed up at the courthouse.
 
@@ -229,7 +250,7 @@ Ethan pulled on the only suit he owned—the same one he'd worn to university in
 
 "Yeah," Ethan said. "I'm ready. Let's go destroy my father's legal manipulation and get me emancipated."
 
-Jordan grinned. "That's the spirit. Also, after today? You're free. Legally free. No more Robert controlling your life."
+Jordan grinned. "That's the spirit, man. Also, after today? You're free. Legally free. No more Robert controlling your life."
 
 "If we win."
 
@@ -287,7 +308,7 @@ They pushed through to the courthouse doors, security letting them through after
 
 Across the courthouse lobby, Ethan and Jordan were running the same gauntlet. The protesters were louder for Ethan—"UNGRATEFUL SON" and "HOCKEY OVER HORMONES" and, bizarrely, "THINK OF YOUR FATHER."
 
-"Your dad hired people to protest against you," Jordan muttered as they pushed through. "That's a new level of messed up."
+"Your dad hired people to protest against you," Jordan muttered as they pushed through. "That's a new level of messed up, man."
 
 "That's Robert Price for you. Go big on the manipulation or go home."
 
@@ -305,9 +326,11 @@ She looked up at the same moment, their eyes meeting across the crowded courthou
 
 Everything else fell away. The noise, the people, the fear, the stress—all of it narrowed to that single point of connection. Her dark eyes meeting his. All the words they couldn't say. All the touches they couldn't share. All the fear and love and determination packed into a single look.
 
-*I'm here. I'm not backing down. I love you.*
+The twenty feet between them might as well have been twenty miles.
 
-*I see you. I'm with you. I love you too.*
+*I'm here.* His eyes said it. *I see you. I'm not backing down.*
+
+She nodded once. *Me too. Me neither.*
 
 Then Lisa Huang appeared at Sophia's elbow, speaking quietly, and Sophia's gaze broke away. Lisa was pointing toward a conference room, gesturing for the Chen family to follow her.
 
@@ -321,7 +344,7 @@ A little longer. Ethan could do that.
 
 He followed Michael to a different conference room, Jordan trailing behind them. The room was small, sterile, with a table and uncomfortable chairs and windows that looked out over the courthouse steps where protesters were still chanting.
 
-Michael set down his briefcase, pulling out files. "Okay. Criminal charges hearing is first, nine AM. That's Sophia's proceeding, not yours, but you're here as a potential witness. Then at ten AM, we have your emancipation hearing. Judge Morrison is presiding—she's experienced with family law, generally fair, but tough. She's not going to grant emancipation just because you want it. You need to prove you're financially independent, emotionally mature, and that emancipation is in your best interest."
+Michael set down his briefcase, pulling out files. "Okay. Criminal charges hearing is first, nine AM. That's Sophia's proceeding, not yours, but you're here as a potential witness. The courtroom is smaller—Family Court, not Criminal Court. Different building, different judge. Judge Thompson will handle the criminal charges at 9 AM. Then at ten AM, we have your emancipation hearing with Judge Morrison. She's experienced with family law, generally fair, but tough. She's not going to grant emancipation just because you want it. You need to prove you're financially independent, emotionally mature, and that emancipation is in your best interest."
 
 Ethan nodded. They'd been over this a hundred times. "I have the MIT scholarship. Full ride. I have summer job offers. I can support myself."
 
@@ -383,7 +406,7 @@ Every eye turned to Sophia.
 
 She stood slowly, deliberately. Her voice was steady, clear, unwavering.
 
-"No, Your Honor. I will not recant. Ethan Price and I were childhood friends who reconnected in senior year. Our relationship is based on mutual respect, shared interests, and genuine affection. I did not manipulate him. I did not coerce him. I supported his choices, as he supported mine. I will not lie about that to avoid charges that should never have been filed."
+"No, Your Honor. I won't—I can't lie about this. About us. Ethan and I, we grew up together. This isn't some... manipulation thing. We're friends who fell in love. We support each other. That's it. I did not manipulate him. I did not coerce him. I supported his choices, as he supported mine. I will not lie about that to avoid charges that should never have been filed."
 
 Pride surged through Ethan so strongly he nearly stood and cheered. That was Sophia—brave, brilliant, refusing to back down even when threatened with prison.
 
@@ -393,7 +416,7 @@ The lawyer glanced at Robert, whose face showed frustrated rage. Then the lawyer
 
 Eight fifty-nine.
 
-The courtroom was silent.
+The courtroom was silent, everyone holding their breath.
 
 Nine AM.
 
@@ -451,9 +474,21 @@ And then he was walking toward her, and she was walking toward him, meeting in t
 
 "Hi."
 
-And then her hands were in his, and his arms were around her, and he was hugging her for the first time in six weeks and it felt like breathing after drowning.
+And then his hands were in hers.
 
-She was crying. He was crying. Neither cared.
+The shock of it—skin on skin after six weeks of monitored phone calls and supervised visits and lawyers watching every glance. Warm. Real. His thumb automatically finding that spot on her wrist where her pulse hammered. The same way he'd held her hand a thousand times before April 1st, before everything went to hell.
+
+Her knees went weak.
+
+"Six weeks," she whispered.
+
+"Forty-two days." His voice was wrecked. "One thousand and eight hours."
+
+"You counted?"
+
+"Every single one."
+
+Then his arms were around her and she was breathing him in—his familiar soap smell mixed with courthouse anxiety sweat and too much coffee and underneath it all just *Ethan*. She pressed her face into his shoulder and felt him shaking. Or maybe she was shaking. Probably both.
 
 "I didn't drop you," she whispered.
 
@@ -461,9 +496,9 @@ She was crying. He was crying. Neither cared.
 
 "I wasn't going to. Ever."
 
-He pulled back to see her face, hands still holding hers. "I'm getting emancipated today. Right now. Ten minutes."
+"I know." He pulled back just enough to look at her face. "I'm getting emancipated today. Right now. Ten minutes."
 
-"I know. I'm going to testify if they need me."
+"I know." She squeezed his hands. "I'm going to testify if they need me."
 
 "You don't have to—"
 
@@ -482,6 +517,20 @@ God, he loved her.
 They separated reluctantly, Sophia watching Ethan disappear. Ten minutes together after six weeks. Not enough.
 
 But in one hour, they'd have forever.
+
+Or so she thought, until she saw Robert Price's expression across the hallway. He wasn't angry. He wasn't defeated.
+
+He was smiling.
+
+Like a man who knew something no one else did.
+
+Like a man who still held the winning card.
+
+Sophia's blood turned to ice. What had they missed?
+
+"Ms. Chen," Lisa called. "We need to go in."
+
+As Sophia entered the courtroom for Ethan's emancipation hearing, one thought consumed her: Robert Price never smiled unless he'd already won.
 
 ---
 
@@ -503,6 +552,6 @@ The hearing began.
 
 **[End of Chapter 1]**
 
-**Word Count: ~5,100 words**
+**Word Count: ~5,500 words**
 **Timeline: 6:00 AM - 10:00 AM**
-**Emotional Arc: Terror → Separation → Determination → First Touch → Hope**
+**Emotional Arc: Terror → Separation → Determination → First Touch → Hope → Dread**

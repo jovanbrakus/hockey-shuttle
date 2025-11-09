@@ -5,7 +5,7 @@
 
 The courthouse steps were chaos.
 
-Sophia stood blinking in the late-morning sunlight, still processing the judge's words. *Emancipation granted. Effective immediately.* Behind her, the heavy doors had barely closed before the media swarmedcameras, microphones, reporters shouting questions over each other.
+Sophia stood blinking in the late-morning sunlight, still processing the judge's words. *Emancipation granted. Effective immediately.* Behind her, the heavy doors had barely closed before the media swarmed—cameras, microphones, reporters shouting questions over each other.
 
 "Ethan! How does it feel to be free?"
 
@@ -15,11 +15,11 @@ Sophia stood blinking in the late-morning sunlight, still processing the judge's
 
 "What's next for you two?"
 
-Ethan froze beside her, his hand still gripping hers from when they'd left the courtroom. She felt his fingers tighten, saw his face go blankthat shutdown expression he got when he was overwhelmed. After three hours of testimony, of laying his life bare in front of strangers, of watching his father walk out without a word, he had nothing left for a press conference.
+Ethan froze beside her, his hand still gripping hers from when they'd left the courtroom. She felt his fingers tighten, saw his face go blank—that shutdown expression he got when he was overwhelmed. After three hours of testimony, of laying his life bare in front of strangers, of watching his father walk out without a word, he had nothing left for a press conference.
 
 "Inside," Maya said sharply, materializing at Sophia's other side. "Courthouse bathroom. Now."
 
-Jordan appeared next to Ethan. "I've got him. Follow me."
+Jordan Nakamura appeared next to Ethan. "I've got him. Follow me."
 
 They moved as a unit, pushing back through the courthouse doors while Michael Chen stepped forward to handle the media. Sophia caught a glimpse of him raising his hands, heard him say something about prepared statements later, and then they were back in the cool, quiet interior.
 
@@ -55,13 +55,13 @@ Sophia leaned against the sink, legs shaking. Maya locked the main door, then tu
 
 "I saw. Before the judge even finished. Didn't look back once."
 
-Sophia's chest ached. She'd watched it happenthe moment Judge Morrison said "emancipation granted," Robert Price had stood, grabbed his coat, and left. Just walked out of his son's life. Caroline had stayed, crying quietly in her seat, but Robert was done.
+Sophia's chest ached. She'd watched it happen—the moment Judge Morrison said "emancipation granted," Robert Price had stood, grabbed his coat, and left. Just walked out of his son's life. Caroline had stayed, crying quietly in her seat, but Robert was done.
 
 "Ethan must be devastated."
 
 "Ethan's free." Maya's voice was firm. "And yeah, it hurts like hell, but he's FREE. Legally an adult at seventeen. No more control, no more manipulation, no more choosing between hockey and happiness." She stepped forward, pulling Sophia into a hug. "And you, my brilliant sister, have no criminal record. You're going to MIT clean. You won everything."
 
-The tears came then, sudden and overwhelming. Sophia sobbed into Maya's shoulder while her sister held her, murmuring reassurances. All the fear from the past six weeks, all the terror from this morning, all the weight of watching Ethan testify about years of controlled isolationit poured out in ugly, gasping sobs.
+The tears came then, sudden and overwhelming. Sophia sobbed into Maya's shoulder while her sister held her, murmuring reassurances. All the fear from the past six weeks, all the terror from this morning, all the weight of watching Ethan testify about years of controlled isolation—it poured out in ugly, gasping sobs.
 
 "I was so scared," Sophia managed.
 
@@ -93,7 +93,7 @@ Sophia laughed wetly. "You're ridiculous."
 
 ---
 
-When they emerged from the bathroom, Ethan and Jordan were waiting in the hallway. Ethan looked marginally betterless pale, breathing normal, though his eyes were red.
+When they emerged from the bathroom, Ethan and Jordan were waiting in the hallway. Ethan looked marginally better—less pale, breathing normal, though his eyes were red.
 
 He saw Sophia and immediately crossed to her. No hesitation. Just walked right up and pulled her into his arms, holding her tight.
 
@@ -111,7 +111,7 @@ He saw Sophia and immediately crossed to her. No hesitation. Just walked right u
 
 "Perfect sense."
 
-They stood there, holding each other in the courthouse hallway while people passed by. A few looked at them curiouslythey'd been all over the local news for weeksbut no one bothered them. It was just two teenagers hugging, both crying a little, both exhausted.
+They stood there, holding each other in the courthouse hallway while people passed by. A few looked at them curiously—they'd been all over the local news for weeks—but no one bothered them. It was just two teenagers hugging, both crying a little, both exhausted.
 
 Finally, Jordan cleared his throat. "Uh, guys? Your parents are planning a celebration lunch. Both families. They're asking if you're up for it."
 
@@ -129,7 +129,7 @@ Ethan closed his eyes briefly. "Of course he did."
 
 "Ethan," Sophia said softly.
 
-He shook his head. "Sorry. I know she's... she tried to stop him at the end. I know that. It's just"
+He shook his head. "Sorry. I know she's... she tried to stop him at the end. I know that. It's just—"
 
 "A lot," Sophia finished. "It's a lot."
 
@@ -139,7 +139,7 @@ Maya stepped forward. "How about this: we go get lunch. Neutral territory, somew
 
 "What restaurant is going to give us private seating on a Saturday afternoon with no notice?" Ethan asked.
 
-Jordan grinned. "Leave that to me. My parents own Giovanni's. I already calledprivate room is ready whenever we are."
+Jordan grinned. "Leave that to me. My parents own Giovanni's. I already called—private room is ready whenever we are."
 
 Sophia looked at Ethan. "What do you think? Can you handle lunch right now?"
 
@@ -147,7 +147,7 @@ Sophia looked at Ethan. "What do you think? Can you handle lunch right now?"
 
 "I'm starving, actually. First time I've been hungry in weeks."
 
-"Me too." Ethan managed a small smile. "Okay. Let's do it. But if it gets awkward"
+"Me too." Ethan managed a small smile. "Okay. Let's do it. But if it gets awkward—"
 
 "We bail," everyone said in unison.
 
@@ -159,129 +159,123 @@ Finally. Legally. Completely.
 
 ---
 
-Giovanni's was a small Italian restaurant tucked into a corner of Winnipeg's downtown, the kind of place with checkered tablecloths and photos of Italian grandmothers on the walls. Jordan's family had owned it for three generations, and the private room in back was usually reserved for large parties.
+Giovanni's was a small Italian restaurant tucked into a corner of Winnipeg's downtown, the kind of place with checkered tablecloths and photos of Italian grandmothers on the walls. Jordan's family had owned it for three generations, housed in a converted bank building on Portage Avenue—the original vault served as their wine cellar, which Jordan loved pointing out to first-time visitors.
 
-Today, it held two families trying to celebrate a victory that felt more complicated than joyful.
+Today, the private room in back held two families trying to celebrate a victory that felt more complicated than joyful.
 
-Sophia sat between Ethan and Maya, acutely aware of the weird dynamics at the table. Her parents on one sideMom still looked like she wanted to hug everyone and Dad kept checking his phone nervously. Jordan at the head, playing host. And across from them, Caroline Price.
+Sophia sat between Ethan and Maya, acutely aware of the weird dynamics at the table. Her parents on one side—Mom still looked like she wanted to hug everyone and Dad kept checking his phone nervously. Jordan at the head, playing host. And across from them, Caroline Price.
 
-Ethan's mother looked smaller than Sophia remembered. Older. She'd worn a navy suit to court, but she'd taken off the jacket and her blouse was wrinkled. Her eyes were red from crying. She kept looking at Ethan like she was afraid he'd disappear.
+Ethan's mother looked smaller than Sophia remembered. Older. She'd worn a navy suit to court, but she'd taken off the jacket and her blouse was wrinkled. Her eyes were red from crying, streaks of gray that seemed to have appeared overnight catching the overhead light. She kept looking at Ethan like she was afraid he'd disappear.
 
-The waiter brought water and menus. Everyone ordered automaticallypasta, salads, whatever. Sophia barely registered what she chose. The silence was heavy.
+The waiter brought water and menus. Everyone ordered automatically—pasta, salads, whatever. Sophia barely registered what she chose. The silence was heavy.
 
 Finally, Caroline spoke.
 
-"Ethan, I" Her voice cracked. She tried again. "I'm so sorry."
+"Ethan, I—" Her voice cracked. She tried again. "I know I don't have the right to ask for anything. But if you could just... if you could give me a chance to—" She stopped, hands shaking. "I'm so sorry."
 
 Ethan didn't look up from his water glass. "For which part?"
 
-"All of it." Caroline's hands were shaking. "The restraining order. The charges against Sophia. Standing by while your father tried to control every aspect of your life. Not fighting harder when I should have."
+"All of it." Caroline's voice was barely above a whisper. "The restraining order. The charges. Standing by. Not fighting harder. Everything."
 
-"You attacked Sophia. In her own driveway."
+The waiter returned with breadsticks. Everyone ignored them.
 
-"I know. I" Caroline pressed her hands to her face. "I was so angry. Not at her, really. At myself. At Robert. At the situation. And I took it out on the easiest target. That was unforgivable."
-
-Sophia felt Ethan tense beside her. She reached under the table, found his hand, squeezed gently.
-
-"Why did you stay with Dad for so long?" Ethan asked quietly. "You knew what he was doing. You saw it."
-
-"I thought I was protecting you." Caroline lowered her hands. Her eyes were streaming. "That's not an excuse, it's just... the truth. I thought if I could just moderate him, soften the worst of it, keep things from escalating... but I was wrong. I was protecting him, not you. And by the time I realized that, so much damage was done."
-
-The waiter appeared with breadsticks. Everyone ignored them.
-
-"I left him," Caroline said. "Last night. I packed a bag and left. I'm staying with my sister until I figure out what's next."
+"I left him," Caroline said abruptly. "Last night. While Robert was at his lawyer's office. My sister helped me pack. I'm staying with her until—until I figure out what's next."
 
 Ethan's head snapped up. "You left Dad?"
 
-"I chose you." Caroline's voice was firm despite the tears. "I should have chosen you months ago, years ago, but I'm choosing you now. I know that doesn't fix anything. I know I can't undo the hurt. But I'm done letting Robert dictate my choices."
+"I should have left years ago. I just—I kept thinking I could fix it. Make things better. If I was just patient enough, understanding enough..." Caroline pressed her hands to her face. "But I was protecting him, not you. And by the time I realized that—" Her voice broke. "So much damage was done."
 
-Silence around the table.
+Sophia felt Ethan tense beside her. She reached under the table, found his hand, squeezed gently.
 
-Sophia's mother cleared her throat. "Caroline, I think I speak for all of us when I say... that took courage."
+"Why now?" Ethan asked quietly. "What changed?"
+
+"Watching you in court today. Seeing you stand there and testify about—about everything we did. Everything I let happen." Caroline lowered her hands. Tears streamed down her face. "My seventeen-year-old son had to sue for emancipation just to have basic autonomy. And I sat there thinking about the boy who used to bring me flowers from the neighbor's garden. Who'd wake up early to make me breakfast on Mother's Day. Who asked me to help him pick out his first suit for the science fair."
+
+Ethan's grip on Sophia's hand tightened.
+
+"I forgot that boy," Caroline whispered. "I let your father convince me that hockey was more important than who you were becoming. That control was the same as care. And I—" She couldn't continue.
+
+Sophia's mother cleared her throat gently. "Caroline, I think I speak for all of us when I say... what you're doing takes courage."
 
 "It took too long."
 
-"But you did it." Mom's voice was gentle. "That matters."
+"But you're doing it now." Mom's voice was kind. "That matters."
 
-Caroline looked at Sophia directly for the first time. "I owe you an apology too. A real one. I hurt you because I was angry at myself. I tried to manipulate you with criminal charges. I let Robert use me as a weapon against your relationship. And you" Her voice broke again. "You stood by my son anyway. You didn't drop him even when facing jail. You're eighteen and braver than I've ever been."
+Caroline looked at Sophia directly for the first time. "I owe you an apology too. A real one. What I did in your driveway—attacking you, trying to intimidate you—that was abuse. I'm an adult and you're eighteen and I used my age and my pain to hurt you. That's unforgivable."
 
-Sophia didn't know what to say. The anger was still therethis woman had attacked her, had filed charges, had stood by while Robert tried to destroy everything. But looking at Caroline now, seeing the genuine devastation in her face, Sophia felt something shift.
+Sophia didn't know what to say. The bruises from that encounter had faded weeks ago, but the memory was still sharp. This woman had filed criminal charges against her. Had stood by while Robert tried to destroy everything.
 
-"I understand," Sophia said slowly. "I don't... I can't say it's okay, because it's not. What you did hurt. But I understand being caught between loving someone and watching them make terrible choices."
+But looking at Caroline now, seeing the genuine devastation in her face, hearing the brokenness in her voice...
 
-Caroline nodded, wiping her eyes. "Thank you. That's more grace than I deserve."
+"I don't—" Sophia stopped, choosing her words carefully. "I can't say it's okay, because it's not. What you did hurt. But I understand being caught between loving someone and watching them make terrible choices."
+
+Caroline nodded, wiping her eyes. "That's more grace than I deserve."
 
 "Probably," Maya muttered. Sophia elbowed her.
 
-Ethan was staring at his mother. "Are you really leaving Dad?"
+"I'm filing for divorce," Caroline said, looking back at Ethan. "I called a lawyer this morning. I know that doesn't fix anything, but I wanted you to know. I'm choosing... I'm choosing to be someone better than who I've been."
 
-"Yes. I called a lawyer this morning. I'm filing for divorce."
+Ethan stared at his mother for a long moment. His jaw worked like he was trying to find words. Finally, slowly, he reached across the table.
 
-"Because of me?"
+Caroline took his hand like a lifeline and sobbed.
 
-"Because of me." Caroline reached across the table like she wanted to take Ethan's hand, then stopped, uncertain. "Because I forgot who I was before I married your father. Because I let him turn me into someone who would hurt a teenager to maintain control. Because my son had to sue for emancipation just to have basic autonomy. That's not... that's not who I want to be."
-
-Ethan stared at her for a long moment. Then, slowly, he reached out and took her hand.
-
-Caroline sobbed.
-
-"I'm still so angry at you," Ethan said. His voice was shaking. "I'm angry about the charges, about the attack, about every time you chose Dad over me. That's going to take time to get past."
+"I'm still angry," Ethan said. His voice was shaking. "I'm angry about the charges, about the attack, about every time you chose Dad over me. That's not going to go away quickly."
 
 "I know."
 
-"But I don't want to lose you completely." Tears were streaming down his face now too. "You're my mom. I want... I want to be able to have coffee sometimes. To tell you about MIT. To introduce you to people who matter to me. I want a relationship where you see me, not Dad's hockey dreams."
+"But I don't—" He stopped, swallowed hard. "I don't want to lose you completely. You're my mom. I want to be able to have coffee sometimes. To tell you about MIT. To—to have a relationship where you see me, not Dad's hockey dreams."
 
-"I want that too." Caroline was squeezing his hand like a lifeline. "I want to know who you really are. Not who we tried to make you. Just... you."
+"I want that too." Caroline was squeezing his hand with both of hers now. "I want to know who you really are. Not who we tried to make you. Just... you."
 
 "I'm going to MIT in August."
 
 "I know. I'm proud of you."
 
-"I'm studying engineering, not playing professional hockey."
+"I'm studying engineering. Not playing hockey."
 
 "I know. I'm still proud."
 
 "I'm in love with Sophia."
 
-Caroline looked at Sophia, then back at Ethan. "I know. She's brilliant and brave and clearly adores you. You picked well."
+Caroline looked at Sophia, then back at Ethan. Her smile was watery but genuine. "I know. And she's brilliant and brave and clearly adores you. You chose well."
 
 Ethan laughed wetly. "Yeah. I did."
 
 Sophia was crying again. So was Maya. Sophia's parents were suspiciously shiny-eyed. Jordan was grinning like this was the best thing he'd ever witnessed.
 
-The waiter returned with food. The mood shifted, lightened. Caroline asked Ethan about MIT's housing, and he explained the dorm situation. Sophia's mom asked about the engineering program. Jordan told an elaborate story about the emancipation hearing that had everyone laughing despite themselves.
+The waiter returned with food. The mood shifted, lightened incrementally. Caroline asked tentative questions about MIT's housing, and Ethan explained the dorm situation with careful politeness. Sophia's mom asked about the engineering program. Jordan told an elaborate story about nearly getting arrested for skateboarding in the courthouse plaza that had everyone laughing despite themselves.
 
-By the time dessert arrivedtiramisu that Jordan insisted was on the housethe table felt almost normal. Almost like two families sharing a meal instead of survivors of a legal battlefield.
+By the time dessert arrived—tiramisu that Jordan insisted was on the house—the table felt almost normal. Not comfortable, not easy, but... possible. Like maybe, eventually, with enough time and work, they could be families that shared meals instead of just survivors of a legal battlefield.
 
-Sophia excused herself to the bathroom. She needed a minute to process. In the hallway, she ran into Caroline coming from the same direction.
+Sophia excused herself to the bathroom. She needed a minute to process, to let the emotional whiplash settle. In the hallway outside the restrooms, she ran into Caroline coming from the same direction.
 
 They stopped, awkward.
 
-"Sophia," Caroline said. "Can I... can we talk? Just for a minute?"
+"Sophia," Caroline said. "Can I—can we talk? Just for a minute?"
 
-Sophia nodded.
+Sophia nodded, not trusting her voice.
 
-Caroline took a shaky breath. "I'm sorry. I've said it, but I want to say it again, just to you. What I did was unforgivable. I attacked you physically. I supported charges that could have destroyed your future. I tried to intimidate you into abandoning my son. That was abuse. That was me using my age and position to hurt you. And I'm so, so sorry."
+Caroline took a shaky breath. "I want to say it again, just to you. What I did was unforgivable. I attacked you physically. I supported charges that could have destroyed your future. I tried to intimidate you into abandoning my son. That was wrong. All of it."
 
-Sophia studied her. "Why did you do it? Really?"
+"Why?" Sophia asked. "Why did you do it? Really?"
 
-"Because I was terrified." Caroline's voice was raw. "Terrified of losing Ethan. Terrified of admitting Robert was wrong. Terrified of facing what our marriage had become. You were easier to blame than my husband. Easier to hate than myself."
+"Because I was terrified." Caroline's voice was raw. "Terrified of losing Ethan. Terrified of admitting Robert was wrong. Terrified of facing what our marriage had become. You were—you were easier to blame than my husband. Easier to hate than myself."
 
 "That's not fair."
 
-"No, it's not. Nothing about this has been fair." Caroline wiped her eyes. "You want to know something terrible? Part of me is relieved the judge granted emancipation. Because now Ethan's free, and I don't have to keep choosing between my husband and my son. The choice is made. I can finally admit Robert was wrong without it meaning I failed as a mother."
+"No, it's not." Caroline wiped her eyes. "Nothing about this has been fair. You want to know something terrible? Part of me is relieved the judge granted emancipation. Because now Ethan's free, and I don't have to keep choosing. The choice is made. I can finally admit Robert was wrong without it meaning I failed as a mother."
 
-"You didn't fail."
+The honesty of it hit Sophia in the chest. "You didn't fail."
 
-"I did. But maybe... maybe I can do better going forward." Caroline managed a small smile. "Thank you for being there for him. Thank you for not giving up. Thank you for being brave when I wasn't."
+"I did. But maybe—" Caroline's voice broke. "Maybe I can do better going forward."
 
-Sophia didn't know what to say. The anger was still there, would probably be there for a while. But underneath it was something else. Understanding, maybe. Or at least the beginning of it.
+They stood there in the hallway, two people on opposite sides of so much pain, trying to find a path toward something that wasn't anger.
 
-"I love him," Sophia said finally. "I'm going to keep loving him. And I'm going to MIT with him, and we're going to build a life together. I need you to be okay with that."
+"I love him," Sophia said finally. "I'm going to keep loving him. And I'm going to MIT with him in August, and we're going to build a life together. I need you to be okay with that."
 
-"I am. Truly." Caroline's smile was stronger now. "I want my son to be happy. And you make him happy. That's enough."
+"I am. Truly." Caroline's smile was stronger now, almost reaching her eyes. "I want my son to be happy. And you—you make him happy. That's enough."
 
-They stood there for another moment, then Caroline pulled Sophia into a careful hug. Sophia let her, even hugged back tentatively. It wasn't forgiveness, not yet. But it was a start.
+Sophia nodded. It wasn't forgiveness, not yet. But it was a start.
 
 When they returned to the table, Ethan looked between them with obvious relief. Sophia slid back into her seat next to him and he immediately took her hand.
 
@@ -291,247 +285,335 @@ When they returned to the table, Ethan looked between them with obvious relief. 
 
 ---
 
-By two o'clock, lunch was winding down. Sophia's parents were discussing logistics with Mayasomething about picking up Sophia's things from a friend's house where she'd been staying during the legal proceedings. Caroline was on her phone, presumably dealing with divorce lawyers. Jordan was settling the bill despite protests.
+By two o'clock, lunch was winding down. Sophia's parents were discussing logistics with Maya—something about picking up Sophia's things from the friend's house where she'd been staying during the legal proceedings. Caroline was on her phone, presumably dealing with divorce lawyers and moving plans. Jordan was settling the bill despite protests from all sides.
 
-Ethan tugged Sophia's hand. "Can we go outside? Just for a minute?"
+Ethan tugged Sophia's hand gently. "Can we—do you want to go somewhere? Just for a bit? I need to—I don't know. Process. Breathe."
 
-They slipped out the restaurant's back entrance into a small alley that served as a delivery area. It was private, quiet, just them and some dumpsters and afternoon sun slanting between buildings.
+"Yeah," Sophia said immediately. "Where?"
 
-Ethan leaned against the brick wall, pulling Sophia close. She went easily, wrapping her arms around his waist.
+"The Forks?"
 
-"Today has been the longest day of my entire life," he said.
+The suggestion made her heart clench. "You sure?"
 
-"It's only two PM."
-
-"That's what I'm saying." He laughed, the sound tired but genuine. "This morning I woke up terrified you'd have a criminal record. Now you're free, I'm legally emancipated, my mom left my dad and apologized to you, and we just had the world's most awkward celebration lunch."
-
-"Don't forget the media circus on the courthouse steps."
-
-"Oh god, I'm trying to forget that." He pulled her closer. "Thank you. For everything. For not dropping me when you could have. For testifying. For giving my mom a chance even after everything."
-
-"She loves you. She just... got lost for a while."
-
-"Yeah." Ethan was quiet for a moment. "Do you think Dad will ever come around?"
-
-Sophia thought about Robert Price walking out of the courtroom without looking back. About the years of control documented in court papers. About the man who'd filed criminal charges against a teenager because she loved his son.
-
-"I don't know," she said honestly. "Maybe. Eventually. But it's going to take a long time."
-
-"I know." His voice was thick. "I keep thinking he'll call. That he'll text. That he'll realize he was wrong and apologize. But he won't, will he?"
-
-"Probably not anytime soon."
-
-"I chose this." Ethan's arms tightened around her. "I chose freedom over my relationship with him. And it was the right choice. I know it was. But god, it hurts."
-
-"I know, baby. I know."
-
-They stood there, holding each other in a delivery alley behind an Italian restaurant, and let themselves grieve what they'd lost even while celebrating what they'd won. Because both were true. Freedom had a cost, and even necessary choices left scars.
-
-Finally, Ethan pulled back enough to look at her. His eyes were red but clear.
-
-"I love you," he said. "I've been wanting to say that out loud, in person, not in a supervised phone call or a monitored text. Just... I love you."
-
-"I love you too." Sophia reached up, wiping tears from his cheeks. "Four and a half months since I could say that to your face."
-
-"January first. New Year's kiss on the balcony."
-
-"Best kiss of my life."
-
-"Yeah?" He smiled, that soft smile that was just for her. "Well, we've got time to top it now. No lawyers supervising. No court orders. No restrictions."
-
-"Are you saying you want to kiss me, Ethan Price?"
-
-"I'm saying I want to kiss you, Sophia Chen. But maybe not in an alley that smells like garbage."
-
-She laughed. "Good call."
-
-"Later though. Tonight. Jordan's having people over to celebrate. His parents are out of town and he's got that art studio with the roof access..."
-
-"You want to kiss me on a roof?"
-
-"I want to kiss you under the stars where no one can interrupt us and we can take our time."
-
-Sophia's heart was racing. "That sounds perfect."
-
-"Yeah?" His smile widened. "It's a date then. Our first real date. No supervision, no court orders, no countdown clock."
-
-"Our first free date."
-
-"Exactly." He kissed her forehead gently. "Come on. We should get back before they send a search party."
+"I think so. It feels—" He paused, searching for words. "It feels like the right place. Full circle, or something."
 
 ---
 
-The afternoon dissolved into bureaucratic necessity. Paperwork. So much paperwork.
+Twenty minutes later, they stood at The Forks, watching the Red and Assiniboine rivers meet.
 
-At Michael Chen's officebecause even on a Saturday, lawyers apparently workedEthan signed document after document officially establishing his emancipated status. Bank account transfers. Trust fund access. MIT housing confirmations. Medical power of attorney. Insurance changes. Phone plan transfers.
+It was warmer than their last visit—May sunshine instead of late winter chill. The market pavilions were busy with Saturday crowds, tourists and locals browsing stalls selling artisan crafts and local produce. The smell of fresh bread and coffee drifted from nearby vendors.
 
-Sophia sat beside him through all of it, occasionally asking questions, mostly just being there. Her parents were there too, acting as temporary guardians for certain documents that required an adult signature until Ethan's paperwork processed fully on Monday.
+"Last time we were here," Sophia said softly, "was May first. Two weeks ago."
 
-"This is surreal," Ethan said, signing his name for the twentieth time. "I'm seventeen and I'm legally an adult."
+"MIT signing day." Ethan's hand found hers. "Sitting at that café table, filling out commitment forms, trying to believe we'd actually get to go together."
 
-"You've been acting like an adult for years," Michael said, reviewing a form. "Now it's just official."
+"You were so nervous your hand was shaking. You messed up your signature and had to do it over."
 
-"Does this mean I can vote?"
+"Because Dad was texting me every five minutes. Demanding I reconsider. Telling me I was throwing my life away." Ethan's voice was quiet. "I kept thinking about the first time we came here. Episode two—early fall. You'd just moved back to Winnipeg, and everything was so new and terrifying."
 
-"Not until you're eighteen. Emancipation gives you legal autonomy, but some rights are still age-gated."
+Sophia remembered. "We sat on that bench"—she pointed—"and talked for three hours. About physics and hockey and what it felt like to be back in the same city after all those years apart."
 
-"Can I buy alcohol?"
+"You told me about switching from hockey to badminton. How you weren't the best but you loved it anyway. How you didn't have to be the best at everything to matter." Ethan pulled her closer. "I'd never heard anyone say that before. My whole life was about being the best. And you just—you were brilliant and talented and happy without needing to be number one at everything."
 
-"Also no."
+"You were so surprised that I remembered you from hockey when we were little."
 
-"Can I get a tattoo?"
+"I thought you wouldn't remember. We were nine." He laughed softly. "But you remembered everything. The blue parka. The granola bars. That time I fell and you helped me up."
 
-Michael looked up, eyebrow raised. "Technically yes. Are you planning to get a tattoo?"
+They walked slowly along the riverwalk, neither in any hurry to be anywhere else.
 
-"No. Just checking my newfound freedoms."
+"Two weeks ago," Sophia said, "we signed those papers and I thought—okay, this is it. We have a plan. MIT in August. Everything's going to be fine." She stopped, looking out at the water. "And then your dad filed criminal charges three days later, and everything exploded."
 
-Sophia laughed. "This is the weirdest conversation."
+"But we still did it." Ethan turned her to face him. "We're still going to MIT. We still have the plan. We just—we fought for it harder than I ever imagined we'd have to."
 
-"Welcome to emancipation law," Michael said dryly. "It's all weird conversations."
+Sophia looked up at him. At this boy who'd been her first friend, her first crush, her first love. Who'd stood in a courtroom this morning and fought for the right to choose his own future. Who'd lost his father in the process but gained his freedom.
 
-Around three-thirty, Ethan's MIT housing form came up. He stared at the line asking for his guardian information.
+"How does it feel?" she asked. "Being legally free?"
 
-"Leave it blank," Michael advised. "Your emancipation order is attached. MIT already knows your situation."
+Ethan was quiet for a long moment. "Terrifying," he said finally. "Relieving. Sad. Like—like I should be celebrating, but part of me keeps waiting for Dad to call and tell me I'm making a mistake. That I'm ruining my life. That I'm choosing wrong."
 
-Ethan left it blank, but Sophia saw his hand shake slightly. He'd spent seventeen years with parents, and now, legally, he had none.
+As if on cue, his phone buzzed in his pocket.
 
-She put her hand over his. He looked at her, managed a smile, kept signing.
+Sophia felt him tense. Watched him pull it out, look at the screen, then let out a long breath.
 
-By four o'clock, they were done. Ethan was officially, legally, permanently free.
+"Jordan," he said. "Asking if we're okay."
 
-"Congratulations," Michael said, shaking Ethan's hand. "You're now the youngest emancipated minor I've worked with who handled it with this much maturity."
+"Not your dad."
 
-"Thanks for everything, Mr. Chen. I literally couldn't have done this without you."
+"Not my dad." Ethan stared at his phone for another moment, then scrolled through his notifications. "Seventeen missed calls yesterday. Twenty-three texts. All from Dad." He looked up at her. "Nothing today. Since the judge granted emancipation, nothing."
 
-"You're welcome. Though I suspect you would have found a way." Michael glanced at his daughter. "He's stubborn. I wonder where that comes from."
+"Do you think he'll reach out? Eventually?"
 
-"No idea," Sophia said innocently.
+"I don't know." Ethan's voice was thick. "Part of me keeps thinking he'll realize he was wrong. That he'll apologize. That we can—I don't know. Have some kind of relationship. But the logical part of me knows he walked out of that courtroom without looking back. He's done."
 
-They gathered their copies of paperworkEthan had a folder an inch thick nowand headed back to Sophia's house. Ethan was technically living in a studio apartment he'd rented three months ago in anticipation of this, but he hadn't spent much time there yet.
+Sophia pulled him into a hug, feeling his arms come around her immediately. They stood there on the riverwalk while tourists passed by and the May sunshine warmed their shoulders.
 
-"You should check your place," Sophia's mom suggested. "Make sure everything's okay. We've got some time before Jordan's party."
+"I chose this," Ethan said into her hair. "I chose freedom over him. And it was the right choice. I know it was. But god, it hurts."
 
-"Do you want to come with me?" Ethan asked Sophia. "Help me make sure I didn't forget to pay the electric bill or something?"
+"I know, baby. I know."
+
+They stayed there until Ethan's breathing evened out, until his grip loosened slightly, until he pulled back and managed a smile that was only a little broken.
+
+"Thank you," he said. "For being here. For all of it."
+
+"Always."
+
+"I love you."
+
+"I love you too." Sophia reached up, wiping tears from his cheeks. "Four and a half months since I could say that to your face without supervision."
+
+"January first. New Year's kiss on Jordan's balcony."
+
+"Best kiss of my life."
+
+"Yeah?" His smile widened slightly. "Well, we've got time to top it now. No lawyers supervising. No court orders. No restrictions."
+
+"Are you saying you want to kiss me, Ethan Price?"
+
+"I'm saying I want to kiss you, Sophia Chen. But maybe—" He looked around at the crowded marketplace. "Maybe somewhere a bit more private than the most popular tourist destination in Winnipeg?"
+
+She laughed, the sound lighter than it had been all day. "Good call."
+
+"Besides," he said, pulling out his phone again, "I should probably check my apartment. Make sure I still have electricity and haven't been evicted for not paying rent or something."
+
+"Very responsible."
+
+"I'm legally an adult now. I have to be responsible." He said it with mock seriousness, then his expression turned more genuine. "Will you come with me? Help me make sure I haven't completely screwed up living on my own?"
 
 "Absolutely."
 
 ---
 
-Ethan's studio apartment was in a building near the universitysmall but clean, the kind of place a student could afford with MIT scholarship money and a part-time job. He unlocked the door and they stepped inside.
+Ethan's studio apartment was in a building near the university—small but clean, the kind of place a student could afford with scholarship money and a part-time job at a sporting goods store. He'd rented it three months ago in preparation for emancipation, but he'd barely spent time there. Most of his nights had been at friends' houses or, when things got really bad, sleeping in his car.
 
-It was sparse. A bed, a desk, a tiny kitchenette, a bathroom barely big enough to turn around in. But it was his. No parents hovering. No curfews. No rules except what he made.
+He unlocked the door and they stepped inside.
 
-"Home sweet home," Ethan said, flipping on the lights.
+Sophia's first thought was how empty it looked. Not just sparse—empty. Like someone camping temporarily rather than living.
 
-Sophia wandered around, taking it in. Textbooks on the deskadvanced physics, calculus, engineering fundamentals. A few photos tacked to the wall: him and his teammates, him at a science fair, one of him and Sophia from New Year's Eve that Jordan must have taken.
+A mattress on the floor with a sleeping bag instead of sheets. A desk—just a folding table, really—with textbooks stacked in neat piles. A tiny kitchenette with exactly three dishes in the drying rack: one plate, one bowl, one cup. A bathroom barely big enough to turn around in.
 
-"You've got our picture up," she said, touching the frame.
+No posters on the walls. No decorations. One lamp. One towel hanging in the bathroom.
 
-"Of course I do. It's one of my favorite memories."
+"Home sweet home," Ethan said, but his voice was tight.
 
-"The night we first kissed."
+Sophia turned slowly, taking it in. This was freedom? This was what he'd fought for?
 
-"The night I first admitted I was in love with you." He came up behind her, arms sliding around her waist. "Four and a half months ago. Feels like a lifetime."
+"Ethan," she said softly.
 
-"We've lived about three lifetimes since then."
+"I know it's not much. I've been meaning to—to get more stuff. Make it more—" He stopped, running his hand through his hair. "Every time I went shopping, I'd stand there in Target holding sheets or a poster or whatever, and I'd think: what if Dad's right? What if the judge says no? What if I'm wasting money on an apartment I'll never really live in?"
 
-They stood there, looking at the photo. Two teenagers in party clothes, laughing at something, champagne glasses raised in a New Year's toast. They looked so young. So innocent. So unaware of what was coming.
+Sophia's heart broke.
 
-"I don't regret it," Ethan said quietly. "Any of it. Even the terrible parts. Because it led to this."
+"So I just—I got the minimum. Enough to survive. Not enough to make it real." He laughed, but it sounded hollow. "Pathetic, right? I fought for freedom and then I was too scared to actually live it."
 
-"Freedom?"
+"It's not pathetic." Sophia crossed to him, taking his hands. "It's human. You were protecting yourself. Hedging your bets."
 
-"Us. Together. Free." He turned her around to face him. "I'd do it all again if it meant getting here."
+"But the judge said yes. I'm free. And I still—" He looked around the bare apartment. "I still can't make myself believe it's real."
 
-Sophia reached up, cupping his face. "Me too."
+Sophia thought about her own room at home. The photos covering her walls. The badminton trophies on her bookshelf. The string lights Maya had helped her hang. The massive periodic table poster Ethan had given her for her birthday. All the accumulation of eighteen years of being loved and supported and allowed to be herself.
 
-They kissed, soft and gentle. Not the desperate kisses from the courthouse hallway. Not the passionate make-out they'd shared in a motel room five months ago. Just... soft. Sweet. Them.
+Ethan had a mattress and a sleeping bag.
 
-When they pulled apart, Ethan was smiling. "We're really doing this. MIT together. No more courts or lawyers or supervised visits. Just... us."
+"We're going shopping," she said.
 
-"Just us," Sophia agreed. "For the first time since January."
+"What?"
 
-"Actually, for the first time ever." Ethan's expression turned serious. "We've never had just us. We went from childhood friends to separated by distance to reconnecting with my dad hovering. Then court cases and restrictions. We've never had normal."
+"Right now. We're going to Target and we're buying you sheets. Real sheets. And pillows. And posters. And whatever else you want. Because this is real. You're free. And you deserve to live in a place that feels like home."
 
-"So what do we do now?"
+"Sophia, you don't have to—"
 
-"I guess we figure it out." He pulled out his phone. "Starting with this party. Jordan's been texting. Apparently half the school is coming."
+"I want to." She squeezed his hands. "Besides, I'm investing in my future too. I plan on spending time here. I'm not making out with you on a mattress with just a sleeping bag. That's depressing."
 
-Sophia groaned. "Do we have to? Can't we just stay here and order pizza and watch movies like normal people?"
+That got a real laugh from him. "You're planning on making out with me?"
 
-"We could. But Jordan went to a lot of trouble, and honestly, I kind of want to celebrate. Big, loud, with friends. Dance badly, eat too much, just... be teenagers for one night before the summer gets complicated."
+"I've been planning on making out with you since January first. I've just been legally prevented from doing so."
 
-"The summer?"
+"Fair point." His expression softened. "You really want to help me shop for sheets?"
 
-"Moving to MIT. Packing. Saying goodbye." Ethan squeezed her hand. "Tonight, let's just be happy. We earned it."
+"I really want to help you build a home. Even if it's just for the summer before we leave for MIT."
 
-She couldn't argue with that.
+Ethan pulled her close, pressing his forehead against hers. "What did I do to deserve you?"
+
+"Shared your granola bars with me when we were nine. Clearly it's been paying dividends."
+
+He kissed her forehead gently. Not a real kiss—they'd both agreed earlier that their first kiss in four and a half months deserved better than a courthouse hallway or a nearly-empty apartment. But it was sweet and tender and full of promise.
+
+"Okay," he said. "Let's go make this place less depressing. But I'm paying."
+
+"With what money? Your trust fund that your dad probably froze?"
+
+"With my job money. I've been working weekends at SportChek for three months. I can afford sheets."
+
+"Fine. But I'm helping pick them out."
+
+"Deal."
 
 ---
 
-They spent the next hour getting readyEthan at his apartment, Sophia at her house. They texted back and forth, silly messages that made Sophia smile.
+Target on a Saturday afternoon was crowded and bright and overwhelmingly normal.
 
-*What do you wear to a "you're legally free" party?*
+They wandered through the home goods section, Sophia pulling Ethan toward different displays while he looked bewildered by the sheer number of choices.
 
-*Probably not a suit. I'm sick of suits.*
+"How are there twenty different kinds of sheets?" he asked, staring at the bedding aisle. "They all do the same thing."
 
-*Jeans and that blue shirt?*
+"Thread count," Sophia explained. "And material. These are cotton, these are microfiber, these are jersey knit—"
 
-*The one you said matches my eyes?*
+"You're speaking another language."
 
-*That's the one ;)*
+"Just—what color do you like?"
 
-*Flirting with me, Chen?*
+Ethan looked at the options. "Blue?"
 
-*Always, Price.*
+"Blue sheets it is." Sophia grabbed a set. "Now pillows. You need at least two."
 
-Sophia stood in her room, trying to decide between dresses. The green one was pretty but maybe too fancy. The black one was safe but boring. The blue sundress was casual and...
+"Why do I need two? I'm one person."
 
-Her phone rang. Ethan.
+"Because sometimes your girlfriend will want to sleep over and she needs her own pillow."
 
-"Help," he said when she answered. "I own nothing but hockey jerseys and formal wear. What do normal people wear to parties?"
+Ethan stopped mid-reach for a pillow, looking at her. "You want to sleep over?"
 
-She laughed. "Jeans. T-shirt. You're overthinking this."
+Sophia felt her cheeks warm. "I mean—not like, tonight. But eventually. When we're ready. We're both going to MIT in August. We should probably get comfortable with the idea of spending nights together."
 
-"What are you wearing?"
+"Comfortable with the idea." Ethan was smiling now, that soft smile that made her stomach flip. "Yeah. Okay. Two pillows."
 
-"Still deciding. What do you think, green dress or blue sundress?"
+They moved through the apartment section systematically. Towels—Ethan picked navy blue to match the sheets. A lamp that wasn't just functional but actually looked nice. Kitchen supplies: more dishes, real silverware, a coffee maker.
 
-"The blue one. Definitely the blue one."
+"Do you even drink coffee?" Sophia asked.
 
-"You haven't even seen it."
+"No. But you do. And if you're going to spend time at my place, you should be able to make coffee."
 
-"Don't have to. You always look beautiful." His voice softened. "But you could show up in a garbage bag and I'd still think you were the prettiest person there."
+Her heart swelled.
 
-"That's the sappiest thing you've ever said."
+In the poster section, Ethan paused in front of a massive NASA print showing the solar system. His hand reached out, then hesitated.
 
-"I've had an emotional day. I'm allowed to be sappy."
+"Get it," Sophia said.
 
-"Fair enough." Sophia pulled the blue dress from her closet. "Blue sundress it is. Pick me up at six?"
+"It's kind of expensive."
+
+"Get it anyway. You're an engineering major. You love space. Your apartment should reflect who you are, not who your dad wanted you to be."
+
+Ethan looked at the poster for another long moment, then grabbed it. "Okay. Yeah. I'm getting it."
+
+They added string lights—Sophia's idea—and a cheap area rug to make the floor less institutional. A small bookshelf. A bulletin board for photos and notes.
+
+By the time they checked out, they had two full carts and Ethan looked slightly panicked at the total, but he handed over his debit card without complaint.
+
+"This is the most I've spent at once in my entire life," he said as they loaded bags into his car.
+
+"You're building a home. It's worth it."
+
+"Yeah." He looked at her over the top of the car. "It really is."
+
+---
+
+Back at the apartment, they spent the next hour transforming the space.
+
+Ethan made the bed with the new sheets—navy blue cotton that actually fit the mattress properly—while Sophia hung the string lights around the perimeter of the room. The NASA poster went above the desk, secured with thumbtacks. The area rug made the floor feel immediately cozier.
+
+They worked mostly in companionable silence, occasionally bumping into each other in the small space, laughing when they got tangled in the string lights.
+
+When they were done, Ethan stood in the center of the room and looked around.
+
+"It actually looks like someone lives here," he said quietly.
+
+Sophia stepped up beside him. "It looks like YOU live here."
+
+He turned to her, eyes bright. "Thank you. For this. For making it real."
+
+"You made it real. You fought for it. I just helped pick out sheets."
+
+"You helped pick out my freedom." He pulled her close. "Four and a half months ago, you kissed me at midnight on New Year's Eve and told me you loved me. And I thought—okay, this is it. This is what I'm fighting for. Not hockey. Not my dad's approval. Just this. Us."
+
+Sophia's throat was tight. "Ethan—"
+
+"I know we're waiting. For the right moment. For tonight." His arms tightened around her. "But I need you to know—you're what made all of this worth it. Every terrible moment. Every court hearing. Every night sleeping in my car or on Jordan's couch. It was worth it because it led to this. To us. Free."
+
+She reached up, cupping his face. His skin was warm under her palms, his eyes locked on hers with an intensity that made her dizzy.
+
+"Tonight," she whispered. "Jordan's party. When we're on the roof under the stars. That's when we'll—"
+
+"Yeah." His voice was rough. "Tonight."
+
+They stood there, foreheads pressed together, breathing the same air, the anticipation building between them like a living thing.
+
+Finally, Sophia pulled back. "We should probably get ready. The party starts in an hour and I still need to shower and change."
+
+"Right. Yeah." Ethan looked dazed. "Shower. Change. Party."
+
+"You okay?"
+
+"I'm great. I'm just—I've been waiting so long to kiss you again that I keep forgetting how to think about anything else."
+
+Sophia laughed, feeling lighter than she had in months. "Same. But we've waited this long. We can wait a few more hours."
+
+"A few more hours until I kiss you on a rooftop."
+
+"Exactly."
+
+"That's very romantic of you, Chen."
+
+"I have my moments."
+
+They gathered their things—Sophia needed to head home to get ready. At the door, Ethan caught her hand.
+
+"Six PM?" he asked. "I'll pick you up?"
 
 "It's a date."
 
-They hung up, and Sophia got ready with more care than she'd taken in weeks. Shower. Hair dried and curled slightly. Minimal makeupjust enough to cover the stress shadows under her eyes. The blue dress fit perfectly, hitting just above her knees, comfortable but pretty.
+"Our first real date. No supervision, no court orders, no countdown clock."
+
+"Just us."
+
+"Just us," he agreed.
+
+She kissed his cheek—just a quick brush of her lips—and left before she could change her mind about waiting.
+
+---
+
+At home, Sophia stood in her shower and let the hot water wash away the stress of the day. Her muscles ached from tension, her eyes were puffy from crying, her head felt stuffed with cotton from emotional exhaustion.
+
+But underneath it all was joy. Pure, effervescent, unstoppable joy.
+
+They'd won. Both hearings. Ethan was free. She had no criminal record. They were going to MIT together in three months.
+
+And tonight—tonight she was going to kiss him.
+
+The thought made her stomach flip and her heart race. Four and a half months since New Year's Eve. Four and a half months of supervised phone calls and monitored texts and longing for something that seemed impossibly far away.
+
+Tonight, it was finally happening.
+
+She got out of the shower and surveyed her closet with new eyes. Not just picking an outfit for a party—picking an outfit for the night she'd been dreaming about since January.
+
+The blue sundress. Definitely the blue sundress. The one Ethan had specifically requested when they texted earlier. It was casual but pretty, comfortable but flattering. Perfect for a party that would end with kissing on a rooftop.
+
+She dried her hair carefully, adding loose curls that Maya had taught her how to do. Minimal makeup—just enough to cover the stress shadows under her eyes and add some color to her lips. The compass necklace Maya had given her that morning.
+
+When she looked in the mirror, she saw herself: eighteen, in love, finally free to act on it.
 
 Maya appeared in her doorway. "You look happy."
 
-"I am happy." Sophia smiled at her sister. "For the first time in so long, I'm just... happy."
+"I am happy." Sophia turned to her sister. "For the first time in so long, I'm just... happy."
 
-"Good. You deserve it." Maya held out a small bag. "I got you something. For tonight."
+"Good. You deserve it." Maya's smile turned mischievous. "So. Tonight's the night?"
 
-Sophia opened it. Inside was a delicate silver necklace with a tiny compass charm.
+Sophia felt her cheeks warm. "I don't know what you're talking about."
 
-"So you always find your way," Maya said softly. "No matter what happens next."
+"Please. You've been checking your phone every five minutes. You spent twenty minutes on your hair. You're wearing the dress he specifically requested." Maya crossed her arms. "You're going to kiss him tonight."
 
-Sophia's eyes filled with tears. Again. She was going to dehydrate at this rate. "Thank you. For everything. For this morning's bakery invasion, for the bathroom pep talk, for believing in me."
+"Maybe."
 
-"Always, Soph. That's what sisters do."
+"Definitely." Maya's expression softened. "Just—be safe, okay? I know you're both responsible, but—"
 
-They hugged, and Sophia felt the last of her fear dissolve. She had her family. She had Ethan. She had her freedom and her future and tonight, she had a party to attend.
+"We're just kissing, Maya."
+
+"I know. I just—I worry. You've both been through so much. I want you to take care of each other."
+
+Sophia crossed to her sister and hugged her tight. "We will. I promise."
+
+"Good." Maya pulled back, blinking rapidly. "Okay. Enough sappiness. Go have the best night of your life. You've earned it."
 
 At six o'clock exactly, Ethan knocked on her door.
 
-He'd gone with the blue shirt and jeans, and Sophia was rightit did match his eyes. He looked tired but lighter somehow, like a weight had lifted.
+He'd gone with the blue shirt and jeans, and Sophia had been right—it did match his eyes. He looked tired but lighter somehow, like a weight had lifted. His hair was slightly damp from his own shower, and he smelled like the cologne she'd given him for Christmas.
 
 "Hi," he said.
 
@@ -547,4 +629,4 @@ And they walked to his car together, ready for whatever came next.
 
 **[End Chapter 3]**
 
-*Word count: ~5,100 words*
+*Word count: ~5,650 words*

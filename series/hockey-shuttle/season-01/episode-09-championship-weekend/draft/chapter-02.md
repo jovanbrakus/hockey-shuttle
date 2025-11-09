@@ -13,7 +13,7 @@ And she hadn't dropped Ethan.
 
 "Told you," Lisa Huang said quietly, gathering her files with the satisfaction of someone who'd been absolutely certain of the outcome. "Political theater."
 
-Sophia turned in her seat, looking across the courtroom to where Ethan sat in the back row. He was staring at her, eyes wet, hands pressed together like he'd been praying. When their gazes met, his entire face transformedrelief so profound it was almost painful to witness.
+Sophia turned in her seat, looking across the courtroom to where Ethan sat in the back row. He was staring at her, eyes wet, hands pressed together like he'd been praying. When their gazes met, his entire face transformed—relief so profound it was almost painful to witness.
 
 She smiled.
 
@@ -25,9 +25,9 @@ Sophia didn't need to be told twice.
 
 ---
 
-The courthouse hallway was chaosmedia shouting questions, protesters still chanting outside, families congratulating each other. But Sophia only saw one person.
+The courthouse hallway was chaos—media shouting questions, protesters still chanting outside, families congratulating each other. But Sophia only saw one person.
 
-Ethan was already moving toward her, weaving through the crowd. Jordan was trailing behind him, grinning. Maya grabbed Sophia's arm. "Go. We'll give you space."
+Ethan was already moving toward her, weaving through the crowd. Jordan Nakamura was trailing behind him, grinning. Maya grabbed Sophia's arm. "Go. We'll give you space."
 
 Then Ethan was in front of her.
 
@@ -47,17 +47,17 @@ She was crying. So was he.
 
 "Thank you. God, Soph, thank you."
 
-She pulled back enough to see his face. He looked exhaustedshadows under his eyes, tension in his jaw, the kind of tired that came from weeks of sustained fear. But he was here. Holding her. Free to touch her without lawyers monitoring them.
+She pulled back enough to see his face. He looked exhausted—shadows under his eyes, tension in his jaw, the kind of tired that came from weeks of sustained fear. But he was here. Holding her. Free to touch her without lawyers monitoring them.
 
 "I'm getting emancipated today," he said. "Right now. Ten minutes."
 
 "I know." She squeezed his hands. "I'm going to testify if they need me."
 
-"You don't have to"
+"You don't have to—"
 
 "Yes, I do." Her voice was firm. "After everything your father tried? I'm testifying about exactly who you are and why you deserve freedom."
 
-Something flashed in his eyesgratitude, love, something too big for words. He pulled her close again, and she let herself have this moment. Just ten minutes of touching him, holding him, feeling his heartbeat against her cheek.
+Something flashed in his eyes—gratitude, love, something too big for words. He pulled her close again, and she let herself have this moment. Just ten minutes of touching him, holding him, feeling his heartbeat against her cheek.
 
 It wasn't enough. It would never be enough.
 
@@ -87,13 +87,13 @@ She watched him walk away with Michael Chen, Jordan following. Then Maya was at 
 
 At ten AM exactly, Judge Morrison entered the courtroom.
 
-Sophia sat in the gallery with her familyMom on one side, Maya on the other, Dad in the row behind them. Across the aisle, she could see Robert Price with his legal team: two lawyers in expensive suits and a PR person taking notes.
+Sophia sat in the gallery with her family—Mom on one side, Maya on the other, Dad in the row behind them. Across the aisle, she could see Robert Price with his legal team: two lawyers in expensive suits and a PR person taking notes.
 
 Caroline Price sat between the two sides, alone. She looked small in the courtroom's harsh fluorescent light. When Ethan entered with Michael Chen, Caroline's face crumpled briefly before she composed herself.
 
 Ethan took his seat at the petitioner's table. He didn't look at Robert.
 
-Robert was staring at him with an expression Sophia couldn't quite readanger, yes, but also something that looked almost like grief.
+Robert was staring at him with an expression Sophia couldn't quite read—anger, yes, but also something that looked almost like grief.
 
 Judge Morrison settled at her bench, reviewing papers. She was a Black woman in her fifties with an air of someone who had seen everything twice and wasn't impressed by theatrics. Sophia recognized her from the February hearing where she'd granted conditional contact. She'd been fair then. Penetrating questions, but fair.
 
@@ -101,13 +101,13 @@ Please let her be fair now.
 
 "Please be seated," Judge Morrison said. The courtroom rustled as everyone sat. "We're here for the emancipation petition filed by Ethan Price, age seventeen, seeking legal emancipation from his father, Robert Price. I've reviewed the petition, supporting documents, and psychological evaluation. We'll begin with opening statements. Mr. Price, you're opposing this petition. Your counsel may proceed."
 
-Robert's lead lawyer stoodtall, silver-haired, the kind of lawyer you hired when money was no object.
+Robert's lead lawyer stood—tall, silver-haired, the kind of lawyer you hired when money was no object.
 
 "Your Honor, this case is about a father who has dedicated thirteen years of his life to his son's success. Robert Price moved his family to Winnipeg when Ethan was nine years old, specifically to provide access to superior hockey training. He has invested countless hours and substantial financial resources into developing Ethan's athletic career. My client has sacrificed his own career opportunities, his marriage, his entire life, to give his son the best possible future."
 
 Sophia felt her jaw clench. Sacrificed his marriage? Caroline was sitting right there, and it was pretty clear whose choice that separation had been.
 
-"This petition," the lawyer continued, "is not about mature independence. It's about teenage infatuation. Ethan met a young woman last falla woman eleven months his seniorand became involved in a relationship that has fundamentally altered his life trajectory. He has abandoned a potential professional hockey career, worth millions of dollars, to attend MIT with this young woman. This is not reasoned decision-making. This is adolescent impulsivity."
+"This petition," the lawyer continued, "is not about mature independence. It's about teenage infatuation. Ethan met a young woman last fall—a woman eleven months his senior—and became involved in a relationship that has fundamentally altered his life trajectory. He has abandoned a potential professional hockey career, worth millions of dollars, to attend MIT with this young woman. This is not reasoned decision-making. This is adolescent impulsivity."
 
 Maya made a small, angry sound beside Sophia.
 
@@ -117,15 +117,15 @@ The lawyer sat down. Robert looked satisfied.
 
 Judge Morrison turned to Michael Chen. "Mr. Chen, you're representing the petitioner. Opening statement?"
 
-Dad stood. Sophia had seen him in court beforehe taught law and occasionally consulted on casesbut never like this. Never representing someone she loved.
+Dad stood. Sophia had seen him in court before—he taught law and occasionally consulted on cases—but never like this. Never representing someone she loved.
 
-"Your Honor, this case is about a young man's right to choose his own future. Ethan Price is seventeen years, nine months old. In less than three months, he will be a legal adult regardless of this ruling. The question before you isn't whether he will eventually have autonomyit's whether he should be required to endure three more months of parental control that has been, according to expert testimony, psychologically harmful."
+"Your Honor, this case is about a young man's right to choose his own future. Ethan Price is seventeen years, nine months old. In less than three months, he will be a legal adult regardless of this ruling. The question before you isn't whether he will eventually have autonomy—it's whether he should be required to endure three more months of parental control that has been, according to expert testimony, psychologically harmful."
 
 Michael pulled out a document. "Dr. Sarah Martinez, court-appointed psychologist, conducted three extensive sessions with Ethan and reviewed his family history. Her conclusion: 'Ethan Price demonstrates exceptional maturity and clear autonomous decision-making capabilities. His relationship with his father exhibits patterns consistent with emotional manipulation and control that would benefit from legal separation.' Those are her words, Your Honor. A professional assessment."
 
 Judge Morrison made a note.
 
-"Regarding the relationship with my daughter, Sophia Chen," Dad continuedand Sophia felt a weird jolt hearing herself mentioned clinically in court"Ethan applied to MIT in December, before their relationship became romantic in January. His academic record shows consistent excellence in mathematics and physics since elementary school, predating any contact with Sophia by eight years. This isn't abandoning hockey for a girl. This is choosing academics after years of being denied that choice."
+"Regarding the relationship with my daughter, Sophia Chen," Dad continued—and Sophia felt a weird jolt hearing herself mentioned clinically in court—"Ethan applied to MIT in December, before their relationship became romantic in January. His academic record shows consistent excellence in mathematics and physics since elementary school, predating any contact with Sophia by eight years. This isn't abandoning hockey for a girl. This is choosing academics after years of being denied that choice."
 
 "Financially, Ethan has secured a full scholarship to MIT including room, board, and a work-study program that will provide income. He has summer employment lined up. He has means of support that don't require parental assistance. This petition isn't about a teenager running away from responsibility. It's about a young man running toward the future he's earned the right to choose."
 
@@ -139,7 +139,7 @@ Robert's lawyer stood. "We call Robert Price to the stand."
 
 Watching Robert testify was surreal.
 
-He sat in the witness box looking composed, almost sympathetic. When his lawyer asked him to describe his relationship with Ethan, his voice was calm and measuredthe voice of a reasonable man being unreasonably attacked.
+He sat in the witness box looking composed, almost sympathetic. When his lawyer asked him to describe his relationship with Ethan, his voice was calm and measured—the voice of a reasonable man being unreasonably attacked.
 
 "I've dedicated my life to giving Ethan opportunities I never had," Robert said. "I grew up in a small town with limited resources. When I saw Ethan's potential in hockey at age four, I promised myself I would do everything possible to help him succeed. Everything."
 
@@ -149,7 +149,7 @@ He sat in the witness box looking composed, almost sympathetic. When his lawyer 
 
 "And what was Ethan's trajectory before this relationship began?"
 
-"He was being scouted by NHL teams. First-round draft projection. Full scholarship offers from Division One programs. He had a future in professional hockeythe dream we'd worked toward for thirteen years."
+"He was being scouted by NHL teams. First-round draft projection. Full scholarship offers from Division One programs. He had a future in professional hockey—the dream we'd worked toward for thirteen years."
 
 "What changed?"
 
@@ -157,13 +157,13 @@ Robert's expression tightened. "Sophia Chen moved to Winnipeg last fall for her 
 
 "How so?"
 
-"He started skipping practices. His focus shifted from hockey to spending time with her. He stopped communicating with me about college decisionsI found out he'd applied to MIT only when the acceptance letter arrived. When I tried to discuss his future, he became defensive, secretive. The relationship became his entire focus."
+"He started skipping practices. His focus shifted from hockey to spending time with her. He stopped communicating with me about college decisions—I found out he'd applied to MIT only when the acceptance letter arrived. When I tried to discuss his future, he became defensive, secretive. The relationship became his entire focus."
 
 Sophia wanted to stand up and scream that wasn't how it happened. But she sat still, Maya's hand tight in hers.
 
 "Mr. Price, why do you oppose emancipation?"
 
-Robert looked directly at Ethan for the first time. "Because I love my son. Because I've spent thirteen years preparing him for success, and I'm watching him throw it away. If he's emancipated, he'll have no guidance, no support system. When this relationship endsand teenage relationships do endhe'll be alone and adrift, having sacrificed everything for infatuation."
+Robert looked directly at Ethan for the first time. "Because I love my son. Because I've spent thirteen years preparing him for success, and I'm watching him throw it away. If he's emancipated, he'll have no guidance, no support system. When this relationship ends—and teenage relationships do end—he'll be alone and adrift, having sacrificed everything for infatuation."
 
 "Thank you, Mr. Price."
 
@@ -185,7 +185,7 @@ Pause. "No. They conflicted with hockey."
 
 "He didn't. That came from Sophia."
 
-"Actually," Michael said, pulling out another document, "Ethan's eighth-grade career assessmentfour years ago, two years before reconnecting with Sophialisted his top career interest as 'engineer or physicist.' Were you aware of that?"
+"Actually," Michael said, pulling out another document, "Ethan's eighth-grade career assessment—four years ago, two years before reconnecting with Sophia—listed his top career interest as 'engineer or physicist.' Were you aware of that?"
 
 Robert's jaw tightened. "He was thirteen. Kids change their minds."
 
@@ -225,41 +225,61 @@ Sophia watched Ethan rise and walk to the witness box. He looked terrified and d
 
 Michael approached gently. "Ethan, why are you seeking emancipation?"
 
-Ethan took a breath. "Because I need to be free to choose my own future."
+Ethan took a breath. "Because I need—I need to be free to choose my own future."
 
 "Can you elaborate?"
 
-"My father decided I would play professional hockey when I was four years old." Ethan's voice was calm, but Sophia could hear the tremor underneath. "I don't remember asking for that. I don't remember choosing it. I remember being told that hockey was what I was good at, what I was meant to do, what our family had sacrificed for. And I loved playingI still do. But I never got to decide if it was what I wanted for my life."
+"My father decided I would play professional hockey when I was four years old." Ethan's voice was calm, but Sophia could hear the tremor underneath. "I don't remember asking for that. I don't remember choosing it. I remember being told that hockey was what I was good at, what I was meant to do, what our family had sacrificed for. And I loved playing—I still do. But I never got to decide if it was what I wanted for my life."
 
-"When did that change?"
+As Ethan spoke, Sophia felt something tighten in her chest. This was the boy who'd shared his granola bars with her in kindergarten when she'd forgotten her snack. Who'd built LEGOs with her for hours, constructing elaborate spaceships and explaining how they'd fly. Who'd won the district science fair at age nine with a project about friction and then never competed again because hockey tournaments took precedence.
 
-"When I reconnected with Sophia last fall." Ethan glanced at her briefly, then back at the judge. "We were friends when we were nine. She reminded me that I used to love science, math, building things. That I used to talk about being an engineer. I'd forgotten that part of myself because there was only room for hockey in my life."
+She'd known him before Robert had decided who he'd be. She'd known the version of Ethan that existed before hockey became everything.
+
+And watching him sit in that witness box, finally saying the words he'd needed to say for years, she felt pride and heartbreak in equal measure.
+
+"When did that change?" Michael asked.
+
+"When I reconnected with Sophia last fall." Ethan glanced at her briefly, then back at the judge. His eyes were bright, focused. "We were friends when we were nine. She reminded me that I used to love science, math, building things. That I used to talk about being an engineer. I'd forgotten that part of myself because there was only room for hockey in my life."
+
+Sophia wanted to reach across the courtroom and touch him. Just rest her hand on his shoulder so he'd know she was there, that he wasn't alone. But all she could do was sit perfectly still and watch him be brave.
 
 "What happened when you expressed interest in MIT?"
 
 "My father told me I was being manipulated. That Sophia was distracting me from hockey. He started monitoring my phone, reading my texts, tracking where I went. When I applied to MIT anyway, he deleted my applications. I had to resubmit them from school computers."
 
+Sophia saw the way Ethan's hands tightened on the edge of the witness box. The slight tremble in his fingers. He was terrified, she realized. Absolutely terrified of speaking against his father in public like this.
+
+But he was doing it anyway.
+
+God, she loved him.
+
 "Did he attempt to control the relationship itself?"
 
-"Yes. He offered Sophia moneyan eighty-thousand-dollar scholarshipto stop seeing me and go to a different college."
+"Yes. He offered Sophia money—an eighty-thousand-dollar scholarship—to stop seeing me and go to a different college."
 
 Murmurs in the courtroom. Robert's face flushed.
 
-"When that didn't work, he filed criminal charges against her." Ethan's voice hardened. "She was facing prison time for dating mesomeone eleven months younger. That's when I knew I had to get emancipated. Because a father who would use the law as a weapon against someone his son loves isn't protecting him. He's controlling him."
+"When that didn't work, he filed criminal charges against her." Ethan's voice hardened. "She was facing prison time for dating me—someone eleven months younger. That's when I knew I had to get emancipated. Because a father who would use the law as a weapon against someone his son loves isn't protecting him. He's controlling him."
 
-Judge Morrison was watching Ethan intently.
+Judge Morrison was watching Ethan intently, her expression unreadable.
+
+Sophia's heart was hammering. She could see the fear in Ethan's eyes, the way he kept glancing at Robert and then away, like he couldn't quite bear to look directly at what he was doing. Testifying against his father. Asking a court to sever the legal tie between them.
+
+This was costing him everything.
+
+And he was paying it for both of them.
 
 "Ethan," Michael said, "do you love your father?"
 
-The question clearly surprised him. "I... yes. I think so. But I can't live under his control anymore."
+The question clearly surprised him. Ethan blinked, his composure wavering. "I... yes. I think so. But I can't—I can't live under his control anymore."
 
 "Why not?"
 
-"Because he doesn't see me as a person. He sees me as a project. And I need to be my own person before it's too late."
+"Because he doesn't see me as a person. He sees me as a project. And I need—" His voice cracked slightly. "I need to be my own person before it's too late."
 
 Michael nodded. "Thank you. No further questions."
 
-Robert's lawyer stood. "Mr. Pricesorry, Ethanyou're seventeen years old. You've never lived independently, held a job, paid bills. How do you expect to support yourself?"
+Robert's lawyer stood. "Mr. Price—sorry, Ethan—you're seventeen years old. You've never lived independently, held a job, paid bills. How do you expect to support yourself?"
 
 "MIT scholarship covers tuition and housing. Work-study provides income for personal expenses. I've already been accepted into the program."
 
@@ -281,17 +301,21 @@ Robert's lawyer stood. "Mr. Pricesorry, Ethanyou're seventeen years old. You'v
 
 Several people in the gallery laughed. Judge Morrison hid a smile.
 
+Sophia felt a surge of fierce pride. That was her Ethan—quiet until pushed, then absolutely unmovable.
+
 The lawyer changed tactics. "You claim this relationship with Sophia Chen isn't influencing your decisions. But you applied to the same school, plan to live in the same city, have coordinated your entire future with hers. Doesn't that suggest dependence?"
 
-"We applied to the same school because we have the same academic interests. We both want to study engineering. We both love math and physics. That's not dependencethat's shared goals."
+"We applied to the same school because we have the same academic interests. We both want to study engineering. We both love math and physics. That's not dependence—that's shared goals."
 
-"But if the relationship ends"
+"But if the relationship ends—"
 
 "I'll still want to study engineering. I'll still want to go to MIT. Sophia isn't why I want those things. She just reminded me that I was allowed to want them."
 
 The lawyer tried a few more angles, but Ethan held firm. When he finally stepped down, Sophia wanted to cheer.
 
 He didn't look at Robert as he returned to his seat. Robert was staring at the table, jaw clenched.
+
+Caroline was watching Ethan with an expression of profound sadness and what looked like regret.
 
 ---
 
@@ -313,7 +337,7 @@ The psychologist was a woman in her forties with kind eyes and professional deme
 
 "Did you observe this in the Price family?"
 
-"Yes. Robert Price has invested substantial time and resources in Ethan's hockey careerwhich isn't inherently problematic. But he's also expressed that Ethan's choices feel like personal betrayal. That's enmeshment. Ethan's autonomy threatens Robert's sense of identity."
+"Yes. Robert Price has invested substantial time and resources in Ethan's hockey career—which isn't inherently problematic. But he's also expressed that Ethan's choices feel like personal betrayal. That's enmeshment. Ethan's autonomy threatens Robert's sense of identity."
 
 "What about the relationship with Sophia Chen? Did you assess whether she's manipulating him?"
 
@@ -355,7 +379,7 @@ Robert's lawyer was on his feet. "Objection, Your Honor. Ms. Chen isn't party to
 
 Judge Morrison considered. "I'll allow it. Ms. Chen, please take the stand."
 
-Sophia's legs felt shaky as she walked to the witness box. She could feel everyone watching herRobert's angry glare, Caroline's tearful gaze, Ethan's worried eyes.
+Sophia's legs felt shaky as she walked to the witness box. She could feel everyone watching her—Robert's angry glare, Caroline's tearful gaze, Ethan's worried eyes.
 
 She took the oath and sat down.
 
@@ -365,7 +389,7 @@ Michael smiled at her gently. "Sophia, did you manipulate Ethan into choosing MI
 
 "Can you describe your relationship?"
 
-"We were childhood friends when we were nine. We reconnected last fall when my family moved to Winnipeg. We started studying together, talking about school, spending time skating. The relationship developed naturally over several months."
+"We were childhood friends when we were nine. We reconnected last fall when my family moved to Winnipeg. We started studying together, talking about school, spending time skating. The relationship—it developed naturally over several months."
 
 "Did you encourage him to give up hockey?"
 
@@ -373,7 +397,9 @@ Michael smiled at her gently. "Sophia, did you manipulate Ethan into choosing MI
 
 "What role did you play in his college decisions?"
 
-"I supported his choices the same way he supported mine. When I was deciding between badminton and academics, he told me I could do both. When he was deciding between hockey and MIT, I told him the same thing. We don't make each other's choices. We support each other's right to choose."
+Sophia took a breath, trying to organize her thoughts. In the gallery, she could see Maya giving her an encouraging nod.
+
+"I supported his choices the same way he supported mine. When I was deciding between badminton and academics, he told me I could do both. When he was deciding between hockey and MIT, I told him the same thing. We don't—we don't make each other's choices. We support each other's right to choose."
 
 Michael nodded. "When Robert Price offered you eighty thousand dollars to stop seeing Ethan and attend a different college, what did you do?"
 
@@ -399,13 +425,13 @@ Robert's lawyer approached. Sophia braced herself.
 
 "But you knew it was illegal when the relationship became physical?"
 
-Sophia felt her face heat. "We haven'tour relationship isn'tthat's not relevant."
+Sophia felt her face heat. "We haven't—our relationship isn't—that's not relevant."
 
 "The criminal charges suggest otherwise."
 
 "The criminal charges were dropped this morning because they were baseless."
 
-"But they were filed. That suggests"
+"But they were filed. That suggests—"
 
 "It suggests Robert Price was willing to use the law as a weapon to control his son's life. That's exactly why Ethan needs emancipation."
 
@@ -419,7 +445,7 @@ The lawyer tried a different angle. "You're a competitive athlete yourself, corr
 
 "No. I think he's choosing a different opportunity. Hockey isn't the only valid path to success."
 
-"But he could play professional hockey and earn millions"
+"But he could play professional hockey and earn millions—"
 
 "He could also study engineering and design things that change the world. Why is one future more valuable than the other?"
 
@@ -443,9 +469,57 @@ She'd told the truth. That was all she could do.
 
 ---
 
+"I'd like to call Caroline Price to the stand."
+
+The courtroom went still. Sophia felt Maya grip her hand.
+
+Caroline stood slowly, smoothing her blouse with trembling fingers. She walked to the witness box like she was walking to her own sentencing.
+
+When she took the oath, her voice was barely audible.
+
+Michael approached carefully. "Mrs. Price, can you describe your son's relationship with his father?"
+
+Caroline looked at Ethan, then away. "Robert loves Ethan very much. He's always loved him. But..."
+
+"But?"
+
+"But Robert has difficulty separating what's best for Ethan from what Robert wants for himself." Her voice grew slightly stronger. "When Ethan was four and showed talent for hockey, Robert saw a path. A way to give Ethan everything he never had. And it became—it became everything. Our whole lives revolved around hockey."
+
+"Did you support that focus?"
+
+"At first, yes. I thought we were helping Ethan. Building his future. But over the years, I watched my son become quieter. More withdrawn. Like he was disappearing into the role we'd built for him."
+
+Sophia saw Ethan's hands clench on the table in front of him.
+
+"When did you recognize this was a problem?" Michael asked.
+
+"Last fall, when Sophia came back into his life." Caroline smiled slightly through her tears. "Suddenly Ethan was laughing again. Talking about math and science like he used to when he was little. I saw glimpses of the boy I'd forgotten he used to be. And I realized we'd taken something from him."
+
+"Did you discuss this with your husband?"
+
+"I tried. Robert said it was infatuation. That Sophia was distracting Ethan from his future. But I could see—she wasn't distracting him. She was reminding him who he was."
+
+"Mrs. Price, do you support Ethan's petition for emancipation?"
+
+Caroline looked directly at Ethan. "Yes."
+
+Robert made a sound—half anger, half disbelief. His lawyer put a hand on his arm.
+
+"Can you explain why?" Michael asked gently.
+
+"Because my son deserves to choose his own life. Because I love him enough to let him go. Because..." Her voice broke. "Because I should have protected him from this years ago, and I didn't. This is me trying to make that right."
+
+"Thank you, Mrs. Price."
+
+Robert's lawyer stood for cross-examination, but Judge Morrison held up a hand. "I think we've heard enough. Mrs. Price, you may step down."
+
+Caroline walked back to her seat, tears streaming down her face. As she passed Robert, he wouldn't look at her.
+
+---
+
 "I'd like to call Michael Chen to testify about MIT's financial aid package."
 
-Dad took the stand briefly, explaining the scholarship terms, work-study details, and budget projections. It was dry testimony, but importantproving that Ethan had concrete means of support.
+Dad took the stand briefly, explaining the scholarship terms, work-study details, and budget projections. It was dry testimony, but important—proving that Ethan had concrete means of support.
 
 Then Robert's lawyer called character witnesses: two of Robert's hockey friends who barely knew Ethan, testifying about what a dedicated father Robert had been. A coach who described Ethan as "talented but distracted lately."
 
@@ -455,7 +529,7 @@ Finally, both sides rested.
 
 "Closing statements," Judge Morrison said. "Mr. Price?"
 
-Robert's lawyer stood. "Your Honor, this isn't about denying Ethan's autonomy. It's about protecting him from making a decision he'll regret. He's seventeen years old, in the middle of an intense relationship, abandoning a career he's worked toward his entire life. That's not mature decision-makingthat's teenage impulsivity. If you grant this petition, you're telling every teenager in Manitoba that they can legally separate from their parents for a relationship. That's not what emancipation is for."
+Robert's lawyer stood. "Your Honor, this isn't about denying Ethan's autonomy. It's about protecting him from making a decision he'll regret. He's seventeen years old, in the middle of an intense relationship, abandoning a career he's worked toward his entire life. That's not mature decision-making—that's teenage impulsivity. If you grant this petition, you're telling every teenager in Manitoba that they can legally separate from their parents for a relationship. That's not what emancipation is for."
 
 He sat down.
 
@@ -479,7 +553,7 @@ Sophia sat with her hands clasped, barely breathing. Maya was next to her, fidge
 
 Across the courtroom, Ethan sat perfectly still. Jordan was next to him, radiating nervous energy. Michael was reviewing notes, looking calm.
 
-Caroline was crying silently.
+Caroline was crying silently, tissues balled up in her fists.
 
 Robert was staring straight ahead, jaw clenched.
 
@@ -521,51 +595,91 @@ Then up at Ethan.
 
 The courtroom erupted.
 
-Sophia heard herself cry outa sound of pure relief. Maya was screaming. Mom was sobbing. Dad was standing, hands pressed together in front of his mouth.
+Sophia heard herself cry out—a sound of pure relief. Maya was screaming. Mom was sobbing. Dad was standing, hands pressed together in front of his mouth.
 
 Across the courtroom, Ethan had his face in his hands. Jordan was hugging him. Michael was shaking his hand, smiling.
 
 Caroline was crying harder, but smiling through the tears.
 
-Robert stood abruptly. "Your Honor, I intend to appeal this decision"
+Robert stood abruptly. For a moment—one suspended, hopeful moment—Sophia thought he might speak. Might say something, anything, to his son.
+
+But then he turned toward the door.
+
+"Your Honor, I intend to appeal this decision—"
 
 "Mr. Price, you may certainly appeal. But until and unless a higher court overturns this ruling, your son is legally emancipated. The restrictions of parental control no longer apply."
 
-"You're making a mistake"
+"You're making a mistake—"
 
 "Mr. Price." Judge Morrison's voice was sharp. "This hearing is concluded. I suggest you take some time to process this decision before taking further action."
 
-She banged her gavel once.
+Robert stared at the judge, his face a mask of rage and grief and something that looked like defeat. Then he turned and strode toward the courtroom doors, his lawyers scrambling to follow.
 
-"Court is adjourned."
+He passed directly by Ethan's table.
+
+"Dad—" Ethan's voice was small, broken.
+
+Robert stopped.
+
+For three heartbeats, he stood perfectly still. His back to his son. His hand on the door.
+
+Ethan was half-standing, leaning forward like he might chase after him. His face was desperate, hopeful, terrified.
+
+"Dad, please—"
+
+Robert's shoulders tightened.
+
+Then he pushed through the door and was gone.
+
+The sound of the door closing echoed through the suddenly silent courtroom.
+
+Ethan stood frozen, staring at the space where his father had been. His face was white, eyes wide with shock. He looked like he'd been struck.
+
+Sophia watched him sway slightly, watched Jordan catch his elbow, watched Michael Chen say something she couldn't hear. But Ethan just kept staring at that door.
+
+Waiting for it to open again.
+
+It didn't.
+
+Caroline made a sound—a sob or a gasp—and buried her face in her hands.
+
+Judge Morrison banged her gavel once. "Court is adjourned."
+
+But Sophia barely heard it. She was already moving, pushing past her family, crossing the courtroom to where Ethan stood.
+
+The victory tasted like ash.
+
+He'd won his freedom.
+
+But his father had walked away without looking back.
 
 ---
 
-Sophia didn't remember moving, but suddenly she was across the courtroom, and Ethan was standing, and they were holding each other while people celebrated around them.
+Sophia didn't remember moving, but suddenly she was there, and Ethan turned to her like a drowning person reaching for air.
 
-"You're free," she whispered against his shoulder. "You're actually free."
+"He didn't—" Ethan's voice was hollow. "He just—"
 
-"We did it." His voice was thick with tears. "We really did it."
+"I know." She wrapped her arms around him, feeling him shake. "I'm so sorry. I'm so sorry."
 
-She pulled back to see his face. He was crying openly, not caring who saw. Joy and relief and disbelief all tangled together in his expression.
+"I won." He said it like he couldn't quite believe it. Like the words didn't make sense. "I'm free. I'm actually free."
 
-"Your Honor just told my father I don't have to obey him anymore," Ethan said, like he couldn't quite believe it. "I'm legally emancipated. I can make my own choices about everything."
+"You are."
 
-"About MIT. About hockey. About us."
+"Then why does it—" His voice cracked. He pulled back to look at her, and his eyes were devastated. "Why does it feel like I just lost everything?"
 
-"About us." He cupped her face in his hands. "About you."
+Around them, people were celebrating. Maya was hugging their parents. Jordan was filming everything on his phone, narrating: "And that's how Ethan Price won his freedom." Michael was shaking hands with people. Caroline approached tentatively, and Ethan turned to her.
 
-Around them, families were celebrating. Maya was hugging their parents. Jordan was filming everything on his phone, narrating: "And that's how Ethan Price won his freedom." Michael was shaking hands with people. Caroline approached tentatively, and Ethan turned to hug his mother, both of them crying.
+"Mom—"
 
-"I'm so sorry," Caroline was saying. "I should have done this sooner. I should have protected you"
+"I'm so proud of you," Caroline said, pulling him into a fierce hug. "I'm so sorry. I should have done this sooner. I should have protected you—"
 
-"You're here now," Ethan said. "That's what matters."
+"You're here now," Ethan said into her shoulder. "That's what matters."
 
-Robert was gone. He'd left immediately after the ruling, his lawyers trailing behind him.
+But Sophia could see the way his eyes kept drifting to the door. Looking for someone who wouldn't come back.
 
 "Come on," Michael said eventually. "Let's get out of here. Media's going to want statements."
 
-They filed out of the courtroom togetherboth families, mixed now, celebrating. The courthouse steps were packed with cameras and reporters and the same protesters who'd been there this morning, now looking uncertain about whether to keep chanting.
+They filed out of the courtroom together—both families, mixed now, celebrating. The courthouse steps were packed with cameras and reporters and the same protesters who'd been there this morning, now looking uncertain about whether to keep chanting.
 
 Michael gave a brief statement: "Today, Judge Morrison affirmed a young man's right to choose his own future. We're grateful for her wisdom and fairness."
 
@@ -575,86 +689,198 @@ Jordan was already posting to social media: "EMANCIPATION GRANTED. FREEDOM WON."
 
 The media wanted more, but they pushed through to the cars.
 
-Sophia ended up in the back seat of her parents' car with Maya, both of them crying and laughing and exhausted.
+Sophia ended up in the back seat of her parents' car with Maya and Ethan, all three of them squeezed together. Caroline was riding with Michael Chen and Jordan, following behind.
 
-"You did it," Maya said. "You stood up to criminal charges and you didn't back down and you won."
+"You did it," Maya said, crying and laughing at the same time. "You stood up to everything and you won."
 
-"We won," Sophia corrected. "Ethan won."
+"We won," Ethan said quietly. But his voice was empty, and his hands were still shaking.
 
-"You both won." Mom turned around from the front seat, tears streaming down her face. "You fought for each other and you won."
+Sophia reached for one of those hands, lacing their fingers together. He gripped her hand like a lifeline.
 
-Sophia looked out the window at the courthousethe building where she'd been terrified she'd get a criminal record, where Ethan had just won his legal freedom.
+"You both won," Mom said from the front seat, turning to look at them. "You fought for each other and you won."
 
-They'd walked in controlled and afraid.
+But as the car pulled away from the courthouse, Sophia watched Ethan stare out the window at the building where he'd just legally severed the relationship with his father.
 
-They walked out emancipated and free.
+Free.
 
-"Where to?" Dad asked.
+He was free.
 
-Sophia checked her phone. A text from Ethan: *Lunch? Both families? Need food and to process that this is real.*
+But freedom, it turned out, came with a cost.
 
-She showed her mom.
+---
 
-"Tell him yes," Mom said. "We need to celebrate."
+They ended up at The Forks—neutral territory with good food and big tables where both families could fit. The Italian restaurant had outdoor seating overlooking the rivers, and May sunshine, and the sound of people enjoying a Saturday afternoon.
 
-Sophia texted back: *Yes. Where?*
+It should have felt celebratory.
 
-*That Italian place by The Forks? Neutral territory, big tables, good pasta.*
+It felt complicated.
 
-*Perfect. See you there.*
+Ethan sat next to Sophia, holding her hand under the table, but he was quiet. Too quiet. His eyes kept going distant, like he was somewhere else entirely.
 
-She leaned back against the seat, exhausted and exhilarated in equal measure.
+Caroline sat across from them, next to Maya and Mrs. Chen. She looked exhausted—the kind of tired that came from making impossible choices and living with the consequences.
 
-11:30 AM.
+"To freedom," Jordan said, raising his glass of water. "And to Ethan, who's officially the bravest person I know."
 
-Two and a half hours ago, she'd been facing criminal charges.
+They all clinked glasses. Ethan managed a smile, but it didn't reach his eyes.
 
-One and a half hours ago, Ethan had been under his father's control.
+"How are you feeling?" Sophia's mom asked gently.
 
-Now she was free and he was emancipated and they'd won.
+Ethan took a breath. "I don't—I don't know. It hasn't really hit me yet. That it's real."
 
-But as the car pulled away from the courthouse, Sophia thought about Robert's face when the judge ruled. The defeat and anger and something that looked almost like devastation.
+"It's real," Michael said. "As of ten-thirty this morning, you're legally emancipated. You can make your own medical decisions, sign contracts, live wherever you choose. Your father no longer has legal authority over your life."
 
-They'd won their freedom.
+"He didn't even look at me," Ethan said suddenly. "When he left. He just—walked out. Like I didn't exist."
 
-But Robert had lost his son.
+The table went silent.
 
-And Caroline had left her husband.
+Caroline's eyes filled with tears. "That's not—Ethan, that's not about you. That's about your father's inability to accept that he can't control this."
 
-And Ethan had legally separated from his father at seventeen years old.
+"But what if he's right?" Ethan's voice was small. "What if I am throwing everything away? What if MIT is a mistake and hockey was my future and I just—what if I'm wrong?"
 
-Victory, yes.
+Sophia squeezed his hand. "You're not wrong."
 
-But complicated victory.
+"You don't know that."
 
-The kind that came with a cost.
+"Yes, I do. Because you weren't happy playing hockey for someone else's dream. You're allowed to want something different."
 
-As they drove toward The Forksthe place where Ethan had confessed he was falling for her, the place where they'd signed their MIT acceptancesSophia reached for Maya's hand.
+"But what if I don't even know what I want?" Ethan looked at her, desperate. "What if I spent so long being what he wanted that I don't know who I am without that?"
 
-"We did it," she said again, testing the words. Making them real.
+Maya leaned forward. "Then you have the rest of your life to figure it out. That's what freedom means."
 
-"You did," Maya agreed. "Now what?"
+"It means you get to make mistakes," Jordan added. "And successes. And everything in between. On your own terms."
 
-Now what indeed.
+Ethan nodded, but Sophia could see the doubt still there. The fear that maybe Robert was right. That maybe he was giving up something irreplaceable.
 
-Now they had graduation in two weeks. Finals in a month. Summer jobs to work. MIT to prepare for.
+The food came—pasta and salads and garlic bread—and they ate in fits and starts, conversation ebbing and flowing around the weight of what had just happened.
 
-Now they had freedom to figure out what came next.
+Sophia's dad asked Caroline about her plans. Where she was staying, whether she needed help finding an apartment. Caroline explained that her sister had helped her pack while Robert was at court, that she had a place to stay for now.
+
+"I should have left years ago," Caroline said quietly. "I should have protected Ethan from—from all of this. But I was afraid. Of Robert, of being alone, of failing." She looked at Ethan. "I'm not afraid anymore."
+
+Ethan reached across the table and took his mother's hand. "You're here now. That's what matters."
+
+But Sophia saw the way he kept checking his phone. Looking for a message that wouldn't come. Hoping, despite everything, that his father would call.
+
+After lunch, they walked along the river paths—the same paths where Ethan had told her back in September that they could be friends again, where they'd had their first real conversation in eight years. Where, just two weeks ago, they'd signed their MIT commitment letters sitting on a bench overlooking the water.
+
+"This place keeps showing up," Ethan said, reading her thoughts. "Every time something important happens."
+
+"Maybe that's good," Sophia said. "Having a place that's just ours."
+
+He stopped walking, turning to face her. Behind him, the Red and Assiniboine Rivers met and merged, two paths becoming one.
+
+"Thank you," he said. "For not giving up. For testifying. For—for being here."
+
+"I'll always be here."
+
+"What if—" He swallowed hard. "What if my dad never speaks to me again? What if he just—cuts me off completely?"
+
+Sophia cupped his face in her hands. "Then you'll grieve that loss. And it will be awful. But you'll survive it. We'll survive it. Together."
+
+"I don't know how to do this without him hating me."
+
+"Maybe you can't. Maybe that's the price of choosing yourself."
+
+Ethan closed his eyes, leaning into her touch. When he opened them again, they were wet with unshed tears.
+
+"I won," he whispered. "So why do I feel like I lost?"
+
+"Because love and control got tangled up for so long you can't separate them. But you will. Eventually."
+
+He pulled her close, holding on like she was the only solid thing in a shifting world.
+
+They stood like that for a long time, the rivers flowing around them, carrying away everything that couldn't be held onto.
+
+Carrying them forward, whether they were ready or not.
+
+---
+
+By the time they got back to the cars, exhaustion had set in. The adrenaline of the morning had burned off, leaving everyone drained and quiet.
+
+Sophia's parents offered to drive Ethan wherever he needed to go. Caroline was staying with her sister across town. Jordan had to get to work.
+
+"I should—I should probably go to the apartment," Ethan said. "Start getting used to it being real."
+
+The apartment Michael Chen had helped him find two weeks ago. The studio in Osborne Village with second-hand furniture and empty walls and the overwhelming reality of living alone at seventeen.
+
+"Want company?" Sophia asked.
+
+Ethan looked at her with such gratitude it made her chest ache. "Please."
+
+They dropped Caroline off first—a quiet neighborhood in St. Vital, her sister's house with a garden and a welcome mat that said "Home." Caroline hugged Ethan for a long time before letting him go.
+
+"Call me if you need anything," she said. "Anything at all. Day or night."
+
+"I will, Mom."
+
+Then they drove to Osborne Village, to the four-story building on Osborne Street where Ethan had signed a lease with Michael Chen's help. His first contract as an emancipated minor.
+
+Sophia's parents said goodbye in the car, giving them space.
+
+"We'll pick you up at six for dinner," Mom said. "Both of you. You shouldn't be alone tonight."
+
+Ethan nodded gratefully.
+
+Then it was just the two of them, climbing the stairs to the third floor, walking down the hallway to 3B.
+
+Ethan unlocked the door with a key that still felt foreign in his hand.
+
+The apartment was small—studio-sized, with a Murphy bed that folded down from the wall, a kitchenette in the corner, and one window overlooking the street. It was clean but sparse. A few boxes of belongings Caroline had packed for him. A lamp Jordan had contributed. Sheets Maya had bought as a housewarming gift.
+
+It looked like a place someone was afraid to commit to.
+
+"It's not much," Ethan said quietly.
+
+"It's yours," Sophia said. "That's everything."
+
+He walked to the window, staring out at Osborne Street below. Saturday shoppers, people walking dogs, normal life happening while his entire world had changed.
+
+"Every time I bought something for this place," he said, "sheets, a lamp, groceries—part of me thought: what if Dad's right? What if I can't do this? What if I have to go back?"
+
+Sophia came to stand beside him. "You don't have to go back. You won."
+
+"Then why does it feel like I'm still waiting for permission?"
+
+She understood what he meant. Freedom was one thing. Believing in it was another.
+
+"Maybe it takes time," she said. "Maybe freedom is something you have to practice."
+
+He turned to her, and for the first time all day, something like hope flickered in his eyes. "Will you help me? Practice being free?"
+
+"Every day."
+
+He kissed her forehead, soft and grateful. "I don't know what I'd do without you."
+
+"You'll never have to find out."
+
+They sat on the floor by the window, backs against the wall, shoulders touching. Outside, Winnipeg carried on—oblivious to the fact that one boy had just fought for and won the right to choose his own life.
+
+Sophia felt the exhaustion settling into her bones. Six weeks of stress, one morning of terror and testimony, and now this strange, complicated victory.
+
+Free.
+
+They were both free.
+
+The criminal charges were dropped. The emancipation was granted.
+
+Nothing stood between them anymore.
+
+Except the lingering ghost of Robert Price's expectations, and the question of what came next, and the uncomfortable truth that winning your freedom didn't automatically tell you what to do with it.
+
+But for now, sitting on the floor of Ethan's tiny apartment, holding his hand while the afternoon light slanted through the window—this was enough.
+
+They had time.
+
+They had each other.
+
+They had the freedom to figure out the rest.
 
 Together.
-
-Sophia looked at her phone again, at Ethan's text.
-
-*See you there.*
-
-Yes.
-
-She would.
 
 ---
 
 **[End of Chapter 2]**
 
-**Word Count: ~5,000 words**
-**Timeline: 9:00 AM - 11:30 AM**
-**Emotional Arc: First Touch � Courtroom Tension � Testimony � Victory � Complicated Relief**
+**Word Count: ~5,400 words**
+**Timeline: 9:00 AM - 2:00 PM**
+**Emotional Arc: Criminal Charges Dismissed → First Touch → Courtroom Testimony → Victory → Robert Walks Out → Complicated Relief → Processing Freedom**
