@@ -26,19 +26,19 @@ I look up from my notebook. "You're distracting me."
 
 He grins and goes back to his calc homework, but his foot is still touching mine under the table. We've been like this all week—finding excuses to be near each other, stealing moments between study sessions, cramming in time like we can store it up for when he's gone.
 
-My phone buzzes. Maya: *How's studying? By which I mean how's NOT studying with your boyfriend?*
+My phone buzzes. Maya: *hows studying? by which i mean hows NOT studying with your boyfriend*
 
-**ME:** We're actually studying. Henderson's final is tomorrow.
+**ME:** were actually studying. hendersons final is tomorrow
 
-**MAYA:** Sure you are.
+**MAYA:** sure you are
 
-**ME:** I'm solving physics problems right now.
+**ME:** im solving physics problems right now
 
-**MAYA:** Uh-huh. And I'm sure you're super focused and not at all distracted by Price's face.
+**MAYA:** uh huh. and im sure youre super focused and not at all distracted by his face
 
-**ME:** His face is very distracting but I'm managing.
+**ME:** his face is very distracting but im managing
 
-**MAYA:** Hopeless. Both of you.
+**MAYA:** hopeless. both of you
 
 She's not wrong.
 
@@ -166,33 +166,33 @@ After dinner, we exchange gifts—books for me, new lab equipment for my mom (sh
 
 Around ten PM, my phone buzzes.
 
-**ETHAN:** Merry Christmas Eve. My family's dinner was exactly as awkward as expected.
+**ETHAN:** merry christmas eve. my familys dinner was exactly as awkward as expected
 
-**ME:** That bad?
+**ME:** that bad?
 
-**ETHAN:** Dad spent twenty minutes lecturing about prep school opportunities. Mom asked three times if I'm "focused on priorities." Jordan was the only person acting normal.
+**ETHAN:** dad spent twenty minutes lecturing about prep school opportunities. mom asked three times if im "focused on priorities." jordan was the only person acting normal
 
-**ME:** I'm sorry.
+**ME:** im sorry
 
-**ETHAN:** It's fine. Par for the course with the Prices. How's your Christmas?
+**ETHAN:** its fine. par for the course with the hayeses. hows your christmas?
 
-**ME:** Good. Quiet. My dad gave me the "does this boy treat you well" speech.
+**ME:** good. quiet. my dad gave me the "does this boy treat you well" speech
 
-**ETHAN:** What did you say?
+**ETHAN:** what did you say?
 
-**ME:** That you're acceptable.
+**ME:** that you're acceptable
 
-**ETHAN:** ACCEPTABLE?
+**ETHAN:** ACCEPTABLE??
 
-**ME:** I'm paraphrasing. I said you make me happy.
+**ME:** im paraphrasing. i said you make me happy
 
-**ETHAN:** That's better. Though "acceptable" is hilarious.
+**ETHAN:** thats better. though "acceptable" is hilarious
 
-**ME:** My dad's exact words were "that's acceptable." It's a ringing endorsement by his standards.
+**ME:** my dads exact words were "thats acceptable." its a ringing endorsement by his standards
 
-**ETHAN:** I'll take it.
+**ETHAN:** ill take it
 
-We text for another hour—about Christmas movies and bad holiday music and whether fruitcake is actually cake or some kind of construction material. It's easy and comfortable and makes me forget for a while that in ten days he'll be in Michigan and I'll be here.
+We text for another hour—about Christmas movies and bad holiday music and whether fruitcake is actually cake or some kind of construction material. It's easy and comfortable and makes me forget for a while that in less than two weeks he'll be in Michigan and I'll be here.
 
 Before bed, I pull out his Christmas present from where I've hidden it in my closet—a book on the physics of hockey I found at a used bookstore, with notes in the margins from whoever owned it before. Inside, I've written:
 
@@ -254,7 +254,7 @@ Ethan arrives at nine, and I feel it before I see him—that awareness of his pr
 
 "Hey yourself."
 
-He pulls me into a hug, and I can smell his cologne—woodsy and familiar. When we break apart, I'm hyperaware of people watching, of being that couple at the party.
+He pulls me into a hug, and I can smell his cologne—woodsy and familiar, the scent that's become home. When we break apart, I'm hyperaware of people watching, of being that couple at the party.
 
 "I have your Christmas present," I say.
 
@@ -298,7 +298,7 @@ We rejoin the party—dancing badly to songs neither of us know, eating too many
 
 Tyler comes over a few minutes later, beer in hand even though we're supposed to be keeping this party non-alcoholic. Maya's parents are conveniently out of town, trusting us to be responsible, which clearly has different definitions.
 
-"Price, Chen," he greets us. "Nice party."
+"Hayes, Chen," he greets us. "Nice party."
 
 "Maya decorated," I say.
 
@@ -340,7 +340,7 @@ People start pairing off—couples finding each other, friend groups clustering 
 
 We grab our coats and head out to Maya's back deck—a covered space with heaters that are running but barely making a dent in the cold. A few other people are out here too, but it's quieter than inside, more space to breathe.
 
-The sky is clear, stars brilliant, the kind of cold that makes everything sharp.
+The sky is clear, stars brilliant, the kind of cold that makes everything sharp and immediate.
 
 "Five more days," Ethan says.
 
@@ -424,9 +424,9 @@ His hands find my face, gentle even through his gloves.
 
 "One... HAPPY NEW YEAR!"
 
-And then he's kissing me while everyone around us is cheering and noisemakers are going off and somewhere fireworks are starting up. It's cold and loud and perfect, and for this moment, everything else—prep school and distance and complications—doesn't matter.
+And then he's kissing me while everyone around us is cheering and noisemakers are going off and somewhere fireworks are starting up. It's cold and loud and perfect, his lips warm against mine, his hands framing my face like I'm something precious.
 
-We're just two people kissing at midnight, making promises we hope we can keep.
+I pour everything into this kiss—all the fear about him leaving, all the hope for what comes after, all the love I haven't quite said out loud yet but feel in every cell of my body.
 
 When we finally break apart, Maya's crying happy tears and hugging Jordan, Tyler's spraying cheap champagne like he won the Stanley Cup, and everyone's in that post-countdown chaos of celebrating and calling people and taking photos.
 
@@ -458,7 +458,7 @@ Around 1 AM, people start leaving. Tyler finds us to say goodbye—he's getting 
 
 "Thanks, Kim," Ethan says, but he's smiling.
 
-"Anytime, Price." Tyler pulls me into a quick hug. "Happy New Year, Sophia. Don't let him forget about you while he's in Michigan."
+"Anytime, Hayes." Tyler pulls me into a quick hug. "Happy New Year, Sophia. Don't let him forget about you while he's in Michigan."
 
 "I won't."
 
@@ -498,7 +498,7 @@ My throat is tight. "Okay."
 
 "Yeah. Okay."
 
-He kisses me again—slower this time, without the countdown pressure, just us in Maya's driveway at 2 AM on New Year's Day.
+He kisses me again—slower this time, without the countdown pressure, just us in Maya's driveway at 2 AM on New Year's Day. It tastes like goodbye and promise and desperation all at once.
 
 "Drive safe," he says when we break apart.
 
@@ -510,11 +510,11 @@ He kisses me again—slower this time, without the countdown pressure, just us i
 
 "Text me anyway."
 
-I do, sitting in my driveway with the engine still running: *Home safe. Today was perfect.*
+I do, sitting in my driveway with the engine still running: *home safe. today was perfect*
 
-**ETHAN:** It really was. Sleep well, Watson.
+**ETHAN:** it really was. sleep well watson
 
-**ME:** You too, Sherlock.
+**ME:** you too sherlock
 
 I go inside to my parents sleeping and my room exactly as I left it and my life that's about to get significantly more complicated.
 
@@ -528,7 +528,7 @@ Tomorrow I can worry about everything else.
 
 I'm helping my mom take down Christmas decorations when the black Mercedes pulls into our driveway.
 
-For a second, I think maybe Ethan's parents sent a car for him, that maybe he forgot something here. Then I see Robert Price get out—alone, no Catherine, no Ethan—and my stomach drops.
+For a second, I think maybe Ethan's parents sent a car for him, that maybe he forgot something here. Then I see Robert Hayes get out—alone, no Caroline, no Ethan—and my stomach drops.
 
 He's carrying an envelope.
 
@@ -540,9 +540,9 @@ The doorbell rings.
 
 My dad answers it, and I hear voices in the entryway—Robert's smooth, professional tone, my dad's more cautious response. Then Dad's calling: "Sophia, can you come here please?"
 
-I walk to the entry way like I'm walking to my own execution.
+I walk to the entryway like I'm walking to my own execution.
 
-Robert Price looks exactly like Ethan will look in thirty years—same blue eyes, same sharp features, but colder somehow. More calculated. He's wearing an expensive coat and a smile that doesn't reach his eyes.
+Robert Hayes looks exactly like Ethan will look in thirty years—same blue eyes, same sharp features, but colder somehow. More calculated. He's wearing an expensive coat and a smile that doesn't reach his eyes.
 
 "Sophia," he says. "I apologize for the intrusion. But I was hoping we could talk."
 
@@ -554,89 +554,105 @@ My parents exchange a look. Finally, Dad steps back. "Come in. Would you like te
 
 "That would be lovely, thank you."
 
-We end up in the living room—Robert on the armchair, my parents on the couch, me perched on the edge of the other chair. Mom brings tea that no one drinks.
+We end up in the living room—Robert on the armchair, my parents on the couch, me perched on the edge of the other chair like I'm about to bolt. Mom brings tea that no one drinks.
 
-"I'll be direct," Robert says, setting the envelope on the coffee table between us. "My son leaves for Michigan in two days. This prep school opportunity is crucial for his future—the coaching staff is excellent, the competition is at the highest level, and he'll have exposure to scouts from every major program."
+Robert doesn't sit. He stands by our window, looking out at our ordinary street like he's calculating property values. The envelope in his hand is crisp, expensive paper—the kind that makes important things feel more important.
 
-"Ethan mentioned that," I say carefully.
+"Your father tells me you've applied to MIT," he says conversationally. "Early action. Admirable. The acceptance rate is 4.8 percent this year. Even lower for international students, though I suppose you're not quite that."
 
-"What he may not have mentioned is how important it is that he remain focused. Hockey at this level requires complete dedication. No distractions, no divided attention."
+"Mr. Hayes—"
 
-"Mr. Price," my mom starts, but he holds up a hand.
+"Did you know," he continues as if I hadn't spoken, "that seventy-three percent of high school relationships end within the first three months of college? The statistics are even worse for relationships where one partner doesn't attend college at all. Say, if they're pursuing professional sports instead."
 
-"Please, let me finish. I'm not here to vilify anyone. Sophia is clearly a bright, accomplished young woman. But the timing of this relationship is... unfortunate."
+My stomach drops. "Why are you here?"
 
-"Unfortunate," I repeat.
+He turns from the window, and his smile is almost kind. Almost.
 
-"Ethan's at a critical juncture. The next eighteen months will determine his entire future—college, career, everything we've worked toward since he was eight years old." Robert leans forward slightly. "I'm asking you to consider what's best for him."
+"I'm here because I see potential in you, Sophia. Real potential. The kind that shouldn't be wasted on a statistically doomed teenage romance." He sets the envelope on our coffee table. "MIT's admissions board was very impressed with your application. However, as you know, impressive isn't always enough. Sometimes one needs... an advocate."
 
-"I do consider what's best for him."
+"I don't understand—"
 
-"Then you'll understand what I'm about to propose." He picks up the envelope, holding it but not yet offering it. "My wife and I have considerable connections in the academic world. Particularly with MIT—my college roommate is currently on the admissions board."
+"I sit on the board of directors for three companies that fund MIT's engineering program. My recommendation carries significant weight. Enough weight to turn a maybe into a yes. Enough to include a full scholarship—not just tuition, but room, board, research stipends, even study abroad opportunities."
 
-My heart is racing. Mom and Dad are both very still.
+The room feels like it's spinning. My parents are both very still, watching him like he's a snake that might strike.
 
-"I've taken the liberty of reviewing your academic record—it's impressive. Your grades, your test scores, your research interests. You're exactly the kind of student MIT looks for."
+"You're trying to bribe me," I say.
 
-"I already applied to MIT," I say. "Early action."
+"Bribe?" He looks genuinely offended. "I'm offering you an opportunity. One that has nothing to do with my son, actually. You've earned this on your own merits. I'm simply... facilitating."
 
-"Yes. And while I'm sure you'll be a strong candidate, early action admissions are extraordinarily competitive." He places the envelope on the table, sliding it toward me. "What if I told you I could guarantee your admission? Full scholarship, all expenses paid, research opportunities starting freshman year?"
+"In exchange for what?"
 
-I stare at the envelope like it's a snake.
+He picks up a photo from our mantle—me at age twelve with a science fair trophy, gap-toothed smile, holding my project on renewable energy.
 
-"In exchange for what?" my dad asks sharply.
+"You're a smart girl, Sophia. Smart enough to know that Ethan's hockey career is at a crucial juncture. Scouts are watching. Professional leagues are interested. But he's distracted. His performance is suffering. His coach has noticed. The scouts have noticed."
 
-"In exchange for Sophia agreeing to end her relationship with Ethan. Completely. No contact until after college graduation—that's four and a half years from now."
+"That's not—"
 
-The room is very, very quiet.
+"Three games with subpar performance since you two became involved. His shooting percentage down twelve percent. Penalty minutes up thirty percent." He sets the photo down precisely where it was, like he's rearranging chess pieces. "I've spent thirteen years and approximately four hundred thousand dollars developing his talent. Hockey equipment, training camps, private coaching, travel teams, nutritionists, sports psychologists. All leading to this moment—his chance at the NHL."
 
-"You're bribing her to break up with your son," my mom says.
+"You make him sound like an investment."
 
-"I'm investing in both of their futures." Robert's expression doesn't change. "Sophia gets her dream school with no financial burden. Ethan gets to focus on hockey without distractions. Everyone wins."
+"Aren't all children investments? Your parents invested in your education. Those badminton lessons, the physics tutors, the academic summer camps. All hoping for a return—seeing you succeed, seeing you happy, seeing you fulfill your potential."
 
-"Except that they care about each other," Dad says.
+He's not wrong, and that's the worst part. My parents have sacrificed so much for my education—Dad working extra hours, Mom taking on additional research projects. All so I could have opportunities they didn't.
 
-"They're seventeen. They'll find other people to care about. But opportunities like this—MIT, full scholarship, guaranteed admission—those don't come twice."
+"What exactly are you asking?" My voice sounds steadier than I feel.
 
-I can't speak. I'm staring at that envelope, at everything I've worked for sitting right there, wrapped up in an impossible condition.
+Robert opens the envelope, revealing the MIT letterhead that makes my heart stop. "I'm asking you to be practical. To think beyond the emotions of the moment. Ethan leaves for Michigan in two days. You have regionals, then nationals, then graduation, then MIT. Your paths are already diverging. All I'm suggesting is that you let them."
 
-My mom's hand finds mine, squeezes tight.
+"You want me to break up with him."
 
-Robert checks his watch—an expensive piece that probably costs more than our car. "I understand this is a significant decision. I'm not asking for an answer right now."
+"I want you to stop texting him. Stop calling. Stop giving him hope for something that will only hurt you both in the end. A clean break. He focuses on hockey, you focus on MIT. In five years, you'll both thank me."
 
-"Yes, you are," I hear myself say. "You came here two days before Ethan leaves. You're asking me to break up with him right before he goes."
+"And if I say no?"
 
-"I'm asking you to let him go without the complications of a long-distance relationship that will ultimately fail anyway. Teen relationships rarely survive college, Sophia. You know that. The statistics are—"
+His smile doesn't change, but something in his eyes goes cold. It's like watching ice form on a window—beautiful and deadly.
 
-"I don't care about statistics."
+"Then you apply to MIT like everyone else. Four point eight percent acceptance rate. Without my recommendation. Without the scholarship. And Ethan... well, Ethan will make his own choices, won't he? Perhaps he'll defer prep school to stay near you. Perhaps he'll lose focus entirely. Young love makes people do foolish things. I've seen it destroy promising careers before."
 
-"Then care about his future. Care about your future." Robert stands, smooth and practiced. "The envelope contains a formal offer letter. Guaranteed admission to MIT, four years full tuition plus stipend, mentorship program with leading researchers in physics. All you have to do is agree to the terms."
+The threat is clear: I'm not just choosing my future. I'm choosing Ethan's too.
 
-"And the terms are no contact with Ethan until 2029," I say flatly.
+My dad stands abruptly. "I think—"
 
-"Until you've both had the chance to pursue your respective paths without distraction. If after college you still want to reconnect, that's your choice. But for now, for these crucial years, I'm asking you to let him focus."
+"Wait." My voice sounds far away. "The offer. What are the exact terms?"
 
-My dad stands too. "I think you should leave."
+Robert's expression shifts to something like satisfaction. "Guaranteed admission to MIT, early action decision by February first. Four years full tuition plus ten thousand dollars annual stipend for living expenses, research opportunities with leading researchers in theoretical physics, mentorship program, priority consideration for graduate programs. All expenses paid. All doors open."
 
-"Mr. Chen—"
+He pulls out a second sheet of paper, sliding it across the coffee table.
 
-"You've made your offer. Now please leave our home."
+"In exchange, you agree to terminate all romantic and personal contact with Ethan Hayes until May 2029. Four and a half years. No texts, no calls, no visits, no contact of any kind. After college graduation, you're both free to reconnect if you wish. But for these crucial years—his launch into professional hockey, your undergraduate education—you let each other focus."
 
-Robert doesn't argue. He simply nods, straightens his coat, and moves toward the door. But he pauses at the threshold, looking back at me.
+"This conversation," he adds, standing to leave, "stays between us. You wouldn't want Ethan to think you only got into MIT because of connections. That would taint your entire academic career, wouldn't it? Every achievement would have an asterisk. Every success would have people wondering if you really earned it."
 
-"You have twenty-four hours to decide, Sophia. After that, the offer expires and Ethan leaves for Michigan regardless. Think about what you really want for your future."
+My mom makes a sound like she's been punched.
 
-Then he's gone, the door closing behind him, the black Mercedes pulling out of our driveway like this was a normal morning visit.
+"You have twenty-four hours to decide, Sophia. The admissions board meets Friday morning. After that, decisions are final and the offer expires." He buttons his coat with precise movements. "Oh, and one more thing."
 
-The three of us stand in the living room, staring at the envelope on the coffee table.
+He pulls out a photograph from his pocket, places it face-down on top of the contract.
 
-"That man," my mother says finally, "is a manipulative piece of—"
+"I know about New Year's Eve. The kissing. The plans to try long distance. I've been watching—not personally, of course. But parents have resources." He heads toward the door, then pauses. "You're already hurting him, Sophia. His game performance proves that. The question is whether you'll stop now, when it can still lead to something good for both of you, or whether you'll drag it out until you destroy each other."
+
+The door closes with a soft click.
+
+The three of us stand in the living room, staring at the papers on the coffee table. I reach for the photograph with shaking hands, flip it over.
+
+It's from New Year's Eve. Ethan and me kissing at midnight, his hands framing my face, my eyes closed, both of us lost in the moment.
+
+Someone was watching. Someone Robert hired. The violation of it—the calculated cruelty—makes me want to throw up.
+
+But worse is the contract beneath it. The MIT seal at the top. The dollar amounts spelled out in black and white.
+
+Full ride. Four years. Everything covered. Research opportunities. Mentorship. Everything I've dreamed of since I was twelve years old, holding that science fair trophy.
+
+For the price of everything I want.
+
+"That man," my mother says finally, voice shaking with fury, "is a manipulative piece of—"
 
 "Ling," Dad warns.
 
 "I was going to say work. Manipulative piece of work."
 
-I sink back into the chair, staring at the envelope. "He's offering me MIT."
+I sink back into the chair, the photograph burning in my hands. "He's offering me MIT."
 
 "He's blackmailing you," Mom corrects. "There's a difference."
 
@@ -652,11 +668,11 @@ I sink back into the chair, staring at the envelope. "He's offering me MIT."
 
 "I know, sweetheart. But that's not the question. The question is: if you had to choose, what would you choose?"
 
-I look at the envelope. Everything I've worked for. Four years of straight As, science competitions, research projects, studying until 2 AM. All of it could lead here, to MIT, to my dream school.
+I look at the contract. Everything I've worked for. Four years of straight As, science competitions, research projects, studying until 2 AM. All of it could lead here, to MIT, to my dream school, to the future I've been planning since I was old enough to understand what physics was.
 
 But it requires giving up Ethan. For four and a half years. No texts, no calls, no visits. Just... nothing.
 
-By the time we're both free, we'll be different people. We'll have lived different lives. The guy I know now won't be the same person I find in 2029—if I find him at all.
+By the time we're both free, we'll be different people. We'll have lived different lives. The boy I know now won't be the same person I find in 2029—if I find him at all.
 
 "I don't know," I whisper. "I don't know what to choose."
 
@@ -668,25 +684,19 @@ Mom pulls me into a hug. Dad joins us, both of them holding me while I try not t
 
 "No. It's not." Mom's voice is tight with anger. "That's the point. He's forcing you to make an impossible choice under pressure."
 
+I pull away, staring at the photograph. Ethan's face, so happy, so unguarded. Not knowing his father was already planning this. Not knowing that our perfect New Year's kiss was being documented as evidence against us.
+
 "What do I do?"
 
 Neither of them answers, because there is no good answer.
 
-I have twenty-four hours to decide between my dream school and someone I'm falling in love with.
+Twenty-four hours to decide between my dream school and someone I'm falling in love with.
 
 Between the future I've always planned and the future I'm just starting to imagine.
 
 Between everything I've worked for and everything I want.
 
 And no matter what I choose, I lose something.
-
-The envelope sits on the coffee table, unopened.
-
-I don't touch it. I can't.
-
-Because once I open it, once I read the official terms, once I see it in writing—it becomes real.
-
-And I'm not ready for it to be real yet.
 
 ---
 
@@ -698,23 +708,23 @@ I know I should. I know this decision affects him too, that he deserves to know 
 
 But I can't. Not yet. Not while I'm still trying to figure out what to do.
 
-Instead, I text: *Can we see each other tomorrow?*
+Instead, I text: *can we see each other tomorrow?*
 
-**ETHAN:** Of course. Your place or mine?
+**ETHAN:** of course. your place or mine?
 
-**ME:** The Forks? Noon?
+**ME:** the forks? noon?
 
-**ETHAN:** Perfect. Everything okay?
+**ETHAN:** perfect. everything okay?
 
-**ME:** Yeah. Just want to see you.
+**ME:** yeah. just want to see you
 
-**ETHAN:** Miss you too. Even though we just saw each other last night.
+**ETHAN:** miss you too. even though we just saw each other last night
 
-**ME:** That was 14 hours ago. Basically forever.
+**ME:** that was 14 hours ago. basically forever
 
-**ETHAN:** Basically.
+**ETHAN:** basically
 
-I put my phone down and look at the envelope, which I've brought up to my room. It's sitting on my desk, next to my physics textbook and my acceptance letters to various schools that aren't MIT.
+I put my phone down and look at the envelope, which I've brought up to my room. It's sitting on my desk, next to my physics textbook and the acceptance letters from other schools that aren't MIT.
 
 Twenty-four hours to decide.
 
@@ -726,7 +736,7 @@ I pick up my physics notebook, find a blank page, and start working through the 
 
 **Variable T** = Time (4.5 years apart, no contact, separate lives)
 
-**Variable U** = Unknown factors (will we even be the same people? Will he wait? Will I regret either choice?)
+**Variable U** = Unknown factors (will we even be the same people? will he wait? will I regret either choice?)
 
 **If M → must sacrifice E for time T**
 
@@ -738,19 +748,19 @@ I work through scenarios, trying to calculate probabilities, trying to logic my 
 
 But this isn't physics. There is no right answer. There's only choice.
 
-Around dinner, Maya texts: *So how's the post-New-Years bliss?*
+Around dinner, Maya texts: *so hows the post-new-years bliss?*
 
 I stare at that message for a long time.
 
-Finally: *Complicated.*
+Finally: *complicated*
 
-**MAYA:** What happened?
+**MAYA:** what happened?
 
-**ME:** Can I call you?
+**ME:** can i call you?
 
-**MAYA:** Obviously.
+**MAYA:** obviously
 
-I call, and the whole story spills out—Robert Price showing up, the envelope, the offer, the impossible choice. Maya listens without interrupting, which is unusual for her.
+I call, and the whole story spills out—Robert Hayes showing up, the envelope, the offer, the impossible choice. Maya listens without interrupting, which is unusual for her.
 
 When I finish, she's quiet for a moment. Then: "Holy shit."
 
@@ -800,67 +810,65 @@ But I'm not ready for that conversation yet.
 
 I can't sleep. I've been lying in bed for two hours, staring at my ceiling, trying to decide.
 
-My phone buzzes. Ethan: *You awake?*
+My phone buzzes. Ethan: *you awake?*
 
-**ME:** Unfortunately.
+**ME:** unfortunately
 
-**ETHAN:** Same. Can't stop thinking about leaving in two days.
+**ETHAN:** same. cant stop thinking about leaving in two days
 
-**ME:** Let's not talk about that.
+**ME:** lets not talk about that
 
-**ETHAN:** What should we talk about?
+**ETHAN:** what should we talk about?
 
-**ME:** Anything else. Favorite color. Best pizza topping. Whether time travel is theoretically possible.
+**ME:** anything else. favorite color. best pizza topping. whether time travel is theoretically possible
 
-**ETHAN:** Time travel is definitely possible. Just impractical.
+**ETHAN:** time travel is definitely possible. just impractical
 
-**ME:** Spoken like someone who didn't pay attention in physics.
+**ME:** spoken like someone who didnt pay attention in physics
 
-**ETHAN:** I paid attention. I just had a very cute tutor who was distracting.
+**ETHAN:** i paid attention. i just had a very cute tutor who was distracting
 
-**ME:** Your tutor was your teacher.
+**ME:** your tutor was your teacher
 
-**ETHAN:** I meant you. You were my unofficial tutor. And very distracting.
+**ETHAN:** i meant you. you were my unofficial tutor. and very distracting
 
 Even through text, he can make me smile.
 
-**ETHAN:** Hey. Real talk for a second?
+**ETHAN:** hey. real talk for a second?
 
-**ME:** Okay.
+**ME:** okay
 
-**ETHAN:** I know long distance is going to suck. I know we're both scared. But I meant what I said on New Year's. I want to try. With you. Whatever that looks like.
+**ETHAN:** i know long distance is going to suck. i know were both scared. but i meant what i said on new years. i want to try. with you. whatever that looks like
 
 My throat is tight. I'm staring at his message, thinking about the envelope on my desk, the choice I have to make by tomorrow.
 
-**ME:** I want to try too.
+**ME:** i want to try too
 
-**ETHAN:** Yeah?
+**ETHAN:** yeah?
 
-**ME:** Yeah.
+**ME:** yeah
 
-**ETHAN:** Good. Because you're kind of my favorite person.
+**ETHAN:** good. because youre kind of my favorite person
 
-**ME:** Kind of?
+**ME:** kind of?
 
-**ETHAN:** Definitely. You're definitely my favorite person.
+**ETHAN:** definitely. youre definitely my favorite person
 
-**ME:** That's better.
+**ME:** thats better
 
 We text until almost 1 AM—about nothing important, just existing in each other's presence through screens. Finally, he says goodnight and I'm alone again with my thoughts and my choice.
 
-I get out of bed and walk to my desk. Pick up the envelope.
-
-Inside is exactly what Robert described: official letterhead from MIT, a formal offer of admission pending final transcripts, full scholarship details, research opportunities. Everything laid out in professional, legal language.
-
-At the bottom, a single condition:
-
-*Acceptance of this offer requires written agreement to terminate all romantic and personal contact with Ethan James Price until May 2029.*
-
-Four and a half years. In writing.
+I get out of bed and walk to my desk. Pick up the contract.
 
 I read it three times, trying to find a loophole, some way to have both things.
 
 There isn't one.
+
+At the bottom, a single line:
+
+*Acceptance of this offer requires written agreement to terminate all romantic and personal contact with Ethan James Hayes until May 2029.*
+
+Four and a half years. In writing.
 
 I fold the letter carefully and put it back in the envelope.
 
@@ -871,6 +879,12 @@ Tomorrow everything changes, no matter what I choose.
 I set my alarm for 8 AM, turn off my light, and try to sleep.
 
 But I lie awake for hours, watching shadows on my ceiling, trying to solve an equation that has no solution.
+
+The photograph sits on my desk, face-down. I can't look at it.
+
+Because every time I do, I see what I'm about to lose—either Ethan, or my dreams, or maybe both.
+
+And I have no idea which loss I can survive.
 
 ---
 
@@ -884,11 +898,11 @@ But I lie awake for hours, watching shadows on my ceiling, trying to solve an eq
 
 - Does Sophia tell Ethan about his father's ultimatum?
 - What does she choose: MIT with the scholarship, or Ethan?
-- Can they find a third option Robert Price didn't account for?
+- Can they find a third option Robert Hayes didn't account for?
 - Ethan leaves for Michigan in two days—what does their goodbye look like?
 - And what will Robert do when he gets Sophia's answer?
 
-**Episode 5 Preview:** Badminton nationals road trip becomes a storm-trapped crisis when Sophia's choice becomes public. Ethan finds out about his father's offer. Everything that's been building explodes. And the team bus breaking down in a blizzard is the least of their problems.
+**Episode 5 Preview:** The badminton nationals road trip becomes a storm-trapped crisis when Sophia's choice becomes public. Ethan finds out about his father's offer. Everything that's been building explodes. And the team bus breaking down in a blizzard is the least of their problems.
 
 The countdown is on. The stakes have never been higher.
 

@@ -6,19 +6,19 @@ The problem with physics is that it's supposed to make sense. You input the corr
 
 Love doesn't work that way.
 
-I'm lying in bed at 2 AM, my physics notebook open in front of me, trying to work through an equation that has nothing to do with homework and everything to do with the impossible choice Jordan just handed me three hours ago.
+2 AM and I can't stop scribbling physics equations. Not homework—just me trying to math my way out of what Jordan told me three hours ago. Like there's some formula that'll make this make sense.
 
 *They're going to separate you. And they're going to make it look like it's for his own good.*
 
-My pen moves across the paper, scratching out variables:
+My pen scratches across the paper:
 
 **Variable E** = Ethan's future (hockey career, family expectations, prep school)
 
-**Variable S** = Me (our friendship, whatever this feeling is, the way my heart stops when he smiles)
+**Variable S** = Me (our friendship, whatever this... thing is, the way my whole body goes haywire when he smiles)
 
-**Variable T** = Time (he leaves December 28th, three weeks from now)
+**Variable T** = Time (he leaves January 4th—pushed back from December 28th because of hockey playoffs, but still. Less than five weeks.)
 
-**Variable P** = Price Family (money, power, legal maneuvering, threats)
+**Variable H** = Hayes Family (money, power, legal maneuvering, threats)
 
 I draw the equation:
 
@@ -26,101 +26,109 @@ I draw the equation:
 
 The answer should be simple. But every way I work it, someone loses.
 
-If E + S = together → P intervenes → E loses everything
+If E + S = together → H intervenes → E loses everything
 
 If E - S = apart → E's future secure → S loses everything → E loses S
 
 There's no solution where we both win.
 
-Outside my window, Winnipeg is settling into real winter. The kind of cold that bites, that makes your breath visible, that turns the world sharp and brittle. November sliding into December. The trees are bare, the grass buried under snow, and everything feels like it's holding its breath waiting for something to break.
+Outside my window, Winnipeg is settling into real winter. The kind of cold that literally bites, that makes your breath visible in clouds, that turns the world sharp and brittle. November sliding into December. The trees are bare skeletons, the grass buried under snow that squeaks when you walk on it, and everything feels like it's holding its breath, waiting for something to break.
 
-My phone buzzes. Ethan.
+My phone buzzes. I already know who it is before I look.
 
-**ETHAN:** You okay? Jordan said you left in a hurry.
+**ethan:** u ok? jordan said u left kinda fast
 
-My thumb hovers over the keyboard. Three weeks. That's all we have before his parents ship him off to Michigan, to some prep school where NHL scouts watch every practice and his father's plan for his life becomes inescapable.
+My thumb hovers over the keyboard. Five weeks. That's all we have before his parents ship him off to Michigan, to some prep school where NHL scouts watch every practice and his father's investment in his future becomes inescapable.
 
-Three weeks where I could be selfish. Where I could keep pretending we're just friends who look at each other too long, who text until 3 AM, who've memorized the way the other person breathes.
+Five weeks where I could be selfish. Where I could keep pretending we're just friends who can't stop looking at each other, who text until 3 AM about literally nothing, who've somehow memorized each other's breathing patterns.
 
-Or three weeks where I could do the right thing.
+Or five weeks where I could do the right thing.
 
-I type: **I'm fine. Just tired. Talk tomorrow?**
+I type: **yeah just tired**
 
-The dots appear immediately. Disappear. Appear again.
+Delete it. Too casual.
 
-**ETHAN:** Sure. Sleep well, Watson.
+**I'm fine. Just tired. Talk tomorrow?**
 
-I stare at that nickname—the one he's called me since we were nine and he decided I was Sherlock's better half. The one that used to mean we were partners in everything.
+Delete. Still wrong.
+
+Finally: **yeah im good. talk tmrw?**
+
+The dots appear immediately. Disappear. Appear again. My heart does this stupid stuttering thing.
+
+**ethan:** sure. sleep well watson
+
+I stare at that nickname—the one he's called me since we were nine and decided I was Sherlock and he was my Watson, even though he insisted it should be the other way around. The one that used to mean we were partners in everything.
 
 The one I'm about to make mean nothing.
 
-I close my notebook, the equation unsolved, and turn off my light. But I don't sleep. I lie there in the dark, listening to winter wind against my window, and make the hardest decision of my life.
+I close my notebook, the equation unsolved, and turn off my light. But I don't sleep. I lie there in the dark, listening to winter wind rattling my window, and make the hardest decision of my life.
 
 Tomorrow, I start walking away.
 
----
-
 ## Monday Morning
 
-The thing about avoiding someone you see every day is that it requires constant vigilance. Ethan and I have synchronized schedules—AP Physics together, lunch with the same group, study sessions at Jordan's. We exist in overlapping orbits, planets circling the same sun.
+The thing about avoiding someone you see every day? It requires, like, constant vigilance. Ethan and I have synchronized schedules—AP Physics together, lunch with the same group, study sessions at Jordan's. We exist in overlapping orbits, planets circling the same sun.
 
 Changing that orbit requires force. Deliberate, painful force.
 
-Monday morning I take the long route to my locker, the one that avoids his hallway. I time my arrival to Physics so I slip in right as the bell rings, no chance for our usual pre-class conversation. I take a seat in the back instead of next to him.
+Monday morning I take the long route to my locker, the one that goes past the gym and smells like old sneakers. I check my phone obsessively—someone already posted about the party Saturday night on their story, Maya's complaining about homework in the group chat, there's a TikTok about college apps that makes me want to throw my phone.
+
+I time my arrival to Physics perfectly—slip in right as the bell rings, no chance for our usual pre-class conversation about whatever random thing we talked about until 2 AM. I take a seat in the back instead of our usual spot in the third row.
 
 He notices immediately. Of course he does.
 
-When Mr. Hendricks drones on about momentum and force vectors, Ethan keeps glancing back. I feel his eyes on me like a physical weight, but I don't look up. I focus on my notes with laser precision, writing down every word like it's the most important lecture I've ever attended.
+When Mr. Hendricks drones on about momentum and force vectors, Ethan keeps glancing back. I can feel his eyes like actual weight, but I don't look up. I focus on my notes with laser precision, writing down every word like this is the most important lecture I've ever attended. My handwriting gets progressively worse as my hand cramps.
 
 My phone vibrates in my pocket. Once, twice, three times.
 
 I don't check it.
 
-After class, I'm the first one out the door, mumbling something about needing to talk to Coach Martinez about badminton practice. It's not even a lie—I do need to talk to her. Just not right this second.
+After class, I'm the first one out the door, mumbling something about needing to talk to Coach Martinez about badminton practice. It's not even a lie—I do need to talk to her about regionals in January. Just not, like, right this second.
 
 But it gets me out of the hallway before Ethan can catch up.
 
-At lunch, I sit between Maya and Jordan, putting them between me and the empty chair that's always been Ethan's. When he arrives, tray in hand, that confused-hurt look still on his face, I'm deep in conversation with Maya about our upcoming match against St. Paul's.
+At lunch, I sit between Maya and Jordan, putting them as human shields between me and the empty chair that's always been Ethan's. When he arrives, tray in hand, that confused-hurt look making me want to die, I'm deep in conversation with Maya about our upcoming match against Churchill.
 
 "Soph," Ethan says, standing at the edge of our table.
 
-"Hey." I keep my voice bright, friendly, distant. "How's your turkey sandwich?"
+"Hey." Bright. Friendly. Distant. I hate myself. "How's your, um—" I gesture vaguely at his tray.
 
-He blinks. "What?"
+"My lunch?"
 
-"Your lunch. Is it good?"
+"Yeah, is it... good?"
 
-"I... haven't sat down yet."
+He blinks. "I literally just got here."
 
-"Oh. Right." I turn back to Maya. "So you were saying about their singles player?"
+"Oh. Right." God, kill me. I turn back to Maya. "So you were saying about their singles player?"
 
-There's a long moment where I can feel Ethan just standing there, trying to figure out what's happening. Then he takes the chair across from me instead of next to me. The table feels suddenly huge.
+There's this horrible moment where Ethan just stands there, trying to figure out what's happening. Then he takes the chair across from me instead of next to me. The table suddenly feels huge, like we're on opposite continents.
 
-Jordan shoots me a look that says *what are you doing?* I give him one back that says *what you told me to*.
+Jordan shoots me a look that says *what the hell are you doing?* I give him one back that says *what you told me to*.
 
-Except Jordan didn't tell me to do this. He told me Ethan's parents were separating us. He didn't say I should help them do it.
+Except Jordan didn't tell me to do this. He told me Ethan's parents were planning something. He didn't say I should help them.
 
 That's all me.
 
-"So," Tyler Chen says—different Tyler, not hockey Tyler, this is Tyler-who's-in-our-study-group—"did everyone finish the calculus homework? Because that last problem destroyed me."
+"So," Tyler Chen says—different Tyler, not hockey Tyler, this is calc-class Tyler—"did everyone see that insane Leafs game last night?"
 
-The conversation shifts to derivatives and limits and the test on Friday. Safe, academic, normal. Ethan contributes like nothing's wrong, but I catch him watching me three times. Each time I look away first.
+The conversation shifts to hockey, which I tune out. Ethan contributes normally, but I catch him watching me three times. Each time I look away first, suddenly fascinated by my untouched sandwich.
 
 By the end of lunch, my stomach hurts and I haven't eaten anything.
 
-"Okay," Maya says as we're walking to our next class. "What the actual hell?"
+"Okay, what the actual fuck?" Maya says as we're walking to History.
 
-"What?"
+"Language," I say weakly.
 
-"Don't 'what' me. You're being weird with Ethan."
+"Don't deflect. You're being weird with Ethan."
 
 "I'm not being weird."
 
-"Sophia. You sat between me and Jordan like we're human shields. You didn't look at him once during lunch. And I'm pretty sure you just accidentally agreed to help me organize a bake sale, which you hate doing."
+"Sophia. You sat between me and Jordan like we're human shields. You asked about his lunch like you're an alien trying to understand human food. And I'm pretty sure you just agreed to help with the winter fundraiser, which you literally hate."
 
 I stop walking. "I did?"
 
-"See? Weird." Maya crosses her arms, her braids swinging as she faces me fully. "What happened? Did you guys fight?"
+"See? Weird." Maya's braids swing as she faces me fully, hands on hips. "What happened? Did you guys fight?"
 
 "No."
 
@@ -128,27 +136,27 @@ I stop walking. "I did?"
 
 "No. Maya, it's fine."
 
-"It's clearly not fine. You look like you're about to cry, and he looks like someone killed his puppy. So what's going on?"
+"It's clearly not fine. You look like you're gonna cry, and he looks like someone murdered his dog. So what's going on?"
 
-I want to tell her. Maya's been my best friend since I moved here sophomore year—she's the one who made Winnipeg feel less like exile and more like home. She knows about the childhood friendship with Ethan, the reunion, the slowly building something-more that neither of us has named yet.
+I want to tell her. Maya's been my best friend since sophomore year—she's the one who made Winnipeg feel less like exile and more like home. She knows about the childhood friendship with Ethan, the reunion, the slowly building something that neither of us has actually said out loud.
 
 But I can't explain that I'm doing this to protect him without explaining what I'm protecting him from. And Jordan told me about Ethan's parents in confidence.
 
-"His parents want him to focus on hockey," I say finally. It's not a lie. "And I'm a distraction."
+"His parents want him to focus on hockey," I say finally. It's not a lie. "And I'm... a distraction."
 
-Maya's expression shifts from confused to outraged. "They said that?"
+Maya's expression shifts from confused to pissed. "They said that?"
 
-"Not to me. But yeah, basically."
+"Not to me directly. But yeah, basically."
 
 "So you're just... what? Ghosting him?"
 
-"I'm not ghosting him. I'm giving him space."
+"I'm not ghosting. I'm giving him space."
 
-"Space he doesn't want."
+"Space he clearly doesn't want."
 
 "Space he needs."
 
-Maya looks at me for a long moment, and I can see her trying to decide whether to push. Finally, she sighs. "Okay. But Soph? This seems like one of those things where you're overthinking it."
+Maya stares at me, and I can see her trying to decide whether to push. Finally, she sighs. "Soph, this is literally one of those things where you're overthinking it."
 
 "Maybe."
 
@@ -156,658 +164,400 @@ Maya looks at me for a long moment, and I can see her trying to decide whether t
 
 "I'm fine."
 
-"Right. And I'm the Queen of England." She loops her arm through mine anyway. "Come on. We're going to be late to History, and Mr. Peterson's already mad at me for that essay."
+"Right. And I'm dating Harry Styles." She loops her arm through mine anyway. "Come on. We're already late, and Peterson's still mad about my French Revolution essay."
 
-We walk to class, but I'm only half listening to Maya's story about her essay on the French Revolution. The other half of me is trying not to think about the hurt confusion on Ethan's face at lunch.
+We walk to class, but I'm only half listening to Maya's story about how she accidentally wrote that Marie Antoinette invented cake. The other half of me is trying not to think about the hurt confusion on Ethan's face at lunch.
 
-Three weeks, I remind myself. Just three weeks, and he'll be gone anyway. This way it hurts less.
+Five weeks, I remind myself. Just five weeks, and he'll be gone anyway. This way it hurts less.
 
 The problem is, it already hurts so much I can barely breathe.
 
----
+## Thursday Lunch
 
-## Wednesday Evening
+By Thursday, I've gotten better at the avoidance thing. Different routes to classes, strategic seating, always having somewhere urgent to be. It's exhausting, like playing three-dimensional chess against someone who knows all your moves.
 
-Study group at Jordan's house has been a tradition since October—the six of us sprawled across his basement, working through homework with varying levels of success and significant amounts of snacks.
+I'm at my locker, switching books for afternoon classes, when Tyler Kim appears next to me. Not calc-Tyler—hockey Tyler. Senior, defense position, team captain. Six-foot-two of hockey player in a beat-up Canucks hoodie that's seen better days.
 
-Tonight feels different.
+"Hey," he says, leaning against the lockers. "Sophia, right?"
 
-I arrive exactly on time instead of early. Usually, Ethan and I are the first ones there, claiming the good spots on Jordan's massive sectional, setting up our books. We have a system: I help him with physics, he helps me with calc (even though I'm good at it, he's better), we both pretend we're studying while mostly just talking.
+"Yeah." I fumble with my physics textbook. "Tyler?"
 
-But tonight, when I come downstairs, Ethan's already there. So is Alex Wei and Marcus Johnson, two of Ethan's teammates who sometimes join us. They're arguing about a play from last night's game, some defensive formation that Marcus thinks would have prevented a goal.
+"That's me." He's got this easy smile, the kind that probably makes half the school swoon. "So, random question. You're in Nakamura's study group, yeah?"
 
-"Soph," Jordan says, looking up from where he's setting out pizza boxes. "Hey. You want pepperoni or veggie?"
+"Usually, yeah."
 
-"Veggie's good."
+"Cool. I've been struggling with calc—related rates are literally killing me. Ethan mentioned you're basically a math genius."
 
-I take a seat at Jordan's desk instead of the couch, pulling out my physics textbook. Maya arrives a minute later, raising her eyebrows at my seating choice but not commenting.
+I freeze. "Ethan said that?"
 
-Then Ethan's phone rings.
+"Among other things." Tyler's still smiling, but there's something knowing in his expression. "Anyway, I was wondering if I could crash study group tonight? If that's cool with you guys?"
 
-"Yeah?" He answers, then grins. "Yo, Tyler. No, we're at Jordan's. Study group." A pause. "Dude, you literally have the same calc test. Get over here." Another pause, and he glances at me—just a flicker. "Yeah. See you in ten."
+"It's Jordan's house. You'd have to ask him."
 
-He hangs up. "Tyler Kim's coming. That cool?"
+"Already did. He said it's fine. I'm asking if it's cool with you."
 
-Jordan shrugs. "The more the merrier. Though we're going to run out of pizza."
+There's weight to the question I don't understand. "Sure. Why wouldn't it be?"
 
-I keep my eyes on my textbook. Tyler Kim is a senior, defense position, hockey team captain. I've seen him around—tall, Korean-Canadian, always wearing this beat-up Canucks hoodie. He's friends with Ethan, part of that hockey circle that seems to exist in its own ecosystem.
+"No reason." He pushes off the lockers. "See you tonight then. Thanks, Sophia."
 
-I've never really talked to him.
+He walks away, and I'm left standing there, confused. My phone buzzes.
 
-When he arrives ten minutes later, he's got the calc textbook under one arm and a bag of chips in the other. "Nakamura, your basement is still the best place in Winnipeg."
+**maya:** tyler kim is coming to study group???
+**maya:** hockey tyler not calc tyler
+**maya:** this is literally the most random thursday ever
 
-"It's the ping pong table," Jordan says. "Adds class."
+She's not wrong.
 
-"It's the fact that your parents pretend we don't exist and let us work in peace," Alex corrects.
+## Thursday Evening
 
-Tyler laughs, then notices the group. His eyes land on me for a second before Ethan stands up.
+Study group at Jordan's is usually my favorite part of the week. His basement is perfect—huge sectional couch, good lighting, his mom leaves snacks, and his dad pretends we don't exist. It's been our Thursday thing since October.
 
-"Ty, this is Sophia Chen, Maya Foster, and you know everyone else."
+Tonight, I arrive exactly on time instead of early. The basement already has voices—Ethan's laugh at something Jordan said, the sound making my chest tight.
 
-"Hey," Tyler says. He's got an easy smile, the kind that makes you want to smile back. "You're the badminton player, right? Ethan mentioned you're going to nationals."
+"Finally," Jordan says when he sees me. "We're ordering pizza. Preferences?"
 
-"Hopefully," I say. "If I don't choke at regionals."
+"Whatever's fine."
 
-"She's not going to choke," Maya adds. "She's just annoyingly humble about being incredible."
+I set up at Jordan's desk instead of the couch. Maya arrives a minute later, followed by Alex and Marcus from the hockey team. Then Tyler Kim shows up with his calc textbook and a family-size bag of Doritos.
 
-"Sounds familiar." Tyler elbows Ethan, who rolls his eyes.
+"Contribution to the cause," he announces, tossing the bag on the coffee table.
 
-We settle into studying, the group fragmenting into smaller conversations. Alex and Marcus are working on English, analyzing some Hemingway story they clearly didn't read. Maya and Jordan are doing History together—or rather, Jordan's explaining the fall of Rome while Maya doodles in her notebook.
+We settle into studying. I'm actually making progress on my physics homework when Tyler groans dramatically from the couch.
 
-That leaves me at the desk, Ethan on one side of the couch, and Tyler sprawled on the other end.
+"I actually hate related rates. Like, with passion."
 
-"Okay," Tyler says after twenty minutes of silent calc work. "I officially hate related rates."
+"They're not that bad," Ethan says.
 
-"Welcome to calculus," Ethan mutters.
+"Says the guy who got a 98 on the last test."
 
-"No, related rates are cool," I say without thinking. "They're just—you have to visualize what's actually happening."
+"97," Ethan corrects.
 
-Tyler looks up. "I'm visualizing hating math."
+"Oh, excuse me. 97. Totally different."
 
-Despite everything, I almost laugh. "Here." I get up, bringing my notebook over, and sit on the floor in front of the coffee table. "Show me the problem."
+I find myself almost smiling. Tyler's funny in this self-deprecating way that feels genuine.
 
-Tyler slides down next to me, pointing to his textbook. "This one. Something about a ladder sliding down a wall."
+"The ladder one's killing me," Tyler continues. "Why is the ladder sliding? Who's measuring this? Is this someone's job?"
 
-"Okay. So picture it. There's a ladder, right? Twenty feet long." I draw a quick diagram. "It's leaning against a wall, but the bottom is sliding away. They want to know how fast the top is sliding down when the bottom is fifteen feet from the wall."
+"It's just an example," I say without thinking.
 
-"Which makes no sense because who's measuring that?"
+Tyler looks over. "Okay, but like, can you explain it? Because I've been staring at it for twenty minutes and my brain's melting."
 
-"Weird math people?"
+I hesitate. Going over means sitting near the couch. Near Ethan.
 
-"Fair." Tyler grins, and I realize he's got dimples. "Okay, so. Ladder. Wall. Pythagorean theorem?"
+"Please?" Tyler adds. "I'll owe you forever. I'll name my firstborn after you."
 
-"Exactly. Because you've got a right triangle. The ladder's the hypotenuse, the wall and ground are the legs."
+"That's a weird offer."
 
-We work through the problem together, Tyler asking good questions, actually getting it by the end. When he finally writes down the answer, he looks genuinely excited.
+"I'm desperate."
 
-"That's actually cool."
+Maya kicks my chair. "Just help him, Soph."
 
-"Related rates are cool," I repeat.
+I grab my notebook and move to the floor by the coffee table. Tyler slides down next to me, his textbook between us. He smells like hockey gear and whatever body spray teenage boys think is subtle but isn't.
 
-"You sound like Ethan. He gets all enthusiastic about math too."
+"Okay, so picture this ladder thing," I start. "It's like, twenty feet long or whatever."
 
-I glance over at the couch, where Ethan's watching us. When our eyes meet, he looks away quickly, back to his own homework.
+"Already lost."
 
-My chest tightens.
+"No, wait. Imagine it's leaning against a wall, but the bottom starts sliding away. They want to know how fast the top is falling when the bottom is fifteen feet from the wall."
 
-"Hey," Tyler says, quieter. "Thanks. I've been stuck on this for like an hour."
+"Still confused but keep going."
 
-"No problem. Math's easier when you can see it."
+I draw a diagram, explaining Pythagorean theorem, derivatives, the relationship between the rates. Tyler asks questions—good ones, actually. He's not dumb, just needed someone to walk through it.
 
-We keep working, Tyler asking me about a few more problems, me explaining limits and derivatives. He's quick, just needed someone to talk it through with. And it's... nice. Easy. No weight behind it, no history, no impossible equations.
+"Oh shit," he says suddenly. "That actually makes sense."
 
-When study group breaks up around nine, Tyler walks out at the same time as me.
+"Right?"
 
-"You heading home?" he asks.
+"You're literally a lifesaver." He grins, and I notice he has really nice dimples. "Ethan was right—you are a math genius."
 
-"Yeah. My car's parked down the street."
+I glance at the couch where Ethan's watching us, expression unreadable. Our eyes meet for a second before I look away.
 
-"I'll walk you."
+"Just good at explaining, I guess."
 
-It's only two houses down, but the temperature has dropped into the negative numbers, that sharp Winnipeg cold that makes your face hurt. The sky is clear, stars brilliant, the kind of night where sound carries differently.
+We work through a few more problems. Tyler's funny, making jokes about the word problems ("Why are there so many people filling pools at different rates? Is this a thing?"), and I'm actually enjoying myself.
 
-"So," Tyler says as we reach my car. "This is random, but there's this winter formal thing. December sixteenth. You probably know about it already."
+When study group breaks up around nine, Tyler walks out with me.
 
-I did know. Maya's been talking about it for weeks, trying to decide if she wants to ask Jordan or wait for him to ask her—a complex negotiation I've been trying to stay out of.
+"Thanks again," he says as we reach my car. "Seriously, you saved my calc grade."
 
-"It's not really my thing," I say carefully.
+"No problem."
 
-"Yeah, I get that. It's kind of cheesy. But it's also fun, and the hockey team usually goes as a group, and I thought..." He pauses, and even in the dim streetlight, I can see he's a little nervous. "Would you want to go? With me?"
+"Hey, so..." He shifts, suddenly less confident. "This is kinda random, but winter formal's coming up. December sixteenth."
 
-I stare at him.
+My brain short-circuits. "Oh."
+
+"Would you maybe want to go? With me?" He rushes to add, "Like, no pressure. We could just go as friends, have fun. The team usually goes as a group anyway."
 
 Tyler Kim is asking me to winter formal.
 
-Tyler Kim, who's a senior, who's sweet and funny, who's going to UBC next year on a hockey scholarship. Tyler Kim, who has absolutely nothing to do with the mess that is my history with Ethan.
+Tyler Kim, who's sweet and funny and uncomplicated. Tyler Kim, who has nothing to do with impossible equations and family ultimatums and hearts that beat out of rhythm.
 
 Tyler Kim, who is safe.
 
-"You don't have to decide now," he adds quickly. "I know it's kind of far away still. But I wanted to ask before, you know, someone else did."
-
-Someone else. Like Ethan, who definitely won't ask me now, who's leaving for Michigan in three weeks anyway, whose parents have made it clear I'm a problem they intend to solve.
-
 "Can I think about it?" I hear myself say.
 
-"Yeah, totally. No pressure." Tyler smiles, easy and warm. "Hey, if you ever need calc help again, or want to explain more cool math things, I'm around."
+"Yeah, totally. No rush." He smiles, easy and warm. "Text me whenever. Or tell me at school. Or send a carrier pigeon. I'm flexible."
 
-"Thanks, Tyler."
+I laugh despite everything. "I'll let you know."
 
-"Night, Sophia."
+"Cool. Night, Sophia."
 
-He walks back toward Jordan's house, probably to catch a ride with Ethan. I get in my car, turn on the heat, and sit there for a moment while the engine warms up.
+"Night."
 
-My phone buzzes.
+I sit in my car for a minute, heating up, when my phone buzzes.
 
-**ETHAN:** You okay?
+**ethan:** u ok?
 
-I look back at Jordan's house. Through the basement window, I can see figures moving—probably everyone still leaving. Ethan texted from inside while Tyler was asking me to a dance.
+I look back at Jordan's house. Through the basement window, I can see figures still moving around.
 
-**ME:** Yeah. Just cold.
+**me:** yeah why?
 
-**ETHAN:** Want to talk?
+**ethan:** tyler asked u to formal
 
-I type and delete three different responses. Finally: **It's late. Tomorrow?**
+Not a question. A statement.
 
-The dots appear, disappear, appear again.
+**me:** yeah
 
-**ETHAN:** Sure.
+The dots appear and disappear for a solid minute.
 
-I drive home through empty streets, past houses with Christmas lights starting to appear, past the dark sprawl of The Forks where we used to meet as kids. Past everything that used to be ours.
+**ethan:** cool. hes a good guy
 
-Tomorrow I'll tell Maya that Tyler Kim asked me to winter formal.
+**me:** yeah he seems nice
 
-I won't tell her that I'm already planning to say yes.
+More dots. Then nothing. Then:
 
-Or that the whole drive home, I'm trying not to cry.
+**ethan:** miss talking to u
 
----
+My heart cracks. I type and delete five responses before settling on:
+
+**me:** i know. im sorry
+
+**ethan:** dont be sorry. just talk to me
+
+**ethan:** whatever it is we can figure it out
+
+**ethan:** sophie please
+
+I turn off my phone and drive home, tears blurring the streetlights into stars.
 
 ## Friday After School
 
-I find Tyler at his locker after last period. The hallway is chaos—everyone excited about the weekend, about the hockey game tonight, about Friday freedom. He's shoving textbooks into his backpack when I walk up.
+I find Tyler at his locker after last period. The hallway's chaos—everyone excited about the weekend, about the game tonight, about Friday freedom.
 
 "Hey," I say.
 
-He turns, sees me, and his smile is immediate. "Hey. What's up?"
+He turns, face lighting up. "Sophia! What's up?"
 
 "About winter formal."
 
-"Oh. Right." He looks suddenly nervous again, which is kind of endearing on someone who's six-foot-two and built like a hockey player. "What are you thinking?"
+"Oh." He actually looks nervous, which is weirdly endearing on someone built like a truck. "What're you thinking?"
 
-"I'm thinking yes. If the offer's still open."
+"I'm thinking yes. If that's still—if you still want to."
 
-His whole face lights up. "Yeah? That's—yeah. Definitely still open. That's great."
+His whole face transforms. "Yeah? Really? That's—yeah, absolutely."
 
-"Just to be clear," I add, because I need to be fair, "I'm not really looking for anything serious right now. With college apps and badminton and everything."
+"But just, um, to be clear—I'm not really looking for anything serious right now. With college apps and badminton and everything."
 
-"No, totally. I get it. We can just go as friends, have fun. No pressure."
+"Totally get it. No pressure. We'll just have fun."
 
-Friends. That should feel like a relief.
+We figure out he'll text me about details, colors, all that stuff I've seen in movies but never actually done. When I turn to leave, he calls after me.
 
-So why does it feel like I'm lying?
+"Hey, you coming to the game tonight?"
 
-"Cool," I say. "Then yeah. I'd like to go."
+"I don't usually—"
 
-"Awesome. I'll text you about details and stuff. Color coordination, I guess? I have no idea how this works."
-
-"Neither do I."
-
-We both laugh, and it's genuinely nice. Easy. Tyler's easy in a way that feels like breathing.
-
-"You coming to the game tonight?" he asks.
-
-"I don't usually."
-
-"You should. We're playing Central. It's going to be intense." He grins. "Plus, now you have to support your formal date, right?"
+"You should. We're playing Oak Park. It'll be good." He grins. "Plus, now you're contractually obligated to support your formal date."
 
 "Is that how it works?"
 
-"I'm pretty sure that's in the rules somewhere."
+"Definitely. Page 47 of the formal date handbook."
 
-I find myself smiling despite everything. "Okay. Maybe I'll come."
+I find myself actually smiling. "Maybe I'll come."
 
-"Bring your friend Maya. She's cool."
+"Bring Maya. Jordan's playing tonight too."
 
-"I'll ask her."
+As I walk away, my phone explodes.
 
-We say goodbye, and I head to my own locker, feeling... something. Not quite relief, not quite happiness. More like I've made a choice and now I have to live with it.
+**maya:** TYLER KIM ASKED U TO FORMAL?????
+**maya:** THE HOCKEY CAPTAIN TYLER?????
+**maya:** SENIOR TYLER????
+**maya:** SOPHIA CHEN WHAT IS HAPPENING
 
-My phone buzzes the second I open my locker.
+**me:** its not a big deal
 
-**MAYA:** TYLER KIM ASKED YOU TO FORMAL?!?!
+**maya:** ITS LITERALLY THE BIGGEST DEAL
+**maya:** jordan heard from alex who heard from marcus
+**maya:** the hockey gossip network is FAST
 
-I look around. Maya's standing at the end of the hallway, phone in hand, eyes wide.
+**me:** its just a dance
 
-I text back: **How did you hear that?**
+**maya:** WITH THE HOCKEY CAPTAIN
+**maya:** wait are u ok with this?
+**maya:** like actually ok?
 
-**MAYA:** Jordan heard from Alex who heard from Tyler who's apparently VERY EXCITED
+**me:** yeah i think itll be fun
 
-**ME:** It's not a big deal
+What I don't type: I'm using Tyler Kim as armor against feelings I can't afford. I'm the worst person alive.
 
-**MAYA:** You're going to winter formal with a SENIOR HOCKEY CAPTAIN
+**maya:** WE NEED DRESSES
+**maya:** OMG WE NEED TO GO SHOPPING
+**maya:** TOMORROW
 
-**MAYA:** It's at least a medium-sized deal
+**me:** ok ok calm down
 
-**MAYA:** Wait are you okay with this?
+**maya:** NEVER
+**maya:** also ur coming to the game tonight
+**maya:** not optional
+**maya:** tyler will be looking for u
 
-I type: **Yeah. I think it'll be fun.**
+She's not wrong.
 
-What I don't type: I'm using Tyler Kim as a human shield between me and Ethan Price, and I'm a terrible person for it.
+## Friday Night
 
-**MAYA:** Okay but we need to dress shop ASAP
+The arena is packed, that intense hockey crowd energy that makes you understand why people get so invested in sports. Maya and I find seats five rows up, close enough to see everything.
 
-**MAYA:** Also you're coming to the game tonight
+"Forgot how loud hockey crowds are," Maya says, already destroying popcorn.
 
-**ME:** Tyler mentioned that
+The teams come out for warmups. Ethan's number 19, skating with that effortless grace that made him impossible to catch even when we were nine. He looks like he belongs here, like the ice is where he makes sense.
 
-**MAYA:** Ooh TYLER now is it?
+Tyler's number 7, bigger than Ethan but surprisingly fast. He waves when he spots us—just a quick stick raise that makes the girls in front of us turn around.
 
-**ME:** Stop
+"Did Tyler Kim just wave at you?" one asks.
 
-**MAYA:** Never
+"They're going to formal together," Maya announces, because subtlety isn't her thing.
 
-**MAYA:** This is the most exciting thing to happen since Jordan accidentally dyed his hair green
+Instant chatter. Apparently Tyler's been single all semester. I learn his ex goes to McGill now, that he's already got a full ride to UBC, that half the team has been trying to set him up.
 
-I'm laughing when I close my locker and nearly run directly into Ethan.
+The game starts, and I remember why I don't usually come to these. Hockey's so fast, so violent. Every time someone crashes into the boards, I flinch.
 
-"Sorry," he says, stepping back.
+But watching Ethan play... it's like watching him become who he's supposed to be. He doesn't just play hockey—he conducts it, seeing plays before they happen, being exactly where he needs to be.
 
-"No, my fault." I clutch my phone, suddenly aware that I'm standing here texting about Tyler asking me to a dance while talking to the person I actually want to be talking to.
+Oak Park scores first. Our section groans. Then Tyler makes this incredible defensive play, using his whole body to block what would definitely have been a goal.
 
-"You heading out?" he asks.
+"Jesus," Maya mutters. "Remind me not to piss him off."
 
-"Yeah. You?"
+Ethan's line scores to tie it up. The crowd goes insane. He set up the play—this perfect pass that nobody saw coming except him.
 
-"Practice in an hour. Game at seven."
+Between periods, I check my phone. Three messages from Jordan about how we're definitely going to win, one from my mom asking when I'll be home, and:
 
-"Right. Tyler mentioned."
+**ethan:** u came
 
-Something flickers across Ethan's face. "He told you?"
+**me:** maya dragged me
 
-"He invited me, actually."
+**ethan:** still. thanks
 
-"Oh. That's—cool. You should come."
+I don't know what to say to that, so I don't respond.
 
-We stand there in the emptying hallway, and I'm suddenly desperate to say something real. To tell him I'm sorry for the distance this week, that I'm trying to do the right thing even though it feels completely wrong, that I miss our conversations and the way he explains things and the nickname Watson and everything.
+Third period, we're up 3-2 with two minutes left. Oak Park pulls their goalie, desperate for the tie. Six on five. The tension's unbearable.
 
-But I don't say any of that.
+Ethan steals the puck. Empty net. He could shoot from anywhere, secure the win. Instead, he passes to Tyler, who's in better position. Tyler scores.
 
-Instead: "Good luck tonight."
+The arena explodes. Maya's hugging me even though neither of us really cares about hockey. Tyler's getting mobbed by the team, but I see him point at Ethan—making sure everyone knows who set it up.
 
-"Thanks." He adjusts his backpack. "Hey, Soph?"
+After the game, we wait outside the locker room with other friends and family. Tyler comes out first, hair still wet, looking tired but happy.
 
-My heart does something complicated. "Yeah?"
+"You came!" He seems genuinely surprised.
 
-"Are we okay? Because you've been kind of distant this week, and I don't—I don't know if I did something wrong."
+"Good game. That empty-netter was perfect."
 
-Yes, I should say. We're fine. I'm just busy.
+"That was all Ethan. Perfect pass." He shifts his bag. "Hey, bunch of us are hitting Danny's. You guys want to come?"
 
-But I've never been good at lying to Ethan.
+Maya immediately says yes. I'm about to make an excuse when Ethan emerges from the locker room.
 
-"You didn't do anything wrong," I say quietly. "I'm just... trying to figure some things out."
+Our eyes meet across the crowded hallway. He's still in his underarmor shirt, hair damp, and for a second I forget how to breathe. Then Tyler's saying something about pancakes and the moment breaks.
 
-"Anything I can help with?"
+At Danny's, I end up in a booth with Tyler on one side, Maya and Jordan across from us. Ethan's two tables over with some other guys from the team, but I can feel him there, like gravity.
 
-Everything. Nothing.
+"So," Tyler says, stealing one of my fries even though he ordered his own. "Formal. I need education. What color dress?"
 
-"I don't think so. But thank you."
+"I don't know yet."
 
-He nods slowly, and I can see him trying to decide whether to push or let it go. Finally: "Okay. But if you want to talk, I'm here. You know that, right?"
+"Don't guys usually wait to hear so they can match?" Jordan asks.
 
-"I know."
+"Do we match? Is that required?" Tyler looks genuinely concerned.
 
-We say goodbye, and I walk out to the parking lot, where Maya's already waiting by my car.
+"We don't have to match," I assure him.
 
-"So," she says as I unlock the doors. "We're going shopping for formal dresses, and then we're going to a hockey game. This is officially the most social you've been all semester."
+"But we can if you want. I clean up pretty good."
 
-"It's one dress and one game."
+Maya kicks me under the table, giving me a look that says *he's trying so hard*. And he is. Tyler's sweet and funny and uncomplicated, and I should be happy that this nice, attractive senior wants to take me to a dance.
 
-"For you, that's huge." She slides into the passenger seat. "Also, are you going to tell me what's actually going on with you and Ethan?"
+Instead, I'm hyperaware that Ethan's three tables away, laughing at something Marcus said, and I know that laugh, know the way his eyes crinkle, know exactly how his shoulders move when he's really amused.
 
-"Nothing's going on."
+"Earth to Sophia," Tyler says gently.
 
-"Sophia. I've seen nothing. This is something pretending to be nothing."
+"Sorry, what?"
 
-I start the car, pulling out of the parking lot. "His parents want him focused on hockey. I'm respecting that."
+"I asked if you have a curfew. Don't want to get you in trouble."
 
-"By dating his teammate?"
+"Oh. Midnight."
 
-"I'm not dating Tyler. I'm going to one dance."
+"Cool. I'll make sure you turn into a pumpkin on time."
 
-"Uh-huh." Maya's quiet for a moment. "You know you're allowed to want things, right? You don't always have to be noble and self-sacrificing."
+He's trying so hard to make me comfortable, to be easy and fun and pressure-free. He deserves better than being someone's safety choice.
 
-"I'm not being noble."
+When we leave, he walks me to my car again.
 
-"You're being something. I just can't figure out what."
-
-I drive toward the mall, where we're apparently going dress shopping for a dance I don't want to go to with a guy who deserves better than being a placeholder for someone else.
-
-My phone buzzes at a red light.
-
-**ETHAN:** See you tonight?
-
-I stare at the message while Maya talks about dress styles and colors. Three weeks, I remind myself. Three weeks and he's gone anyway. This way is easier.
-
-**ME:** Yeah. See you tonight.
-
-The light turns green, and I drive forward, ignoring the feeling that I'm moving in exactly the wrong direction.
-
----
-
-## Friday Night Game
-
-Beavers Arena is loud even before the game starts—that particular hockey crowd noise, all excitement and cold air and the smell of popcorn mixed with ice. Maya and I find seats five rows up from the glass, close enough to see everything, far enough to not be in the splash zone when players hit the boards.
-
-"I forgot how intense hockey crowds are," Maya says, already eating popcorn even though we just had dinner. "Everyone's so invested."
-
-"It's kind of terrifying."
-
-"Says the girl who plays a sport where you hit things with rackets at ninety miles per hour."
-
-"That's different. Badminton crowds are quiet. Respectful."
-
-"Boring, you mean."
-
-"Focused."
-
-The teams come out for warm-ups, and I spot Ethan immediately—number 19, navy and gold jersey, skating with that easy confidence that makes it look effortless. He's always been good on ice, even as a kid. But now, watching him warm up with his team, practicing shots and passing drills, he looks like he belongs here in a way that's almost scary.
-
-Three weeks, and he'll be at a prep school where NHL scouts watch every practice.
-
-This is his future. Not study groups and math help and late-night texts with a girl who plays badminton.
-
-"There's Tyler," Maya points out. Number 7, defense position, bigger than Ethan but moving with surprising speed for his size. He waves when he sees us, a quick stick raise that makes some of the other hockey girlfriends in our section look over curiously.
-
-"Oh my god," one of them says—a blonde girl I recognize from AP Lit. "Did Tyler Kim just wave at you guys?"
-
-"He invited Sophia to winter formal," Maya announces, because subtlety is not her strong suit.
-
-The girls immediately start talking—apparently Tyler's been single all semester and there was speculation about whether he'd ask someone or go with the team. I'm getting details about his last girlfriend (graduated last year, goes to McGill now, they broke up because of distance) when the game starts and everyone's attention shifts.
-
-Hockey is fast. That's the first thing you notice if you're not used to it—how quickly everything happens, how the puck moves, how players go from one end to the other in seconds. The crowd is deafening, everyone on their feet when either team gets close to scoring.
-
-Central's good. They score first, eight minutes into the first period, and our section groans in unison.
-
-"Come on, Beavers!" someone shouts behind us.
-
-Ethan's line is on ice when we tie it up, and even though he doesn't score, I watch him set up the play—a quick pass to Alex that catches Central's defense off guard. The student section goes wild.
-
-"He's really good," Maya observes.
-
-"Yeah."
-
-"Like really good. Is he getting recruited?"
-
-"I think so. A few schools."
-
-"And his parents want him at prep school?"
-
-"Better exposure."
-
-Maya makes a face. "That sounds like a lot of pressure."
-
-I don't answer because the second period is starting and Tyler's line is on ice. He plays defense the way you'd expect from someone his size—a wall that people can't get through. When a Central forward tries to blow past him, Tyler knocks him into the boards so hard I wince.
-
-"Wow," Maya says. "Remind me not to make him mad."
-
-But Tyler's not playing angry. He's playing controlled, smart, reading the ice and positioning himself where he needs to be. When he blocks a shot that was definitely going in, using his body as a shield, the crowd erupts.
-
-Between the second and third periods, I check my phone.
-
-**JORDAN:** You're at the game???
-
-**ME:** Maya dragged me
-
-**JORDAN:** Sure she did
-
-**JORDAN:** Tyler's playing great btw
-
-**JORDAN:** Ethan's been looking at the stands a lot though
-
-**JORDAN:** Just saying
-
-I don't respond to that. I put my phone away and focus on the ice.
-
-The third period is tied 2-2, both teams exhausted, playing desperate. With three minutes left, Central scores on a power play, and our section deflates.
-
-"Come on," Maya mutters. "There's still time."
-
-Two minutes left. Ethan's line takes the ice, and I can see the tension in the way he skates—aggressive, hungry. Central's playing defensive, trying to run out the clock.
-
-One minute.
-
-Ethan gets the puck, passes to Marcus, who passes it back. He's racing down ice, Central's defense converging. Thirty seconds. He should pass, should set up a play, but instead he sees an opening and takes it—a shot from an angle that shouldn't work but somehow does, the puck sailing past Central's goalie into the net.
-
-The arena explodes.
-
-I'm on my feet with everyone else, screaming, watching Ethan get mobbed by his team. The crowd is chanting and the buzzer sounds and it's going to overtime.
-
-"Oh my god," Maya yells over the noise. "Did you see that?"
-
-I saw it. I'm still seeing it—Ethan pumping his fist, his teammates piling on him, the pure joy on his face. This is what he's meant to do. This is his path.
-
-And I'm a detour he can't afford.
-
-Overtime is five minutes of sudden death—first goal wins. The crowd is on its feet the entire time, the tension unbearable. Both teams are skating hard, both goalies playing out of their minds.
-
-Three minutes in, Tyler steals the puck from a Central forward, passes it up to Alex, who passes it to Ethan. He's skating so fast it looks like flying, and when he takes the shot—
-
-Goal.
-
-Game over.
-
-Beavers win 4-3.
-
-The arena is chaos. The team is piling on Ethan again, the crowd is going insane, and Maya is hugging me even though we barely care about hockey.
-
-"That was incredible!" she shouts.
-
-It was. It really, really was.
-
----
-
-## After
-
-We wait outside the locker room with a bunch of other people—girlfriends, friends, parents waiting to congratulate their kids. The team comes out gradually, still high on the win, everyone talking over each other.
-
-Tyler emerges fifteen minutes in, hair still wet from the shower, looking tired and happy.
-
-"You came," he says when he sees me.
-
-"Good game. That block in the second period was amazing."
-
-"Thanks." He grins. "Did you see Price's overtime goal? Kid's insane."
-
-"It was pretty great."
-
-"Pretty great? He's going to be watching that replay for a week." Tyler shifts his hockey bag. "Hey, you guys want to grab food? A bunch of us are going to Danny's."
-
-Danny's is a diner near school that's open late, where hockey players apparently go after games to eat their weight in pancakes.
-
-"I'm in," Maya says immediately.
-
-I hesitate. "I don't want to intrude on team stuff."
-
-"You're not intruding. I'm inviting you." Tyler's smile is genuine. "Come on. You can explain more related rates problems while I eat."
-
-"That's your idea of fun?"
-
-"Don't judge my hobbies."
-
-I laugh despite myself. "Okay. Sure."
-
-We head to Danny's in separate cars, Maya in mine, already texting Jordan to meet us there.
-
-"Tyler's nice," she observes as we drive.
-
-"Yeah."
-
-"And cute."
-
-"I guess."
-
-"You guess? Sophia, the boy is objectively attractive."
-
-"Sure. Objectively."
-
-Maya looks at me sideways. "You know what I think?"
-
-"I'm sure you're going to tell me."
-
-"I think you're going to winter formal with a nice, cute, objectively attractive guy who clearly likes you. And I think you're going to have a good time. And I think maybe that's exactly what you need right now."
-
-Maybe she's right. Maybe Tyler is what I need—something simple and easy and uncomplicated. Something that doesn't come with impossible equations and prep school deadlines and parents who view me as an obstacle.
-
-Maybe this is the right choice.
-
-So why does it feel like I'm solving for the wrong variable?
-
-Danny's is packed when we arrive—hockey team taking up four booths, everyone still celebrating. Tyler waves us over to where he's saved seats, and I slide in next to him while Maya sits across with Jordan, who arrived five minutes before us.
-
-"Chen!" Marcus calls from the next booth. "Incredible game, right?"
-
-"It was amazing," I agree.
-
-Ethan's at the far end of our booth section, surrounded by teammates congratulating him on the overtime goal. He's smiling, accepting fist bumps and shoulder shoves, but when his eyes find mine across the crowd, his smile falters for just a second.
-
-I look away first. Again.
-
-The waitress takes our order—Tyler gets a burger and fries, I get soup because it's freezing and I'm not actually that hungry. The table is loud, everyone recapping plays and analyzing what went right.
-
-"That pass you made in the second," Alex tells Tyler, "that was perfect positioning."
-
-"Price is the one who made something of it."
-
-"Team effort," someone else adds.
-
-Tyler turns to me. "So, winter formal. I have no idea what I'm doing. Do I need to get you flowers or something?"
-
-"I don't know. I've never done this before."
-
-"Same. We can figure it out together."
-
-Jordan's watching us from across the table, his expression unreadable. Maya kicks him under the table—I see her do it—and he blinks and looks away.
-
-The food arrives, and Tyler immediately steals one of my fries even though he has his own.
-
-"Hey!"
-
-"Sharing is caring." He grins. "Plus, you got soup. That's not real food after a hockey game."
-
-"Some of us don't burn three thousand calories a night."
-
-"You play badminton. That's basically constant cardio."
-
-"It's really not the same."
-
-We're debating the relative athletic merits of different sports when someone slides into the booth next to me—the seat I didn't realize was empty.
-
-Ethan.
-
-"Move over," he tells Tyler. "I'm not sitting in the other booth listening to Marcus talk about his dating life."
-
-Tyler laughs and shifts, which means I'm now sitting between them—Tyler on one side, Ethan on the other, both of them close enough that I'm hyperaware of the space.
-
-"Great game, man," Tyler says.
-
-"Thanks. You played solid defense."
-
-"Just doing my job."
-
-They start talking hockey strategy—something about neutral zone positioning and offensive pressure. I focus on my soup, trying to ignore the fact that I can feel the warmth from both of them, that I'm acutely aware of every time Ethan shifts or Tyler gestures.
-
-"Soph," Ethan says suddenly. "You good?"
-
-I look up. "Yeah. Why?"
-
-"You've been stirring that soup for like five minutes without eating any."
-
-He's right. I put my spoon down. "Just thinking."
-
-"About?"
-
-Everything. Nothing. How three weeks ago this was simple and now it's the most complicated thing in my life.
-
-"Physics," I lie. "I'm stuck on a problem."
-
-"Which one?"
-
-Don't do this. Don't engage. Don't fall back into the easy pattern of us talking about homework and math and everything.
-
-"It's fine. I'll figure it out."
-
-Ethan's quiet for a moment, then: "You know you can still ask me for help, right? Just because you're going to formal with Tyler doesn't mean we can't—"
-
-"I know," I interrupt. "I know. Thanks."
-
-The conversation moves on, but I feel Ethan watching me for the rest of the meal. Tyler's telling a story about some prank the team played on their coach, and everyone's laughing, but I'm only half listening.
-
-When we leave, Tyler walks me to my car again.
-
-"Thanks for coming tonight," he says. "It was fun having you there."
+"Thanks for coming tonight. To the game, I mean. It was cool having you there."
 
 "Thanks for inviting me."
 
-"So, formal. I'll text you next week? We can figure out details."
+"So I'll text you about formal stuff? We can figure out the logistics."
 
 "Sounds good."
 
-He hesitates, then: "Hey, can I ask you something?"
+He hesitates, then: "Sophia, can I ask you something?"
 
 My stomach drops. "Sure."
 
-"Is there... I don't want to assume anything, but is there something between you and Price? Because if there is, that's cool, I just—I don't want to step on anyone's toes."
+"Is there—I mean, you and Ethan. You guys are friends, right?"
 
-I should tell him the truth. That yes, there's something between me and Ethan—something unfinished and complicated and probably impossible. That I'm saying yes to formal because I'm trying to walk away from that something before it destroys both of us.
+The word tastes like a lie. "Yeah. We're friends."
 
-But Tyler's nice. Tyler's safe. Tyler is asking me to a dance, not asking me to upend my entire life.
+Tyler nods slowly. "Cool. Just checking. I don't want to cause any drama or whatever."
 
-"We're friends," I say. "Just friends."
+"No drama. Promise."
 
-Tyler studies me for a second, and I have the uncomfortable feeling that he doesn't quite believe me. But he nods anyway. "Okay. Cool. Well, I'll see you Monday."
+Another lie. Everything about this is drama, just the quiet kind that happens in your chest where nobody can see it.
+
+"Okay. Well, see you Monday."
 
 "See you Monday."
 
-I drive Maya home first, then head to my own house. It's almost midnight, the streets empty, the temperature dropping into the negative twenties. My phone buzzes at a stoplight.
+I drive home through empty streets, past houses starting to put up Christmas lights, past The Forks where everything started, past the life I thought I was going to have.
 
-**ETHAN:** You left without saying goodbye
+My phone buzzes at a red light.
 
-I stare at the text. The light turns green. Someone honks behind me.
+**ethan:** we need to talk
 
-**ME:** Sorry. Didn't want to interrupt your celebration
+**me:** i know
 
-**ETHAN:** You wouldn't have been interrupting
+**ethan:** tomorrow?
 
-**ETHAN:** Can we talk? Actually talk?
+**me:** cant tomorrow. shopping with maya
 
-**ME:** About what?
+**ethan:** sunday then
 
-**ETHAN:** Whatever's going on. Because something's going on, Sophie. And I don't understand what it is.
+**ethan:** please sophie
 
-The light ahead turns red. I sit there in my car, in the freezing Winnipeg night, trying to figure out what to say.
+That 'please' breaks something in me.
 
-Finally: **Not tonight. I'm tired. Tomorrow?**
+**me:** ok. sunday
 
-The response is immediate: **Tomorrow. Promise?**
+**ethan:** the forks? 2pm?
 
-**ME:** Promise.
+Our place. Where we found each other again, where everything got complicated, where I'm going to have to tell him I can't do this.
 
-I put my phone down and drive the rest of the way home, that word echoing: promise, promise, promise.
+**me:** ok
 
-I'm making a lot of promises I'm not sure I can keep.
+**ethan:** thank u
 
-When I get home, I go straight to my room and open my physics notebook, finding the equation I started days ago.
+I drive the rest of the way home in silence, no music, no podcast, just the sound of my tires on frozen pavement and my heart beating out of rhythm.
 
-**E + S = ?**
+Sunday. I have two days to figure out how to explain that I'm walking away because I love him too much to ruin his life.
 
-I pick up my pen and write the answer I've been avoiding:
+Two days to solve an impossible equation.
 
-**E + S = impossible**
+Two days to learn how to lie to the person who knows me better than anyone.
 
-Then I close the notebook and turn off my light.
-
-Tomorrow I'll talk to Ethan. I'll explain that I'm trying to do the right thing, that his future is more important than whatever this is between us, that three weeks isn't enough time to make this work anyway.
-
-Tomorrow I'll be strong.
-
-Tonight, I let myself cry into my pillow and wish that physics had equations for heartbreak.
+No pressure.

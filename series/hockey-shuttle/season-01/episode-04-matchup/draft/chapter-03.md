@@ -14,15 +14,15 @@ Because here's what I didn't write: I'm currently lying to a genuinely nice pers
 
 That's my actual ethical dilemma. But you can't write that in a college essay.
 
-My phone buzzes. Maya: *How's the essay going?*
+My phone buzzes. Maya: *how's the essay going?*
 
-**ME:** Terrible. I hate everything I've written.
+**ME:** terrible. i hate everything ive written
 
-**MAYA:** You literally had Mr. Peterson call your writing "remarkably insightful" last week
+**MAYA:** you literally had mr peterson call your writing "remarkably insightful" last week
 
-**ME:** That was for history class. This is different.
+**ME:** that was history class. this is different
 
-**MAYA:** It's all just writing. Stop overthinking it and submit the damn thing.
+**MAYA:** its all just writing. stop overthinking and submit the damn thing
 
 Easy for her to say. She already submitted all her applications two weeks ago—art schools that want portfolios and passion, not perfect essays about ethical dilemmas.
 
@@ -42,7 +42,7 @@ I close Instagram without liking it.
 
 "What about this one?"
 
-Maya holds up a dress in a deep emerald green, floor-length, with a slit up one side that seems structurally ambitious.
+Maya holds up a dress in deep emerald green, floor-length, with a slit up one side that seems structurally ambitious.
 
 "That's basically held together by hope and strategic tape," I say.
 
@@ -96,21 +96,21 @@ I don't have a good answer for that. Or I do, but it's too honest: because getti
 
 Maya doesn't look convinced, but she lets it go.
 
-My phone buzzes. Tyler: *Blue. Got it. Pick you up at 7 tomorrow?*
+My phone buzzes. Tyler: *blue. got it. pick you up at 7 tomorrow?*
 
-**ME:** Sounds good.
+**ME:** sounds good
 
-Then, before I can stop myself, I open Ethan's contact. Our last conversation was three days ago, his message I never responded to: *We need to talk. Please.*
+Then, before I can stop myself, I open Ethan's contact. Our last conversation was three days ago, his message I never responded to: *we need to talk. please.*
 
-My thumb hovers over the keyboard. I type: *Hey.*
-
-Delete it.
-
-Type: *Are you going to formal tomorrow?*
+My thumb hovers over the keyboard. I type: *hey*
 
 Delete it.
 
-Type: *I miss talking to you.*
+Type: *are you going to formal tomorrow?*
+
+Delete it.
+
+Type: *i miss talking to you*
 
 Delete it.
 
@@ -184,17 +184,19 @@ I spot Maya immediately—she's wearing a burgundy dress that's somehow elegant 
 
 "I know." She grins, then looks at Tyler. "Nice tie coordination."
 
-"Right? We didn't even plan it." Tyler's hand finds my lower back, a casual gesture that probably looks natural to everyone else but makes me hyperaware of where we're standing.
+"Right? We didn't even plan it." Tyler's hand finds my lower back, a casual gesture that probably looks natural to everyone else but makes me hyperaware of where we're standing, how close he is, how my body doesn't lean into his touch the way it should.
 
 The four of us talk for a while—Maya and Jordan are doing their usual dance of almost-flirting but not-quite-committing, Tyler's making jokes that actually land, and I'm trying to be present like Maya said. To enjoy this moment instead of overthinking it.
 
 Then I see him.
 
-Ethan, across the ballroom, in a black suit that fits perfectly and makes him look older somehow. He's with a girl—tall, blonde, wearing a red dress. I recognize her vaguely from AP Lit. Sarah something.
+Ethan, across the ballroom, in a black suit that fits perfectly and makes him look older somehow, more dangerous. He's with a girl—tall, blonde, wearing a red dress. I recognize her vaguely from AP Lit. Sarah something.
 
 They're not holding hands, but they're standing close enough that they came together.
 
 My stomach drops.
+
+The room suddenly feels too hot, too crowded, too much. I can't breathe properly and my heart is doing this stuttering thing that has nothing to do with Tyler's hand still resting on my lower back.
 
 "You okay?" Tyler asks quietly.
 
@@ -218,7 +220,7 @@ My heart rate picks up. "Sure."
 
 I want to lie. To tell him everything's fine, that I'm just stressed about school, that I'm having a great time.
 
-But Maya's voice is in my head: *Be honest.*
+But Maya's voice is in my head: *be honest.*
 
 "I'm sorry," I say quietly. "You're right. I've been distracted."
 
@@ -232,7 +234,7 @@ I look at him—at his genuine concern, his patient expression, the way he's try
 
 "There's someone else," I say, and the words feel like confession. "Not—I'm not seeing anyone else. But there's someone I have... history with. Feelings I'm trying to figure out."
 
-Tyler's quiet for a long moment. "Price?"
+Tyler's quiet for a long moment. "Hayes?"
 
 I blink. "How did you—"
 
@@ -268,7 +270,7 @@ Tyler's quiet again, and I brace myself for anger or hurt or disappointment. But
 
 "Sure."
 
-"Whatever's complicated between you and Price? It's only as complicated as you make it. Yeah, he's leaving. Yeah, his parents are controlling. But you're both smart enough to figure it out if you actually try." He pushes off the railing. "Don't waste time being noble when you could just be honest."
+"Whatever's complicated between you and Hayes? It's only as complicated as you make it. Yeah, he's leaving. Yeah, his parents are controlling. But you're both smart enough to figure it out if you actually try." He pushes off the railing. "Don't waste time being noble when you could just be honest."
 
 It's almost exactly what Maya said.
 
@@ -292,6 +294,8 @@ It shouldn't hurt. I'm the one who pushed him away. I'm the one who started dati
 
 But it hurts anyway.
 
+My body registers it like physical pain—chest tight, stomach knotted, fingers curling into fists at my sides. I can feel the exact distance between us across the dance floor. Thirty-seven feet. Might as well be miles.
+
 "You should talk to him," Tyler says quietly.
 
 "Now?"
@@ -304,13 +308,13 @@ He walks off, leaving me standing at the edge of the dance floor. The DJ's betwe
 
 I should find Maya. Or get water. Or literally anything except what I'm about to do.
 
-But I'm walking across the dance floor anyway, weaving through people, until I'm standing in front of Ethan and Sarah.
+But I'm walking across the dance floor anyway, weaving through people, my heart pounding so hard I can feel it in my throat. Every step closer makes my skin feel more electric, like I'm approaching a live wire.
 
-"Hey," I say.
+"Hey," I say when I reach them.
 
-They both turn. Sarah smiles politely. Ethan looks surprised.
+They both turn. Sarah smiles politely. Ethan looks surprised, then something else crosses his face—something that makes my breath catch.
 
-"Sophia," he says. "Hi."
+"Sophia," he says, and my name in his voice still does that thing to my insides. "Hi."
 
 "Can I talk to you? Just for a minute?"
 
@@ -322,7 +326,7 @@ She leaves, and then it's just us standing in the middle of a formal, surrounded
 
 "Thanks. You too. I mean, you look good. Not beautiful. Well, not that you couldn't be beautiful, but—"
 
-"I get it." His smile is small, familiar. "What did you want to talk about?"
+"I get it." His smile is small, familiar, and it hits me like a physical blow how much I've missed that smile. "What did you want to talk about?"
 
 Everything. Nothing. How much I've missed him. How wrong it felt pushing him away. How I don't know how to fix this mess I've made.
 
@@ -346,7 +350,9 @@ The DJ starts another slow song. Around us, couples are pairing up, moving back 
 
 He's not wrong.
 
-I take his offered hand, and we move into the dance—his hands finding my waist, mine on his shoulders, the distance between us smaller than it should be for people who are "just friends."
+I take his offered hand, and the second our skin makes contact, I feel it everywhere. My whole nervous system lights up, every nerve ending suddenly alive and singing. He pulls me onto the dance floor, his hands finding my waist, mine settling on his shoulders, and the distance between us is smaller than it should be for people who are "just friends."
+
+I can smell his cologne—woodsy and warm and so familiar it hurts. Can feel the heat of him through his suit jacket, can see the way his pulse is racing in his throat. We're both breathing too fast, both hyperaware of every point of contact.
 
 "This isn't working," I say quietly.
 
@@ -354,19 +360,19 @@ I take his offered hand, and we move into the dance—his hands finding my waist
 
 "This. Us pretending there's nothing between us."
 
-"There's definitely something between us." His voice is low, just for me. "There's been something between us since we were nine years old."
+"There's definitely something between us." His voice is low, just for me, and it does things to my stomach. "There's been something between us since we were nine years old."
 
 "Ethan—"
 
-"Let me finish. Please." He takes a breath. "I know my parents are problems. I know I'm leaving in less than two weeks. I know long distance is hard and we're both busy and there are approximately seven thousand reasons this is complicated."
+"Let me finish. Please." He takes a breath, and I watch his chest rise and fall beneath his shirt. "I know my parents are problems. I know I'm leaving in less than two weeks. I know long distance is hard and we're both busy and there are approximately seven thousand reasons this is complicated."
 
 "So what do we do?"
 
-"We stop pretending." His eyes meet mine, that impossible blue. "We stop trying to do the noble thing and just do the honest thing. Because Sophie, these last two weeks have been the worst two weeks I've had in years. And that includes my dad's lectures about my hockey career and that time I got food poisoning from gas station sushi."
+"We stop pretending." His eyes meet mine, that impossible blue that I could drown in. "We stop trying to do the noble thing and just do the honest thing. Because Sophie, these last two weeks have been the worst two weeks I've had in years. And that includes my dad's lectures about my hockey career and that time I got food poisoning from gas station sushi."
 
 Despite everything, I laugh. "Gas station sushi? Really?"
 
-"Marcus dared me. It was a terrible decision." His hands tighten slightly at my waist. "But not as terrible as watching you date someone else and pretending I was fine with it."
+"Marcus dared me. It was a terrible decision." His hands tighten slightly at my waist, his thumbs tracing small circles that are making it hard to think. "But not as terrible as watching you date someone else and pretending I was fine with it."
 
 "You were with Sarah tonight."
 
@@ -376,11 +382,11 @@ Despite everything, I laugh. "Gas station sushi? Really?"
 
 "Good. Because I was definitely jealous of Tyler Kim. Irrationally, completely jealous."
 
-We're still dancing, moving in small circles, the song building around us. This close, I can see the flecks of darker blue in his eyes, the small scar above his left eyebrow from when he fell learning to skate as a kid.
+We're still dancing, moving in small circles, the song building around us. This close, I can see the flecks of darker blue in his eyes, the small scar above his left eyebrow from when he fell learning to skate as a kid. Can see the way he's looking at me like I'm something precious and terrifying and worth it all at once.
 
 "I don't know how to do this," I admit. "You leave December 28th. Spring break is all we'd have until June. Your parents—"
 
-"Will deal with it. We'll figure it out." His forehead touches mine. "Sophie, I don't have all the answers. But I know I don't want to spend the next two weeks avoiding you because we're both scared."
+"Will deal with it. We'll figure it out." His forehead touches mine, and the contact sends electricity down my spine. "Sophie, I don't have all the answers. But I know I don't want to spend the next two weeks avoiding you because we're both scared."
 
 "I'm terrified," I whisper.
 
@@ -394,7 +400,7 @@ The song is ending. Around us, people are breaking apart, getting ready for what
 
 Then someone's phone flashes nearby—taking a photo—and the spell breaks.
 
-We step apart.
+We step apart, but not far. His hand finds mine, fingers lacing together, and that simple contact feels monumental.
 
 "I should find Tyler," I say. "He deserves to know what I'm doing."
 
@@ -444,6 +450,8 @@ We spend the rest of formal together—dancing to slow songs and fast songs, get
 
 It feels right in a way that nothing has felt right for weeks.
 
+Every time Ethan's hand brushes mine, I feel it like lightning. Every time he leans close to say something in my ear, his breath on my neck makes my whole body go warm. We're not even doing anything dramatic—just existing in the same space, finally honest about what we want—but it feels revolutionary.
+
 Around 10:30, people start leaving. Tyler finds us to say goodbye—he's getting a ride with some teammates, waves off my offer to drive him since we came together.
 
 "I'll text you next week," he says. "We can study for Henderson's final."
@@ -478,7 +486,7 @@ We both laugh nervously.
 
 "Fair point."
 
-Ethan leans against my car, looking up at the sky. It's clear tonight, stars visible despite the city lights, the kind of cold that makes your breath cloud instantly.
+Ethan leans against my car, looking up at the sky. It's clear tonight, stars visible despite the city lights, the kind of cold that makes your breath cloud instantly and your face hurt within seconds.
 
 "I'm leaving December 28th," he says. "Dad's already got the flight booked, the housing arranged, the whole thing set up."
 
@@ -496,15 +504,15 @@ I knew it was going to be bad, but hearing the actual number makes it real. "Tha
 
 "What if you have to choose?"
 
-"Then I choose both and figure out how to make it work." He reaches for my hand. "Sophie, I've spent six years thinking about you. Six years wondering what happened to my best friend, if you still loved math, if you still made that face when you're concentrating. And then you showed up sophomore year, and it was like—"
+"Then I choose both and figure out how to make it work." He reaches for my hand, and the contact grounds me. "Sophie, I've spent six years thinking about you. Six years wondering what happened to my best friend, if you still loved math, if you still made that face when you're concentrating. And then you showed up sophomore year, and it was like—"
 
 "Like coming home," I finish quietly.
 
-"Yeah. Exactly like that." His thumb traces circles on my hand. "I'm not walking away from that because it's complicated. Everything worth having is complicated."
+"Yeah. Exactly like that." His thumb traces circles on my hand, and I'm trying to memorize this feeling—the cold air, the warm touch, the way my whole body hums when he's near. "I'm not walking away from that because it's complicated. Everything worth having is complicated."
 
 "What if long distance doesn't work?"
 
-"Then we try anyway and at least we tried. But Sophie, we texted every single day for months before you even knew I was texting. I think we can handle actual intentional long distance."
+"Then we try anyway and at least we tried. But Sophie, we texted every single day for months before you even knew it was me. I think we can handle actual intentional long distance."
 
 He's right. We've been doing a version of this already—the constant communication, the sharing everything, the way we gravitate toward each other.
 
@@ -512,7 +520,7 @@ He's right. We've been doing a version of this already—the constant communicat
 
 "Okay?"
 
-"Okay, let's try. Let's figure this out. Let's stop being noble and just be honest." I step closer. "I want this. You. Us. Whatever this is."
+"Okay, let's try. Let's figure this out. Let's stop being noble and just be honest." I step closer, close enough to feel his body heat in the frozen air. "I want this. You. Us. Whatever this is."
 
 His smile is bright enough to light up the parking lot. "Yeah?"
 
@@ -520,133 +528,105 @@ His smile is bright enough to light up the parking lot. "Yeah?"
 
 "So can I kiss you now? Because I've been wanting to kiss you for approximately eight years and I'm running out of patience."
 
-I laugh, and it feels like relief. "Not yet."
+I laugh, and it feels like relief. "Yes. Yes, you can kiss you now."
 
-"What? Why not?"
+"Finally."
 
-"Because we're in a hotel parking lot and it's freezing and also—" I pull out my phone. "Also, Tyler's technically still my formal date for another hour, and I feel like there should be a grace period."
+He cups my face with both hands, his palms warm against my frozen cheeks. For a moment, we just look at each other—his eyes that impossible blue, his expression so open and wanting and real that it makes my chest ache.
 
-"You're making up rules."
+"Sophia Chen," he whispers. "You're going to ruin me."
 
-"I'm establishing boundaries. It's healthy."
+"Good," I breathe.
 
-"It's torture."
+And then he kisses me.
 
-"Eleven weeks, remember? This is just one more hour."
+The first touch of his lips is gentle, questioning, giving me time to change my mind. Instead, I grab the front of his jacket and pull him closer, deeper, everything I've been holding back for weeks pouring into this one moment.
 
-Ethan groans but he's smiling. "Fine. One hour. But then—"
+He makes a sound low in his throat and his hands slide into my hair and oh. OH. This is what all the songs are about. This is why people write poetry and fight wars and do impossible things.
 
-"Then we'll figure it out."
+He tastes like hotel punch and wintergreen gum and something uniquely him. When his tongue touches mine, tentative and sweet, my knees actually buckle. He catches me, pressing me back against my car, and we're both laughing and gasping and kissing and it's messy and perfect and exactly right.
 
-We stand there in the cold, holding hands, making plans for the next two weeks. He has games Wednesday and Friday. I have badminton practice every afternoon. We have study group next week, finals the week after that, Christmas somewhere in there.
+"God," he breathes against my mouth. "I've wanted to do that for so long."
 
-It's not enough time. But it's what we have.
+"Me too." My fingers are tangled in his hair and I can't seem to let go. "Since September. Maybe longer. Maybe forever."
 
-"I should go home," I say finally. "My parents have a curfew even for formal nights."
+"Definitely forever," he agrees, and kisses me again.
 
-"I'll follow you. Make sure you get there safe."
+This time it's slower, deeper, more intentional. His hands frame my face like I'm precious, like I'm breakable, like I'm worth handling with care. My whole body is alive, every nerve ending firing, every sense overwhelmed by him—his smell, his taste, his warmth in the brutal cold, the way his heart is racing just as fast as mine.
 
-"Ethan, I've been driving for a year."
+When we finally break apart, we're both breathing hard. My lips feel swollen, electric. His eyes are so dark they're almost black, and he's looking at me like I've just rewritten the laws of physics.
 
-"Humor me."
+"Wow," I manage.
 
-So he follows me home through empty streets, his headlights in my rearview mirror the whole way. When we pull into my driveway, he parks on the street and walks over to my car.
+"Yeah," he agrees, voice rough. "Worth the wait?"
 
-"One hour," he says, checking his phone. "It's 11:15."
+"Worth everything."
 
-"So 12:15."
+We stand there in the cold, holding each other, neither of us wanting to be the first to let go. My face is buried in his chest, his arms wrapped around me, and I can hear his heart still racing.
 
-"I'll text you at 12:16."
+"I don't want to go home yet," I whisper.
 
-"So specific."
+"Me neither."
 
-"I'm a specific person."
+"But my parents have a curfew and yours probably do too and it's freezing and—"
 
-I laugh and get out of my car, and we stand there in my driveway with winter pressing in around us.
+"I know." He kisses the top of my head. "But we have tomorrow. And the next day. And the next. Two weeks."
 
-"Thank you," I say. "For tonight. For not giving up. For—"
+"Two weeks," I repeat, trying to make it sound like enough time when we both know it's not.
 
-"You don't have to thank me for this. For us."
+"We'll make them count," he promises.
 
-"Still. Thank you."
+We stand there for a few more minutes, stealing time, before finally admitting defeat to the cold and our curfews and reality. He kisses me three more times before I get in my car—once on the lips, once on my forehead, once on each cheek like he can't decide where he wants to kiss me most.
 
-He kisses my cheek—the same spot Tyler kissed earlier, but this time I feel everything. My whole body lights up from that one gentle contact.
+"Text me when you get home," he says.
 
-"Goodnight, Watson."
+"Ethan, I live ten minutes away."
 
-"Goodnight, Sherlock."
+"Text me anyway. I need to know you got there safe."
 
-I watch him drive away, then go inside where my parents are pretending they weren't watching from the window.
+"You're ridiculous."
+
+"You like it," he says, and he's not wrong.
+
+I drive home with his taste still on my lips, his smell still on my clothes, my whole body still humming from his touch. When I pull into my driveway, I text him immediately:
+
+**ME:** home safe. tonight was perfect
+
+**ETHAN:** it really was. sleep well watson
+
+**ME:** you too sherlock
+
+I go inside where my parents are pretending they weren't watching from the window.
 
 "Good night?" Mom asks.
 
-"Complicated night. But good."
+"Complicated night. But good. Really good."
 
-I go upstairs and change out of my dress, hanging it carefully because despite everything, it was the dress I was wearing when Ethan asked me to try. When we stopped pretending.
+I go upstairs and change out of my dress, hanging it carefully because despite everything, it's the dress I was wearing when everything changed. When Ethan and I stopped pretending. When we finally admitted what we've both known for weeks—maybe months, maybe years.
 
-At 12:16 exactly, my phone buzzes.
+I lie in bed staring at my ceiling, touching my lips where his mouth was, replaying every second of that parking lot kiss.
 
-**ETHAN:** Hour's up. Can I kiss you tomorrow?
+Two weeks. That's all we have before he leaves.
 
-**ME:** Maybe. We'll see how tomorrow goes.
+But for now, for tonight, I let myself just be happy.
 
-**ETHAN:** Tease.
-
-**ME:** Absolutely.
-
-**ETHAN:** Goodnight, Sophie. For real this time.
-
-**ME:** Night, Ethan.
-
-I put my phone down and lie in bed, staring at my ceiling, feeling lighter than I have in weeks.
-
-We still have to deal with his parents. With prep school. With college applications and long distance and all the complications we've been trying to avoid.
-
-But for now, tonight, we've stopped lying.
-
-That feels like a start.
+Tomorrow I can worry about the complications.
 
 ---
 
 ## Sunday Afternoon
 
-I'm at The Forks the next day when Tyler texts.
+The Forks at 2 PM on a Sunday is pure winter magic—families ice skating on the cleared paths, holiday music playing from somewhere, the smell of hot chocolate and beaver tails drifting from the kiosks. I'm sitting on a bench near the river, the same area where Ethan and I used to meet as kids, now frozen and covered in snow.
 
-**TYLER:** Hey. How'd the rest of formal go?
+My phone buzzes. Ethan: *where are you?*
 
-**ME:** Good. Really good. Thank you again for being so understanding.
+**ME:** the forks. why?
 
-**TYLER:** No problem. You guys looked happy. That's good.
+**ETHAN:** stay there. im coming
 
-**ME:** How are you doing?
+**ME:** why?
 
-**TYLER:** Honestly? A little disappointed but mostly relieved. Dating someone who's in love with someone else is exhausting.
-
-**ME:** I wasn't—
-
-**TYLER:** Sophie. You were. And that's okay. Just be happy, yeah?
-
-**ME:** I'll try.
-
-**TYLER:** Good. And if Price hurts you I'll hit him in practice.
-
-**ME:** Please don't give him a concussion before prep school.
-
-**TYLER:** Only if he deserves it.
-
-I smile at my phone, grateful for Tyler's friendship even though the dating thing didn't work.
-
-I'm sitting on a bench near the river—the same area where Ethan and I used to meet as kids, now frozen and covered in snow. It's 2 PM on a Sunday, families ice skating on the cleared paths, holiday music playing from somewhere.
-
-My phone buzzes again. Ethan: *Where are you?*
-
-**ME:** The Forks. Why?
-
-**ETHAN:** Stay there. I'm coming.
-
-**ME:** Why?
-
-**ETHAN:** You'll see.
+**ETHAN:** youll see
 
 Twenty minutes later, he shows up in his winter coat and that ridiculous Beavers toque that Jordan got him as a joke. He's carrying two paper cups from the coffee kiosk nearby.
 
@@ -656,15 +636,27 @@ Twenty minutes later, he shows up in his winter coat and that ridiculous Beavers
 
 "I remember everything about you."
 
-We sit on the bench together, drinking hot chocolate, watching people skate. It's the most normal we've been in weeks—just existing in the same space without tension or complications.
+He sits next to me on the bench, close enough that our thighs touch, and even through our winter coats I can feel the contact like heat. We drink our hot chocolate, watching people skate, just existing in the same space without tension or complications.
 
-"So," Ethan says eventually. "12:16 was eight hours ago."
+"So," Ethan says eventually. "Last night."
 
-"You're still on that?"
+"Was perfect," I finish.
 
-"I'm a patient person. But my patience has limits."
+"It really was." He turns to look at me, and the expression on his face makes my stomach flip. "I can't stop thinking about kissing you."
 
-"We're in public."
+"Yeah?"
+
+"Yeah. It's actually becoming a problem. I was supposed to be studying for Henderson's final this morning and I spent two hours just thinking about your mouth."
+
+I nearly choke on my hot chocolate. "Ethan—"
+
+"Too honest?"
+
+"No. Just... wow."
+
+"You said we should be honest." He grins, that crooked smile that started everything. "So I'm being honest. I'm obsessed with kissing you. I want to kiss you right now. I want to kiss you for the next two weeks straight."
+
+My whole body goes hot despite the -20°C temperature. "We're in public."
 
 "So?"
 
@@ -692,17 +684,29 @@ I laugh. "You're making it sound super romantic."
 
 "Finally."
 
-And then he does.
+His hand comes up to my face, fingers trembling slightly as they touch my cheek. I can feel my heart hammering so hard he must hear it. The world narrows to just this—the clouds of our breath mingling in the cold, his eyes that impossible blue, his thumb tracing my jaw like he's memorizing the shape.
 
-It's not like the movies—there's no swelling music or perfect lighting. It's just us on a bench at The Forks in -20°C weather, tasting like hot chocolate, both of us smiling too much for it to be technically good kissing.
+"Ready?" he whispers.
 
-But it's perfect anyway.
+"I've been ready since September," I whisper back.
 
-When we break apart, someone nearby wolf-whistles. Ethan flips them off without looking, and I'm laughing against his shoulder.
+He leans in slowly, giving me time to change my mind, to pull away. Instead, I meet him halfway. The first touch of his lips is tentative, gentle, asking permission even as it happens. I answer by leaning in, my hand finding the front of his jacket, gripping the fabric to steady myself because my legs feel unreliable.
 
-"Worth the wait?" I ask.
+He tastes like hot chocolate and winter and possibility. His other hand finds my waist, pulling me closer but still careful, still respectful of the space between us that's rapidly disappearing.
 
-"Worth everything."
+Someone nearby wolf-whistles. We both ignore them.
+
+His tongue touches my bottom lip and I open for him and it's like the parking lot kiss but more—more public, more exposed, more we-don't-care-who-sees. My fingers are tangled in his coat and his hair and I can't get close enough, can't feel enough of him.
+
+When we finally pull apart—seconds? minutes? I have no idea—his forehead rests against mine. Both of us breathing hard. Both of us grinning like idiots.
+
+"I've wanted to do that since September," he whispers.
+
+"I've wanted you to do that since September," I whisper back.
+
+"What about since we were nine?"
+
+"Definitely since we were nine."
 
 We sit there for another hour, drinking cold hot chocolate, holding hands with our gloves on, making plans for the next two weeks. He has to tell his parents about us. I have to survive finals and badminton regionals. We both have to figure out how to do long distance when he leaves.
 
@@ -710,17 +714,17 @@ But right now, in this moment, everything feels possible.
 
 My phone buzzes. Maya: *DID YOU KISS HIM YET?*
 
-**ME:** Maybe.
+**ME:** maybe
 
-**MAYA:** SOPHIA CHEN.
+**MAYA:** SOPHIA CHEN
 
-**ME:** Okay fine yes. We kissed.
+**ME:** okay fine yes. we kissed
 
-**MAYA:** FINALLY. Jordan owes me $20.
+**MAYA:** FINALLY. jordan owes me $20
 
-**ME:** You bet on us?
+**ME:** you bet on us??
 
-**MAYA:** Everyone bet on you. Maya put money on before Christmas. I said yesterday. I won.
+**MAYA:** everyone bet on you. maya put money on before christmas. i said yesterday. i won
 
 I show Ethan the texts, and he's laughing.
 
@@ -744,7 +748,7 @@ It's the best Sunday I've had in years.
 
 Study group on Wednesday is different.
 
-For one thing, Ethan and I show up together. For another, when we sit down on Jordan's couch, we sit next to each other instead of leaving deliberate space between us.
+For one thing, Ethan and I show up together. For another, when we sit down on Jordan's couch, we sit next to each other instead of leaving deliberate space between us. His thigh presses against mine and I can barely remember my own name, let alone physics formulas.
 
 Maya sees it immediately and grins so wide I'm worried her face will split.
 
@@ -764,13 +768,13 @@ Maya sees it immediately and grins so wide I'm worried her face will split.
 
 Tyler comes down the stairs at that moment, and there's a beat of awkwardness before he just smiles.
 
-"Finally," he says, and his tone is genuine. "Now maybe Price will stop moping during practice."
+"Finally," he says, and his tone is genuine. "Now maybe Hayes will stop moping during practice."
 
 "I don't mope," Ethan protests.
 
 "You absolutely mope."
 
-We settle into studying after that, but it's different now. Better. Ethan helps me with a calc problem, his arm along the back of the couch behind me. I explain a physics concept to Tyler, and there's no tension, just friends helping friends.
+We settle into studying after that, but it's different now. Better. Ethan helps me with a calc problem, his arm along the back of the couch behind me, his fingers occasionally playing with my hair in a way that makes it impossible to concentrate. I explain a physics concept to Tyler, and there's no tension, just friends helping friends.
 
 Around 8:30, Jordan's mom brings down pizza—apparently she's decided we need feeding—and we take a break to eat.
 
@@ -800,19 +804,19 @@ It's everything I was trying to protect by pushing Ethan away, except better bec
 
 When study group ends, Ethan walks me to my car even though it's literally in Jordan's driveway.
 
-"Eleven days," he says.
+"Eight days," he says.
 
 "Until you leave?"
 
-"Yeah." He wraps his arms around me, and I let myself sink into the hug. "That's eleven days to spend time together before long distance starts. What do you want to do?"
+"Yeah." He wraps his arms around me, and I let myself sink into the hug, breathing in his smell, memorizing the feel of his heartbeat against my cheek. "That's eight days to spend time together before long distance starts. What do you want to do?"
 
 "Survive finals?"
 
 "Besides that."
 
-"I don't know. Normal things. Study together, get coffee, exist in the same space without overthinking everything."
+"I don't know. Normal things. Study together, get coffee, exist in the same space without overthinking everything. Kiss you a lot."
 
-"I can do that."
+"I can do that." He tilts my face up, kisses me slow and sweet. "Especially that last part."
 
 We stand there for a moment, just holding each other in the cold.
 
@@ -826,23 +830,23 @@ We stand there for a moment, just holding each other in the cold.
 
 "We're doing it anyway."
 
-He kisses me goodnight—quick but sweet, because Jordan's probably watching from the window—and I drive home feeling like despite everything complicated ahead, we're finally moving in the right direction.
+He kisses me goodnight—longer this time, deeper, like he's trying to memorize the taste of me—and I drive home feeling like despite everything complicated ahead, we're finally moving in the right direction.
 
 My phone buzzes at a stoplight.
 
-**ETHAN:** Thank you for trying. For giving us a chance.
+**ETHAN:** thank you for trying. for giving us a chance
 
-**ME:** Thank you for not giving up. Even when I was being stupid.
+**ME:** thank you for not giving up. even when i was being stupid
 
-**ETHAN:** You weren't stupid. Just scared.
+**ETHAN:** you werent stupid. just scared
 
-**ME:** Same thing.
+**ME:** same thing
 
-**ETHAN:** Not even close.
+**ETHAN:** not even close
 
 I drive home with a smile on my face, for once not overthinking what comes next.
 
-We have eleven days. Then spring break. Then summer.
+We have eight days. Then spring break. Then summer.
 
 It's not perfect. But it's ours.
 
