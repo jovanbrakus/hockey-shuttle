@@ -2,622 +2,576 @@
 
 ## JANUARY 6, JUNIOR YEAR
 
-Sophia woke to whiteness.
+Sophia woke to apocalyptic whiteness.
 
-Not the soft gray of early morning—complete, blinding whiteness outside the hotel window. For a disoriented moment, she thought she'd gone blind. Then her eyes adjusted and she realized: the storm had hit.
+Not the soft gray of dawn—complete, blinding white pressing against the hotel window. For a disoriented moment, she thought she'd gone snow-blind. Then her eyes adjusted: the storm had transformed the world into nothing.
 
-She sat up, pulling the blanket around her shoulders. The clock on the nightstand said 7:04 AM. The other bed was empty, sheets tangled. Ethan's voice came from the bathroom, muffled through the closed door.
+She sat up, pulling the blanket around her shoulders. 7:04 AM on the nightstand clock. The other bed was empty, sheets tangled like someone had fought them all night. Ethan's voice came from the bathroom, muffled but tense.
 
 "—I understand that, but I physically cannot drive in this. Have you looked outside?"
 
 Pause.
 
-"I don't care if you're disappointed. I'm not risking dying in a ditch to get home twelve hours earlier."
+"I don't care if you're disappointed. I'm not risking our lives to get home twelve hours earlier."
 
-His father. Had to be. Sophia's stomach clenched.
+His father. Had to be. Sophia's stomach clenched. She grabbed her phone: eighteen missed calls, forty-two texts, voicemails she didn't want to hear.
 
-"Mom, I— yes, I know. Yes. I will. When the roads are clear." Another pause, longer. "I don't—that's not—" His voice cracked slightly. "Can we please not do this right now?"
+"Mom, I—yes, I know. Yes. I will. When the roads are clear." Another pause, longer. "I don't—that's not—" His voice cracked. "Can we please not do this right now?"
 
-Sophia got out of bed and went to the window. The view was surreal. The parking lot had disappeared under what looked like two feet of snow. Ethan's truck was a vague shape, completely buried. The roads were invisible. And it was still snowing—heavy, wind-driven flakes that reduced visibility to maybe twenty feet.
+Sophia got out of bed and went to the window. The parking lot had vanished. Cars were shapeless mounds under three feet of snow. Ethan's truck was completely buried. And it was still snowing—heavy, violent, wind-driven sheets of white.
 
-They weren't going anywhere.
+They weren't going anywhere. Maybe not for days.
 
-The bathroom door opened. Ethan emerged, phone still in his hand, his face pale and drawn. When he saw her at the window, he stopped.
+The bathroom door opened. Ethan emerged, phone in hand, face pale and exhausted. When he saw her at the window, he stopped.
 
 "How bad?" he asked.
 
-"Really bad."
+"Biblical."
 
-He crossed to stand beside her, looking out. "Jesus."
+He crossed to stand beside her. "Jesus."
 
-"Your mom?"
+"Your parents?"
 
-"Yeah. And my dad before that. They're—they're really angry." He rubbed his face. "My dad said if I don't come home the second the roads clear, I'm not going to prep school. I'm not going to college. He'll cut me off completely."
+"Dad first. Then Mom. They're—" He scrubbed a hand over his face. "They're beyond angry. They've hit some new level I didn't know existed."
 
-Sophia's breath caught. "He wouldn't."
+"What did they say?"
 
-"He might. He's—I've never heard him like this. He's furious."
+"My dad said if I don't come home the second the roads clear, I'm cut off. No prep school. No college money. Nothing."
 
-"Because of the storm?"
+"He's bluffing."
 
-"Because of you." Ethan looked at her, his expression anguished. "He knows you're here. Somehow he figured it out. And he thinks you're—he used the word 'distraction.' He said I'm throwing away my future for a distraction."
+"Maybe. Maybe not. He sounded..." Ethan shook his head. "I've never heard him like that. Like I'd betrayed him personally."
 
-The word hit her like a slap. Distraction. Like she was some trivial thing, some hobby Ethan needed to quit so he could focus on what really mattered.
+"You chose something for yourself. That's not betrayal."
 
-"Maybe I am," she said quietly.
+"To him it is." He turned away from the window, pacing the small room. "He said—he said you're ruining me. That you're a distraction from my future."
 
-"Don't." His voice was sharp. "Don't say that."
+The word hit like a slap. "Maybe I am."
 
-"But what if he's right? What if I'm distracting you from—"
+"Don't." His voice went sharp. "Don't you dare say that."
 
-"From what? From hockey? From his plan for my life?" Ethan's laugh was bitter. "Good. I want to be distracted from that. I need to be distracted from that. Because if I'm not, I'm going to wake up at thirty and realize I've lived someone else's life for twenty years."
+"But what if he's right? What if being with me is—"
 
-He turned away from the window, pacing the small room. His hands were shaking.
+"Is what? Making me think for myself? Making me question whether I want to spend my whole life doing what he planned?" Ethan stopped pacing, faced her. "Then good. I want to be ruined if his version is the only option."
 
 "Ethan—"
 
-"I don't want to talk about my parents right now." He stopped pacing, looked at her. "Can we please just—not talk about them? For a few hours?"
+"No. I'm serious. I'm eighteen years old and I've never made a real choice until this week. Everything—hockey, school, friends, girlfr—" He caught himself. "Everything was what made sense for 'the trajectory.' His word, not mine."
 
-Sophia nodded. "Okay."
+"And now?"
 
-"Okay." He took a breath, visibly trying to calm himself. "Have you checked your phone? About the tournament?"
+"Now I'm in a hotel room in North Dakota, snowed in with the girl I love, while my father threatens to destroy my future." He laughed, bitter and a little wild. "And you know what? I'm happier than I've been in years."
 
-She grabbed her phone from the nightstand. Three texts from Coach Martinez: *Tournament postponed until further notice. Blizzard. Stay safe wherever you are.*
+"You don't look happy."
 
-"Postponed," she told Ethan.
-
-"For how long?"
-
-"Doesn't say. Just until the storm passes."
-
-He checked his own phone, scrolled through weather alerts. "Forecast says it should clear by tonight. Roads will take until tomorrow morning to get plowed."
-
-"So we're stuck here for today."
-
-"Looks like it."
-
-They stood in the middle of the room, looking at each other. Trapped together. Nowhere to go. Nothing to do but be here, in this space, with all the things they hadn't said yet hanging between them.
-
-"Are you hungry?" Ethan asked finally.
-
-"A little."
-
-"There's a restaurant downstairs. It might be open."
-
-They got dressed quickly—Sophia in jeans and Ethan's borrowed hoodie, Ethan in the same clothes from yesterday. The hotel hallway was still eerily quiet. They took the stairs down to the lobby.
-
-The restaurant was open, mostly empty except for a few other stranded travelers. They got a table by the window overlooking the parking lot. The waitress brought coffee and menus.
-
-"Storm's something else," she said, filling their cups. "I've lived here twenty years, never seen it this bad."
-
-"When do you think the roads will be clear?" Sophia asked.
-
-"Tomorrow morning at earliest. Maybe afternoon." The waitress smiled sympathetically. "You folks just have to wait it out. Could be worse places to be stuck."
-
-Could be, Sophia thought. Could be better too.
-
-They ordered breakfast. While they waited, Sophia checked her phone again. Text from Maya: *OMG are you okay?? News says Grand Forks is completely snowed in!!*
-
-Sophia typed back: *I'm fine. Stuck at hotel until roads clear. Probably tomorrow.*
-
-*Are you with him?*
-
-*Yeah.*
-
-*OMG OMG OMG*
-
-*Stop.*
-
-*This is so romantic though!!*
-
-*It's terrifying.*
-
-*Same thing. Be safe. Update me later.*
-
-Sophia set her phone down. Across the table, Ethan was staring into his coffee like it held answers.
-
-"Who'd you text?" he asked.
-
-"Maya. She's freaking out about the storm."
-
-"Jordan texted me too. Everyone's freaking out." He took a drink of coffee, made a face. "This is terrible."
-
-"Hotel coffee usually is."
-
-"We should have gone to Starbucks."
-
-"There's three feet of snow outside."
-
-"Details."
-
-She smiled despite herself. He smiled back, and for a moment it felt almost normal. Just two people having breakfast, making jokes about bad coffee. Not two teenagers trapped in a hotel room, counting down hours until separation, with their parents' anger hanging over them like a sword.
-
-But then breakfast came, and they ate in heavy silence, and the normalcy evaporated.
-
-Finally Sophia couldn't take it anymore. "We should talk."
-
-Ethan looked up. "About what?"
-
-"About—all of it. Your dad. Prep school. What happens after tomorrow."
-
-"I thought we weren't going to think past three days."
-
-"That was before we got trapped in a blizzard. Before your dad threatened to cut you off. Before everything got—" She gestured helplessly. "Complicated."
-
-He set down his fork. "Okay. What do you want to talk about?"
-
-"I don't know. Everything? Nothing? I just feel like we're avoiding the actual conversation."
-
-"What's the actual conversation?"
-
-"The one where we admit that this might not work. That long distance is impossible. That your parents are never going to accept me. That we're fighting a losing battle."
-
-Ethan's jaw tightened. "Is that what you think?"
-
-"I don't know what I think. That's the problem."
-
-He pushed his plate away, his appetite clearly gone. "Do you want to give up? Is that what you're saying?"
-
-"No. Maybe. I don't know." Her voice was rising, frustration bleeding through. "I'm saying that I'm terrified. That I don't know how we survive this. That your dad calling you a disappointment because you're with me makes me feel like—like maybe we should just stop. Before it gets worse."
-
-"It's already worse," Ethan said flatly. "My dad already thinks I'm throwing my life away. Stopping now doesn't fix that."
-
-"But at least you'd have your family. Your future. Hockey."
-
-"I'd have his version of my future. Not mine."
-
-"But maybe his version is the right one."
-
-"Why?" His voice was sharp now, angry. "Because he's older? Because he's successful? That doesn't mean he knows what I want. What I need."
-
-"What do you need?"
-
-"I need—" He stopped, breathing hard. Then, quieter: "I need to know that I made my own choice. At least once. I need to know that I chose something for me, even if it's the wrong choice, even if it falls apart. Because if I don't, I'm going to spend the rest of my life wondering what if."
-
-Sophia's throat was tight. "That's a lot of pressure to put on this."
-
-"I know. But that's where we are."
-
-They fell silent. The restaurant was getting busier, other stranded guests coming down for breakfast. Someone turned on the TV in the corner—news footage of the blizzard, warnings to stay inside, roads closed for the foreseeable future.
-
-"I need to tell you something," Sophia said suddenly.
-
-Ethan looked up. "Okay."
-
-"The MIT thing. It wasn't—I didn't tell you the whole story."
-
-His brow furrowed. "What do you mean?"
-
-Here it was. The confession she'd been avoiding. The truth that would change how he saw her, how he saw his father, how he saw everything.
-
-"Your dad came to my house in October," she said. "Before Halloween. He brought a letter from MIT. A guarantee. Full ride. Early decision. He said if I accepted it, I'd have everything figured out. I'd be set."
-
-Ethan had gone very still. "My dad offered you MIT?"
-
-"Yeah."
-
-"How? He doesn't work at MIT. He can't just—"
-
-"He has connections. Donors he works with. He made calls." She couldn't look at him. "He said MIT was perfect for me. That it would make my parents proud. That it was the smart choice."
-
-"And you considered it." His voice was flat.
-
-"Yeah. For like six weeks, I considered it."
-
-"Why didn't you tell me?"
-
-"Because—" She forced herself to look at him. "Because he told me not to. He said you didn't need to know. That it would make you feel guilty, like you were holding me back. And he was right. If I'd told you, you would have told me to take it."
-
-"I would have," Ethan admitted. "I would have said MIT is an incredible opportunity and you should take it."
-
-"I know. That's why I didn't tell you." She took a shaky breath. "But I also considered it because—because it was easier. Because having everything planned out felt safer than not knowing. Because my parents were so happy when I told them about it. Because for six weeks, I had this golden path laid out in front of me and all I had to do was say yes."
-
-"But you didn't say yes."
-
-"No. I didn't."
-
-"Why not?"
-
-This was the hard part. The part she hadn't even fully admitted to herself. "Because it felt like a bribe. Like your dad was paying me to stay away from you."
-
-Ethan's face went white. "That's not—he wouldn't—"
-
-"He didn't say it out loud. But that's what it was. He saw us getting close and he offered me a way out. A way to choose my future over you. And for six weeks I almost took it."
-
-"But you tore up the letter."
-
-"Yeah. On January second. Two days before this trip. I tore it up and I told my parents I wanted to apply regular decision to a bunch of schools. They were furious. Disappointed. And I knew—I knew it was partially because of you. Because I couldn't take the bribe and be with you at the same time."
-
-Ethan stood abruptly, his chair scraping. He walked to the window, staring out at the white nothing. Sophia waited, her heart pounding.
-
-Finally he said, "My dad tried to pay you to leave me."
-
-"He tried to give me an opportunity."
-
-"Don't defend him." His voice was hard. "He saw us together and decided I needed to focus. And instead of talking to me about it, he went behind my back and offered you MIT. Like you were a problem he could solve with money and connections."
-
-"Ethan—"
-
-He turned around. His eyes were bright with unshed tears. "Why didn't you take it?"
-
-"What?"
-
-"MIT. Why didn't you take it? You should have taken it. It's an incredible opportunity. You'd be set for life. Why would you turn that down for—for this?" He gestured between them. "For me?"
-
-"Because I wanted to choose for myself. Because I didn't want his bribe, even if it came wrapped in a perfect school. Because—" Her voice cracked. "Because choosing me meant choosing us."
-
-Ethan crossed the room in three steps, pulling her out of her chair and into his arms. He was shaking. "I'm sorry. God, I'm so sorry. That he put you in that position. That you had to choose. You should have taken it. You should have—"
-
-"Stop," she said into his chest. "Stop apologizing for your father. Stop telling me I should have taken it. I made my choice. It's done."
-
-"But you gave up MIT. For me."
-
-"For me," she corrected, pulling back to look at him. "I gave up his version of my future. I don't know what my future looks like now. But it's mine. That's what matters."
-
-He stared at her, his face a mess of emotions she couldn't untangle. Then he kissed her—desperate, hard, tasting like coffee and salt from tears she didn't know he'd shed.
-
-When they broke apart, they were both breathing hard.
-
-"We should go back upstairs," Ethan said hoarsely.
-
-"Yeah. Okay."
-
-They went back to the room in silence, took the stairs because the elevator felt too public. In the hallway outside room 247, Ethan stopped, key card in hand.
-
-"Just so you know," he said, not looking at her. "I'm furious at my father right now. Possibly for the first time in my life, I actually hate him."
-
-"You don't hate him."
-
-"I do. For what he did to you. For thinking he could control who I spend time with. For—" His voice broke. "For making you choose."
-
-"He didn't make me choose. I chose anyway."
-
-"Because of him."
-
-"Because of me. Because I wanted you more than I wanted the easy path." She took the key card from his hand and unlocked the door. "Come on. Let's go inside."
-
----
-
-The room felt smaller than it had this morning. More intimate. Sophia was hyperaware of the beds, the closed door, the fact that they were alone together with nowhere to go and nothing to do but talk.
-
-Ethan sat on his bed, elbows on his knees, head in his hands. Sophia sat on her own bed, watching him.
-
-"I need to ask you something," he said without looking up.
+"I'm terrified. But I'm also... free? For the first time ever, I'm doing something because I want to, not because it's expected." He crossed to her, took her hands. "I need to tell you something."
 
 "Okay."
 
-"Do you regret it? Rejecting MIT?"
+"It's about the MIT thing. I need you to know—"
 
-"No."
+"I know you didn't know about it. I know it wasn't your idea."
 
-"Not even a little?"
+"That's not—" He took a breath. "I need to tell you that I understand. Why you almost took it. Why it was tempting."
 
-"Not even a little."
+"Ethan—"
 
-He finally looked up. "Why not?"
+"No, let me finish. My whole life, I've done what was expected because it was easier. Safer. It made everyone happy and proud and I never had to think too hard about what I actually wanted. So I get it. The appeal of having it all figured out."
 
-"Because—" She tried to find the right words. "Because I spent my whole life making the smart choice. The safe choice. The choice everyone expected. And I was good at it. I got perfect grades, won badminton tournaments, made my parents proud. But I never felt like—like I was choosing. I was just doing what made sense. What came next."
+"But you're doing it anyway. Prep school."
 
-"And MIT was what came next."
+"Am I?" He met her eyes. "Am I really?"
 
-"Yeah. The logical next step. But when I thought about it—about four years in Boston, studying engineering, following the path your dad laid out—it didn't feel like my life. It felt like someone else's life that I was borrowing."
+The question hung between them, heavy with implication.
 
-Ethan nodded slowly. "I know that feeling."
+"What are you saying?"
 
-"I know you do. Your whole life has been someone else's plan."
+"I'm saying... what if I didn't go? What if I just... didn't get on that plane tomorrow?"
 
-"Twelve years of it. Since I was six and my dad decided I could be NHL material." He laughed bitterly. "Do you know what it's like, having your entire future planned before you're old enough to understand what a future is?"
+Sophia's breath caught. "Your parents would actually murder you."
 
-"No. But I'm starting to."
+"Maybe."
 
-They sat in silence. Outside, the storm continued, wind howling against the window. The hotel room felt like a capsule, a space separate from the rest of the world. Sophia had the surreal feeling that if they walked outside, there would be nothing there—just whiteness forever.
+"Your future—"
 
-"Can I tell you something?" Ethan said.
+"Would be uncertain. Yeah. Join the club." He squeezed her hands. "You tore up MIT for uncertainty. Why can't I do the same?"
+
+"Because—because that's different."
+
+"How?"
+
+"I don't know, it just is." She pulled her hands free, needing space to think. "You can't throw away hockey because of me."
+
+"See, that's where you're wrong. It wouldn't be because of you. It would be because of me. Because I don't want to play anymore."
+
+The confession landed like thunder.
+
+"You don't mean that."
+
+"I do though." His voice was quiet now, certain. "I haven't wanted to play for at least a year. Maybe longer. I'm just good at it, so everyone assumes I love it. But I don't. I'm tired, Soph. Tired of being hit, tired of pressure, tired of my entire worth being tied to how well I can shoot a puck."
+
+"So what would you do instead?"
+
+"I don't know. That's the terrifying part. But also the exciting part?" He sat on the bed, suddenly looking very young. "I could do anything. Study astrophysics without hockey taking all my time. Take art classes. Travel. Figure out who I am when I'm not Ethan Price, hockey star."
+
+Sophia sat beside him. "That's a huge decision."
 
 "Yeah."
 
-"I don't want to play hockey anymore."
+"Like, life-changing huge."
 
-The words fell into the room like stones.
+"Yeah."
 
-Sophia stared at him. "What?"
+"You shouldn't make it just because we're stuck in a hotel room and you're emotional."
 
-"I don't want to play hockey anymore," he repeated, louder. "Or—I don't know. Maybe I do. But I don't want it to be my whole life. I don't want to go to prep school and then college hockey and then NHL draft and then—whatever comes after. I don't want that to be all I am."
+He laughed. "When else would I make it? When I'm calm and rational and surrounded by people telling me to stay the course?"
 
-"What do you want?"
+"Good point."
 
-"I want to study astrophysics. I want to understand how the universe works, why stars collapse, what happens at the edge of black holes. I want to take art classes and philosophy classes and read books that have nothing to do with sports. I want to—" He broke off, frustrated. "I want to be a person. Not just a hockey player."
+They sat in silence for a moment. Outside, the storm howled like something alive and angry.
 
-Sophia's chest felt tight. "Have you told your parents this?"
+"I need to tell you something," Sophia said suddenly.
 
-"No. How could I? They've invested everything in my hockey career. Money, time, their entire identity is wrapped up in me being good at hockey. If I quit, it would destroy them."
+"Okay."
 
-"So you're going to keep playing? Even though you don't want to?"
+"About MIT. About why I really rejected it."
 
-"I don't know." He looked at her, and his face was young and scared in a way she'd never seen. "That's the thing. I don't know what to do. If I quit, I lose everything. My family, their support, the future they've built for me. But if I keep playing, I lose myself. And I don't know which is worse."
+"You told me. It was a bribe."
 
-Sophia crossed to his bed, sat down beside him. "I don't think there's a right answer."
+"That's part of it. But also..." She gathered her courage. "I was scared. Of committing to engineering. Of being locked into something at seventeen."
 
-"That's not helpful."
+"That's reasonable—"
 
-"I know. But it's true." She took his hand. "Whatever you choose, it's going to hurt. Either you hurt them by choosing yourself, or you hurt yourself by choosing them. There's no path where everyone wins."
+"I'm not finished." She turned to face him fully. "I was also scared of losing you. Of choosing the safe path and watching you disappear into your father's plan and wondering what if for the rest of my life."
 
-"That's depressing."
+"Soph—"
 
-"It's honest."
+"I know we've only been together a few months. I know we're young. I know everyone thinks this is just teenage drama that won't matter in five years. But Ethan, I—" Her voice cracked. "I've been in love with you since I was nine years old."
 
-He laughed, surprised. "When did you become the wise one?"
+He went completely still.
 
-"I think somewhere around when I tore up a guaranteed MIT acceptance."
+"Maybe not romantic love then," she continued. "But something. You were my person. And when you left, it broke something in me. And when you came back, it was like—like I could breathe again. And I couldn't take MIT knowing it was your father's way of making sure I'd lose you again."
 
-"Fair point." He squeezed her hand. "What are we doing, Sophia? Really?"
+"You won't lose me."
 
-"I don't know. Surviving? Trying to figure out who we are without our parents' expectations?"
+"I'm losing you tomorrow. You're going to Michigan."
 
-"Is it working?"
+"Not if I don't get on the plane."
 
-"Ask me tomorrow."
+"You have to get on the plane."
 
-He smiled at that, recognizing his own words from last night. "Okay. Tomorrow."
+"Why?"
 
-They sat together, hands linked, listening to the storm. And then Ethan said, very quietly, "I love you."
+"Because—" She stopped, frustrated. Why did he have to? Because it was expected? Because his parents demanded it? Those weren't good enough reasons anymore.
 
-The world stopped.
+"See?" Ethan said softly. "You can't think of a real reason either."
 
-Sophia's breath caught. She turned to look at him, and he was already looking at her, his expression open and terrified and honest.
+"Your future—"
 
-"I've loved you since we were nine years old," he continued. "Since you fell on the ice and I helped you up and you laughed instead of crying. Since you chose badminton over hockey and I was devastated because I thought I'd never see you again. Since I moved back to Winnipeg and walked into Spanish class and there you were, and it was like—like coming home."
+"Is mine to choose. Just like yours is yours to choose." He took her hands again. "What if we both just... chose ourselves? Chose uncertainty? Together?"
 
-Tears were streaming down Sophia's face. She didn't even know when she'd started crying.
+"That's terrifying."
 
-"I love you," he said again. "And I know that's a lot. I know we're seventeen and everyone thinks teenage love isn't real. But this is real. You're the most real thing in my life. And I needed to tell you that before—before everything falls apart tomorrow."
+"Yeah."
 
-"It's not falling apart," she whispered.
+"And probably stupid."
 
-"It is though. We both know it is. I'm leaving tomorrow night. We don't know when we'll see each other again. My parents hate you, your parents are disappointed in you, and we're stuck in a hotel room in North Dakota in a blizzard because we were too stubborn to be smart." He laughed, wet and broken. "Everything is falling apart. But I love you anyway."
+"Definitely stupid."
 
-Sophia couldn't speak. Her throat was too tight, her heart too full. So instead she kissed him—soft and desperate and full of every word she couldn't say.
+"Our parents would never forgive us."
 
-When they broke apart, she said, "I love you too."
+"They might. Eventually. Or they might not. But we'd have to live with that."
 
-He went very still. "Yeah?"
+Sophia looked at their joined hands. His were bigger, rougher from years of hockey. Hers fit inside them perfectly.
 
-"Yeah. I love you too. I have for—I don't know how long. Months? Years? Maybe forever?" She wiped her eyes, smiling through tears. "And you're right, it's terrifying. Because loving you means choosing chaos over certainty. It means fighting for something that might not work. It means—"
+"Can I tell you something that might change everything?" she asked.
 
-"Being brave," he finished.
+"More than what you just told me?"
 
-"Yeah. Being brave." She took a shaky breath. "I love you, Ethan Price. Even though it's stupid and impossible and probably going to break both our hearts. I love you."
+"Maybe."
 
-He kissed her again, and this time it was different—slower, deeper, full of promise instead of desperation. His hands tangled in her hair, her hands gripped his shoulders, and for a long perfect moment, nothing else existed except this: his mouth on hers, his heartbeat against her chest, the feeling of being wholly, completely seen by another person.
+"Tell me."
 
-When they finally broke apart, they were both breathing hard. Ethan's eyes were dark, his face flushed. Sophia's whole body felt electric, alive in a way she'd never experienced.
+She met his eyes. "I love you. Not just teenage love. Not just first love. The real thing. The kind that makes you reconsider everything you thought you knew about yourself."
 
-"We should—" Ethan started, then stopped. "I don't know what we should do."
+"Sophia—"
 
-"Me neither."
+"And I know that's a lot. I know we're seventeen—"
 
-They looked at each other, the air between them charged with possibility. The storm howled outside. The world had narrowed to this room, this moment, this choice.
+"Eighteen—"
 
-Sophia thought about the MIT letter, about choosing for herself, about being brave enough to want what she wanted.
+"Whatever. I know we're young and this is crazy and we're probably making huge mistakes. But I need you to know that. That this isn't just rebellion or hormones or whatever. I love you. The real you. Not hockey star you. The you who wants to study stars and reads science fiction and makes playlists at 3 AM."
 
-"I want you," she said quietly. "Is that okay to say?"
+Ethan's eyes were bright with unshed tears. "I—" He stopped, took a breath. "I've been in love with you since the moment you walked into Spanish class. Maybe since we were nine, I don't know. Time feels weird with us."
 
-Ethan's breath hitched. "Yeah. It's—yeah." He paused. "I want you too."
+"Yeah."
 
-"So what do we do about that?"
+"Like we're picking up where we left off, but also starting something entirely new."
 
-"I don't know. What do you want to do?"
+"Yeah."
 
-She didn't have an answer. Or rather, she had too many answers. She wanted to kiss him more, wanted his hands on her skin, wanted to know what it felt like to be close to someone in every possible way. She wanted to stay in this room forever, protected from the future and the storm and all the forces trying to pull them apart.
+He leaned forward, resting his forehead against hers. "I love you too. The real thing. The terrifying, life-changing, make-stupid-decisions kind."
 
-But she also wanted to be careful. Wanted to not rush. Wanted their first time—if there was a first time—to be right. Not just because they were trapped in a hotel room with nothing else to do.
+"Good." She pulled back just enough to see his face. "So what do we do about it?"
 
-"I don't want to do something we'll regret," she said finally.
+"Right now?"
 
-"I wouldn't regret it."
+"Right now."
 
-"You don't know that."
+He glanced at the window, at the storm still raging. "Right now, we're trapped in a hotel room in North Dakota. No one can get to us. No one can make us leave. We have..." He checked his phone. "At least twenty-four hours before roads might be clear."
 
-"I do though." He cupped her face, thumb brushing away remaining tears. "I know that being with you—however that looks—would never be a regret. But if you're not sure, we don't do anything. We just—we can just be here. Together."
+"So?"
 
-Sophia closed her eyes, leaning into his touch. She wanted to be sure. Wanted to be the kind of person who knew what she wanted and went for it without hesitation. But she was seventeen and scared and the stakes felt impossibly high.
+"So we have twenty-four hours to figure out what we actually want. Without anyone else's input."
 
-"Can we—" She opened her eyes. "Can we just lie down? For a while? I want to be close to you. But I don't know if I'm ready for—for everything."
+"And what do you want? Right now, in this moment?"
 
-"Yeah. Of course. Whatever you want."
+He looked at her for a long moment, something shifting in his expression. "You. I want you. Is that—is that okay to say?"
 
-They shifted on the bed, lying down side by side. Ethan pulled her close, her head on his chest, his arms around her. They fit together perfectly, like they'd been designed for this exact position.
+Sophia's heart was suddenly hammering. "Yeah. It's okay."
 
-Outside, the blizzard raged. Inside, they lay in quiet intimacy, just breathing together.
+"I don't mean—I'm not trying to pressure—"
 
-"Tell me something," Sophia said after a long silence.
-
-"Like what?"
-
-"Something you've never told anyone."
-
-He was quiet, thinking. Then: "I have panic attacks sometimes. Before big games. I lock myself in the bathroom and just—freak out. Can't breathe, feel like I'm dying. It passes after a few minutes, but it's terrifying every time."
-
-Sophia's chest tightened. "Does anyone know?"
-
-"Jordan knows. He found me once. Helped me through it. But no one else. Definitely not my parents."
-
-"What triggers them?"
-
-"The pressure, I think. Knowing that everyone's watching, expecting me to be perfect. Knowing that if I fail, I'm letting everyone down. It gets too much and my body just—shuts down."
-
-She hugged him tighter. "That sounds awful."
-
-"It is." He pressed his face into her hair. "But you know what? I haven't had one in weeks. Not since we started spending time together."
-
-"Really?"
-
-"Yeah. I think—I think being with you reminds me that I'm more than hockey. That even if I fail at that, I still exist. I'm still a person."
-
-Sophia felt tears prick her eyes again. "You're definitely a person. A really good person."
-
-"You have to say that. You love me."
-
-"I love you because you're a good person. Not despite it."
-
-He kissed the top of her head. "Your turn. Tell me something."
-
-"Um. I'm terrified of not mattering. Like, I work really hard at everything—school, badminton, being a good daughter—because I'm scared that if I'm not exceptional, I'll just disappear. Like I'll be invisible."
-
-"That's not possible. You could never be invisible."
-
-"You don't know that."
-
-"I do. You're the opposite of invisible. You're—" He paused, searching for words. "You're like a star. You might not be the brightest one in the sky, but once someone sees you, they can't look away."
-
-She laughed, surprised. "That's incredibly cheesy."
-
-"Doesn't make it less true."
-
-They fell quiet again. Sophia listened to his heartbeat, steady and strong. His hand traced absent patterns on her back. Time seemed suspended, like they'd fallen out of the normal flow of things into some parallel space where nothing existed but this moment.
-
-"Sophia?" Ethan's voice was quiet, hesitant.
+"I know." She moved closer, close enough to feel his breath. "I want you too."
 
 "Yeah?"
 
-"If I asked you—if we—" He stopped, frustrated. "I'm not saying this right."
+"Yeah."
 
-She lifted her head to look at him. "What are you trying to say?"
+They looked at each other, the air between them electric. And then they were kissing—desperate, hungry, months of careful control finally breaking. His hands in her hair, her hands under his shirt, bodies pressing together like magnetism.
 
-"I'm trying to say that I want—" He took a breath. "I want to be with you. Completely. But I also want it to be right. And I don't know if now is right, with everything that's about to happen. With me leaving tomorrow. With—everything."
+"Wait," Ethan gasped, pulling back. "Wait. We should—we should talk about this."
 
-Sophia's heart was pounding. "What do you think would make it right?"
+"Talk about what?"
 
-"I don't know. Time? Certainty? Knowing we have a future together instead of just—stealing moments when we can?"
+"About—about if we're really—if this is—" He was flustered, face flushed. "I've never—"
 
-"We might not ever have that. Certainty."
+"Me neither."
 
-"I know. That's what makes this so hard."
+"So maybe we should—"
 
-She studied his face—the earnest brown eyes, the worried line between his brows, the mouth she'd kissed so many times already. She loved him. She knew that absolutely. But did that mean they should—?
+"Think about it?" She was breathing hard. "Be rational? Make a pro and con list?"
 
-"Can I say something that might sound weird?" she asked.
+He laughed, surprised. "When you put it like that..."
 
-"Always."
+"Ethan. We've been rational and careful our whole lives. Maybe just this once we can—"
 
-"I think—I think if we do this now, it would be because we're scared. Because you're leaving and we don't know when we'll see each other again. And that's not—that's not the right reason."
+"Be stupid teenagers?"
 
-Ethan nodded slowly. "You're right."
+"Be brave," she corrected. "Be present. Be real."
 
-"I'm not saying I don't want to. I do. But I want to want it for the right reasons. Does that make sense?"
+He studied her face, searching for something. "You're sure?"
 
-"Perfect sense." He brushed hair off her forehead. "So we wait."
+"I'm sure I love you. I'm sure we might not get another chance like this. I'm sure that whatever happens tomorrow or next week or next year, I want this memory. With you."
 
-"We wait," she agreed. "Until we're not scared. Until we have time. Until—"
+"That's a lot of sures."
 
-"Until it's right," he finished.
+"Yeah, well. You bring out certainty in me. Which is ironic since you also bring out chaos."
+
+He smiled, that soft private smile she loved. "Both things can be true."
+
+"Both things are true."
+
+They kissed again, slower this time. Less desperate, more intentional. When they broke apart, Ethan stood, pulling her up with him.
+
+"If we're doing this," he said, "we're doing it right."
+
+"Define right."
+
+"Not because we're scared. Not because we're running out of time. Because we want to. Because we choose to."
+
+"I choose you," Sophia said simply.
+
+"I choose you too."
+
+And then they were kissing again, and talking became unnecessary. The storm raged outside, but inside room 247, there was only them. Only this moment they were stealing from time, this choice they were making together.
+
+When Sophia woke later—much later—wrapped in Ethan's arms with afternoon light filtering through the snow-covered window, her first thought was: *No regrets*.
+
+Her second thought was: *Everything is different now*.
+
+Ethan stirred beside her, pulling her closer. "You awake?"
 
 "Yeah."
 
-They looked at each other, and despite the disappointment, despite the wanting, Sophia felt relief. They'd made the choice together. They'd chosen to wait. And somehow that felt more intimate than anything else they could have done.
+"You okay?"
 
-"Come here," Ethan said, pulling her back down to his chest.
+She considered the question. Was she okay? She'd just changed everything. Crossed a line she couldn't uncross. Made a choice that would ripple forward through the rest of her life.
 
-She settled against him, his arms tight around her. Outside, the storm showed no signs of stopping. Inside, they lay together in peaceful silence, just existing in the same space.
+"Yeah," she said. "I'm okay. You?"
 
-Sophia thought about tomorrow. About him leaving. About the separation stretching out ahead of them like an impossible distance. But right now—right now they had this. This room. This storm. This moment of perfect honesty.
+"More than okay."
 
-"Ethan?" she murmured, half-asleep.
+"Yeah?"
 
-"Hmm?"
+"Yeah. I feel..." He paused, searching for words. "Free. Like I finally did something that was completely mine. Ours."
 
-"I'm glad we're here. Even with everything."
+"No regrets?"
 
-"Me too."
+"Never. You?"
 
-"I'm glad I chose you."
+"Never."
 
-"I'm glad you chose you."
+They lay in comfortable silence, listening to the storm. It was starting to quiet—still snowing, but the violence had passed. Soon the roads would clear. Soon they'd have to face reality.
 
-She smiled against his chest. "Same thing."
+But not yet.
 
-"Yeah," he agreed. "Same thing."
+"What time is it?" Sophia asked.
 
-They fell asleep like that—fully clothed, wrapped around each other, the storm raging outside while inside they found unexpected peace. And when they woke hours later, tangled together in the late afternoon light, Sophia's first thought was: This is what it feels like to be chosen. This is what it feels like to choose.
+Ethan checked his phone. "Four PM. Also, seventeen missed calls from my father."
 
-Tomorrow they'd face consequences. Tomorrow he'd leave. Tomorrow everything would fall apart.
+"Twenty-three from my mother."
 
-But for today—for this perfect, storm-bound day—they had each other.
+"We should probably let them know we're alive."
 
-And that was enough.
+"Probably."
 
-More than enough.
+Neither moved.
 
-It was everything.
+"Five more minutes?" Ethan suggested.
 
----
+"Five more minutes."
 
-They woke to softer light, the storm's rage diminished to steady snowfall. Ethan checked his phone: 4:47 PM.
+But five became ten, became an hour, became the rest of the afternoon tangled together in their bubble of stolen time. They talked about everything—childhood memories, dreams they'd never voiced, fears they'd never admitted. The conversation had a different quality now, deeper, like physical intimacy had unlocked emotional doors.
 
-"We slept for hours," he said, voice rough with sleep.
+"Can I tell you something weird?" Ethan asked as the light faded toward evening.
 
-"Mmm." Sophia didn't want to move, didn't want to leave the warm cocoon of his arms.
+"Always."
 
-"We should eat something."
+"I keep thinking about parallel universes. Like, in how many versions of reality do we end up here? In this room? In this moment?"
 
-"Don't want to."
+"Probably not many."
 
-He laughed. "Come on. I'm starving."
+"Right? The odds were so against it. If my parents hadn't moved back to Winnipeg. If you'd taken MIT. If the storm had hit a day earlier or later. If, if, if."
 
-Reluctantly, she sat up. Her hair was a mess, her clothes rumpled. Ethan looked equally disheveled. They smiled at each other—tired, soft smiles that acknowledged the intimacy of sleeping beside someone, waking up together.
+"But it happened."
 
-"Room service?" he suggested.
+"It happened." He pressed his face into her hair. "We happened."
 
-"Yeah. Room service."
+"Against all odds."
 
-They ordered burgers and fries, ate sitting on his bed with the TV on mute showing news coverage of the blizzard. The food was mediocre but tasted perfect because they were eating it together, in their bubble, protected from the world.
+"The best things usually are."
 
-"Storm's supposed to clear tonight," Ethan said, checking his phone. "Roads will be plowed by tomorrow morning."
+They eventually got up, showered (separately, though the awareness of the other just beyond the door was its own kind of intimacy), dressed, and ventured out to find food. The hotel restaurant was surprisingly busy—other stranded travelers comparing storm stories.
 
-"So we can leave tomorrow."
+They got a table by the window. The parking lot was still invisible under snow, but the wind had died. Tomorrow, plows would come. Tomorrow, the world would restart.
 
-"Yeah. Your semifinals will probably be rescheduled for tomorrow afternoon. We'd leave after that."
+"You know what's funny?" Sophia said, picking at her salad.
 
-"And then you go to Michigan."
+"What?"
 
-"And then I go to Michigan," he confirmed quietly.
+"Everyone's going to think we planned this. The storm. Getting stuck."
 
-They didn't talk about it more. Didn't let tomorrow intrude on today. They finished eating, watched a movie on TV—some action thing neither of them really paid attention to. They lay together, comfortable in the silence, hands linked.
+"We kind of did plan it."
 
-As evening fell and the hotel room darkened, Sophia felt the weight of what was coming. One more night. Then the drive home. Then goodbye.
+"We planned the trip. We didn't plan—" She gestured vaguely.
 
-She must have tensed because Ethan pulled her closer. "Hey. Still here. Still together."
+"No. That just happened."
 
-"For now."
+"Do you think it would have? Without the storm? If we'd just had a normal weekend?"
 
-"For now is all we ever have. Right?"
+Ethan considered. "Honestly? Probably not. We would have been focused on your tournament, on getting back, on being responsible."
 
-She nodded against him, even though it hurt to acknowledge. They'd only ever had moments—stolen hours, secret meetings, three days on the road. Maybe that was all they'd ever get. Maybe this was their whole story: a series of beautiful, impossible moments strung together before circumstances pulled them apart.
+"So we needed the storm."
 
-But God, what moments they were.
+"We needed something to force us to stop running long enough to actually be together."
 
-"I love you," she said into the darkness.
+"Running from what?"
+
+"Everything. Expectations. The future. Our parents. Ourselves."
+
+"And now?"
+
+"Now we face it all. But differently. Because we chose something. Finally."
+
+Their phones buzzed simultaneously. Both checked.
+
+"Tournament's back on," Sophia reported. "Nine AM tomorrow."
+
+"Roads should be clear by noon," Ethan read from a weather update.
+
+"So tomorrow we go back."
+
+"Tomorrow I'm supposed to leave for Michigan."
+
+"Are you going to?"
+
+He was quiet for a long moment. "I don't know. Ask me tomorrow."
+
+They finished dinner and walked back to their room. The hallway was still eerily empty. Inside 247, the beds were still rumpled, evidence of their afternoon everywhere.
+
+"We should probably text our parents," Sophia said. "Let them know we're okay."
+
+"Yeah."
+
+They sat on one bed, composing messages. Sophia went simple: *Safe in Grand Forks. Roads still closed. Will head home when clear. Tournament tomorrow AM.*
+
+Her mother's response was immediate: *This is unacceptable. We're coming to get you as soon as roads open.*
+
+*Please don't. I need to finish the tournament.*
+
+*This isn't about badminton anymore, Sophia.*
+
+She showed Ethan. He showed her his: *If you're not home by tomorrow night, you're not my son anymore.*
+
+"Jesus," Sophia breathed.
+
+"Yeah."
+
+"He doesn't mean that."
+
+"He might." Ethan tossed his phone aside. "But you know what? I don't care. I'm tired of being held hostage by his disappointment."
+
+"That's your father."
+
+"That's a man who sees me as an investment. Not a son."
+
+The bitterness in his voice was sharp enough to cut.
+
+"Ethan—"
+
+"Do you know what he said when I told him I got into Northwestern? For academics, not hockey?"
+
+"What?"
+
+"He said 'That's nice, but it doesn't matter. You're going for hockey.' Not congratulations. Not 'I'm proud of you.' Just dismissal of anything that wasn't his plan."
+
+"That's awful."
+
+"That's my life. Or was." He looked at her. "I'm not going to Michigan tomorrow."
+
+"Ethan—"
+
+"I'm not. I decided. I'll face whatever consequences come, but I'm not getting on that plane."
+
+"Where will you go? If he cuts you off?"
+
+"I'll figure it out. Get a job. Student loans. Stay with Jordan maybe, until I graduate." He took her hands. "I know it sounds insane. But I can't do it anymore. I can't live his life."
+
+"Okay."
+
+"Okay?"
+
+"If that's your choice, I support you. The same way you supported me tearing up MIT."
+
+He kissed her, soft and grateful. "I love you."
 
 "I love you too."
 
-And as the blizzard finally quieted outside, leaving a world buried in white and silence, they held each other in room 247 of a Holiday Inn in Grand Forks, North Dakota—two teenagers in love, making promises they didn't know if they could keep.
+They got ready for bed—teeth brushed, faces washed, the domestic routine strangely intimate. Without discussion, they both climbed into the same bed. Sophia curled into his side, her head on his chest, listening to his heartbeat.
 
-But promising anyway.
+"Whatever happens tomorrow," she said into the darkness, "I want you to know this was worth it. All of it."
 
-Because that's what love was: choosing to believe in impossible things.
+"Even the consequences?"
 
-Choosing each other, again and again, despite everything.
+"Especially the consequences. Because they mean we chose something real."
 
-Choosing bravery over certainty.
+He pressed a kiss to her hair. "No regrets."
 
-Choosing now, even when tomorrow was uncertain.
+"No regrets."
 
-And as they fell asleep again, still clothed, still wrapped around each other, Sophia thought: Whatever happens next, we had this. This perfect, storm-bound day when we chose each other completely.
+Outside, snow continued to fall, gentler now. Inside, they held each other, knowing tomorrow would bring battles they might not win. But for tonight—for these stolen hours in room 247—they had chosen each other completely.
 
-No one could take that away.
+And that was everything.
 
-Not his parents, not hers, not distance or time or any of the forces working against them.
+That was enough.
 
-This was theirs.
+More than enough—it was the beginning of who they really were.
 
-Forever.
+---
+
+Sophia woke at 3 AM to Ethan sitting up, breathing hard.
+
+"Bad dream?" she asked, touching his back.
+
+"Panic attack," he managed. "Sometimes—before big things—"
+
+"What do you need?"
+
+"Just—don't leave. Don't go anywhere."
+
+"I'm right here."
+
+She sat up, wrapping her arms around him from behind. His heart was racing, his whole body trembling. She'd never seen him this vulnerable, this unguarded.
+
+"Breathe with me," she said. "In for four, hold for four, out for four."
+
+They breathed together in the darkness, her counting softly, until his heartbeat slowed.
+
+"Better?"
+
+"Yeah. Sorry."
+
+"Don't apologize. Ever. Not for this."
+
+He turned to face her. "It happens sometimes. The pressure just—builds up and my body rebels."
+
+"How long?"
+
+"Years. Since I was maybe fourteen. Since hockey became everything."
+
+"Do your parents know?"
+
+"God, no. They'd see it as weakness. As proof I can't handle the pressure."
+
+"It's not weakness."
+
+"I know. Logically. But—"
+
+"No. Listen to me." She took his face in her hands. "You've been carrying impossible pressure for years. The fact that you have panic attacks isn't weakness—it's your body trying to tell you something. That this isn't sustainable. That you need to choose differently."
+
+"Like not going to Michigan."
+
+"Like choosing your own path. Whatever that looks like."
+
+He kissed her palm. "How are you so wise?"
+
+"I read a lot of psychology books trying to figure out why I was so anxious all the time."
+
+"And?"
+
+"Turns out living for other people's approval is bad for your mental health. Who knew?"
+
+He laughed, soft in the darkness. "Revolutionary discovery."
+
+"Right?"
+
+They lay back down, Sophia's head on his chest again. His heartbeat was steady now, calm.
+
+"Thank you," he whispered.
+
+"For what?"
+
+"For seeing all of me. Even the panic attacks and uncertainty and mess. And not running."
+
+"Where would I run? We're snowed in."
+
+"You know what I mean."
+
+She did. "You see all of me too. The anxiety and people-pleasing and need for control."
+
+"I love all of you."
+
+"Even the messy parts?"
+
+"Especially those. They're the most real."
+
+She smiled against his chest. "I love your messy parts too."
+
+"Good. Because tomorrow's going to be really messy."
+
+"Yeah."
+
+"You ready for it?"
+
+"No. You?"
+
+"Not even close."
+
+"Perfect. We'll be not ready together."
+
+They fell asleep again like that, wrapped around each other, while outside the storm finally exhausted itself, leaving the world buried and new.
+
+Tomorrow would bring consequences.
+
+Tonight was theirs.

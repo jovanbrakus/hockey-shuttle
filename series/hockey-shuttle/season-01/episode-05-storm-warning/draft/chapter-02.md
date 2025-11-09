@@ -2,678 +2,562 @@
 
 ## JANUARY 5, JUNIOR YEAR
 
-The world was still dark when they hit Highway 75 heading south. Sophia watched the city lights disappear behind them, replaced by endless stretches of snow-covered farmland. Manitoba in January looked like the end of the world—flat white nothing in every direction, the sky heavy and gray even though sunrise was coming.
+The world was still dark when they hit Highway 75 heading south.
 
-Ethan drove carefully, both hands on the wheel. The roads were clear for now, but snow fell steadily, accumulating on the shoulders. They hadn't spoken much since leaving. There was something about the early morning quiet, the isolation of the highway, that made conversation feel unnecessary.
+Sophia watched the city lights disappear behind them, each streetlight a small goodbye. Manitoba in January at six-thirty AM looked like another planet—flat white nothing in every direction, the sky heavy with unspent snow.
 
-Sophia was content just to be here, in this truck, watching his profile in the dashboard light.
+Ethan drove with both hands on the wheel, careful on the winter roads. They hadn't spoken much since leaving the city. The silence wasn't uncomfortable exactly, but it was heavy with everything they weren't saying: *We're really doing this. Our parents are going to kill us. There's a blizzard coming.*
 
-At six-thirty, the sun started to rise. It came up slow and red on the eastern horizon, turning the snow pink and gold. Ethan glanced at it, then at Sophia.
+She studied his profile in the dashboard light—the tension in his jaw, the way his thumbs tapped nervously against the steering wheel. He'd gotten maybe two hours of sleep, same as her, and it showed in the shadows under his eyes.
 
-"You okay?" he asked. First words in thirty minutes.
+"You okay?" she asked, first words in twenty minutes.
 
-"Yeah. Just watching."
+He glanced at her, a quick smile that didn't quite reach his eyes. "Yeah. Just... processing."
 
-"Watching what?"
+"Processing what?"
 
-"Everything. The sunrise. The road. You."
+"That we're actually doing this. That you're actually here." His right hand left the wheel, found hers across the console. "That in about six hours, your parents and mine are going to realize we lied, and the world is going to explode."
 
-He smiled, quick and genuine. "Creepy."
+"Maybe they won't figure it out right away."
 
-"Romantic."
+"Soph." He squeezed her hand. "My mom probably already knows. She has that terrifying mother instinct. She probably woke up at six-oh-one like 'something's wrong.'"
 
-"Creepily romantic."
+Sophia laughed despite her nerves. "Your mom is kind of scary."
 
-She laughed and settled deeper into her seat. The truck's heater hummed, the radio played quietly—some indie playlist Ethan must have made because it was all artists she'd never heard of but somehow fit perfectly. The GPS said four more hours to Grand Forks.
+"She wasn't always. Before my dad got so..." He trailed off, searching for words. "Intense about the hockey thing. She used to be different. Softer."
 
-Four hours of this. Just driving. Just being together.
+"When did it change?"
 
-It felt like stolen time.
+"When I was twelve. First time scouts started seriously watching me. Suddenly I went from 'kid who's good at hockey' to 'future NHL investment.' Everything changed after that."
 
-"Can I ask you something?" Ethan said as they passed a sign for Emerson, the border crossing still an hour away.
+The sunrise started bleeding across the horizon, pale pink and orange against the white. Beautiful and cold. Ethan reached for the radio, finding the playlist he'd made. The first song was something indie and quiet, a woman's voice over acoustic guitar.
 
-"Yeah."
+"When did you make this?" Sophia asked.
 
-"When you tore up that MIT letter. What did it feel like?"
+"Last night. Couldn't sleep, so..." He shrugged, embarrassed. "It's probably too sad."
 
-Sophia thought about it. "Scary. Exciting. Right."
-
-"All at once?"
-
-"Yeah. Like—you know when you're about to do something you know you shouldn't do, but you're going to do it anyway? That feeling."
-
-"I know that feeling." His mouth twisted wryly. "I'm having that feeling right now."
-
-"About this?"
-
-"About all of it. Driving you to North Dakota. Leaving for prep school. Everything." He was quiet for a moment. "My dad said something last night. After the game. He said, 'Four more days and you'll be on track again.' Like I've been derailed. Like spending time with you is me going off course."
-
-Sophia's chest tightened. "What do you think?"
-
-"I think—" He paused, choosing words carefully. "I think for my whole life, I've been on their track. And it's a good track. NHL, money, success, everything they want for me. But I don't know if it's my track. And spending time with you—it's the first time I've felt like maybe I could have a different track. Maybe I could choose something different."
+"It's perfect." She turned their joined hands over, tracing patterns on his palm. "Tell me something."
 
 "Like what?"
 
-"I don't know yet. That's the problem." He glanced at her. "You said you want to keep your options open. That you're not sure what you want to study. Do you—do you ever feel like you're supposed to have it all figured out by now?"
+"Something you've never told anyone."
 
-"All the time," Sophia admitted. "Everyone keeps asking what I want to major in, and I don't know. I like badminton, but I don't want to do it professionally. I'm good at science, but I don't know if I want to be an engineer. I draw sometimes, but I'm not good enough to study art. I write in journals, but that's not a real thing. I just—I want to try everything. But that's not how it works, apparently. You're supposed to pick one thing and commit."
+He thought for a moment, eyes on the road. "Sometimes I dream about just... disappearing. Not in a bad way. Just getting in my truck and driving until I hit ocean. Starting over somewhere where nobody knows I play hockey."
 
-"Why?"
+"Where would you go?"
 
-"What?"
+"I don't know. Somewhere warm maybe? California, or Mexico. Somewhere I could wear shorts in January and nobody would care if I never touched a puck again."
 
-"Why are you supposed to pick one thing? Why can't you do multiple things?"
+"You'd miss it though. Hockey."
 
-Sophia blinked. "Because—I don't know. Because that's how college works? You pick a major?"
+"Would I?" He glanced at her. "I honestly don't know anymore. It's been my whole life for so long, I can't tell if I love it or if I just... am it. Does that make sense?"
 
-"But you can have a major and a minor. You can double major. You can take random classes just because they're interesting." He was warming to the idea, his voice getting more animated. "Like, I'm going to study astrophysics if I go to college. But that doesn't mean I can't also take art classes. Or play hockey. Or do whatever else seems interesting."
+"Yeah. I feel that way about badminton sometimes. Like, do I actually enjoy it, or is it just part of my identity now?"
 
-"Your dad would have a heart attack if you told him you wanted to take art classes."
+"Exactly." He shifted lanes to pass a slow-moving truck. "Okay, your turn. Something you've never told anyone."
 
-"Probably." He grinned. "Which is kind of a point in favor of it."
+Sophia bit her lip, considering. "Remember when you moved away? When we were nine?"
 
-Sophia laughed. "Rebellion through art appreciation."
+"Yeah?"
 
-"Exactly."
+"I cried for three days straight. My mom thought I was sick. Kept trying to take me to the doctor. But I just... I couldn't explain that my best friend was gone and nothing felt right anymore."
 
-They fell into comfortable silence again. Outside, the landscape rolled by—fields, farmhouses, the occasional small town. Signs counted down kilometers to the border. The snow kept falling, steady but not yet concerning.
+Ethan's hand tightened on hers. "Soph..."
 
-At seven-thirty, Ethan pulled into a Tim Hortons just before the border crossing. They got coffee and breakfast sandwiches, ate in the truck with the engine running.
+"It's okay. It was a long time ago. But sometimes I wonder what would have happened if you hadn't moved. If we'd just... grown up together normally."
 
-"You nervous?" he asked, gesturing ahead to where the border crossing was visible. "About nationals?"
+"We'd probably be dating by middle school," he said with a small smile. "Would have been that couple everyone was sick of by high school."
 
-"A little. This is my third time going, so it should feel routine. But it doesn't."
+"Or we would have dated in middle school, broken up over something stupid, and never talked again."
 
-"Why not?"
+"Nah." He brought her hand to his lips, kissed her knuckles while keeping his eyes on the road. "I don't think I could ever not talk to you. Even in hypothetical alternate timeline."
 
-"Because—" She paused, trying to articulate it. "Because you're here. Because everything feels different this time. Because I keep thinking about the tournament being over and having to come back and you being gone."
+The gesture—casual, intimate, like they'd been together for years instead of months—made her stomach flutter. She wanted to unbuckle, slide across the bench seat, curl into his side. But the roads were getting slick with fresh snow, and she could see the concentration in his face.
 
-He reached across the console and took her hand. "Hey. We're not there yet. We still have three days."
+"Tell me about the playlist," she said instead. "What's each song?"
 
-"I know. But it feels like they're already slipping away."
+So he did, explaining each choice as they drove through the frozen morning. This one reminded him of her laugh. That one was playing in the coffee shop when he realized he was falling for her. This one made him think about the future, about possibilities, about them.
 
-"Then we don't let them slip. We pay attention. We're present. We make them count." He squeezed her hand. "Deal?"
+They stopped at the Tim Hortons in Morris, halfway to the border. The parking lot was nearly empty—too early for normal people, too cold for anyone optional to be out. They got coffee and breakfast sandwiches, ate in the truck with the heater running.
 
-"Deal."
-
-They finished breakfast and got back on the highway. The border crossing was quick—the agent barely glanced at their IDs, asked where they were going, waved them through. And then they were in the United States, Highway 75 continuing south through North Dakota.
-
-The landscape didn't change much. Still flat, still white, still endless. But something about crossing the border made it feel more real. They were really doing this. They were really two teenagers in a truck driving into a winter storm warning because they had three days left together and they weren't going to waste them.
-
-"Put on some music," Ethan said. "My phone's connected. Pick whatever you want."
-
-Sophia grabbed his phone from the cupholder, unlocked it—he'd told her his passcode weeks ago, a small intimacy she still found significant—and scrolled through his playlists. She picked one labeled "Road Trip" and pressed play.
-
-The first song was something acoustic and folky, a woman's voice singing about highways and leaving home. It was perfect.
-
-"When did you make this playlist?" Sophia asked.
-
-"Last night. Couldn't sleep, so I made a playlist for the drive."
-
-"It's good."
-
-"Yeah?" He glanced at her, looking pleased. "I wasn't sure if it was too sad."
-
-"It's not sad. It's—" She searched for the word. "Bittersweet."
-
-"That works."
-
-They drove. The playlist continued, song after song, each one somehow fitting the moment. The snow kept falling. The highway stretched out endlessly ahead. And Sophia felt herself relaxing into it—the rhythm of driving, the warmth of the truck, the presence of Ethan beside her.
-
-This was what she'd wanted. This exact thing. Just time together, no pressure, no parents watching, no friends asking questions. Just them and the road and three days that belonged to no one else.
-
-"Tell me something," Ethan said as they passed a sign for Grand Forks: 140 kilometers.
-
-"Like what?"
-
-"Something I don't know about you. Something you've never told anyone."
-
-Sophia thought about it. "I can't think of anything. You know everything."
-
-"I don't know everything. Come on. Something small. A secret."
-
-She smiled. "Okay. Um. When we were kids—before you moved—I had this notebook where I used to write about you."
-
-His eyebrows shot up. "What?"
-
-"Not like a diary. Just—I don't know. I'd write down things you said that I thought were funny. Or things we did together. I wanted to remember."
-
-"Do you still have it?"
-
-"Yeah. It's in a box in my closet. I found it a few months ago, actually. After we started hanging out again."
-
-"What did it say?"
-
-"Mostly just kid stuff. 'Ethan and I skated for two hours today. He taught me how to stop without falling.' 'Ethan said the ice looks like glass when the Zamboni finishes.' Things like that." She felt her face heating. "It's embarrassing."
-
-"It's not embarrassing. It's—" He paused, and when he spoke again, his voice was quieter. "It's the sweetest thing I've ever heard."
-
-"Really?"
-
-"Yeah. I wish I'd done that. Written things down. I don't remember a lot from when we were kids. Just—impressions. The feeling of being with you. But not specific things."
-
-"What do you remember?"
-
-He was quiet for a long moment, eyes on the road. Finally: "I remember thinking you were the only person who didn't care about hockey. Like, everyone else—kids, parents, coaches—they all cared about whether I won or lost, how many goals I scored, whether I was good enough. But you just wanted to skate with me. You didn't care if I could do a slap shot or whatever. You just liked being on the ice."
-
-"I did like being on the ice."
-
-"I know. And I loved that about you." He glanced at her. "I still love that about you. You're the only person who sees me as more than hockey."
-
-Sophia's throat was tight. "You're more than hockey."
-
-"I know. But most people don't know that. Or don't care." He turned his attention back to the road. "Your turn. Something else I don't know."
-
-"Um." She scrambled to think. "Okay. I almost quit badminton last year."
-
-"What? Why?"
-
-"Because I wasn't the best. I was good, but not the best. And I kept thinking, what's the point of doing something if you're not the best at it? But then I realized—I liked playing. I liked the competition, the strategy, the way it felt when I won. And that was enough. I didn't have to be the best. I just had to enjoy it."
-
-Ethan nodded slowly. "I've never felt that way about hockey."
+"You know what's weird?" Ethan said, unwrapping his sandwich. "This feels more real than anything has in months."
 
 "What do you mean?"
 
-"I mean—I've always had to be the best. There was never a question of just enjoying it. It was always about winning, improving, being better than everyone else. And now I don't know how to just—enjoy something. Without it being a competition."
+"Like... everything else—hockey, prep school, my parents' plans—it all feels like I'm playing a role. Going through the motions. But this?" He gestured between them. "Sitting in a Tim Hortons parking lot at seven-thirty AM, running away to North Dakota with you? This feels like the first real choice I've made in years."
 
-"You enjoy art museums."
+"Even though it's insane?"
 
-"True."
+"Especially because it's insane." He turned to face her fully. "When was the last time you did something that wasn't planned? That wasn't the 'smart' choice?"
 
-"And you enjoy being with me. I hope."
+Sophia thought about it. "Honestly? Never. Until this week."
 
-He laughed. "Yes. I definitely enjoy being with you."
+"Right? We've been so good for so long. Perfect grades, perfect sports performance, perfect everything. And where has it gotten us?"
 
-"See? You can enjoy things without competing."
+"You're about to go to one of the best prep schools in North America."
 
-"Maybe you're teaching me that."
+"Against my will."
 
-"Good. You need to learn it."
+"And I have a shot at any college I want."
 
-They drove on. The landscape gradually shifted—slightly less flat, more trees, signs for small North Dakota towns. The snow was heavier now, big fat flakes that the wipers had to clear every few seconds. Ethan turned on the defroster.
+"If you can afford it without the MIT guarantee."
 
-"Storm's starting early," he said, checking the rearview mirror.
+They sat with that for a moment, the weight of what they'd given up and what they were choosing instead.
 
-"Are we still okay to drive?"
+"No regrets though?" Ethan asked quietly.
 
-"Yeah, roads are fine. It's just snow. We'll be in Grand Forks in less than two hours."
+"No regrets," she confirmed. "You?"
 
-"And if it gets worse?"
+Instead of answering, he leaned across the console and kissed her. Slow and thorough, tasting like coffee and possibility. His hand came up to cup her face, thumb brushing across her cheekbone, and Sophia felt herself melting into him.
 
-"Then we pull over and wait it out." He said it so casually, like it wasn't a big deal. "We have time. Tournament doesn't start until this afternoon."
+When they finally broke apart, they were both breathing hard.
 
-Sophia checked her phone. Her first match was at three PM. It was barely nine-thirty now. Plenty of time.
+"No regrets," he said against her mouth.
 
-Still, something about the heavy snow made her nervous.
+"We should keep driving," she said, not moving away.
 
-"Tell me more things," Ethan said. "Keep my mind off the weather."
+"We should."
 
-"What do you want to know?"
+Neither of them moved for another long moment. Then Ethan's phone buzzed—not his regular phone, the burner he'd bought. Text from Jordan: *Your mom just called my mom. Knows you're not here. Shitstorm incoming.*
 
-"College. Where are you actually thinking of applying?"
+"And so it begins," Ethan muttered, showing her the text.
 
-"Everywhere. Ivy League schools, MIT, Stanford, Berkeley, maybe some liberal arts colleges. I'm casting a wide net."
+"What do you want to do?"
 
-"What about Northwestern? That's near Chicago, right?"
+"Keep driving." He started the truck. "They already know. Can't get in more trouble than we're already in."
 
-"Yeah. Why?"
+As they pulled back onto the highway, Sophia's phone started ringing. Her mom.
 
-"Just wondering." But his voice had a strange tone, carefully neutral.
+"Don't answer," Ethan said.
 
-"Ethan. Why are you asking about Northwestern?"
+"If I don't answer, they'll worry I'm dead in a ditch."
 
-He was quiet for a beat. Then: "Because I might end up there."
+"Let them worry for a bit."
 
-"For hockey?"
+She sent it to voicemail. Immediately, a text: *Where are you? Coach Martinez says you're not on the team bus.*
 
-"Yeah. It's one of the schools recruiting me. Good academics, good hockey program, close to home but not too close."
+Sophia typed back: *I'm fine. Got another ride to nationals. See you Sunday.*
 
-Sophia's heart jumped. "When do you have to decide?"
+Her phone immediately started ringing again. She turned it to silent.
 
-"Not until next year. But it's on the list." He glanced at her. "If you got into Northwestern, and I got into Northwestern—"
+"Three missed calls from my dad," Ethan reported, checking his burner. "Four texts from my mom. One from Robert that just says 'Come home now.'"
 
-"Don't," she interrupted.
+"What did you tell them?"
 
-"Don't what?"
+"Nothing yet." He tossed the phone into the cupholder. "They can wait. We have" —he checked the time— "three more hours until Grand Forks. Let them stew."
 
-"Don't plan that far ahead. Don't make me hope for something that might not happen."
+The border crossing was at Pembina, North Dakota. The guard looked at their enhanced licenses, asked about their plans.
 
-"Why not?"
+"Badminton nationals in Grand Forks," Sophia said from the passenger seat.
 
-"Because—" Her voice cracked. "Because in three days you're leaving and I don't know when I'll see you again. And if I start hoping we could go to college together, it's going to hurt worse when it doesn't work out."
+"Where are your parents?" the guard asked, suspicious of two teenagers traveling alone.
 
-Ethan's jaw tightened. "What if it does work out?"
+"Meeting us there," Ethan lied smoothly.
 
-"Then we'll deal with it when it happens. But right now—right now I just need these three days. I can't think about next year. It's too much."
+The guard studied them for a long moment, then handed back their IDs. "There's a major storm system moving in tonight. You kids be careful."
 
-He didn't argue. Just drove in silence for a while, the windshield wipers beating steadily. Sophia felt bad for shutting him down, but she also knew herself. If she let herself dream about college together, about a future past this separation, the crash when reality hit would destroy her.
+"We will," Ethan assured him.
 
-Better to stay in the moment. These three days. Nothing more.
+They drove into North Dakota, the landscape somehow even flatter and whiter than Manitoba. The snow was falling steadily now, not heavy yet but consistent.
 
-"I'm sorry," Ethan said finally. "You're right. Present tense. Three days."
+"Should we talk about the weather?" Sophia asked.
 
-"Three days," she agreed.
+"What about it?"
 
-"Okay. Then tell me about this tournament. What's your strategy?"
+"The blizzard. The one everyone keeps warning us about."
 
-She let him change the subject, grateful. Talked about her bracket, the players she'd be facing, the techniques she'd been working on. He listened intently, asking questions, genuinely interested. It reminded her of when they were kids, when he'd ask about badminton with the same focus he brought to hockey.
+"It's not supposed to hit until tonight. We'll be in Grand Forks by then. Safe in the hotel."
 
-He'd always been good at that—making her feel like what she cared about mattered.
+"And if the tournament is cancelled?"
 
-At eleven o'clock, they crossed into the outskirts of Grand Forks. The snow was falling heavily now, visibility reduced but still manageable. Ethan drove carefully through town, following the GPS to the Alerus Center where the tournament was being held.
+"Then we have a free weekend in a hotel in North Dakota." He glanced at her, something unreadable in his expression. "Would that be the worst thing?"
 
-The parking lot was half-full. Sophia spotted her team's bus—Coach Martinez must have brought everyone down yesterday, given the storm warnings. Her stomach twisted with guilt. She should have been on that bus.
+Her face heated. "Ethan..."
 
-"You okay?" Ethan asked, parking in a far corner away from the bus.
+"I'm not suggesting anything. I'm just saying... we'd have time. To talk. To figure things out. To just... be together. Without everyone watching."
 
-"Yeah. Just—my coach is going to ask questions."
+"Our parents will probably drive down to get us."
 
-"What are you going to say?"
+"In a blizzard? Unlikely."
 
-"That a friend drove me. Which is true."
+She knew he was right. If they got snowed in, they'd be truly alone for the first time. No friends dropping by, no parents hovering, no timeline except the storm.
 
-"You want me to come in with you?"
+The thought was terrifying and thrilling in equal measure.
 
-"No. Better if they don't see you. I'll check in, find out my match times, and text you."
+"Look," Ethan said, maybe sensing her anxiety. "Nothing has to happen. We can get separate rooms if you want. I just... I want time with you. However that looks."
 
-He nodded. "I'll go find a hotel. Get a room for tonight."
+"Same room is fine," she said quietly. "I trust you."
 
-"Just tonight?"
+"You sure?"
 
-"We'll see how the storm is tomorrow. If we need to stay another night, I'll extend it."
+"Yeah. I mean, we should be smart about money anyway. And..." She took a breath. "I want time with you too. Real time. Without pretending or sneaking around."
 
-Sophia grabbed her competition bag from the back seat. Before she could open the door, Ethan caught her hand.
+He took her hand again, and they drove in comfortable silence through the falling snow. The playlist cycled through, each song feeling like it was written just for them, just for this moment.
 
-"Hey," he said. "Good luck today. You're going to be amazing."
+"Can I tell you something that might sound stupid?" Ethan asked as they passed a sign for Grand Forks—40 miles.
 
-"Thanks."
+"Always."
 
-"I mean it. You're one of the best players in the country. Don't forget that."
+"I keep thinking about that Chinese legend you told me about. The red thread."
 
-She kissed him quickly, then climbed out of the truck before she could lose her nerve. The cold hit her immediately, wind-driven snow stinging her face. She shouldered her bag and walked toward the Alerus Center entrance, not looking back.
+"The one connecting people destined to meet?"
 
-Inside, the building was warm and loud—badminton courts set up everywhere, players warming up, coaches shouting instructions. Sophia found the check-in table and gave her name.
+"Yeah. I know it's just a story, but sometimes I think about when we were kids. How we just... found each other. On that rink. And then found each other again eight years later. Like there really was some invisible thread pulling us back together."
 
-"Sophia Chen?" The woman checked her list. "You're in bracket A, court three. First match at three PM. Second match at six PM if you win."
+"That's not stupid," Sophia said softly.
 
-"Thanks."
+"It's a little stupid."
 
-She turned to find Coach Martinez walking toward her, expression concerned. "Sophia! I was worried. You weren't on the bus yesterday."
-
-"I know. I'm sorry. I had a ride."
-
-"From who?"
-
-"A friend."
-
-Coach Martinez's eyes narrowed. "What friend?"
-
-"Just—someone from Winnipeg. They were driving down anyway."
-
-"Sophia." Her coach's voice was gentle but firm. "I need to know who you're traveling with. For safety."
-
-Sophia sighed. "Ethan Price. He's—we're friends. He drove me down."
-
-Coach Martinez's eyebrows rose. "The hockey player? The one going to prep school?"
-
-"Yeah."
-
-"And your parents know about this?"
-
-"They know I'm here for the tournament."
-
-Which wasn't really an answer, and Coach Martinez clearly knew it. But after a long moment, she just nodded. "Alright. Well. You're here. That's what matters. Your first match is in four hours. Get warmed up. And Sophia?"
+"Okay, it's a little stupid. But also kind of beautiful?"
 
 "Yeah?"
 
-"Be careful. With the storm and—everything else."
+"Yeah. I think about it too sometimes. Like, what were the odds? That your family would move back to Winnipeg? That we'd end up at the same school? That we'd both be dealing with impossible parent expectations at the exact same time?"
 
-"I will."
+"Almost like it was meant to happen."
 
-Coach Martinez walked away, leaving Sophia alone in the middle of the crowded arena. She pulled out her phone and texted Ethan: *First match at 3. Second at 6 if I win. Where are you?*
+"Or we're just really good at finding meaning in coincidence."
 
-His reply came immediately: *Holiday Inn on South Washington. Room 247. Text me when you're done and I'll come watch your matches.*
+"Such a romantic," he teased.
 
-*You don't have to.*
+"Says the guy who made a three-hour playlist for a road trip."
 
-*I want to. I drove four hours to watch you play. Let me watch you play.*
+"Four hours, actually. There's a whole second half you haven't heard yet."
 
-She smiled despite herself: *Okay. See you at 3.*
+She smiled, settling deeper into the passenger seat. Outside, North Dakota stretched endlessly in every direction—a white canvas waiting for their story to be written on it.
 
-She found her team in the warm-up area. Maya saw her and came over immediately. "Oh my God, you made it! How was the drive?"
+"Ethan?"
 
-"Long. Snowy. Fine."
+"Hmm?"
 
-"Is he here?"
+"Thanks. For this. For choosing this even though it's going to make everything complicated."
 
-"Yeah. Getting a hotel."
+"Everything's already complicated. At least this complication is ours."
 
-Maya grinned. "This is so romantic I could die."
+They reached Grand Forks just after noon. The snow was heavier now, starting to accumulate on the roads. The Alerus Center parking lot was half full—the tournament still happening despite the weather warnings.
 
-"It's terrifying."
+"You ready for this?" Ethan asked, parking in a far corner.
 
-"Same thing." Maya linked their arms. "Come on. Let's warm up. You have four hours to get your head in the game."
+Sophia could see the team bus. Coach Martinez was probably wondering where she was. Her teammates would have questions. But none of that mattered as much as the boy sitting next to her, who'd driven four hours through a storm warning just to give them three days together.
+
+"Ready," she said.
+
+They got out of the truck, grabbed their bags, and walked toward the arena. Just before they reached the doors, Ethan caught her hand.
+
+"Hey. Whatever happens next—with the tournament, the storm, our parents—I want you to know this was worth it. You're worth it."
+
+She stood on her toes and kissed him, not caring who might see. "You too. You're worth all of it."
+
+They walked inside holding hands, into the warmth and chaos of the tournament, ready to steal whatever time they could before the storm hit—literal and metaphorical.
+
+And for the first time in weeks, Sophia felt like she could actually breathe.
 
 ---
 
-Sophia's first match was at three PM against a player from Saskatchewan. She won in straight games, 21-14, 21-16. It wasn't her best performance—she was distracted, kept thinking about the snow outside—but it was enough.
+The Alerus Center hummed with pre-tournament energy. Courts being set up, players warming up, coaches barking instructions. Sophia spotted Coach Martinez immediately, standing by the registration desk with a clipboard and a concerned expression.
 
-When she walked off the court, she saw Ethan in the stands. He was in the very back row, wearing a baseball cap and hoodie, clearly trying to be inconspicuous. When their eyes met, he gave her a subtle thumbs up.
+"I should check in," Sophia said.
 
-Her heart did something complicated in her chest.
+"I'll find a hotel," Ethan said. "Text you the details?"
 
-Her second match was at six PM against an Ontario player who was ranked higher. This match was harder—she lost the first game 21-18, fought back to win the second 21-17, and took the third 21-19. When the final point landed, she collapsed to her knees, gasping.
+"Yeah."
 
-She'd made it to semifinals.
+He squeezed her hand once more, then headed back outside. Sophia walked over to her coach, bracing for the conversation.
 
-Which meant one more match tomorrow.
+"Sophia." Coach Martinez's voice was carefully neutral. "You made it."
 
-Which meant one more day in Grand Forks.
+"Sorry I wasn't on the bus. I had—a ride."
 
-Which meant one more night with Ethan.
+"So I gathered. Your parents called me this morning. They're concerned."
 
-She found him waiting outside the locker room after she'd showered and changed. He was leaning against the wall, scrolling through his phone, and when he looked up and saw her, his whole face brightened.
+"I texted them. They know I'm safe."
 
-"You were incredible," he said.
+Coach Martinez studied her for a long moment. "The boy who was with you. That's your ride?"
 
-"I was okay."
+"Yes."
 
-"You were incredible," he insisted. "That third game—I thought my heart was going to explode."
+"The hockey player? The one whose father—" She stopped herself. "Never mind. Not my business. You're here, you're ready to compete?"
 
-She laughed. "Imagine how I felt."
+"Yes."
 
-"Come on. I'm starving. Let's get dinner."
+"Good. First match is at three. Second at six if you win. Get warmed up."
 
-They walked out to the parking lot together. The snow was much heavier now, already several inches accumulated on his truck. Ethan brushed it off while Sophia climbed inside.
+"Coach—"
 
-"Storm's getting worse," he said, starting the engine.
+"Sophia." Her voice softened. "I was seventeen once. I understand more than you think. But right now, you need to focus on badminton. Whatever else is happening, whatever drama you've got going on—compartmentalize. Can you do that?"
 
-"Do you think we'll be able to drive back tomorrow?"
+"Yes."
 
-"Let's see what it looks like in the morning. Tournament rescheduling anything?"
+"Good. Go warm up."
 
-Sophia checked her email. "Nothing yet. Semifinals are scheduled for noon tomorrow."
+Sophia found her team in the corner of the arena. Maya practically tackled her.
 
-"Then we have time."
+"Oh my God, you actually did it! You're here! With him?"
 
-They drove through Grand Forks, searching for somewhere to eat. The roads were getting slippery, traffic moving slowly. Most restaurants looked closed or closing early because of the storm.
+"Shh," Sophia hissed, aware of their other teammates watching. "Yes, okay? Yes."
 
-Finally they found an Italian place downtown that was still open. Inside, it was warm and cozy, with candles on the tables and soft music playing. They got a corner booth and ordered pasta and wine—Ethan had a fake ID that worked about half the time, and apparently this was one of those times.
+"This is the most romantic thing ever. Like Romeo and Juliet but with badminton and hockey."
 
-"To semifinals," Ethan said, raising his glass.
+"Romeo and Juliet died, Maya."
 
-"To semifinals," Sophia echoed.
+"Okay, bad example. But still! Running away together into a storm? That's novel-worthy."
 
-They clinked glasses and drank. The wine was terrible, cheap and sour, but somehow that made it perfect. They were two teenagers in North Dakota drinking bad wine while a blizzard started outside. It was absurd and wonderful.
+"We didn't run away. We drove to a tournament."
 
-"Question," Ethan said, twirling pasta onto his fork. "If you could do anything tomorrow—anything at all, no consequences—what would you do?"
+"Sure. That's all." Maya's grin was wicked. "Where is he?"
 
-Sophia thought about it. "Stay here."
+"Getting a hotel room."
 
-"Here?"
+"A room? Singular?"
 
-"In Grand Forks. In this bubble where no one knows us and we can just be together. Cancel semifinals, cancel prep school, cancel everything. Just—stay."
+"Maya!"
 
-He nodded slowly. "Yeah. I'd choose that too."
+"What? I'm just asking what everyone's thinking."
 
-"But we can't."
+Sophia's phone buzzed. Text from Ethan: *Holiday Inn on South Washington. Room 247. Checked in under my name. They have a restaurant if you want lunch before your match.*
 
-"No. We can't." He took another drink of wine. "So we take what we can get. Tonight. Tomorrow. Sunday morning. And then—"
+"I have to go," Sophia said. "I'll be back by two-thirty for warmups."
 
-"And then you leave," Sophia finished.
+"Sophia Chen, you dirty little—"
 
-"And then I leave," he agreed. "But I come back."
+"We're getting lunch. Stop."
 
-"When?"
+But she was smiling as she left, Maya's laughter following her out.
 
-"I don't know. Spring break, maybe? That's only ten weeks."
+---
 
-"Ten weeks is forever."
+The Holiday Inn restaurant was nearly empty. Ethan had gotten a corner booth, baseball cap pulled low like he was trying to be incognito.
 
-"It's not forever. It's seventy days."
+"Hiding?" she asked, sliding in across from him.
 
-"You counted?"
+"Your coach looked ready to murder someone. Figured I should lay low."
 
-"Yeah. I counted." He reached across the table and took her hand. "Seventy days. We can do seventy days."
+"She's actually being pretty cool about it."
 
-Sophia wanted to believe him. She wanted to believe ten weeks was manageable, that they could survive the separation, that what they had was strong enough to last through distance and parental pressure and all the other forces working against them.
+"Yeah?"
 
-But sitting in that restaurant, watching snow pile up outside, she felt the weight of everything they were up against.
+"I think she understands. Being young and making questionable choices for love."
 
-"Hey," Ethan said softly. "Where'd you go?"
+"Love, huh?" His smile was soft, private. "Is that what we're calling it?"
 
-"I'm right here."
+"What would you call it?"
 
-"No you're not. You're spiraling. I can see it."
+"Love works." He reached across the table, taking her hand. "I love you. In case that wasn't clear."
 
-"I'm not spiraling."
+"I love you too."
 
-"Sophia."
+It still felt new, saying it out loud. Like something precious they were just learning to hold.
 
-She sighed. "Okay. Maybe I'm spiraling a little."
+They ordered sandwiches and soup, comfort food for a cold day. Outside the window, snow fell steadily. The parking lot was already covered in a fresh white layer.
 
-"Tell me what you're thinking."
+"It's getting worse," Sophia observed.
 
-"I'm thinking—" She paused, trying to articulate it. "I'm thinking that everyone is right. Your parents, my parents, everyone. That this is too hard. That we're too young. That long distance doesn't work. That we should just—let go. Before it hurts worse."
+"Yeah. They might cancel the tournament."
 
-Ethan was quiet for a long moment. Then he said, "Is that what you want? To let go?"
+"Would you be disappointed?"
 
-"No. But wanting something doesn't make it possible."
+She thought about it. "Honestly? Not really. I mean, I want to compete. But also... having an excuse to just be here with you, without agenda? That sounds pretty perfect."
 
-"It doesn't make it impossible either." He squeezed her hand. "Look. I know this is hard. I know the odds are against us. But I don't care. I'd rather try and fail than not try at all. Wouldn't you?"
+"Careful, Chen. That sounds dangerously like not caring about achievements."
 
-"I don't know. I've never tried something I knew would probably fail."
+"Maybe I'm evolving."
 
-"Well, now's your chance." He smiled, but it was sad around the edges. "Come on. Let's be stupidly optimistic teenagers together. Let's believe we can make this work. At least for tonight."
+"Into what?"
 
-Sophia looked at him—at his hopeful, heartbroken face—and felt something shift inside her. He was right. She'd spent so much time being careful, being realistic, being the good daughter who made smart choices. But where had that gotten her?
+"Someone who occasionally chooses happiness over achievements?"
 
-Maybe it was time to be stupid.
+"Revolutionary." He was teasing, but there was something serious in his eyes. "It looks good on you. Choosing happiness."
 
-"Okay," she said.
+Her phone buzzed. Text from her mom: *Sophia, this is unacceptable. Come home immediately.*
 
-"Okay?"
+She showed Ethan. He pulled out his burner, showed her his screen: *If you're not home by tonight, there will be serious consequences. This is not a game.*
 
-"Yeah. Stupidly optimistic teenagers. For tonight."
+"They're scared," Ethan said quietly. "They can't control us from there."
 
-His smile widened, genuine this time. "Good."
+"What do you think the consequences will be?"
 
-They finished dinner slowly, talking about everything and nothing. The restaurant gradually emptied until they were the last customers. Finally the waiter came over with the check and a apologetic smile.
+"For me? Probably cutting me off. No college money, no car, no phone. For you?"
 
-"Sorry folks, we're closing up. Storm's getting bad."
+"Same, probably. Plus disappointment. So much disappointment."
 
-Ethan paid—insisted on paying despite Sophia's protests—and they bundled up and headed outside.
+"Worth it?"
 
-The snow was incredible. It must have accumulated six inches in the two hours they'd been inside, and it was still falling heavily. The wind had picked up, creating drifts against buildings and cars. Ethan's truck was nearly buried.
+She looked at him—really looked at him. At the exhaustion around his eyes, the tension in his shoulders, the way he was holding her hand like an anchor. This boy who'd chosen her over everything safe and planned.
 
-"Holy shit," Ethan muttered, brushing snow off the windshield.
+"Worth it," she confirmed.
 
-"This is bad."
+They finished lunch and she headed back to the arena. Her first match at three was straightforward—she won 21-15, 21-12. The girl from Saskatchewan never had a chance. Sophia was playing with unusual focus, like she had something to prove.
 
-"Yeah." He looked around. "We should get back to the hotel. Roads are going to be terrible."
+Ethan watched from the back row, baseball cap still low. But she knew he was there. Could feel his presence like gravity.
 
-They climbed in and Ethan started driving. The truck's four-wheel drive helped, but the roads were still treacherous. They crept through downtown at maybe ten miles per hour, visibility almost zero.
+Her second match at six was harder. The girl from Ontario had beaten Sophia before, knew her patterns. First game went to her opponent 21-18. But Sophia found another gear in the second game, won 21-14. The third game was a battle, every point fought for. When Sophia finally won 21-19, she nearly collapsed from exhaustion.
 
-Sophia's phone buzzed. Text from Coach Martinez: *Tournament postponed until further notice. Blizzard warning upgraded. Stay where you are until it passes.*
+She'd made semifinals. Tomorrow—if the tournament happened.
 
-She showed Ethan. He nodded grimly. "Okay. Change of plans. We're staying put tonight."
+When she found Ethan after showering and changing, he was standing by the windows watching the storm.
 
-"Where?"
+"It's getting bad," he said.
 
-"My hotel. It's closer than your team hotel. And honestly, I don't think we should be driving anywhere else tonight."
+She could barely see the parking lot through the snow. Wind howled against the building.
 
-"Ethan—"
+"They just sent an email," she said, checking her phone. "Tournament postponed until further notice. They'll reassess in the morning."
 
-"I'll get you your own room if you want. But I think we should stay together. What if something happens?"
+"So we're stuck here."
 
-He had a point. The storm was getting dangerous. And the thought of being alone in some hotel room while he was in a different one felt wrong.
+"Yeah."
 
-"Okay," she said. "We'll stay at your hotel."
+They looked at each other, the weight of that settling between them. Stuck in Grand Forks. In a hotel. Together.
 
-"Same room or different rooms?"
+"Come on," Ethan said. "Let's get dinner before everything closes."
 
-She should say different rooms. She should be responsible. But when she looked at him—at his worried face lit by the dashboard lights—she couldn't.
+They found an Italian place downtown still open despite the weather. The owner looked at them like they were crazy for being out, but served them anyway. They got pasta and terrible wine—Ethan's fake ID worked, barely—and sat by the window watching the world disappear under white.
 
-"Same room," she said quietly.
+"This is surreal," Sophia said, twirling linguine.
 
-Something shifted in his expression. "Yeah?"
+"Which part?"
 
-"Yeah. I don't want to be alone tonight."
+"All of it. Being here. With you. Our parents freaking out somewhere. This storm literally trapping us."
 
-"Okay. Same room."
+"Feels like the universe is giving us a gift."
 
-They drove the last few blocks to the Holiday Inn in tense silence. The parking lot was nearly empty—most people had the sense not to be out in this weather. Ethan parked close to the entrance and they ran inside, snow immediately soaking through their clothes.
+"Or testing us."
 
-The lobby was warm and bright. The desk clerk looked up in surprise.
+"Maybe both."
 
-"You folks just get in?"
+They talked about everything and nothing. College dreams (both wanted to study multiple things). Favorite books (she loved mysteries, he loved science fiction). Places they wanted to travel (everywhere, together). The conversation felt different than their usual stolen moments—unhurried, expansive, real.
 
-"Yeah," Ethan said. "Is the hotel fully booked?"
+"Can I ask you something?" Sophia said as they shared tiramisu.
 
-"Not even close. Storm scared everyone away. You need a room?"
+"Anything."
 
-"I have one. Room 247. But—" He glanced at Sophia. "Can I extend it for another night?"
+"When you think about the future—like really think about it—what do you see?"
 
-"Sure thing." The clerk processed it quickly. "You two are the only guests on that floor. Everyone else checked out this afternoon when they saw the forecast."
+He was quiet for a long moment. "Honestly? I can't see past next week. Prep school feels like this wall I'm heading toward, and I can't see over it."
 
-They took the elevator to the second floor. The hallway was empty and eerily quiet. Ethan unlocked room 247 and they stepped inside.
+"Nothing?"
 
-It was a standard hotel room: two double beds, a TV, a bathroom, a window overlooking the parking lot. Nothing special. But something about being here—in this room, alone together, with the storm raging outside—made Sophia's heart race.
+"Well. I see you." He met her eyes. "Whatever else happens, I see you in my future. Is that crazy?"
 
-"I can take the couch," Ethan said, gesturing to the small loveseat by the window.
+"We're seventeen."
 
-"There is no couch. That's a loveseat. You won't fit."
+"So?"
 
-"Then I'll take the floor."
+"So everyone says teenage love doesn't last."
 
-"Ethan. There are two beds. Just—we'll each take a bed."
+"Everyone says a lot of things." He reached across the table, traced patterns on her hand. "I don't care what everyone says. I know what I feel."
 
-He looked relieved. "Okay. Yeah. That works."
+"What if it changes? What if distance changes us?"
 
-They stood awkwardly for a moment. Then Sophia said, "I should text my coach. Let her know where I am."
+"Then it changes. But right now, in this moment, I love you. And I'm choosing to believe that matters."
 
-"Good idea. I should text my parents too."
+The owner came over, apologetic. "I'm sorry, kids, but I need to close. The storm is getting worse."
 
-They both pulled out their phones. Sophia texted Coach Martinez: *At hotel near the Alerus Center. Safe. Will wait out the storm.*
+They paid—Ethan insisted, despite Sophia's protests—and stepped outside into the blizzard.
 
-She didn't mention which hotel. Or that Ethan was with her.
+The world had transformed. Snow fell so thick they could barely see across the street. Wind drove it sideways, stinging their faces. They struggled back to Ethan's truck, had to brush a foot of snow off before they could even find the door handles.
 
-Ethan was texting his parents, his face tense. When he finished, he tossed his phone on the bed. "My dad is pissed. Wanted to know why I'm not home yet."
+The drive back to the hotel was terrifying. Even with four-wheel drive, the truck slid constantly. Visibility was maybe ten feet. What should have been a five-minute drive took twenty, Ethan white-knuckling the steering wheel the whole way.
 
-"What did you tell him?"
+When they finally made it to the Holiday Inn parking lot, they sat for a moment, breathing hard.
 
-"That I drove a friend to a tournament and got stuck in the storm. He's calling me in a minute. I should—" He gestured to the bathroom. "I'll take it in there. So you don't have to hear."
+"That was—"
+
+"Yeah."
+
+"We're definitely stuck here now."
+
+"Yeah."
+
+They looked at each other in the dim cab light. Stuck. Together. Alone.
+
+"We should go in," Sophia said.
+
+"We should."
+
+Neither moved.
+
+"Sophia—"
+
+"I know. I'm nervous too."
+
+"I don't want you to think—I mean, I got the room because we needed somewhere to stay, not because I expected—"
+
+"I know." She leaned across the console, kissed him softly. "I trust you. And I trust myself. Whatever happens or doesn't happen, we're choosing it together. Okay?"
 
 "Okay."
 
-His phone rang almost immediately. He grabbed it and went into the bathroom, closing the door. Through the thin walls, Sophia could hear his voice—muffled but clearly arguing.
+They ran through the blizzard to the hotel entrance, laughing and gasping as snow immediately soaked through their clothes. The lobby was warm and bright, a shocking contrast to the violence outside.
 
-She sat on one of the beds and stared out the window. The storm was intensifying, snow falling so heavily she could barely see the parking lot below. They were stuck here. Maybe for the night. Maybe longer.
+The desk clerk looked up. "You kids just get in?"
 
-Stuck together.
+"Just made it," Ethan confirmed.
 
-In a hotel room.
+"You're lucky. Highway's closing. Nobody's going anywhere until this passes."
 
-With one night before he left forever.
+They took the elevator to the second floor. The hallway was eerily quiet—most guests had clearly fled before the storm. When Ethan unlocked room 247, Sophia felt her heart rate spike.
 
-The bathroom door opened. Ethan came out, his face pale and his jaw tight. "My dad is—he's really angry. He figured out where I am. Or who I'm with. I don't know how, but he knows."
+It was just a room. Two double beds. A TV. A window showing nothing but white.
 
-Sophia's stomach dropped. "What did he say?"
+But it was also their room. Their space. No parents, no friends, no one watching.
 
-"That I need to come home immediately. That the storm isn't an excuse. That I'm jeopardizing everything for—" He broke off, looking away.
+"I can sleep on the floor," Ethan offered immediately.
 
-"For what?"
+"There are two beds."
 
-"For you. He said I'm jeopardizing everything for you."
+"Right. Yeah. Two beds."
 
-The words hung in the air between them, heavy and sharp.
+They stood awkwardly in the doorway until Sophia laughed. "We're being ridiculous."
 
-"Maybe he's right," Sophia whispered.
+"We are."
 
-Ethan's head snapped up. "What?"
+"We've literally slept in the same bed before."
 
-"Maybe he's right. Maybe you should try to drive back tonight. Before this gets worse."
+"That was different."
 
-"Sophia, I can't drive in this. It's not safe."
+"Why?"
 
-"Then maybe I shouldn't have let you drive me in the first place. Maybe this whole thing was a mistake."
+"Because..." He ran a hand through his snow-damp hair. "Because we hadn't said I love you yet. Because we weren't alone in a hotel room in a different country while our parents think we're dead. Because everything feels more... possible now."
 
-He crossed the room in three steps, grabbing her shoulders. "Hey. Look at me. This is not a mistake. Do you hear me? Being here with you is not a mistake."
+She knew exactly what he meant. The air between them felt charged, full of potential energy waiting to spark.
 
-"But your dad—"
+"Let's just... see what happens," she said. "No pressure. No expectations. Just us."
 
-"I don't care what my dad thinks. I'm eighteen. I made this choice. And I don't regret it." His eyes were fierce, desperate. "Do you regret it?"
+"Just us," he agreed.
 
-She wanted to say yes. Wanted to say they should have been responsible, should have listened to the storm warnings, should have taken the safe path.
+They changed into dry clothes—separately, Sophia in the bathroom—and settled on one of the beds to watch the weather report. The storm was even worse than predicted. Two feet of snow expected. Roads closed indefinitely.
 
-But when she looked at him—at his face inches from hers, at his hands on her shoulders, at the way he was looking at her like she was the only thing that mattered—she couldn't lie.
+"My parents are going to lose their minds," Sophia said, checking her phone. Twelve missed calls. Twenty-three texts. Increasingly frantic voicemails.
 
-"No," she said. "I don't regret it."
+"Mine too." Ethan showed her his burner. "My dad actually used all caps. I've never seen him use all caps."
 
-"Good. Then stop trying to protect me from my own choices. I chose this. I choose you. And whatever consequences come from that, I'll deal with them."
+"Should we tell them we're okay?"
 
-He let go of her shoulders and stepped back, running a hand through his hair. He looked exhausted, wrung out from the argument with his father.
+"They know we're okay. If we weren't, the police would have called by now."
 
-Sophia stood and went to him, wrapping her arms around his waist. He stiffened for a second, then melted into her, his face pressing into her hair.
+"That's morbid."
 
-"I'm sorry," she murmured.
+"But true."
 
-"For what?"
+She leaned against his shoulder, and he put his arm around her. On TV, the weather person was gesturing at a massive swirl of white covering three states.
 
-"For making this harder. For being the reason your dad is angry."
+"Historic storm," the weather person said. "Possibly the worst in a decade."
 
-"You're not the reason. His expectations are the reason. His need for control is the reason. You're just—" He pulled back to look at her. "You're the best thing that's happened to me in years. Don't apologize for that."
+"We have terrible timing," Sophia murmured.
 
-Her eyes stung. "What are we doing, Ethan?"
+"Or perfect timing," Ethan countered. "Depending on how you look at it."
 
-"I don't know. Surviving? Trying to carve out something that's ours?"
+She tilted her head to look at him. "How are you looking at it?"
 
-"Is it working?"
+"Like we got given a gift. Time. No one can get to us. No one can make us leave. For however long this storm lasts, we're free."
 
-He smiled tiredly. "Ask me tomorrow."
+"Free," she repeated, tasting the word.
 
-They stood there holding each other, listening to the storm howl outside. And Sophia thought: this is it. This is the moment everything could change. They were alone, together, with nowhere to go and nothing to do but be present with each other.
+"Free to be ourselves. To figure out what we actually want. To just... exist together."
 
-It was terrifying.
-
-It was perfect.
-
-"We should sleep," Ethan said finally. "You have semifinals tomorrow. Maybe."
-
-"Maybe," she agreed.
-
-They separated reluctantly. Sophia grabbed her bag and went to the bathroom to change. When she came out in sweatpants and a t-shirt, Ethan had changed too—athletic shorts and a worn hockey t-shirt.
-
-They climbed into their separate beds, turned off the lights. The room fell into darkness except for the faint glow from the parking lot lights reflecting off the snow.
-
-"Ethan?" Sophia said into the dark.
+"That sounds perfect."
 
 "Yeah?"
 
-"Thank you. For driving me. For being here. For choosing this."
+"Yeah."
 
-"Thank you for letting me."
-
-They lay in silence, listening to the wind. Sophia couldn't sleep. Her mind was too loud, too full of thoughts and worries and the awareness that he was right there, ten feet away, and tomorrow they'd have one more day together before everything fell apart.
-
-"Sophia?" Ethan's voice was quiet.
-
-"Yeah?"
-
-"I'm glad we're here. Even with the storm. Even with my dad being pissed. I'm glad."
-
-"Me too."
-
-More silence. Then, so quiet she almost missed it: "Good night."
-
-"Good night."
-
-She closed her eyes and tried to sleep, but her heart was racing too fast, her mind spinning too quickly. Outside, the storm raged on, burying North Dakota under feet of snow.
-
-And inside room 247, two teenagers lay awake in the dark, not sleeping, just existing in the same space, together and separate, knowing that tomorrow everything would change again.
-
-Knowing that the storm outside was nothing compared to the storm waiting for them when they got home.
-
-But for tonight—for right now—they had this.
-
-And somehow, impossibly, it was enough.
+They stayed like that for a while, watching the storm rage outside, safe in their little bubble of warmth and possibility. And Sophia thought: This is it. This is what choosing yourself feels like. Terrifying and perfect and absolutely worth whatever comes next.

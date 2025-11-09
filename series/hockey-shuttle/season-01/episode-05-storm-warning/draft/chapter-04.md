@@ -2,652 +2,588 @@
 
 ## JANUARY 7, JUNIOR YEAR
 
-The morning was aggressively bright.
+Morning came like an assault—aggressive sunlight bouncing off pristine snow.
 
-Sophia woke to sunlight streaming through the hotel window, blinding after two days of gray storm. She squinted against it, disoriented, until memory flooded back: the blizzard, the confession, falling asleep in Ethan's arms.
+Sophia woke to brightness so intense it hurt. She squinted, disoriented, then remembered: Grand Forks. Hotel room. Storm. Ethan.
 
-She turned her head. He was already awake, propped on one elbow, watching her.
+Ethan.
+
+She turned her head. He was already awake, propped on one elbow, watching her with an expression she couldn't read.
 
 "Hey," he said softly.
 
-"Hey." Her voice was scratchy. "How long have you been up?"
-
-"Hour maybe. Didn't want to wake you."
-
-"What time is it?"
+"Hey." Her voice came out scratchy. "What time is it?"
 
 "Six-thirty."
 
-Early. But also late. Because today was the day. Today he left.
+Early. But also late. Because today was the day. Today he was supposed to leave for Michigan. Today everything would fall apart or come together, and she didn't know which.
 
-Sophia sat up, pushing hair out of her face. Through the window, she could see the parking lot—or where the parking lot had been. Everything was buried under feet of pristine white snow. But the sky was clear, painfully blue, and she could hear the distant rumble of snowplows.
+She sat up, pushing hair from her face. Through the window, she could see the parking lot—or what had been the parking lot. Everything was buried under mountains of snow. But the sky was offensively clear, painfully blue, and she could hear the distant rumble of plows.
 
-"Roads are opening," Ethan said, following her gaze. "I checked the highway status. They've been plowing all night. Should be clear by noon."
+"Roads are opening," Ethan said, following her gaze. "Highway should be clear by noon."
 
-"What about the tournament?"
+"Your flight—"
 
-"Check your phone."
+"Was supposed to be tonight at eight. From Winnipeg."
 
-She grabbed it from the nightstand. Email from Coach Martinez, sent at 5:47 AM: *Finals rescheduled for 9:00 AM this morning. Alerus Center plowed and open. Be there by 8:30 for warmup.*
+"That's..." She did quick mental math. "Six hours of driving, if roads are clear. You could make it."
 
-Sophia's stomach dropped. "I have two hours."
+"I could."
 
-"Better get ready then."
+The word hung between them, loaded with everything they'd discussed last night.
 
-She looked at him—at his tired eyes and messy hair and the way he was trying to smile like everything was fine. "Come with me. To watch."
+"Are you going to?"
 
-"I was planning on it."
+He sat up, scrubbed his hands over his face. "I don't know. I thought I knew, but now..." He looked at her. "What do you think I should do?"
 
-"No, I mean—stay with me. After. Help me pack. We'll drive back together."
+"I can't answer that for you."
 
-"Sophia—"
+"I know. But if you could. If it was your choice."
 
-"I know you have to leave tonight. I know. But let's—let's have the morning. The afternoon. A few more hours. Please."
+Sophia pulled her knees to her chest, thinking. "I think... I think you should go."
 
-He reached for her hand. "Yeah. Okay. Of course."
+His face fell. "You want me to leave?"
 
-They got ready quickly—showering separately, dressing in silence. Sophia put on her badminton gear, braided her hair tight. Ethan wore jeans and his hockey jacket, the Winnipeg Falcons logo across the back. They looked like who they were: two athletes, two kids who'd built their identities around being good at their sports.
+"No. God, no. But I think—I think if you don't go, you'll always wonder. What if you'd tried. What if you'd given it a chance. And your parents—"
 
-But they were also something else now. Something harder to define.
+"Will never forgive me either way."
 
-They checked out of the hotel—Ethan paid, ignoring Sophia's protests—and drove carefully through Grand Forks to the Alerus Center. The roads were plowed but still treacherous, ice hiding under fresh snow. Everything looked different in the bright morning light: beautiful and hostile at once.
+"Maybe. But at least if you go, you're trying. You can always leave later if it's truly awful. But if you don't even try..."
 
-The parking lot was fuller than expected. Apparently everyone had been eager to finish this tournament and get home. Sophia grabbed her bag from the back seat.
+"I'll be the kid who threw away everything for a girl."
 
-"I'll come in with you," Ethan said.
+"You're not throwing it away for me."
 
-"You sure? My team is going to ask questions."
+"I know. But that's how everyone will see it. How I might see it, someday, if things don't work out with us."
 
-"Let them ask."
+The possibility hurt to acknowledge, but it was real. They were eighteen. Statistics were against them.
 
-They walked into the arena together. Inside, it was chaos—players warming up, coaches shouting, parents in the stands. Sophia spotted Coach Martinez immediately. Her coach saw her, saw Ethan, and her expression flickered with something between concern and resignation.
+"So go," she said. "Try. And if it's unbearable, leave. Come home. Figure out something else. But at least try."
 
-"Sophia," she called, walking over. "You're here. Good."
-
-"Sorry about yesterday. The storm—"
-
-"I know. Everyone got stuck." Coach Martinez glanced at Ethan. "This is your friend? The one who drove you?"
-
-"Ethan Price," he said, extending his hand. "Nice to meet you."
-
-Coach Martinez shook it, studying him. "Hockey player?"
-
-"Yes ma'am."
-
-"You're the one going to prep school. In Michigan."
-
-"Yes ma'am."
-
-"When do you leave?"
-
-"Tonight."
-
-Coach Martinez looked between them, and Sophia saw understanding dawn in her eyes. "I see. Well." She turned to Sophia. "Finals are in thirty minutes. You're playing against the girl from Ontario you beat yesterday. She's good. You need to be better. Understood?"
-
-"Yes Coach."
-
-"Good. Go warm up."
-
-Sophia nodded and headed toward the practice courts. Maya found her immediately, pulling her aside.
-
-"Oh my God," Maya hissed. "You were with him the whole time? In the hotel?"
-
-"Yeah."
-
-"Did you—" She made a vague gesture that somehow conveyed everything.
-
-"No. We just—we talked. And slept. Like, actually slept."
-
-Maya looked disappointed. "That's so wholesome."
-
-"It was perfect," Sophia said, and meant it.
-
-She warmed up mechanically, her body knowing what to do even while her mind was elsewhere. In the stands, she could see Ethan sitting in the same back corner he'd chosen yesterday. Anonymous. Watching.
-
-At nine o'clock, the official called her to court three for finals.
-
-The match was brutal.
-
-Her opponent was a girl named Rachel Liu, seventeen, from Toronto. They'd played before—Rachel had beaten Sophia at regionals last spring. She was fast, technical, and completely unshakeable.
-
-First game: Sophia lost 21-16. She was distracted, emotional, kept missing shots she should have made.
-
-Between games, Coach Martinez came to her bench. "Where are you right now?"
-
-"What?"
-
-"Your body is on this court. Your mind is somewhere else. Where?"
-
-Sophia glanced at the stands, at Ethan. Coach Martinez followed her gaze.
-
-"I see." Her coach's voice softened. "Look. I don't know your whole situation. But right now, you have twenty minutes left to prove you belong at nationals. You can fall apart after. But right now? Play. For yourself. Show everyone—including him—who you are when you're at your best."
-
-Something in her words struck home. Sophia nodded. "Okay."
-
-Second game: She played with desperate focus, channeling all her fear and love and confusion into each shot. She won 21-16.
-
-Third game: Everything narrowed to the shuttlecock, the court, her body moving with precision she didn't know she possessed. Rachel was good. But Sophia was better today. She won 21-17.
-
-National silver medalist for the third consecutive year.
-
-When the final point landed, Sophia collapsed to her knees, gasping. Not from exhaustion—from relief. She'd done it. Despite everything, she'd won.
-
-She looked up at the stands. Ethan was on his feet, clapping hard, his face split in a huge grin. And seeing him there—proud of her, happy for her—made everything worth it. Every risk, every choice, every consequence coming their way.
-
-She'd chosen him, and she'd still won.
-
-The medal ceremony was quick—gold to Rachel, silver to Sophia, bronze to two other players. Photos were taken, hands were shaken, congratulations exchanged. And then it was over.
-
-Coach Martinez pulled her aside. "I'm proud of you. That was a hell of a match."
-
-"Thanks Coach."
-
-"Your parents are driving down tonight to pick you up. They called this morning."
-
-Sophia's stomach plummeted. "What?"
-
-"They said they wanted to drive you home themselves. They'll be here around three."
-
-"But I—I have a ride—"
-
-"I know. I told them. They said to send your friend home and wait for them." Coach Martinez's expression was sympathetic. "I'm sorry. I tried to tell them you were fine, but they insisted."
-
-Sophia felt panic rising in her throat. Her parents. Driving six hours to pick her up. Because they didn't trust her. Because they knew about Ethan.
-
-"When did they call?"
-
-"Six this morning. They were—they seemed upset."
-
-Upset. That was putting it mildly.
-
-"Okay," Sophia said, trying to keep her voice steady. "Okay. Thanks for telling me."
-
-She found Ethan waiting outside the locker room. One look at her face and his smile vanished.
-
-"What's wrong?"
-
-"My parents are driving here to pick me up. They'll be here at three."
-
-He went pale. "They know."
-
-"They must. Coach said they sounded upset."
-
-"So we have—" He checked his watch. "Five hours."
-
-"Yeah."
-
-They looked at each other, the weight of it settling between them. Five hours. Then her parents would arrive. Then he'd have to drive back to Winnipeg alone, pack, and leave for Michigan tonight.
-
-This was it. The end of their three days.
-
-"Come on," Ethan said, taking her hand. "Let's go."
-
----
-
-They drove out of Grand Forks with no real destination. Just driving, putting distance between themselves and the Alerus Center, buying time. The highways were clear now, bright sun glinting off endless white fields.
-
-Sophia kept checking her phone. No calls yet. But they were coming.
-
-"Where do you want to go?" Ethan asked.
-
-"Anywhere. Nowhere. I don't care."
-
-He took a random exit, drove into a small North Dakota town she didn't catch the name of. They found a diner, got coffee and pie neither of them wanted. Sat in a corner booth, holding hands across the table.
-
-"We should talk about logistics," Ethan said. "How we'll stay in touch."
-
-"Your dad took your phone."
-
-"He took that phone. I'll get a burner. Something he doesn't know about."
-
-"That's—that's a lot of work. And risk."
-
-"I don't care. I need to talk to you. I can't go ten weeks without hearing your voice."
-
-Sophia's throat was tight. "What if you get caught?"
-
-"Then I get caught. And I deal with it." He squeezed her hand. "I'm going to call you. Text you. As much as I can. And spring break—I'm coming home. I don't care what my parents say."
-
-"Ethan—"
-
-"I know it sounds impossible. But I'm not giving up on this. On us. Unless—" He paused, suddenly uncertain. "Unless you want to. If this is too hard, if you'd rather just—end it clean—"
-
-"No," she said immediately. "No. I don't want that."
-
-"You're sure?"
-
-"I'm sure. I love you. That doesn't change just because you're leaving."
-
-He lifted her hand to his lips, kissed her knuckles. "I love you too. So much it scares me."
-
-They sat in silence, coffee going cold, pie untouched. Outside, normal people went about their normal day. And Sophia felt the surreal disconnect of heartbreak happening in public, in a diner, on a sunny afternoon.
-
-Her phone buzzed. Text from her mother: *We're two hours away. Be ready.*
-
-She showed Ethan. He nodded, jaw tight. "We should head back."
-
-"Not yet. Please. A little longer."
-
-"Sophia, if we're not there when they arrive—"
-
-"I know. I know. Just—" Her voice cracked. "Just five more minutes."
-
-He got up, slid into her side of the booth, and pulled her against him. She buried her face in his shoulder, breathing him in—soap and coffee and something essentially him.
-
-"This isn't the end," he murmured into her hair. "This is just—intermission. We'll figure out the second act."
-
-"What if there isn't a second act?"
-
-"There will be. I promise."
-
-She wanted to believe him. Wanted to believe love was enough, that determination could overcome distance and parental disapproval and all the practical reasons this wouldn't work.
-
-But sitting in that diner, wrapped in his arms, counting down minutes until separation, belief felt very far away.
-
----
-
-They drove back to Grand Forks in heavy silence. The GPS said they'd arrive at 2:47—thirteen minutes before her parents. Barely enough time.
-
-The Alerus Center parking lot was nearly empty now, tournament over, everyone gone home. Ethan parked in the same corner he'd used yesterday. Neither of them moved to get out.
-
-"I don't know how to say goodbye," Sophia said.
-
-"Then don't. Say 'see you later.'"
-
-"That feels like lying."
-
-"It's not lying. It's hope."
-
-She turned to look at him. His face was pale, his eyes bright with unshed tears. He was holding it together through sheer force of will.
-
-"Spring break," he said. "Ten weeks. I'll come back."
-
-"Okay."
-
-"And I'll call you. All the time. You'll get sick of me."
-
-"Impossible."
-
-He smiled, watery. "I'm going to miss you so much."
-
-"I'm going to miss you too."
-
-They kissed then—long and desperate and full of all the things they couldn't say. When they broke apart, they were both crying.
-
-"I should go," Sophia whispered. "Before they get here."
-
-"Yeah. Okay."
-
-She grabbed her bag from the back seat, opened the door. The cold air hit her like a slap. She stood in the parking lot, looking back at him through the open door.
-
-"Ethan?"
-
-"Yeah?"
-
-"Thank you. For driving me. For this weekend. For—everything."
-
-"Thank you for letting me. For choosing me."
-
-"Always."
-
-She closed the door and walked toward the arena entrance. Halfway there, she turned back. He was still sitting in his truck, watching her. She raised her hand in a small wave.
-
-He waved back.
-
-Then she forced herself to turn around and keep walking. Into the arena, through the empty halls, to the front entrance where she'd wait for her parents.
-
-She didn't let herself look back again.
-
----
-
-Her parents' car pulled up at exactly three o'clock.
-
-Sophia watched through the glass doors as they parked, got out, walked toward the entrance. Her father looked tired, her mother looked furious. This was going to be bad.
-
-They came inside. Her mother saw her and stopped short.
-
-"Sophia," she said. Just her name. But the weight of disappointment in it was crushing.
-
-"Hi Mom. Hi Dad."
-
-Her father took her bag. "Is he still here? The boy?"
-
-"No. He left."
-
-A lie. Ethan was still in the parking lot, probably watching this unfold. But she couldn't—she couldn't let them confront him. Couldn't let this get worse.
-
-"Good," her mother said tightly. "Let's go."
-
-They walked to the car in silence. Sophia climbed in the back seat, looked out the window. And there—in the far corner of the lot—Ethan's truck. Still parked. Still waiting.
-
-Her father started driving, heading toward the highway. As they passed Ethan's truck, Sophia looked. He was watching, his face visible through the windshield.
-
-Their eyes met for one last second.
-
-Then they were past, pulling onto the highway, and he was gone.
-
----
-
-The drive back to Winnipeg was six hours of silence.
-
-Her parents didn't yell. Didn't lecture. Didn't say anything at all. Just drove, the radio off, the tension suffocating.
-
-Finally, as they crossed into Manitoba, her mother spoke.
-
-"You lied to us."
-
-"I know."
-
-"You rejected MIT and you lied about who drove you and you spent the weekend with a boy whose family we don't even know."
-
-"I know."
-
-"Do you have any idea how worried we were? When the storm hit and we couldn't reach you? When your coach said you'd driven down with some boy?"
+He was quiet for a long moment. Then: "You're right. I hate that you're right, but you are."
 
 "I'm sorry."
 
-Her mother turned around in her seat, eyes blazing. "Sorry isn't enough. You've been making terrible choices, Sophia. Rejecting MIT. Spending all your time with this boy. And for what? So you can throw away your future?"
+"No. I needed to hear it." He reached for her hand. "Will you wait? While I'm gone? It's only ten weeks until spring break."
 
-"I'm not throwing away my future."
+"You know I will."
 
-"Then what do you call it? You had a guarantee. You had everything figured out. And you threw it away for—for what? Teenage romance?"
+"Even with the distance? Even with my parents trying to destroy this?"
 
-"For myself," Sophia said, voice shaking. "I threw it away for myself. Because I didn't want his father's bribe."
+"Especially then. I'm stubborn when people tell me I can't have something."
 
-Silence.
+He smiled, the first real smile of the morning. "I love that about you."
 
-Her mother stared at her. "What?"
+"My stubbornness?"
 
-Too late, Sophia realized her mistake. She'd said too much.
+"Your determination. Your refusal to be controlled."
 
-"What bribe?" her father asked from the driver's seat.
+"Learned from the best," she said, squeezing his hand. "You chose me over everything safe. Least I can do is choose you back."
 
-There was no taking it back now. "Robert Price offered me MIT. In October. Came to our house with a letter. He said it was all arranged, I just had to accept. But it wasn't—it wasn't real. It was a bribe to stay away from Ethan."
+Her phone buzzed. Email from Coach Martinez: *Finals rescheduled for 9:00 AM. Be there by 8:30 for warmup.*
 
-Her parents exchanged a look. Her mother turned back around, facing forward. Long silence.
+"I have a match," Sophia said.
 
-Finally her father said, "We know."
+"I'll come watch."
 
-Sophia's world tilted. "What?"
+"You don't have to—"
 
-"We know," her mother repeated. "Robert called us in November. After you rejected it. He told us what he'd offered and that you'd turned it down. He wanted to know if we could convince you to reconsider."
+"Sophia. I drove you here to watch you play. I'm watching you play."
 
-"You knew?" Sophia's voice was rising. "You knew he tried to bribe me and you didn't tell me?"
+They got ready quickly, muscle memory from years of early morning practices. Sophia braided her hair tight, put on her competition clothes. Ethan wore jeans and his Winnipeg Falcons hoodie—no point hiding anymore.
 
-"Because we agreed with him," her mother said. "We thought MIT was the right choice. We thought you were being stubborn. We were going to talk to you about it, but then you rejected it anyway, and we realized—" She stopped.
+The hotel breakfast was crowded with stranded travelers finally able to leave. They ate quickly, quietly, both lost in thought about what came next.
 
-"Realized what?"
+"After your match," Ethan said. "We should head back right away. The longer we wait—"
 
-"Realized you'd chosen that boy over your future. Over us."
+"The worse it gets. I know."
 
-The accusation hung in the air, ugly and impossible to refute. Because it was partly true. She had chosen Ethan. Not over her future—but as part of her future. As part of who she wanted to be.
+They drove carefully to the Alerus Center. The roads were plowed but still treacherous, ice hiding under fresh sand. The parking lot was fuller than expected—apparently everyone was eager to finish the tournament and get home.
 
-"I didn't choose him over you," Sophia said quietly. "I chose honesty over manipulation. I chose making my own decisions over letting everyone else decide for me. And yes, part of that decision included Ethan. Because I love him."
+Coach Martinez was waiting at the entrance.
 
-Her mother flinched. "You're seventeen. You don't know what love is."
+"Sophia. You made it."
 
-"Maybe I don't. But I know what this is. And it's real. Even if it's hard. Even if everyone thinks it's a mistake."
+"Sorry about yesterday—"
 
-No one responded. They drove on in silence.
+"The entire tournament was cancelled yesterday. Everyone was stuck." Her coach's eyes moved to Ethan. "Mr. Price."
 
-As they pulled into Winnipeg—familiar streets, familiar landscape—Sophia felt exhaustion settle over her like a weight. She was so tired. Tired of fighting, tired of defending herself, tired of being caught between what everyone wanted for her and what she wanted for herself.
+"Coach Martinez."
 
-They pulled into her driveway at nine-thirty PM. Dark, cold, the house lit from within. Home. Except it didn't feel like home anymore. It felt like a place she was trapped.
+"You're the one who drove her."
 
-"Go inside," her mother said. "We'll talk more tomorrow."
+"Yes ma'am."
 
-Sophia grabbed her bag and went in. Her parents followed, but she went straight upstairs to her room, closed the door, and collapsed on her bed.
+"Through a blizzard."
 
-Her phone buzzed immediately. Text from Maya: *Are you okay?? Your parents looked PISSED when they picked you up.*
+"We drove down before the blizzard. Got stuck during it."
 
-Sophia typed back: *I'm alive. Barely. Talk tomorrow.*
+Coach Martinez studied them both, and Sophia could see her adding things up. The same hotel. The way they stood close together. The something that had changed between them.
 
-Then, text from unknown number: *It's me. Just got home. About to leave for Michigan. I love you. This isn't over.*
+"Your parents are worried sick," she said to Sophia.
 
-Ethan. He'd gotten a burner phone already.
+"I texted them. They know I'm safe."
 
-She saved the number, labeled it just "E" in case her parents looked, and typed back: *I love you too. Be safe. Text me when you get there.*
+"Safe is relative." But her tone was gentle. "Go warm up. Finals in thirty minutes."
 
-*I will. Wait for me.*
+Sophia's opponent was the Ontario girl from yesterday—or was it the day before? Time felt elastic, distorted by the storm and everything that had happened in room 247.
 
-*Always.*
+The match was brutal. Sophia's body was exhausted, her mind scattered. She lost the first game 21-16, couldn't find her rhythm. Between games, she looked up at the stands. Ethan was in his usual spot, but he wasn't hiding anymore. When their eyes met, he nodded once. Calm. Certain. *You've got this.*
 
-She set her phone down and stared at her ceiling. Somewhere, Ethan was packing. Saying goodbye to his parents—or not saying goodbye, just leaving. Driving through the night to Michigan. To prep school. To the life his father had planned.
+Second game, she found her focus. Won 21-17.
 
-And she was here. Alone. Her parents furious, her future uncertain, her heart broken but still beating.
+Third game, everything came together. Every shot was precise, every movement economical. She played like someone who had nothing left to lose and everything to prove. Won 21-15.
 
-Silver medal on her desk.
+Silver medal. Again.
 
-Torn MIT letter in her trash.
+But this time, it didn't feel like failure. It felt like triumph.
 
-"E" saved in her phone.
+When the ceremony ended, Ethan was waiting. "You were incredible."
 
-Three days that had changed everything.
+"I was okay."
 
-She closed her eyes and let herself cry. For what she'd chosen, what she'd lost, what she'd almost had. For the impossibility of teenage love against the world. For the boy driving away from her right now, getting farther with every passing second.
+"You were incredible," he insisted. "The way you came back after losing the first game? That was pure determination."
 
-Her phone buzzed again. Voice message.
+Coach Martinez approached. "Good match, Sophia. Your parents called. They're driving down to get you."
 
-She opened it. Ethan's voice, rough and quiet: "I found a way to send this. I'll find more ways. Every day. I promise. Wait for me, Sophia. Please wait for me."
+Sophia's stomach plummeted. "What? When?"
 
-She listened to it three times before sleep finally claimed her.
+"They left Winnipeg an hour ago. They'll be here by three."
+
+"But I have a ride—"
+
+"I know. I told them. They insisted." Coach Martinez's expression was sympathetic. "I'm sorry. I tried to convince them you were fine, but..."
+
+"They don't trust me anymore," Sophia finished.
+
+"They're scared. There's a difference."
+
+But the result was the same. Her parents were coming. Which meant—
+
+"We should go," Ethan said quietly. "Now. Before they get here."
+
+"Ethan—"
+
+"If we leave now, we can make it back to Winnipeg by 2:30. I can pack and still make my flight. If we wait..."
+
+If they waited, their parents would intersect here. In Grand Forks. The confrontation would happen in public, in front of the entire badminton tournament.
+
+"Okay," Sophia said. "Let's go."
+
+They practically ran to his truck. Ethan started it, began scraping ice while it warmed up. Sophia threw her bag in the back, checking her phone. Text from her mom: *We're coming to get you. Do NOT leave with that boy.*
+
+Too late.
+
+The drive back was nothing like the drive down. No comfortable silence, no playlist, no stolen glances. Just the weight of what was coming pressing down on them both.
+
+They made good time on the cleared highways. Too good. By 2:00 PM, they were approaching Winnipeg, the familiar skyline rising from the prairie.
+
+"Your house or mine?" Ethan asked.
+
+"Yours is on the way to the airport."
+
+"My parents will be there."
+
+"Mine are almost to Grand Forks by now. They'll have to turn around."
+
+He took the exit for River Heights, winding through familiar streets toward home. Toward goodbye. Toward whatever came next.
+
+But as they turned onto his street, Ethan slammed on the brakes.
+
+Both their parents' cars were in his driveway. All four parents were standing outside in the cold, waiting.
+
+"Shit," Ethan breathed.
+
+"How did they—"
+
+"They must have figured out we'd come here." He looked at her. "We could leave. Just drive to the airport. Not deal with this."
+
+"They'd follow us."
+
+"Yeah."
+
+They sat for a moment, engine running, staring at the parental firing squad waiting for them.
+
+"Whatever happens," Sophia said, "I love you."
+
+"I love you too."
+
+Ethan pulled into the driveway. Before they could even open their doors, Robert Price was striding toward them, face thunderous.
+
+"Get out of the truck. Now."
+
+They got out. Sophia's parents hurried over—but wait, how were they here? They were supposed to be driving to Grand Forks.
+
+"We never left," her mother said, reading her confusion. "We lied. We knew you'd run if you knew we were coming here instead."
+
+The betrayal stung more than it should have.
+
+"Where the hell have you been?" Robert demanded.
+
+"I drove Sophia to nationals," Ethan said, voice steady. "She won silver medal."
+
+"Don't." Robert's voice was ice. "Don't try to make this sound noble. You lied. You both lied. You disappeared into a blizzard—"
+
+"We were safe—"
+
+"You were in a hotel room! Together! We checked with the Holiday Inn. One room. Mr. Price and guest."
+
+The words hung in the air. Sophia felt her face burn, her parents' disappointment like a physical weight.
+
+"Sophia." Her mother's voice was quiet, devastated. "How could you?"
+
+"It wasn't—we didn't plan—"
+
+"You didn't plan to share a hotel room with a boy? While lying to us about where you were?"
+
+"The storm—"
+
+"There are always excuses," her father said. "But choices have consequences."
+
+"You're right," Sophia said, finding her voice. "They do. And I chose. I chose to go to nationals with someone I trust instead of alone on a bus. I chose to weather the storm with him instead of with strangers. I chose—"
+
+"You chose to throw away your reputation for teenage romance," her mother interrupted.
+
+"I chose love," Sophia said simply. "And I'd choose it again."
+
+The silence was deafening. Then Robert laughed—cold, bitter.
+
+"Love. You're eighteen years old. You don't know what love is."
+
+"I know it's not control," Ethan said suddenly. Everyone turned to look at him. "I know it's not manipulation or threats or forcing someone into a life they don't want."
+
+"Watch your tone—"
+
+"No. I'm done watching my anything." Ethan stepped forward. "I'm eighteen. Legal adult. I made a choice to drive someone I care about to a tournament. We got caught in a storm. We stayed safe. End of story."
+
+"End of story?" Robert's voice rose. "You're supposed to be on a plane in three hours!"
+
+"Yeah. And I'll be on it."
+
+That stopped everyone. Even Sophia looked surprised.
+
+"You will?" Caroline asked.
+
+"Yeah. I'll go to prep school. I'll try." He looked at his father. "But not because you're forcing me. Because Sophia helped me see that I should at least try. That I'll regret it if I don't."
+
+Robert blinked, momentarily thrown.
+
+"But," Ethan continued, "I'm going on my terms. I'll have my own phone—one you don't monitor. I'll call whoever I want, whenever I want. And spring break, I'm coming home. Non-negotiable."
+
+"You don't get to set terms—"
+
+"Actually, I do. Because if you want me to go—if you want me to play hockey and be your NHL investment—then you need to give me something. And what I need is the ability to have my own life alongside hockey."
+
+"Meaning her." Robert pointed at Sophia.
+
+"Meaning my own choices. But yes, including her."
+
+Father and son stared at each other. The tension was suffocating.
+
+Then a neighbor called out: "Everything okay over there?"
+
+Everyone turned. Mrs. Patterson from next door was on her porch, clearly concerned about the raised voices.
+
+"Fine," Caroline called back, forcing a smile. "Family discussion."
+
+But more neighbors were watching now. The Prices' perfect facade was cracking in public.
+
+"Inside," Robert said tersely. "Now."
+
+"No," Ethan said. "I need to pack. My flight's in three hours, remember?"
+
+He walked to the back of his truck, pulled out his bag. Then turned to Sophia.
+
+"Thank you. For this weekend. For everything."
+
+Before anyone could stop him, he crossed to her, cupped her face, and kissed her. Right there in the driveway, in front of both sets of parents, in front of the watching neighbors.
+
+When he pulled back, Sophia was crying.
+
+"Ten weeks," he whispered. "Wait for me."
+
+"Always."
+
+Robert grabbed Ethan's arm. "Inside. Now."
+
+But Ethan pulled free. "I can walk."
+
+He headed toward the house. Robert and Caroline followed, arguing in harsh whispers.
+
+Sophia's parents stood frozen for a moment. Then her mother said, "Car. Now."
+
+They drove home in awful silence. Sophia sat in the back, watching the city pass, knowing Ethan was packing, knowing in hours he'd be gone.
+
+Her phone buzzed. The burner number.
+
+*I'm going. But I'm coming back. I love you. This isn't over.*
+
+She typed back: *I love you too. Ten weeks.*
+
+*69 days. I'm counting.*
+
+*Me too.*
+
+When they got home, her parents finally exploded.
+
+"A hotel room? Overnight? With a boy?" Her mother paced the living room. "Do you have any idea what people will say?"
+
+"I don't care what people say."
+
+"You should care! Reputation matters!"
+
+"To who? The badminton community? My future college applications? Or just to you?"
+
+"Don't take that tone—"
+
+"What tone should I take? You lied about Grand Forks. You ambushed us. You're acting like I committed a crime when all I did was—"
+
+"All you did was disappear with a boy whose family we don't even know, lie about where you were, spend the night together in a hotel—"
+
+"Because of a blizzard!"
+
+"There are always excuses!"
+
+"They're not excuses, they're reasons!"
+
+The argument went in circles. Her father finally said, "Go to your room. We'll discuss consequences tomorrow."
+
+Sophia went upstairs, closed her door, collapsed on her bed. Her phone showed 5:47 PM. Ethan's flight was at 8:00. He was probably leaving for the airport now.
+
+Text from him: *On the way to airport. Parents silent. I think my dad might actually explode.*
+
+*Are you okay?*
+
+*No. But I will be. You?*
+
+*Same.*
+
+*I found out something. My dad has business in California next week. My mom's going with him.*
+
+*So?*
+
+*So I'll have unsupervised computer access at school. Video calls?*
+
+*Yes. Every night.*
+
+*Every night. I love you.*
+
+*I love you too. Text when you board.*
+
+At 7:45, he texted: *About to board. See you in 69 days.*
+
+*68 days, 23 hours, 15 minutes.*
+
+*But who's counting?*
+
+*Both of us.*
+
+*Yeah. Both of us.*
+
+And then he was gone. On a plane to Michigan, to prep school, to the life his father had planned.
+
+Sophia lay on her bed, still in her badminton clothes, staring at the ceiling. Everything hurt. Her chest felt hollow, like something essential had been scooped out.
+
+Her phone rang. Unknown number.
+
+"Hello?"
+
+"Don't hang up." Robert Price's voice. "This is the only warning you'll get."
+
+"Warning about what?"
+
+"Stay away from my son. Don't call, don't text, don't contact him."
+
+"You can't—"
+
+"I can and I will. I have lawyers, Sophia. Good ones. If you continue to interfere with Ethan's future, I'll make your family's life very difficult. Your father's job, your mother's visa renewal, your college applications. I have reach. Don't test it."
+
+"Are you threatening me? A seventeen-year-old?"
+
+"I'm explaining consequences. Ethan has a path. A future. You're not part of it."
+
+"That's his choice, not yours."
+
+"He's eighteen. Still dependent on me for everything. That gives me leverage."
+
+"That's not parenting, that's hostage-taking."
+
+Robert laughed coldly. "Call it what you want. But if you care about him—really care—you'll let him go. Let him focus on hockey. Let him have the future he's worked for."
+
+"The future you've worked for."
+
+"Same thing."
+
+"It's really not."
+
+"Stay away from him, Sophia. Or I'll make sure you regret it."
+
+The line went dead.
+
+Sophia stared at her phone. Then, deliberately, she opened her text thread with Ethan's burner number.
+
+*Your dad just called. Threatened me. Told me to stay away from you.*
+
+Three dots appeared immediately. Then: *I KNEW he'd do something. I'm so sorry.*
+
+*Don't be. I'm not scared of him.*
+
+*You should be. He doesn't make empty threats.*
+
+*Neither do I. And I'm not giving up on us.*
+
+*You sure? It's going to be hard. Ten weeks of this.*
+
+*69 days. We can do 69 days.*
+
+*I love you so much.*
+
+*I love you too. Now turn off your phone before the flight attendant yells at you.*
+
+*Already yelling. Gotta go. Talk tomorrow?*
+
+*Every day.*
+
+*Every day. Promise.*
+
+*Promise.*
+
+She set her phone down just as her mom knocked.
+
+"Sophia? Dinner."
+
+"Not hungry."
+
+"You need to eat."
+
+"I need to be alone."
+
+Long pause. Then footsteps retreating.
+
+Sophia's phone buzzed. Maya: *Heard you're back. Heard it was dramatic. You okay?*
+
+*No. But I will be.*
+
+*Want to talk about it?*
+
+*Tomorrow. Tonight I just need to be sad.*
+
+*Fair. Love you.*
+
+*Love you too.*
+
+She curled up on her bed, still dressed, and let herself cry. For the weekend that had changed everything. For the boy on a plane to Michigan. For the war she'd just entered with Robert Price. For the innocence they'd lost and the future they'd chosen.
+
+Her phone buzzed once more. Voice message from Ethan's burner.
+
+She opened it: "Hey. So I'm on the plane, about to take off. Everyone's staring because I'm leaving a voice message like it's 2005. But I needed you to hear my voice saying this: I love you. I'm coming back. Ten weeks is nothing. We've already waited eight years, right? What's another 69 days? Also, my dad's texting me threats about you, but I don't care. He can't control this. He can control a lot, but not how I feel about you. Not that. Never that. Okay, flight attendant actually looks murderous now. I love you. Wait for me."
+
+She listened to it three times before finally falling asleep, phone clutched in her hand.
 
 ---
 
-Sophia woke to shouting.
+Saturday, January 7th, 11:47 PM.
 
-Not in her room—downstairs. Her parents' voices, raised in argument. And another voice, deeper. Male.
+Sophia woke to her phone vibrating. Text from unknown number: *Made it to Michigan. Prep school is basically a hockey prison. Roommate seems okay. I already miss you so much I can't breathe.*
 
-She checked her phone: 7:12 AM. Sunday morning.
+She sat up, texting back: *Can you talk?*
 
-Throwing on a hoodie, she crept to the top of the stairs, listening.
+*Not voice. Roommate's here. But text yes.*
 
-"—cannot keep her from him—" her father was saying.
+*Your dad threatened me tonight.*
 
-"She's seventeen! She lives in our house! We can absolutely—" her mother, furious.
+*I know. He texted me about it. I'm so sorry.*
 
-Then the third voice, and Sophia's blood ran cold. "I understand your concern, believe me. But this has to stop. For both their sakes."
+*Stop apologizing for him.*
 
-Robert Price.
+*You're right. I'm sorry. Wait, shit, I just apologized for apologizing.*
 
-He was here. In her house. Talking about her.
+She laughed despite everything. *Dork.*
 
-Sophia came down the stairs, fury overriding caution. All three adults turned as she appeared in the living room doorway.
+*Your dork.*
 
-"What are you doing here?" she asked Robert.
+*Yeah. Mine.*
 
-"Sophia—" her mother started.
+*69 days.*
 
-"No. What is he doing here?" She looked at Robert. "You don't get to show up at my house. You don't get to talk about me like I'm not here."
+*68 days, 7 hours, 13 minutes.*
 
-Robert stood, tall and imposing in his suit even on a Sunday morning. "Sophia. I came to apologize."
+*Math nerd.*
 
-That stopped her. "What?"
+*Hockey dork.*
 
-"For the MIT situation. For going behind your back. For—" He paused, looking genuinely uncomfortable. "For trying to bribe you away from my son."
+*Perfect match.*
 
-Silence.
+*Perfect.*
 
-"I thought I was helping," he continued. "I thought I was giving you an opportunity and giving Ethan space to focus. But I see now that I was trying to control a situation I had no right to control. And I'm sorry."
+They texted for an hour. About nothing. Everything. The mundane details that somehow mattered desperately—what his room looked like, what she'd had for dinner (nothing), how the ice rink smelled different in Michigan.
 
-Sophia stared at him. This was—this was not what she'd expected.
+Finally: *I should sleep. 5 AM practice.*
 
-"However," Robert continued, and there it was, "I need you to understand something. Ethan is on a very specific path. Hockey. College. NHL. That path requires incredible focus and dedication. And right now, he's distracted."
+*Gross.*
 
-"I'm not a distraction."
+*Yeah. But 68 days.*
 
-"I didn't mean—" He sighed. "You're important to him. I can see that. But he's eighteen years old. He has a future that could set him up for life. And I can't watch him throw that away."
+*68 days. I love you.*
 
-"He's not throwing anything away."
+*I love you too. More tomorrow?*
 
-"He spent this weekend driving you to North Dakota instead of preparing for prep school. He's fighting with me constantly about you. He's talking about—" Robert stopped himself.
+*Every day.*
 
-"About what?" Sophia pressed.
+*Every day.*
 
-"About quitting hockey."
+She set her phone down and looked out her window. The moon was bright on the snow, everything silver and shadow. Somewhere in Michigan, Ethan was looking at the same moon.
 
-The words fell like a bomb. Sophia's breath caught.
+68 days.
 
-"He mentioned it once," Robert said, voice tight. "Said he wasn't sure he wanted to keep playing. And I know—I know that's because of you. Because you're making him question everything."
+They could do this.
 
-"No," Sophia said. "I'm not making him question anything. He's questioning it himself. Because maybe, for the first time in his life, he's thinking about what he wants instead of what you want."
+They had to.
 
-Robert's jaw tightened. "What I want is for my son to have every opportunity. Every advantage. What do you want for him?"
+But then her phone buzzed one more time. Not Ethan. Her mom's number. But the text was clearly from Robert—she must have left her phone out:
 
-"I want him to be happy."
+*Final warning. Stay away from my son or face legal consequences. Restraining order paperwork is already drafted. Your choice.*
 
-"Happy doesn't pay bills. Happy doesn't secure a future."
+Sophia stared at the message. Then screenshotted it. Evidence.
 
-"Maybe his future isn't what you think it is."
+She opened her text with Ethan: *Your dad's escalating. Using my mom's phone to threaten restraining order.*
 
-They stared at each other, the room crackling with tension. Sophia's parents watched, uncertain whether to intervene.
+His response was immediate: *WHAT. That's insane. He can't—*
 
-Finally Robert said, "He left for Michigan last night. He'll be there for ten weeks before spring break. I'm asking you—respectfully—to let him focus. Don't call, don't text, don't make this harder than it needs to be. Give him space to figure out who he is without—"
+*He's trying to scare me off.*
 
-"Without me," Sophia finished.
+*Is it working?*
 
-"Without distraction. And then, if in ten weeks he still wants to be with you, we'll revisit this conversation. But please. Give him this time."
+She thought about it. Really thought about it. The smart choice would be to walk away. Let Ethan go to prep school, have his hockey career, live the life planned for him. Protect herself and her family from Robert's threats.
 
-Sophia felt tears burning her eyes. "Did he ask you to say this? Does he want space?"
+The smart choice.
 
-"No. He doesn't. But I'm asking as his father. Please."
+The safe choice.
 
-She looked at her parents, standing in their living room, united with Robert Price in thinking they knew what was best. Three adults against one seventeen-year-old girl.
+But she'd already torn up MIT. Already chosen chaos over certainty.
 
-"No," she said.
+*No. It's not working. It's pissing me off.*
 
-Robert blinked. "What?"
+*That's my girl.*
 
-"No. I'm not giving up on him. If he wants space, he can tell me himself. But I'm not going to disappear because you're scared he'll choose differently than you planned." She took a breath, steadying herself. "I love him. And he loves me. And I know you think that's childish or naive or whatever. But it's real. And I'm not walking away just because it's inconvenient for you."
+*68 days.*
 
-"Sophia—" her mother started.
+*68 days. Together.*
 
-"No," Sophia said again, louder. "I'm done. I'm done letting everyone else make my choices. I rejected MIT. I chose to go to North Dakota. I chose Ethan. And I'm choosing to wait for him. You can all be mad about it. You can ground me or monitor my phone or whatever. But you can't make me stop caring about him."
+*Together.*
 
-She turned and walked back upstairs, ignoring her mother calling her name. In her room, she closed the door and leaned against it, shaking.
+And as she finally fell back asleep, Sophia thought: *Let Robert Price bring his lawyers and threats. Let him try to scare me. I'm seventeen years old and I've already given up MIT for love. What else have I got to lose?*
 
-Her phone buzzed. Text from E: *Just got to Michigan. 8 hour drive. I'm exhausted. Miss you already.*
+Everything, maybe.
 
-She typed back: *Your dad is at my house. Asking me to give you space.*
+But some things were worth everything.
 
-Three dots appeared immediately. Then: *WHAT*
+Ethan was worth everything.
 
-*He said you mentioned quitting hockey. Said I'm distracting you.*
-
-*I'm going to kill him*
-
-*Don't. Just—tell me the truth. Do you want space?*
-
-Long pause. Then: *No. I want the opposite of space. I want to call you every day. I want to count down days until spring break. I want to figure out how to make this work.*
-
-*Okay. Then we do that.*
-
-*You're sure? Even if everyone thinks it's wrong?*
-
-*Especially because everyone thinks it's wrong. We don't let them decide.*
-
-*I love you*
-
-*I love you too*
-
-She set her phone down and looked around her room. Silver medal gleaming. Schedule of upcoming tournaments. College brochures scattered across her desk.
-
-Her life, waiting to be lived.
-
-On her terms.
-
-Her door opened without a knock. Her mother stood in the doorway, face carefully controlled.
-
-"Robert left," she said. "Your father drove him out."
-
-"Good."
-
-"Sophia, we need to talk—"
-
-"Later. Please. I need—I need a minute."
-
-Her mother nodded slowly. "Okay. Later." She started to leave, then paused. "That match yesterday. Coach Martinez emailed. She said you played brilliantly. Said she's never seen you fight that hard."
-
-"I had a lot to fight for."
-
-Her mother's expression softened, just a fraction. "I know you think we don't understand. But we're just—we're scared for you. We don't want to see you get hurt."
-
-"I know. But this is my hurt to risk."
-
-"That doesn't make it easier to watch."
-
-"I know. I'm sorry."
-
-Her mother sighed and closed the door, leaving Sophia alone.
-
-Phone buzzed again. Voice message from E.
-
-She opened it: "Hey. So I'm here. Prep school. It's—it's really intense. But I have a room to myself, and I already figured out the wifi password, so that's good. I'm going to call you tonight after practice. I know it's only been twelve hours, but I already—" His voice cracked. "I already miss you so much. This is going to be the longest ten weeks of my life. But I'll make it through. We'll make it through. Because you're waiting, and I'm coming back. I promise. I love you. Talk soon."
-
-Sophia listened to it three times, memorizing every word, every inflection.
-
-Ten weeks.
-
-Seventy days.
-
-And then spring break.
-
-And then—what? More fighting? More disapproval? More stolen moments between the lives everyone else wanted them to live?
-
-She didn't know.
-
-But she knew this: she'd chosen him, and he'd chosen her, and that was enough to start with.
-
-Everything else—college, hockey, their families, the future—would have to wait.
-
-For now, they had secret phone calls and countdown clocks and the memory of three days in a storm that had changed everything.
-
-Sophia opened her journal and started writing.
-
-*January 7. He left. I stayed. And somehow, even though we're apart, I feel like we're more together than we've ever been. Because we chose this. The hard way. The uncertain way. The way that might not work.*
-
-*But we chose.*
-
-*And that has to count for something.*
-
-She set down her pen and looked out the window. Bright winter sun on white snow. The world frozen and beautiful and impossible.
-
-Somewhere in Michigan, Ethan was starting his new life.
-
-And here in Winnipeg, she was starting hers.
-
-Same world. Different places.
-
-But connected by choice, by love, by the impossible promise: wait for me.
-
-She would wait.
-
-And when spring break came—when he came back—they'd figure out the rest together.
-
-For now, that was enough.
-
-It had to be.
-
----
+68 days to prove it.
 
 **EPISODE 5 ENDS**
 
-Three days that changed everything. A storm that trapped them together. Confessions and promises and choosing each other despite impossible odds. And now: separation. Distance. Ten weeks of wondering if love is enough.
+---
 
-The midseason climax delivered. Now comes the aftermath—episodes 6 through 10 will test whether their choice can survive reality.
-
-Can they make it through ten weeks apart?
-
-Can they survive their parents' opposition?
-
-Can teenage love last when everything is working against it?
-
-Episode 6 will begin to answer these questions.
-
-But for now, they have this: the memory of three perfect, impossible days when they chose each other completely.
-
-And the devastating knowledge that choosing each other meant everything would change.
-
-*Spring break countdown: 70 days*
-
-*Next episode: "Distance"*
+**Cliffhanger**: Sophia receives legal threat of restraining order while texting Ethan. Will she choose safety or love? Can they survive 68 days apart with Robert Price actively working to destroy them? The battle for their future has officially begun.
