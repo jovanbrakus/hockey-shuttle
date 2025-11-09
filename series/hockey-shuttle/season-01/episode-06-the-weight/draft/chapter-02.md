@@ -1,5 +1,105 @@
 # CHAPTER 2: LEGAL
 
+The doorbell rang on Sunday morning at 9:47 AM.
+
+Sophia was still in her pajamas, eating cereal at the kitchen counter while her parents read the newspaper and Tommy played video games in the living room. Normal Sunday morning. Lazy. Safe.
+
+The doorbell rang again. Insistent.
+
+Her father looked up, frowning. "We expecting anyone?"
+
+"No," her mother said, already moving toward the door.
+
+Sophia watched her mom check the peephole, saw her entire body go rigid. Linda Chen turned back to face the kitchen, her expression carefully controlled in a way that made Sophia's stomach drop.
+
+"Michael," her mother said quietly. "It's Robert Price."
+
+The newspaper crinkled in her father's hands. "What?"
+
+"Robert Price. At our door. Alone."
+
+Sophia's cereal turned to ash in her mouth. Ethan's father. Here. At their house.
+
+Her dad stood, straightened his shirt—still casual Sunday clothes, but he pulled himself into professional posture. "Tommy, go to your room."
+
+"But—"
+
+"Now."
+
+Tommy left, confused but obedient. Michael Chen walked to the door, opened it.
+
+Robert Price stood on their front porch in an expensive coat and polished shoes, looking like he'd just come from somewhere important. Or was about to go somewhere important. He looked at Michael Chen with an expression that was cordial and cold at the same time.
+
+"Mr. Chen. Sorry to drop by unannounced. I was hoping we could talk."
+
+"About?" Michael's voice was neutral.
+
+"About our children. About ending this situation before it gets more complicated." Robert's eyes flicked past Michael, found Sophia standing frozen in the kitchen. "Hello, Sophia."
+
+She couldn't speak. Just stared at Ethan's father standing in her doorway like a threat made flesh.
+
+"Mr. Price," her father said firmly, "if you want to have a conversation, we can schedule something through appropriate channels. But showing up at my house without notice—"
+
+"Is rude. I know. I apologize." Robert didn't sound apologetic. "But I was in Winnipeg on business, and I thought a face-to-face conversation might be more productive than lawyers passing letters. May I come in? Just for a few minutes."
+
+Sophia watched her parents exchange a look. Then her mother stepped back, opening the door wider.
+
+"Five minutes," Linda said. "In the living room."
+
+Robert Price entered their house.
+
+He looked around as he walked through—taking in the modest furniture, the family photos on the walls, the lived-in warmth of a home that had actual people in it instead of just assets. Sophia couldn't tell if he was judging or just observing.
+
+They sat in the living room—Robert on the armchair, her parents on the couch, Sophia hovering near the kitchen because no one had told her to leave and she wasn't about to miss this.
+
+"So," Michael said. "You wanted to talk."
+
+"I wanted to be direct." Robert leaned forward, elbows on his knees. "I don't think you're bad people. I don't think Sophia is a bad kid. But I think this relationship between her and my son is a distraction neither of them can afford right now."
+
+"That's not your decision to make," Sophia said before she could stop herself.
+
+Robert turned to look at her. "You're right. It's Ethan's decision. But he's seventeen and in love, which means he's not thinking clearly. Someone has to think clearly for him."
+
+"Maybe you should trust him to think for himself," Sophia shot back.
+
+"Sophia," her mother warned gently.
+
+"No, let her speak." Robert's attention was fully on her now. "Tell me, Sophia. What's your plan here? You and Ethan. Long-distance for a year and a half, then what? College together? Marriage? Hockey career that supports you both?"
+
+"We haven't planned that far ahead—"
+
+"Exactly. You're living in the moment. Which is fine for teenagers. But I'm responsible for my son's future, which means I have to plan further than the moment." Robert's voice was reasonable, patient, like he was explaining something obvious. "Ethan has potential—real potential—to play Division I hockey, maybe even professional. But only if he stays focused. Only if he doesn't get derailed by relationship drama and long-distance complications."
+
+"His relationship with me isn't drama," Sophia said. "It's—"
+
+"It's important to him. I understand that. But Sophia—" Robert's expression was almost sympathetic "—you're smart. You rejected MIT early acceptance. You know about sacrifice for goals. I'm asking you to understand that sometimes the kindest thing is to let go. Let Ethan focus on his trajectory without the weight of trying to maintain a relationship across 800 miles."
+
+"You're asking me to break up with him."
+
+"I'm asking you to consider what's best for him long-term. Not what feels good right now, but what actually serves his future."
+
+"That's enough," Michael said firmly. "Mr. Price, you came here to have a reasonable conversation, but you're asking my daughter to make a choice that isn't yours to request. Sophia and Ethan's relationship is between them. Not you. Not us. Them."
+
+"With respect, Mr. Chen, when that relationship is affecting my son's education and athletic development—"
+
+"Then you talk to your son. Not to a seventeen-year-old girl you're trying to intimidate in her own home." Michael stood. "I think your five minutes are up."
+
+Robert Price stood slowly. He looked at Sophia with something like regret mixed with determination.
+
+"I'm not trying to be the villain here. I'm trying to protect my son. That's all any parent does." He pulled a business card from his pocket, set it on the coffee table. "My lawyer's information. Because if this conversation doesn't resolve things, the next conversation will be official. I'd rather not go there. But I will if I have to."
+
+He walked to the door. Linda opened it. Robert Price stepped out onto the porch, turned back.
+
+"Sophia. You seem like a bright, accomplished young woman. You have your own future to think about. Don't let someone else's dreams become the reason you compromise yours."
+
+He left.
+
+The door closed. The Chen family stood in stunned silence.
+
+Then Sophia started shaking.
+
+---
+
 The letter arrived on Thursday afternoon.
 
 Sophia had just gotten home from badminton practice, was still in her workout clothes, bag slung over her shoulder as she walked through the front door. Her mom was in the kitchen, and something about her posture—rigid, hands braced against the counter—made Sophia stop mid-step.
@@ -73,6 +173,12 @@ Her father closed his eyes. "Christ."
 "I'm seventeen! Ethan's seventeen! We're the same age! How am I predatory?"
 
 "It doesn't matter what's true," her father said heavily. "It matters what they can make a court believe. And Robert Price has unlimited resources to build that narrative."
+
+Michael picked up the letter again, reread a section, and his jaw tightened. "Listen to this language—'calculated seduction.' This is textbook misogyny, blaming a teenage girl for a relationship. They're weaponizing sexist tropes against you, and they know it. This isn't about protecting Ethan. This is about control dressed up in legal language. It's emotional abuse using the legal system as a weapon."
+
+Linda's expression hardened. "We both know what this really is. Wealthy white man with lawyers, using the system against an immigrant family. It's an old story."
+
+"I know," Michael said quietly. "But we're not backing down."
 
 Sophia felt like the floor was tilting. "So what do I do?"
 
@@ -160,7 +266,7 @@ Her parents looked at each other again. Then her father leaned forward, elbows o
 
 "Look. Officially, we're telling you: no contact. That's the requirement. That's what keeps you safe from legal consequences."
 
-"But unoffly?" Sophia asked, catching the nuance.
+"But unofficially?" Sophia asked, catching the nuance.
 
 "Unofficially," her mother said carefully, "we understand that you're seventeen years old and in love. We understand that demanding you completely cut off contact with someone you care about is unreasonable and cruel."
 
@@ -250,7 +356,7 @@ Despite everything, Sophia almost smiled. "Tempting. But probably won't help."
 
 "Fair." Maya leaned against the locker next to Sophia's. "So what really happened? If you want to talk about it."
 
-Sophia glanced around. The hallway was crowded, voices echoing off lockers and linoleum. Not here. She jerked her head toward the stairs and Maya followed. They climbed to the third floor, to the quiet corner by the old music rooms that nobody used anymore, and Sophia gave her the abbreviated version: cease and desist letter, parents' meeting, Robert Price's ultimatum.
+Sophia glanced around. The hallway was crowded, voices echoing off lockers and linoleum. Not here. She jerked her head toward the stairs and Maya followed. They climbed to the third floor, to the quiet corner by the old music rooms that nobody used anymore, and Sophia gave her the abbreviated version: cease and desist letter, parents' meeting, Robert Price's ultimatum, the visit to her house Sunday morning.
 
 "Holy shit," Maya said when she finished. "That's actually terrifying."
 
@@ -470,4 +576,4 @@ Not if she refused to let them.
 
 **End of Chapter 2**
 
-*Approximately 5,200 words*
+*Approximately 5,400 words*
