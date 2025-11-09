@@ -82,35 +82,59 @@ He looked drained when I opened the door. Still in the button-down shirt and sla
 
 "You don't have to answer."
 
-"I know." But he stared at the phone anyway, years of conditioning warring with newly won freedom.
+"I know." But he stared at the phone anyway. Years of conditioning rising in his body—the automatic tensing of shoulders, the way his breath got shallower, the familiar nausea that came from knowing Robert was angry.
 
-I took the phone from his hand, set it face-down on the coffee table. "You met with him. You listened. You don't owe him more than that."
+I watched his face change. Saw the old patterns trying to reassert themselves.
 
-"He says we're not done talking."
+"Hey." I moved closer. "Look at me."
+
+He did. His jaw was clenched tight.
+
+"You're not that kid anymore. The one who had to answer every time he called. The one who had to manage his moods."
+
+"I know that." But his hand was still reaching for the phone.
+
+"Do you? Because your body doesn't." I took the phone from his hand, set it face-down on the coffee table. "You met with him. You listened. You don't owe him more than that."
+
+Ethan's shoulders dropped slightly. He took a deeper breath. "He says we're not done talking."
 
 "You say you are."
 
-"It's not that simple."
+"It's not—" He stopped himself. Tried again. "You're right. It's my choice. Conversations happen when I agree to them."
 
-"Yes, it is. You're emancipated. Conversations happen when you both agree to them, not when he demands them." I shifted to face him fully. "Ethan, what did you tell him? At the end of dinner? What did you say?"
+I watched him fight the old programming. It was like seeing someone push against invisible chains.
+
+"What did you tell him?" I asked. "At the end of dinner? What did you say?"
 
 "I thanked him for his time and input. I said I'd consider everything he'd presented." He met my eyes. "I did not say I'd sign the Detroit contract. I did not agree to defer MIT. I gave him nothing."
 
 "How did he react?"
 
-"Badly. He said if I don't sign by June 1st, I'm making the biggest mistake of my life and I shouldn't expect him to fix it when I fail." Ethan's voice went flat. "Then he said MIT would 'crush me' because I'm not as smart as I think I am, just adequately intelligent with good grades because he made sure I had the best tutors."
+"Badly." Something flickered across Ethan's face—old fear, quickly suppressed. "He said if I don't sign by June 1st, I'm making the biggest mistake of my life and I shouldn't expect him to fix it when I fail."
 
-My hands clenched into fists. "He's trying to undermine your confidence."
+The words came out flat, emotionless. But I saw his hands clench into fists.
 
-"He's very good at it." Ethan pulled his phone back, scrolled through messages. "Look at this. He sent me articles about NHL players who went to college first and 'never reached their full potential.' Case studies of athletes who chose education over professional opportunity and 'regretted it for the rest of their lives.' Financial projections showing how much money I'd lose by waiting four years."
+"Then he said MIT would 'crush me' because I'm not as smart as I think I am." Ethan's voice went quieter. "Just adequately intelligent with good grades because he made sure I had the best tutors."
+
+My hands clenched too. "He's trying to—"
+
+"Undermine my confidence. Yeah." Ethan pulled his phone back, scrolled through messages with shaking hands. "Look at this. He sent me articles about NHL players who went to college first and 'never reached their full potential.' Case studies of athletes who chose education over professional opportunity and 'regretted it for the rest of their lives.' Financial projections showing how much money I'd lose by waiting four years."
 
 "He's campaigning."
 
-"He's waging psychological warfare." Ethan set the phone down again. "And the terrifying thing is, some of his points are valid. The money is real. The opportunity is huge. Starting at eighteen versus twenty-two does make a difference in professional sports."
+"He's waging psychological warfare." Ethan set the phone down again. The screen lit up with another incoming call. He ignored it, but I saw the way his body tensed. Seventeen years of Pavlovian conditioning—phone rings, stomach drops, pulse spikes.
+
+I wanted to throw the phone out the window.
+
+"And the terrifying thing is," Ethan continued, "some of his points are valid. The money is real. The opportunity is huge. Starting at eighteen versus twenty-two does make a difference in professional sports."
 
 "But?"
 
-"But I keep coming back to what you said on Saturday. Is this the life I want, or the life I was taught to want?" He leaned back, stared at the ceiling again. "I've spent two days thinking about that question. And I still don't know the answer."
+"But I keep coming back to what you said on Saturday." He leaned back, stared at the ceiling again. His breathing was still too fast, too shallow. The conversation with Robert had rattled him more than he was admitting. "Is this the life I want, or the life I was taught to want?"
+
+"And?"
+
+"And I still don't know the answer."
 
 Over the next week, Ethan worked methodically through his decision-making process like he was solving a complex engineering problem.
 
@@ -176,7 +200,7 @@ He traced a finger down the NHL cons column. "Miss MIT opportunity. Leave Sophia
 
 "So what does that tell you?"
 
-"That I'm afraid of choosing MIT because other people will judge me for it. But I'm afraid of choosing the NHL because of what it would do to me." He sat back. "Those aren't equivalent fears."
+"That I'm afraid of choosing MIT because other people will judge me for it. But I'm afraid of choosing the NHL because of what it would do to me." He sat back. "Those aren't the same kind of fear."
 
 "No, they're not."
 
@@ -184,7 +208,7 @@ He was quiet for a moment, thinking. "You asked me once which choice I was makin
 
 "I remember."
 
-"I think I'm afraid to choose MIT because people will think I'm crazy. And I'm afraid to choose the NHL because I'll lose myself."
+"I think... I'm afraid to choose MIT because people will think I'm crazy. And I'm afraid to choose the NHL because I'll lose myself."
 
 "Which fear matters more?"
 
@@ -346,27 +370,39 @@ Ethan set down his fork. "That sounds ominous."
 
 "Of finding out I wasn't good enough. If I never tried, I never had to fail." Caroline met his eyes. "I spent seventeen years wondering what would have happened if I'd been braver."
 
-"Are you telling me not to make the same mistake?"
+Ethan set down his fork completely. "Are you telling me not to make the same mistake?"
 
-"I'm telling you that not choosing is still a choice. And living with regret is harder than living with the consequences of honest decisions."
+"I'm telling you that not choosing is still a choice. And living with regret is harder than living with the consequences of honest decisions." She reached across the table, took his hand. "I'm telling you that I see the way you light up when you talk about MIT. Engineering problems, research opportunities, being challenged intellectually. And I see the way you look when you talk about the NHL contract. Obligated. Pressured. Like you're trying to convince yourself you want it."
 
-They ate in silence for a moment.
+"The money is real, though. $2.5 million. That would set you up. Help with the divorce costs, let you—"
 
-"What would you have done?" Ethan asked. "If you could go back?"
+"Stop." Caroline squeezed his hand. "You are not responsible for my financial security. I made choices that led me here. I'm making new choices now. But they're mine to make, not yours to fix."
+
+"But—"
+
+"Ethan. Listen to me." She waited until he met her eyes. "If you sign that contract because you think I need you to, I will never forgive myself. Do you understand? That money would destroy me. Every dollar would be a reminder that I failed you."
+
+His eyes widened. "You didn't fail me."
+
+"Then let me prove it now. Let me show you that I can stand on my own two feet. That I can rebuild. That I'm strong enough to handle the consequences of leaving your father without needing you to rescue me."
+
+They sat in silence for a moment.
+
+"What would you have done?" Ethan asked finally. "If you could go back to that moment. Twenty-five years old, job offer in Vancouver, Robert asking you to stay?"
 
 "Architecture. Definitely." No hesitation. "The money would have been less steady, the hours would have been brutal, but it was mine. That matters more than I knew at twenty-five."
 
 "Do you regret having me?"
 
-"Never. Not for one second." She reached across and squeezed his hand. "But I regret not showing you that people can be multiple things. That you can be a parent and have a career. That you can love hockey and also love learning. That you don't have to sacrifice yourself to be excellent."
+"Never. Not for one second." She squeezed his hand again. "But I regret not showing you that people can be multiple things. That you can be a parent and have a career. That you can love hockey and also love learning. That you don't have to sacrifice yourself to be excellent."
 
 "You're showing me now."
 
-"I'm trying. I got a job interview, did I tell you?"
+"I'm trying." She smiled. "I got a job interview, did I tell you?"
 
 Ethan's eyes widened. "Where?"
 
-"Small architectural firm. They need someone with business management experience to help run the office side while the partners focus on design." She smiled. "It's not designing buildings. But it's in the field. It's a start."
+"Small architectural firm downtown. They need someone with business management experience to help run the office side while the partners focus on design." She laughed. "It's not designing buildings. But it's in the field. It's a start."
 
 "Mom, that's incredible."
 
@@ -374,7 +410,183 @@ Ethan's eyes widened. "Where?"
 
 "You'll remember. You're brilliant."
 
-"I'm rusty and scared and completely out of my depth." She laughed. "But I'm doing it anyway. Because you showed me that scared doesn't mean impossible."
+"I'm rusty and scared and completely out of my depth." Her smile widened. "But I'm doing it anyway. Because you showed me that scared doesn't mean impossible."
+
+She stood up, went to the small desk in the corner of her living room, and came back with a folder. "I want to show you something."
+
+Inside were architectural sketches. Buildings with clean lines and innovative features, sustainable designs, detailed notes in careful handwriting.
+
+"I've been drawing again," Caroline said quietly. "At night, after work hunting and apartment searching. Just... sketching ideas. Things I might design if I had the chance."
+
+Ethan looked through the sketches slowly. They were beautiful. Professional. The work of someone who'd spent seventeen years away from their passion but hadn't forgotten how to dream.
+
+"These are amazing."
+
+"They're practice. Rust-removal." She took the folder back. "But they remind me that I was good at this once. That I could be good at it again if I chose to try."
+
+"Is that what you want? To go back to architecture?"
+
+"I don't know yet. Maybe. Or maybe I want something different now." She set the folder aside. "The point is, I have options. And I'm choosing to explore them instead of being afraid of what happens if I'm not good enough anymore."
+
+Ethan was quiet for a long moment. Then: "Robert spent seventeen years making you believe you needed him. That you couldn't survive without his income, his plans, his control."
+
+"Yes."
+
+"And you're proving him wrong."
+
+"Every day. It's hard and scary and I cry a lot." Caroline smiled through tears now. "But I'm doing it. And so can you."
+
+"I'm not sure I'm as brave as you."
+
+"You filed for emancipation. You're considering turning down $2.5 million to go to college. You're making impossible choices at seventeen." She wiped her eyes. "You're braver than I ever was. Don't let Robert convince you otherwise."
+
+After dinner, Ethan helped her wash dishes. They talked about practical things—her job interview outfit, his upcoming finals, summer plans if he chose MIT. Normal parent-child conversation, the kind they'd never really had with Robert controlling every interaction.
+
+At the door, Caroline hugged him tight.
+
+"Whatever you choose," she said, "choose it for yourself. Not for me. Not against Robert. For you."
+
+"What if I choose wrong?"
+
+"Then you'll learn from it. But at least it will be yours."
+
+On May 29th, two days before decision day, Ethan couldn't sleep.
+
+I knew because he texted me at 2:17 AM: *You awake?*
+
+I called him instead of texting back.
+
+"What's wrong?" I asked, voice rough with sleep.
+
+"I can't stop thinking about the money." He sounded wrecked. "Sophie, it's $2.5 million dollars. That's generational wealth. That's—" He broke off. "That's stupid amounts of money."
+
+"I know."
+
+"Do you? Like, really understand what I'm walking away from?"
+
+I sat up in bed, turned on the lamp. "Tell me what you're thinking right now. Exactly what's in your head."
+
+"I'm thinking that I could sign this contract and never have to worry about money again. Ever. I could take care of Caroline. I could invest and be set for life. I could—" His breath hitched. "I could be someone. Important. Professional athlete. People would know my name."
+
+"You already are someone."
+
+"I'm a high school hockey player with good grades. That's not—" He made a frustrated sound. "In four years, if I go to MIT, I'll be a college graduate with a degree and no pro experience. Starting over at twenty-two while everyone else is four years ahead. What if I can't make it then? What if this is my only chance?"
+
+"Is that Robert talking or you?"
+
+Silence. Then, quieter: "I don't know anymore. He's been in my head for so long, I can't tell which thoughts are mine."
+
+"Okay. Let's try something." I grabbed a notebook from my bedside table. "I'm going to ask you questions. Answer with the first thing that comes to mind. Don't think about what you should say or what sounds right. Just... gut reaction. Okay?"
+
+"Okay."
+
+"What do you want to do tomorrow?"
+
+"Sleep in. Have breakfast with you. Not think about this for like five minutes."
+
+"What do you want to do in September?"
+
+"Move to Boston. Start classes. Meet my roommate. Figure out MIT."
+
+"What do you want to do in five years?"
+
+Pause. Then: "I don't know. But I want to have options. I want to be able to choose."
+
+"What do you want right now? This second?"
+
+"To stop being terrified."
+
+"Of what?"
+
+"Of making the wrong choice. Of disappointing everyone. Of being broke and stupid and proving Robert right." His voice cracked. "Of losing you."
+
+"You're not going to lose me."
+
+"But what if I choose wrong and I'm miserable and I resent you for being part of why I chose MIT? What if—"
+
+"Ethan. Stop." I took a breath. "Are you thinking about signing the contract right now?"
+
+Another pause. Longer this time.
+
+"Yeah," he whispered. "I have the laptop open. The digital contract. There's a button. 'Accept and Sign.' I've been staring at it for twenty minutes."
+
+My heart stopped. "Don't."
+
+"The money would solve everything."
+
+"It wouldn't solve anything. It would just trade one set of problems for another."
+
+"You don't know that."
+
+"I know you. And I know that if you sign that contract at 2 AM because you're scared and tired and second-guessing yourself, you'll regret it. Maybe not tomorrow. Maybe not next month. But eventually."
+
+"How do you know?"
+
+"Because you've spent two weeks researching this decision. You've made lists. You've talked to everyone who would listen. You've thought it through from every angle. And every time—every single time—you come back to MIT." I heard him breathing on the other end. "This fear? This 2 AM panic? This isn't new information. This is your brain freaking out because the deadline is close and the stakes are huge."
+
+"What if my brain is right? What if I am making a huge mistake?"
+
+"Then you'll survive it. You'll learn from it. You'll pivot." I softened my voice. "But Ethan, listen to me. If you sign that contract right now, in this state, you'll wake up tomorrow and hate yourself. Close the laptop."
+
+"Sophie—"
+
+"Close. The laptop."
+
+I heard rustling. A click. Then a long exhale.
+
+"It's closed," he said.
+
+"Good. Now step away from it."
+
+"I'm in bed. Laptop's on the desk."
+
+"Okay. Now talk to me about something else. Anything else."
+
+We stayed on the phone for another hour. Talked about nothing important—prom plans, what movies we wanted to see this summer, whether he should get a haircut before graduation. Normal things. Easy things.
+
+Eventually his breathing evened out. The panic in his voice faded.
+
+"Thank you," he said finally.
+
+"For what?"
+
+"For not letting me do something stupid at 2 AM."
+
+"That's what I'm here for. Preventing 2 AM catastrophic decisions."
+
+"I'm still terrified."
+
+"I know. But you're going to make this decision tomorrow when you're rested and clear-headed. Not tonight when you're exhausted and spiraling."
+
+"What if I still don't know what to do?"
+
+"Then you trust the work you've already done. You trust the choice you've been moving toward for two weeks."
+
+"MIT."
+
+"MIT," I confirmed.
+
+"I'm going to choose MIT, aren't I?"
+
+"I think you already did. You just need to admit it out loud."
+
+He was quiet for a long moment. Then: "I'm going to choose MIT."
+
+"How does that feel?"
+
+"Terrifying. And right. Both at the same time."
+
+"That sounds about perfect."
+
+"I love you," he said suddenly. Then, like he surprised himself: "I mean—not like—I just mean—"
+
+"I know what you mean." My heart was racing. "Go to sleep, Ethan. We'll deal with everything else tomorrow."
+
+After we hung up, I lay awake in the dark for a long time, thinking about those three words he'd stumbled over. About what they meant and when we'd actually say them for real.
+
+But mostly I thought about how close he'd come to signing that contract. How one click could have changed everything.
+
+And how grateful I was that he'd texted me instead.
 
 On May 31st—decision eve—Ethan showed up at my house at sunset.
 
@@ -400,7 +612,15 @@ Ethan didn't sit on the swings. He paced.
 
 "And?"
 
-"And I'm good at it. Really good. The NHL offer proves that." He stopped pacing, faced me. "But here's what I realized at 3 AM last night: the NHL will always be there. Maybe not Detroit, maybe not $2.5 million, but I'm talented enough to play professionally if I want to. Jim Morrison said so. Coach Williams said so. Even Robert said so, back when he wasn't trying to control my decision."
+"And I'm good at it. Really good. The NHL offer proves that." He stopped pacing, faced me. "But here's what I realized at 3 AM last night when I almost signed the contract—"
+
+"Wait, you almost signed it?"
+
+"I had it open. Cursor over the button. Then I texted you." He smiled slightly. "You saved me from myself."
+
+"Anytime."
+
+"But what I realized is that the NHL will always be there. Maybe not Detroit, maybe not $2.5 million, but I'm talented enough to play professionally if I want to. Jim Morrison said so. Coach Williams said so. Even Robert said so, back when he wasn't trying to control my decision."
 
 "But?"
 
@@ -408,7 +628,7 @@ Ethan didn't sit on the swings. He paced.
 
 My chest tightened. "You're choosing MIT."
 
-"I'm choosing MIT." He said it firmly, certainly. "I'm choosing education first. I'm choosing to be more than just an athlete. I'm choosing to give myself time to figure out who I am when nobody's telling me what to be."
+"I'm choosing MIT." He said it firmly, certainly. "Education first. Being more than just an athlete. Giving myself time to figure out who I am when nobody's telling me what to be."
 
 "Are you sure?"
 
@@ -440,7 +660,7 @@ We sat on the swings as the sun set, talking through his plan. Tomorrow morning,
 
 "Are you going to tell him?"
 
-Ethan was quiet for a long moment. "I'll send him an email. Let him know I've made my decision. But I'm not asking for permission or approval. I'm informing him as a courtesy."
+Ethan was quiet for a long moment. "I'll send him an email. Let him know I've made my decision. But I'm not asking for permission or approval. I'm informing him."
 
 "He's going to call. Text. Show up places."
 
@@ -484,7 +704,7 @@ At 9:00 AM, he called Jim Morrison from Caroline's apartment. She sat next to hi
 
 "Ethan. Good morning. I assume you're calling with your decision?"
 
-"Yes, sir." Ethan took a breath. "Thank you for the incredible opportunity. Thank you for your honesty and guidance over the past few weeks. But I'm going to have to decline Detroit's offer. I'm going to MIT."
+"Yes, sir." Ethan took a breath. His hand was shaking. Caroline squeezed tighter. "Thank you for the incredible opportunity. Thank you for your honesty and guidance over the past few weeks. But I'm going to have to decline Detroit's offer. I'm going to MIT."
 
 Silence on the other end. Then: "Good for you, kid."
 
@@ -592,172 +812,52 @@ His phone buzzed again. Text from Robert: *We need to talk.*
 
 Ethan deleted it without responding.
 
-"Ready for prom?" I asked, changing the subject deliberately.
-
-He blinked at the non-sequitur. "What?"
-
-"Prom. One week from tomorrow. June 7th. You asked me in April, remember?"
-
-"Before everything exploded."
-
-"Everything's always exploding. But we still have prom." I smiled. "Normal high school stuff. Dinner, dancing, pictures. You, me, and a completely normal date where nobody's making life-altering decisions."
-
-"That sounds amazing."
-
-"It will be. We earned it."
-
-His phone buzzed again. This time, unknown number.
-
-He answered cautiously. "Hello?"
-
-"Ethan, this is Principal Harrison from Eastwood High."
-
-Ethan's eyes widened. "Principal Harrison. Hi. Is everything okay?"
-
-"Everything's fine. I'm actually calling with good news. We finalize graduation honors this week, and I wanted to inform you that you'll be graduating magna cum laude."
-
-"I—thank you, sir."
-
-"You earned it. 4.2 GPA, exceptional extracurriculars, MIT acceptance. You should be very proud." Principal paused. "I also heard through the grapevine that you chose MIT over a professional contract. Is that true?"
-
-"Yes, sir. I made my decision this morning."
-
-"That took courage. I hope you're proud of that too."
-
-"I'm trying to be."
-
-"Well, I am. And I think you're making a wise choice. Education lasts forever. Athletic careers are temporary." Principal Harrison chuckled. "Though between you and me, I'm disappointed you won't be making millions and donating to our athletics program."
-
-Ethan laughed despite himself. "Maybe someday, sir."
-
-"I'll hold you to that. Congratulations, Ethan. On all of it."
-
-After he hung up, Ethan looked shell-shocked. "The principal called to congratulate me. On choosing MIT."
-
-"See? Not everyone thinks you're crazy."
-
-"Just my father."
-
-"Your father thinks everyone's crazy if they don't do exactly what he wants. That's his problem, not yours."
-
 We spent the rest of the afternoon at the park, studying for finals but mostly just existing in the relief of having made impossible choices and survived.
 
-At 4:30, Sophia's phone rang. National team coordinator.
+That night, alone in his room at Caroline's apartment, Ethan sat on the edge of his bed and let it all wash over him.
 
-"Ms. Liu, I'm calling to confirm we received your acceptance for the summer training program."
+He'd done it. He'd actually done it.
 
-"Yes, ma'am. I submitted it this morning."
+Turned down $2.5 million dollars. Chosen MIT. Chosen himself.
 
-"Wonderful. We're thrilled to have you. You'll receive information packets next week with details about housing, schedule, and what to bring." The coordinator paused. "I should mention—this program has launched several Olympic careers. If you're serious about competitive badminton, this is your path."
+His phone sat silent on the nightstand—Robert's contact deleted, his texts unanswered, his control severed.
 
-After she hung up, I looked at Ethan. "Olympic path. That's what she said."
+And Ethan felt... free. Terrified. Exhilarated. Uncertain.
 
-"Are you serious about competitive badminton?"
+But free.
 
-"I'm serious about being excellent at what I choose to do. Whether that leads to Olympics or just personal satisfaction, I haven't decided yet."
+He pulled out his laptop, opened his MIT acceptance letter, read it for probably the hundredth time. *We are delighted to offer you admission to the Massachusetts Institute of Technology.*
 
-"Fair enough."
+This was real. This was happening.
 
-"But I'm also serious about MIT. And about us. And about figuring out how to be multiple things at once."
+In three months, he'd be in Boston. Living in a dorm. Taking classes with people who were just as smart as he was—smarter, probably. Playing club hockey because he wanted to, not because someone told him he had to.
 
-"We're quite a pair," Ethan said. "Both choosing complicated over simple."
+Building a life that was his.
 
-"Both choosing honest over easy."
+He thought about the contract he'd almost signed at 2 AM. How close he'd come to throwing it all away because he was scared.
 
-"Both choosing ourselves over other people's expectations."
+Thank god for Sophia. For 2 AM phone calls and questions that made him think and the kind of love that didn't try to control him.
 
-I leaned against him, watched clouds move across the afternoon sky. "Do you think we'll regret it?"
+His phone buzzed. Text from Sophia: *How are you feeling?*
 
-"I think we might. Sometimes. When it's hard and we're exhausted and the people who took the money or the guaranteed path seem happier." He wrapped an arm around my shoulders. "But I think we'd regret not trying more than we'd regret trying and failing."
+He smiled, typed back: *Terrified. Relieved. Like I just jumped off a cliff and I'm not sure if I'm flying or falling.*
 
-"When did you get so philosophical?"
+Her response came immediately: *Both. Definitely both.*
 
-"When I spent two weeks making an impossible decision and realized there's no such thing as a perfect choice. Just honest ones and dishonest ones."
+*Is that okay?*
 
-His phone buzzed one more time. Text from Robert: *You just threw away your future.*
+*That's perfect. That's how you know you made a real choice.*
 
-Ethan looked at it for a long moment, then did something I'd never seen him do before: he deleted his father's contact entirely. No number, no email, no connection.
+He set the phone down, lay back on his bed, stared at the ceiling.
 
-"What did you just do?" I asked.
+Tomorrow: finals. Next week: prom. Two weeks: graduation. Then summer. Then MIT.
 
-"Cut the cord. Completely." He set his phone down. "He doesn't get space in my head anymore. He doesn't get to live rent-free in my anxiety. He's done."
+Then everything else.
 
-"You can do that? Just... delete him?"
+But tonight, just for tonight, he let himself feel it. All of it.
 
-"I'm emancipated. I chose MIT. I chose myself." Ethan looked at me. "He can be disappointed all he wants. But it's not my job to manage his feelings anymore."
+The terror of walking away from guaranteed money. The relief of choosing honestly. The uncertainty of the future. The rightness of the decision.
 
-"That's incredibly healthy."
-
-"That's incredibly terrifying." He laughed shakily. "I have no idea if I'm doing this right."
-
-"Nobody does. We're all just pretending."
-
-"Your parents seem to have it figured out."
-
-"They're forty-five and still learning." I stood up, offered him my hand. "Come on. Let's go do something celebratory."
-
-"Like what?"
-
-"I don't know. Ice cream? Movies? Something normal that normal teenagers do when they're not making life-altering decisions."
-
-We ended up at the ice cream shop near campus, eating ridiculous sundaes and laughing about nothing important. Normal. Easy. Ours.
-
-At 7 PM, Maya called me. "I heard you're coming to MIT!"
-
-"How did you—"
-
-"I follow admissions groups. Someone posted about the hockey player who turned down the NHL. Put two and two together." She sounded delighted. "Please tell me you're doing the badminton team."
-
-"Club team, probably. I'm focusing on academics first."
-
-"Same! Track for me, but club level. We're going to be such good friends, I can already tell."
-
-After I hung up, Ethan raised an eyebrow. "Making friends before we even get there?"
-
-"Apparently. Maya's... a lot. But in a good way, I think."
-
-"I got an email from my roommate assignment," Ethan said. "Guy named Jay Patterson. Computer science major from Austin. Sent me a very formal message introducing himself and asking about my 'comfort level with ambient noise.'"
-
-"That's very specific."
-
-"Engineers are specific people. We're going to fit right in."
-
-His phone buzzed. This time, Caroline.
-
-"Robert's lawyer sent me a letter," she said when Ethan answered. "Threatening to contest the divorce if I don't 'convince you to reconsider your reckless decision.'"
-
-"He's using you to get to me."
-
-"I'm aware. My lawyer says it's an empty threat—the emancipation and my filing are separate legal matters. But I wanted you to know." She paused. "Are you okay?"
-
-"I'm great, actually. I chose MIT, ate ice cream with my girlfriend, and I'm living the most normal teenage evening of my entire life."
-
-Caroline laughed. "Good. Don't let him steal that from you."
-
-"I won't. He doesn't have that power anymore."
-
-When he hung up, I asked, "Is he going to keep doing this? Trying to manipulate through your mom?"
-
-"Probably. Until he realizes it doesn't work." Ethan finished his ice cream. "But that's his problem. My problem is figuring out what classes to take first semester and whether I'm ready for MIT-level physics."
-
-"That's a much better problem to have."
-
-"Agreed."
-
-We walked home as the sun set, the day winding down the same way it started—with choices made and consequences accepted and the future stretching out uncertain and terrifying and completely, beautifully ours.
-
-At my front door, Ethan kissed me goodbye like he was celebrating freedom.
-
-"Tomorrow: prom shopping?" I asked.
-
-"Tomorrow: prom shopping. Then finals. Then graduation. Then summer. Then MIT." He counted on his fingers. "Then everything else."
-
-"Then everything else," I agreed.
-
-He left smiling—really smiling, for the first time in weeks. The weight of the decision was gone. The choice was made. The path was chosen.
-
-Not the easy path. Not the obvious path. Not the path everyone expected.
-
-But his path. Chosen honestly. Owned completely.
+He'd done it. He'd chosen himself.
 
 And that was everything.

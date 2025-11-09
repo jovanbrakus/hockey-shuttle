@@ -18,6 +18,14 @@ The kid tried. Failed. Tried again. Succeeded.
 
 I watched him work for an hour—patient, encouraging, completely different from the controlled, pressured version of Ethan that Robert had created. This Ethan loved hockey because it was fun. Because teaching small humans to skate was joyful. Because excellence could exist without pressure.
 
+When one kid fell hard and started crying, Ethan sat on the ice with him. "You know what? I fell like that when I was your age. Except I also knocked out a tooth."
+
+"Really?"
+
+"Really. My mom still has the picture. I'm smiling with this huge gap in my mouth." He helped the kid up. "Falling is how you learn. Try again."
+
+The kid tried again.
+
 "You're good at this," I said afterward as he put away equipment.
 
 "At hockey?"
@@ -130,9 +138,55 @@ Right. National training program. July 20th through August 10th. Twenty-one days
 
 "Miss you too."
 
-We stayed at the lake until midnight, then drove home under stars that seemed impossibly bright. Ethan sang along to the radio—off-key and enthusiastic—while I laughed and took mental snapshots of the moment.
+We stayed at the lake until midnight, then drove home under stars that seemed impossibly bright. Jordan and Amy fell asleep in the back seat, leaving Ethan and me alone in the front of his car.
 
-This. This was what we'd been fighting for. Not just the right to be together, but the right to be normal teenagers having normal experiences.
+The highway was empty at this hour. Dark. Just headlights and centerline and the low hum of the radio.
+
+I watched Ethan drive—one hand on the wheel, profile illuminated by dashboard light, completely relaxed in a way I'd never seen during the school year. He caught me looking and smiled without taking his eyes off the road.
+
+"What?"
+
+"Nothing. Just... you look different."
+
+"Different how?"
+
+"Happy. Light. Like you're not carrying anything heavy anymore."
+
+He reached over, found my hand, threaded his fingers through mine. "That's because I'm not. For the first time in years, I get to just be myself."
+
+The touch was casual—we'd held hands a hundred times. But something about the darkness, the privacy, the warmth of his palm against mine made my whole body suddenly, acutely aware of him. The space between us in the small car. The way his thumb traced absent circles on my wrist. How easy it would be to lean across the console and—
+
+I looked away, feeling my face heat.
+
+"You okay?" Ethan asked.
+
+"Yeah. Just... tired." Liar. I wasn't tired. I was intensely, overwhelmingly aware of wanting to be closer to him. Of wanting more than hand-holding in a car with sleeping friends in the back seat.
+
+The moment stretched. Ethan's fingers tightened slightly around mine. His thumb stopped its absent circling and pressed, deliberately, against the inside of my wrist where my pulse was racing.
+
+He knew. Of course he knew.
+
+Neither of us said anything. But something had shifted in the air—a tension that was new and terrifying and thrilling all at once.
+
+By the time we pulled into my driveway, my heart was hammering and I didn't trust myself to speak.
+
+"I'll text you tomorrow," Ethan said, voice lower than usual.
+
+"Okay."
+
+He walked me to my door. Kissed me goodnight—lingering longer than necessary, his hand at the small of my back pulling me closer. When we broke apart, we were both breathing harder.
+
+"Sophie—"
+
+"I know," I interrupted. "But not yet."
+
+"Not yet," he agreed.
+
+I watched him drive away, then went inside and sat on my bedroom floor, trying to process the ache of wanting more time, more privacy, more of everything.
+
+Three weeks apart suddenly felt unbearable.
+
+---
 
 On July 15th, we started packing for our respective adventures.
 
@@ -220,7 +274,7 @@ After dinner, Ethan and I escaped to the backyard while our parents cleaned up i
 
 "I know. But still."
 
-We sat on the porch steps, watching the July sky fade from blue to purple to dark.
+We sat on the porch steps, watching the July sky fade from blue to purple to dark. The air was warm, thick with summer evening—cut grass and distant barbecues and the faint sound of kids playing down the street.
 
 "Are you nervous?" Ethan asked. "About Toronto?"
 
@@ -240,9 +294,9 @@ We sat on the porch steps, watching the July sky fade from blue to purple to dar
 
 "Honest."
 
-We sat in silence as the first stars appeared.
+We sat in silence as the first stars appeared. I wanted to memorize this—the feeling of sitting next to him, shoulders touching, nothing urgent or terrible demanding our attention. Just summer evening and quiet and being together.
 
-"Call me when you land?" Ethan said.
+"Call me when you land?" Ethan said finally.
 
 "Obviously."
 
@@ -252,21 +306,33 @@ We sat in silence as the first stars appeared.
 
 "Impossible."
 
-At 10 PM, Caroline came to collect him. They were heading to the airport early tomorrow—6 AM flight to Toronto for me, then she was driving Ethan to his coaching course.
+The porch light flickered on—Mom's subtle signal that it was getting late.
 
-"See you in three weeks," Ethan said at my front door.
+"I should go," Ethan said, but didn't move.
 
-"Three weeks. Twenty-one days. 504 hours."
+"Yeah."
 
-"You calculated?"
+"Sophie—" He turned to face me, and there was something intense in his expression. "I'm going to miss you so much."
 
-"I'm going to MIT for engineering. Of course I calculated."
+"Three weeks. We've survived worse."
 
-He kissed me goodnight—long and sweet and a little bit desperate. "I love you."
+"I know. But this is different. Before, we were fighting something together. Now we're just... apart. Growing separately. And I'm terrified that when you come back, something will have changed."
+
+"Something probably will change. We'll both learn things. Get better at stuff. That's the point." I took his hand. "But the important stuff? That's not changing."
+
+He pulled me closer, wrapped both arms around me. I buried my face against his shoulder, breathing him in—soap and summer and something that was just Ethan.
+
+"I'm going to call you so much you'll regret giving me your number," he murmured against my hair.
+
+"Good. I want you annoying me every day."
+
+We stayed like that until Caroline came to collect him. At my front door, Ethan kissed me goodnight—long and sweet and a little bit desperate, his hands cradling my face like I was something precious he was afraid to let go.
+
+"I love you," he said.
 
 He'd never said it quite like that before. Direct, simple, true.
 
-"Love you too."
+My chest felt too full. "Love you too."
 
 "Be amazing in Toronto."
 
@@ -276,7 +342,7 @@ He'd never said it quite like that before. Direct, simple, true.
 
 "Every day."
 
-He left. I watched his car disappear down the street.
+He left. I watched his car disappear down the street, then went upstairs and sat on my bed surrounded by half-packed bags.
 
 Tomorrow, summer would pause. We'd go our separate directions for the first time since getting together. Three weeks apart to grow individually before coming back together for MIT.
 
@@ -312,9 +378,17 @@ The first training session was at 6 PM. All twenty athletes gathered in the main
 
 Encouraging start.
 
-We trained until 9 PM. Footwork drills, serve practice, rally simulations, conditioning. I was good—had been the best player in Winnipeg by a significant margin. Here, I was middle of the pack. Maybe.
+We trained until 9 PM. Footwork drills, serve practice, rally simulations, conditioning. I was good—had been the best player in Winnipeg by a significant margin.
 
-After training, I collapsed in my dorm room and called Ethan.
+Here, I was middle of the pack. Maybe.
+
+The girl next to me—Emma, from Montreal—had footwork so fast she looked like she was gliding. The guy across the court—David, from Calgary—served with power I'd never seen up close. Every single person here was extraordinary.
+
+And I was just... good.
+
+After training, I collapsed in my dorm room. Every muscle ached. My brain was overwhelmed with technical feedback. My hands were shaking from exhaustion.
+
+I called Ethan.
 
 "How was day one?" he asked.
 
@@ -322,79 +396,109 @@ After training, I collapsed in my dorm room and called Ethan.
 
 "That good?"
 
-"I'm average here. Maybe below average. Everyone is so good, Ethan. Like, scary good."
+"I'm average here, Ethan. Maybe below average. Everyone is so good. Like, scary good." My voice cracked embarrassingly. "I thought I was actually elite. Turns out I'm just a big fish who ended up in the ocean."
 
 "You're a national champion."
 
-"I was a big fish in a small pond. This is the ocean, and I'm realizing I'm actually a medium-sized fish who needs to get better or drown."
+"I was a national champion in a small division. This is different." I pressed my palm against my eyes, fighting stupid tears. "What if I don't belong here? What if they sent me the invitation by mistake?"
 
-He laughed. "You're not going to drown. You're going to train and improve and come home better than you left."
+"Sophie. Listen to me." His voice was steady, grounding. "You belong there because you earned it. You won a national championship. You got invited based on performance, not luck. You're just intimidated because you're new."
 
-"How was your course?"
+"I'm so tired I can't think straight."
 
-"Started tomorrow. But I set up my room and met some of the other coaches. Everyone seems cool."
+"Then stop thinking. Just sleep. Day two will be better."
 
-We talked for an hour—about nothing and everything, just hearing each other's voices after one day apart.
+"Promise?"
 
-"I miss you," I said finally.
+"Promise. Now go to bed before you fall asleep on the phone."
 
-"Miss you too. But this is good for us. Growing independently."
+"Love you."
 
-"When did you get so wise?"
+"Love you too. You've got this."
 
-"Hanging out with this really smart badminton player. She's rubbing off on me."
+Day two was not better.
 
-Week one passed in a blur of training and exhaustion.
+We started at 7 AM with conditioning—thirty minutes of ladder drills followed by suicide sprints. Then footwork training for ninety minutes. Then technical serve analysis. Then match simulations. Then video review. Then more conditioning.
 
-Up at 6 AM. Breakfast at 6:30. Training 7-11. Lunch. Video analysis 12-1. Training 2-6. Dinner. Evening conditioning 7-8. Collapse.
+By lunch, I was so exhausted I could barely hold my fork.
 
-I called Ethan every night, sometimes too tired to form complete sentences.
+"This is normal," Priya said, shoveling food like she hadn't eaten in days. "First week is designed to break you. If you survive, your body adapts."
 
-"I hate footwork drills," I said on day three.
+"What if I don't survive?"
 
-"You love footwork drills. You make me do them."
+"Then you go home with really good stories about that one time you trained with the national team."
 
-"I've changed my mind. They're torture."
+I didn't want stories. I wanted to belong here.
 
-"You're just tired."
+Day three, my alarm went off at 6 AM and I genuinely couldn't move. My legs were lead. My arms were jelly. My brain was mush.
 
-"I'm exhausted. My coach made us do ladder drills for ninety minutes straight today. Ninety minutes. My legs don't work anymore."
+I called my mom instead of Ethan.
 
-"But are you improving?"
+"I can't do this," I said when she answered. "I'm not good enough. Everyone here is better than me and I'm so tired I want to cry."
 
-I thought about it. "Yeah. Actually yeah. My lateral movement is getting faster. My reaction time is improving. I'm starting to anticipate shots better."
+"Are you injured?" Mom asked calmly.
 
-"Then the torture is working."
+"No."
 
-By day seven, I'd found my rhythm. Still exhausted, still challenged, but adapting. Priya and I became actual friends—training partners who pushed each other and complained together and understood what this level of commitment required.
+"Are you being treated badly?"
 
-"You're getting better," she said on Saturday morning after a particularly good practice match. "Like, noticeably better. Your serves are sharper."
+"No. The coaches are intense but fair."
 
-"Coach Kim's serve analysis helped. She broke down my mechanics and rebuilt them from scratch."
+"Then what you're experiencing is called being challenged. You've never been the worst player in the room before. It's uncomfortable."
 
-"That's what this program does. Breaks you down, rebuilds you stronger."
+"It's more than uncomfortable. It's humiliating."
 
-That night, I video called Ethan. He looked happy—relaxed in a way I hadn't seen in months.
+"Sophia. You are seventeen years old, training with the best athletes in Canada, working toward a goal that requires excellence. You are supposed to be uncomfortable. That's how you grow."
 
-"Coaching course is amazing," he said. "I'm learning so much about teaching methodology and age-appropriate development. It's basically sports psychology applied to children."
+I was crying now—stupid, frustrated, exhausted tears. "What if I fail?"
+
+"Then you fail. You go to MIT, play club badminton, and remember that you tried." She paused. "Or you could trust that you're exactly where you're supposed to be, and give yourself more than three days before deciding you're not good enough."
+
+After we hung up, I forced myself out of bed. Showered. Ate breakfast. Went to training.
+
+Coach Kim pulled me aside after warm-up.
+
+"Sophia. You look miserable."
+
+"I'm just tired."
+
+"You're comparing yourself to everyone else and losing." She crossed her arms. "Stop it. Your only competition here is yesterday's version of yourself. Are you better today than you were yesterday?"
+
+I thought about it. "My footwork is faster."
+
+"Then you're succeeding. Focus on that. Improvement, not comparison."
+
+That conversation shifted something. I stopped watching Emma's perfect footwork and started working on my own. Stopped worrying about David's powerful serve and focused on improving my accuracy.
+
+By day five, I could keep up with conditioning. By day six, I won a practice match against a girl from Toronto. By day seven, Coach Kim nodded at me after serve practice—silent approval that felt like a trophy.
+
+That night, I video called Ethan. He looked happy and sunburned.
+
+"How's coaching?" I asked.
+
+"Amazing. Today I taught a six-year-old to do crossovers and she literally screamed with joy. It was the best thing ever."
 
 "You love it."
 
-"I really do. It's hockey without pressure. Just pure teaching and development." He leaned back in his chair. "I think I might want to do this long-term. Coach, maybe teach at the college level eventually."
+"I really do. It's hockey without pressure. Just pure teaching and fun." He leaned back in his chair. "How's Toronto? Still miserable?"
 
-"What about playing?"
+"Actually... no. I'm adapting. My body figured out how to handle eight hours a day. My brain stopped panicking about being average and started focusing on improvement."
 
-"I'll always play. Club hockey at MIT, maybe beyond. But I don't need it to be my career anymore." He smiled. "I get to love it without needing it. That's freedom."
+"See? Told you day two would be better."
 
-"I'm proud of you."
+"You said day two. This is day seven."
 
-"Back at you. National training program, holding your own with the best players in the country. That's huge."
+"I was off by five days. Close enough." He grinned. "Seriously though, I'm proud of you. Most people would have quit."
 
-We talked until midnight—about dreams and futures and plans that felt both distant and immediate.
+"I almost did. Called my mom crying on day three."
 
-"Two more weeks," I said before hanging up.
+"But you didn't quit. That's what matters."
 
-"Fourteen days. Then you're home."
+We talked until midnight—about his coaching certification program, my training details, nothing and everything. Just hearing his voice made the exhaustion bearable.
+
+"Fourteen more days," I said before hanging up.
+
+"Then you're home."
 
 "Then we pack for MIT."
 
@@ -402,23 +506,159 @@ We talked until midnight—about dreams and futures and plans that felt both dis
 
 "I'm ready for everything to change."
 
-"Me too."
+"Me too. Love you, Sophie."
+
+"Love you too."
 
 ---
 
 **TORONTO: WEEK TWO**
 
-Week two was when everything clicked.
+By the start of week two, my body had adapted to the insane training schedule. I could wake up at 6 AM without wanting to die. My muscles recovered faster. My brain could process technical feedback even when exhausted.
 
-My body adapted to the training schedule. My skills sharpened under constant elite coaching. My mental game strengthened from training against players who challenged me.
+But adaptation wasn't the same as thriving.
 
-On day ten, I beat Priya in a practice match—straight games, clean execution, complete control.
+I was good. Competent. Improving. But I wasn't great. Not yet.
 
-"That was incredible," she said afterward. "When did you get that good?"
+On day eight, we did match simulations—playing against different opponents in rotating rounds. I won some. Lost more. Every match revealed gaps in my game that needed fixing.
 
-"Right now, apparently."
+After my fourth loss of the day, I sat in the locker room fighting frustration.
 
-Coach Kim pulled me aside. "Sophia, you've improved more in ten days than most athletes improve in six months. What changed?"
+Priya found me there. "You're overthinking."
+
+"I'm getting my ass kicked."
+
+"Because you're playing their game instead of yours." She sat down next to me. "You move different than everyone here. More calculated, less reactive. Stop trying to match their speed and use your brain instead."
+
+"What do you mean?"
+
+"You read the game like chess. They read it like instinct. Neither is better, but you're trying to be them instead of using what makes you different."
+
+Day nine, I tried what Priya suggested. Instead of reacting faster, I started anticipating smarter. Watching opponent patterns, setting traps, using strategy instead of speed.
+
+I won four matches in a row.
+
+Coach Kim pulled me aside. "What changed?"
+
+"I stopped competing with them and started playing my own game."
+
+"That's the difference between good and great." She made a note on her clipboard. "Keep that up."
+
+On day ten, everything fell apart.
+
+We had a particularly brutal training day—three hours of match play in the morning, two hours of conditioning, then another three hours of technical drills. By dinner, I was so exhausted I felt nauseous.
+
+I skipped dinner. Went back to my room. Tried to sleep.
+
+Couldn't.
+
+My brain was spinning with anxiety. About badminton, about MIT, about being good enough for any of it. The exhaustion made everything catastrophic—I was going to fail here, fail at MIT, fail at everything I'd ever tried.
+
+At 9 PM, I called Ethan. He answered on the first ring.
+
+"Hey—Sophie? You okay?"
+
+"No." My voice cracked. "I can't... I just... everything is too much and I'm so tired and I don't know if I can do this."
+
+"Do what? Toronto?"
+
+"Any of it. This. MIT. All of it." I was crying now—full ugly sobbing. "What if I'm not actually smart enough or good enough for the life I'm trying to build? What if I'm just fooling myself?"
+
+"Sophie, you're exhausted. You're not thinking straight."
+
+"Maybe being exhausted is when I think most clearly. Maybe this whole thing—national training, MIT, trying to be excellent at everything—maybe it's all just me being delusional."
+
+Silence on the other end.
+
+"Ethan?"
+
+"I'm here. Just... give me a second." He took a breath. "Okay. Listen. You are seventeen years old, training eight hours a day with the best athletes in Canada, preparing to attend the most competitive university in the country. You are allowed to be overwhelmed. You're allowed to be tired. You're allowed to question everything."
+
+"But what if—"
+
+"But," he continued firmly, "you are not allowed to make life-altering decisions at 9 PM on day ten when you're so exhausted you skipped dinner. You're not thinking clearly right now. You're catastrophizing because your brain is fried."
+
+"I really miss you," I whispered.
+
+"I miss you too. So much." His voice softened. "Do you want to quit Toronto? Actually quit, not just panic-quit?"
+
+I thought about it. Really thought. "No. I want to finish."
+
+"Then finish. Eleven more days. You can do eleven more days."
+
+"What if I can't?"
+
+"Then you call me crying and I'll talk you through it. Every single night if you need to."
+
+I laughed wetly. "You're going to get sick of me."
+
+"Impossible. Now promise me you'll eat something before bed."
+
+"I promise."
+
+"And Sophie? I love you. You're not delusional. You're just really fucking tired."
+
+After we hung up, I forced myself to go to the common room and eat leftover pizza. Priya found me there.
+
+"Rough day?"
+
+"The worst."
+
+"Day ten is when everyone breaks. You're right on schedule." She grabbed her own slice. "Tomorrow's easier. Day ten is the worst, then it gets better."
+
+She was right. Day eleven, I woke up feeling more stable. Day twelve, I beat Emma in a practice match. Day thirteen, Coach Kim complimented my serve mechanics.
+
+On day fourteen—exactly two weeks in—I felt like a different player than the one who'd arrived terrified and out of place.
+
+That night, I called Ethan from the roof of the residence hall where some of us went to get cell service and see the city lights.
+
+"You sound better," he said.
+
+"I am better. I had a complete breakdown on day ten, but I survived."
+
+"You called me crying."
+
+"I called you catastrophizing. You talked me off the ledge."
+
+"That's what I'm here for. Professional catastrophe management." He paused. "How much better are you? At badminton?"
+
+I thought about it. "A lot better. Like, measurably better. My serve speed increased fifteen percent. My footwork is faster. My match strategy is smarter. If I played the version of me from two weeks ago, I'd destroy her."
+
+"That's huge."
+
+"It's kind of amazing actually. I didn't know I could improve this much in two weeks."
+
+"You're going to be terrifying at MIT club badminton."
+
+"How's coaching certification?"
+
+"I passed everything. They offered me a job teaching at a hockey camp in August, but I turned it down because that's when we move to Boston."
+
+"You turned down a job?"
+
+"I turned down a job that conflicted with our timeline. Big difference." He laughed. "Old Ethan would have said yes and figured out the conflict later. New Ethan has priorities."
+
+"I like New Ethan."
+
+"New Ethan is obsessed with you and counting down days until you're home."
+
+"Seven more days."
+
+"166 hours. But who's counting?"
+
+---
+
+**TORONTO: WEEK THREE**
+
+The final week had a different energy. We all knew this was ending. Three weeks of living and breathing badminton, then back to real life.
+
+For some athletes, this was life—they'd go home and train full-time, pursue national team spots, commit to professional development.
+
+For others, like me, this was a moment. Important, formative, but not forever.
+
+On day sixteen, I had my best training day yet. Won every match simulation. Executed serves with precision I'd never achieved before. Felt completely in control of my game.
+
+"Sophia, you've improved more in sixteen days than most athletes improve in six months," Coach Kim said after training. "What changed?"
 
 "I stopped being intimidated and started being curious."
 
@@ -426,97 +666,9 @@ Coach Kim pulled me aside. "Sophia, you've improved more in ten days than most a
 
 "The first week I was scared of failing. This week I started asking questions—why do they move that way, how do they read shots, what am I missing?" I grabbed water, caught my breath. "I stopped competing with them and started learning from them."
 
-"That's the difference between good and great." Coach Kim made a note on her clipboard. "Keep that mindset. You could make national team in two years if you maintain this trajectory."
+"That's the difference between good and great." She pulled me aside. "I want to talk to you about something. The national team selectors have been watching all of you. Several athletes are being invited to additional programming."
 
-National team. Two years. The timeline conflicted with MIT, but I filed it away to think about later.
-
-I told Ethan that night.
-
-"She said national team?" He sounded thrilled and terrified. "Sophie, that's incredible!"
-
-"In two years. If I maintain improvement. If I commit full-time."
-
-Silence on the other end.
-
-"Which conflicts with MIT," Ethan said carefully.
-
-"Which conflicts with MIT," I agreed. "But that's a future problem. Right now, I'm just training and learning."
-
-"Are you thinking about it though? Deferring MIT for badminton?"
-
-"No. Are you thinking about it? Playing club hockey instead of getting a degree?"
-
-"No."
-
-"Then we're on the same page. National team is a compliment and a possibility, not a plan."
-
-"Okay. Good. I trust you."
-
-"Good. Now tell me about your week."
-
-His coaching course was wrapping up. He'd passed all his certifications, networked with coaches from across Canada, started thinking about what post-MIT coaching could look like.
-
-"There's a program at MIT," he said. "Graduate level sports management. Combines coaching with administration and development. I could do engineering undergrad, then sports management for grad school."
-
-"You're planning eight years ahead?"
-
-"I'm thinking long-term. Is that weird?"
-
-"It's ambitious. And kind of amazing." I smiled even though he couldn't see it. "You went from controlled NHL track to choosing your own complex path. That's growth."
-
-"I learned from the best."
-
-Week two ended with an inter-program tournament—all twenty athletes competing in singles, doubles, and mixed doubles. I made it to the semifinals in singles, finals in women's doubles.
-
-Lost the finals match in three games, but it was close. Competitive. Proof I belonged here.
-
-"You're going to be dangerous next year," my doubles partner said. "If you come back."
-
-"If?"
-
-"Rumor is you're going to MIT. Can't do both."
-
-"I'll figure it out."
-
-On day fourteen, as I packed for one final week, Priya knocked on the open door.
-
-"Can I ask you something?"
-
-"Sure."
-
-"How do you balance everything? Elite athletics and elite academics? Everyone says you can't do both, but you're doing it."
-
-I thought about how to answer honestly. "I'm not balancing. I'm choosing. Right now I'm choosing badminton. In August I choose MIT. Maybe later I choose something else. But I'm not trying to do everything at once."
-
-"But the coaches here want full commitment."
-
-"They want my best while I'm here. That's what I'm giving them." I zipped my bag. "When I'm at MIT, I'll give that my best. They're not competing. They're just different chapters."
-
-"That's a really healthy way to think about it."
-
-"I'm learning as I go. Ask me in a year if it's actually working."
-
----
-
-**TORONTO: WEEK THREE**
-
-The final week was both intense and bittersweet.
-
-We all knew this was ending. Three weeks of living and breathing badminton, then back to real life.
-
-For some athletes, this was life—they'd go home and train full-time, pursue national team spots, commit to professional development.
-
-For others, like me, this was a moment. Important, formative, but not forever.
-
-On day seventeen, we had a team meeting with national team selectors.
-
-"We've been watching all of you," the head selector said. "Several of you show serious potential for national team development. You'll receive individual meetings before you leave."
-
-I got called in on day eighteen.
-
-"Sophia, you've been impressive. Your improvement curve is steep, your work ethic is excellent, and your mental game is mature beyond your years."
-
-"Thank you."
+My heart rate picked up. "Okay."
 
 "We'd like to invite you to winter training camp. December 26th through January 15th. Here in Toronto. Elite development with potential national team call-up after."
 
@@ -550,13 +702,137 @@ Silence.
 
 "Then we'll figure it out. We always do."
 
-The final training session was on July 10th—day twenty-one. We did a full simulation tournament, playing our hearts out one last time.
+But later that night, alone in my dorm room, I felt the weight of it. Another separation. More time apart. The constant balancing act of being excellent at multiple things while also trying to maintain a relationship.
 
-I won my bracket. Lost the overall finals. Felt proud anyway.
+I texted Ethan: *What if we can't actually do this?*
 
-That night, the program hosted a farewell dinner. All twenty athletes, all the coaches, everyone who'd made these three weeks possible.
+His response came immediately: *Do what?*
 
-Coach Kim gave a speech. "You came here good. You're leaving great. Some of you will go on to represent Canada internationally. Some will play in college. Some will stop competing and just remember this as the summer you were excellent. All of those paths are valid. I'm proud of all of you."
+*Be good at everything. Be together. Not lose ourselves trying to balance it all.*
+
+Three dots. Then: *We probably can't. Not perfectly. But we can try imperfectly and forgive ourselves when it's hard.*
+
+*Is that enough?*
+
+*It's all anyone can do. Call me?*
+
+I called. We talked until 2 AM—about fears and futures and whether we were delusional to think we could maintain a relationship while both pursuing excellence at demanding things.
+
+"Maybe we're idiots," I said.
+
+"Definitely idiots. But we're committed idiots."
+
+"What if being committed idiots isn't enough?"
+
+"Then we'll fail spectacularly and at least have a good story." He paused. "But I don't think we're going to fail. I think we're going to struggle and fight and figure it out. Messily. That's different than failing."
+
+Day seventeen, Priya asked me about winter training.
+
+"Are you going to do it?"
+
+"I don't know. It conflicts with time with Ethan."
+
+"Do you want my opinion or just sympathy?"
+
+"Opinion."
+
+"You're seventeen. You're not married. This is the time to say yes to opportunities that make you better, even if they complicate your relationship." She shrugged. "If you guys can't survive you being excellent, then the relationship wasn't going to work anyway."
+
+"Harsh."
+
+"True though."
+
+Day eighteen, we had an inter-program tournament—all twenty athletes competing in singles, doubles, and mixed doubles. I made it to the semifinals in singles, finals in women's doubles with Priya as my partner.
+
+Lost the finals match in three games, but it was close. Competitive. Proof I belonged here.
+
+"You're going to be dangerous next year," Priya said afterward. "If you come back for winter training."
+
+"Still deciding."
+
+"Decide yes. You're too good not to push further."
+
+On day nineteen, something happened that shifted everything.
+
+I was scrolling Instagram between training sessions when I saw it—a photo Jordan had posted from another lake day. The whole friend group from July, except this time there was a girl I didn't recognize sitting in the spot I'd been in last time.
+
+Right next to Ethan.
+
+She was pretty. Blonde. Laughing at something he'd said. His arm was stretched along the back of the bench behind her—not around her, but close enough to make my stomach clench.
+
+The caption: *Summer crew minus Sophie who's being an elite athlete in Toronto. @ethanmercer making new friends.*
+
+I stared at the photo until my vision blurred.
+
+This was stupid. It was just a group hangout. Jordan had tagged a dozen people. The girl was probably someone's girlfriend or cousin or random friend. Ethan and I were solid. I trusted him.
+
+But also—he'd gone to another lake day without me. Made new friends. Sat next to a pretty blonde while I was eight hundred kilometers away training.
+
+I called him.
+
+"Hey! How was training?"
+
+"Fine. Good. Whatever." I tried to sound casual. "Saw Jordan's Instagram. Looked fun."
+
+"Oh yeah, we went back to the cabin for the afternoon. Super low-key." He paused. "You okay? You sound weird."
+
+"Who's the blonde girl?"
+
+Silence.
+
+"What?"
+
+"In the photo. Sitting next to you. Who is she?"
+
+"Oh. That's Melissa. She's dating Jordan's friend Tyler. Why?"
+
+"Just curious."
+
+"Sophie." His voice changed. "Are you... are you jealous right now?"
+
+"No. Maybe. I don't know." God, I sounded ridiculous. "It's stupid. Forget I said anything."
+
+"It's not stupid. You're in Toronto training crazy hours, I'm here hanging out at lakes. That would make me feel weird too."
+
+"I trust you."
+
+"I know. But you're also human and tired and we've been apart for almost three weeks. You're allowed to feel insecure." He paused. "For the record, I sat next to Melissa because Tyler was on my other side and Jordan was across. I was literally boxed in. I spent the whole afternoon wishing you were there instead."
+
+"Really?"
+
+"Really. Also, she spent an hour talking about her boyfriend's gym routine. It was monumentally boring."
+
+I laughed despite myself. "Okay."
+
+"Okay." He softened. "Three more days. Then you're home and I'm not letting you out of my sight for at least a week."
+
+"Promise?"
+
+"Promise."
+
+After we hung up, I felt stupid for being jealous. But also—Priya knocked on my door and found me staring at the photo.
+
+"What's wrong?"
+
+"Nothing. Just being an idiot about my boyfriend hanging out with other girls while I'm gone."
+
+She looked at the photo. "She's pretty."
+
+"Not helping."
+
+"But she's also clearly into the guy next to her, not your boyfriend. See how her body is angled?" She pointed. "Orientation toward Tyler, not Ethan. You're fine."
+
+"When did you become a body language expert?"
+
+"I have a brother your boyfriend's age who brings home attractive friends. I've learned to analyze threats."
+
+"Is your brother single?"
+
+"I'm not playing matchmaker while you spiral about Instagram photos."
+
+Day twenty, Coach Kim gave a farewell speech at our final team dinner.
+
+"You came here good. You're leaving great. Some of you will go on to represent Canada internationally. Some will play in college. Some will stop competing and just remember this as the summer you were excellent. All of those paths are valid. I'm proud of all of you."
 
 After dinner, Priya and I walked around the Toronto waterfront.
 
@@ -574,19 +850,51 @@ After dinner, Priya and I walked around the Toronto waterfront.
 
 "Absolutely."
 
+Day twenty-one—final training session. We did a full simulation tournament, playing our hearts out one last time.
+
+I won my bracket. Lost the overall finals to Emma, but it was competitive. Close.
+
+Coach Kim pulled me aside after. "Winter training invitation still stands. You've proven you can compete at this level."
+
+"I'll let you know by September."
+
+"Good. You should come back. You've got something special."
+
+---
+
 I flew home on August 11th—exhausted, improved, changed.
 
-Ethan met me at the airport with flowers and a smile that made everything worth it.
+Ethan met me at the airport with flowers and a smile that made everything worth it. When I saw him waiting at arrivals, something in my chest cracked open.
 
-"You look different," he said.
+Three weeks. It had only been three weeks. But it felt like forever.
+
+I dropped my bags and just hugged him—buried my face against his shoulder and breathed him in and felt the tension of separation finally release.
+
+"You look different," he said when we finally broke apart.
 
 "I am different. Stronger. Faster. Better at badminton."
 
 "Still the same Sophie?"
 
-"Still the same Sophie. Just evolved."
+"Still the same Sophie. Just evolved." I looked at him. "You look different too."
 
-We drove home talking nonstop—three weeks condensed into ninety minutes of conversation. His coaching certification, my training evolution, the plans we'd made separately and together.
+"Different how?"
+
+"I don't know. More sure of yourself or something."
+
+"Three weeks of doing what I love instead of what I'm forced to do. It changes you."
+
+We drove home talking nonstop—three weeks condensed into ninety minutes of conversation. His coaching certification, my training evolution, the stupid Instagram photo jealousy that seemed absurd now that I could see him in person.
+
+"You were jealous of Melissa?" He laughed. "She's literally engaged. She was showing everyone her ring."
+
+"I couldn't see a ring in the photo!"
+
+"Because it was on her other hand. Tyler proposed at the lake. That's why we were all there—celebrating their engagement."
+
+"Oh my god, I'm an idiot."
+
+"You're human. And tired. And I love you." He reached over, squeezed my hand. "For what it's worth, I spent the whole three weeks missing you and counting down days. There was never a competition."
 
 At my house, my parents had a "Welcome Home" banner and my favorite dinner ready.
 
@@ -614,7 +922,7 @@ He thought about it. "No. But I'm going anyway. You?"
 
 "That seems to be our default state."
 
-We sat in comfortable silence as summer evening settled around us.
+We sat in comfortable silence as summer evening settled around us. Three weeks apart had made this feel precious—the simple act of being together, shoulders touching, nothing demanding our attention.
 
 "Thank you," I said.
 

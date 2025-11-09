@@ -294,7 +294,7 @@ The first slow song started around 8 PM.
 
 "Then we'll figure it out together."
 
-We did. Badly at first—stepping on each other's feet, laughing at our complete lack of coordination. But gradually, we found a rhythm. His hand at the small of my back. My arms around his neck. Swaying more than actually dancing, but together.
+We did. Badly at first—stepping on each other's feet, laughing at our complete lack of coordination. But gradually, we found a rhythm. His hand at the small of my back, warm through the silk of my dress. My arms around his neck, fingers brushing the hair at his nape. Swaying more than actually dancing, but together.
 
 Around us, the entire senior class was dancing. Couples who'd been together for years, brand new couples, groups of friends dancing together, people who came alone dancing in clusters. Everyone just existing in the moment.
 
@@ -416,15 +416,137 @@ After they left, Ethan looked at me. "That was remarkably mature."
 
 "Terrifying thought."
 
-We stayed at the party until 2 AM, when parents started texting that it was time to come home. The drive back was quiet—both of us exhausted, happy, completely wrung out from the night.
+We stayed at the party until almost 2 AM, when parents started texting that it was time to come home.
 
-At my door, Ethan kissed me goodnight like he was sealing a perfect evening.
+"Want to take the long way?" Ethan asked as we got in his car.
+
+"Always."
+
+He didn't drive toward my house. Instead, he headed downtown, toward The Forks—the marketplace where the rivers met. Tourist destination during the day, quiet and peaceful at night.
+
+We parked near the river walk and wandered down to the water's edge. The city was asleep around us. The Red and Assiniboine rivers merged in dark currents, reflecting lights from the few buildings still illuminated. Stars were visible through Winnipeg's light pollution—not many, but enough.
+
+I was still in my prom dress, though I'd kicked off my heels in the car. Ethan had loosened his tie and unbuttoned his collar. We looked like we'd stepped out of a fairy tale and landed in the real world, exhausted but happy.
+
+We found a bench overlooking the water and sat.
+
+"Perfect night," Ethan said.
+
+"Completely."
+
+"I keep waiting for something to go wrong."
+
+"Nothing's going to go wrong. We get to just be happy."
+
+"That feels new." He leaned back, stared at the stars. "I've spent so long in crisis mode. Waiting for the next disaster. But tonight... tonight was just good."
+
+"We earned good."
+
+"Yeah." He was quiet for a moment. "Can I tell you something?"
+
+"Always."
+
+He turned to face me, and there was something in his expression I couldn't quite read. Vulnerable. Open. A little scared.
+
+"I keep thinking about everything we've been through," he said. "Eight months ago, I was completely controlled. My life wasn't mine. I didn't make decisions, I executed them. And then you showed up."
+
+"I didn't do anything. You saved yourself."
+
+"You showed me it was possible. You asked questions I'd never thought to ask. You made me see that being excellent didn't have to mean being sacrificed." His hand found mine. "But somewhere in all that, somewhere between September and now, something else happened."
+
+My heart was beating too fast. "What happened?"
+
+"I fell in love with you."
+
+The words hung in the air between us. Simple. Honest. Enormous.
+
+I couldn't breathe. Couldn't think. Could only stare at him in the darkness, his face partly shadowed, his eyes reflecting starlight.
+
+"I don't know when exactly," he continued, voice soft but steady. "Maybe it was when you destroyed everyone at badminton nationals while making it look easy. Maybe it was when you helped me read that contract without trying to tell me what to do. Maybe it was watching you give your valedictorian speech and realizing you were talking about us. Our choices. Our freedom."
+
+He took a shaky breath.
+
+"Or maybe I've loved you since we were nine years old skating at that rink in our old town, and I was just too young and too controlled to know what it was." His thumb traced circles on the back of my hand. "But I know it now. I love you, Sophie. Not because you saved me, not because we've been through hell together, not because you're brilliant and beautiful and the best person I know—though you are all those things. I love you because when I imagine my future, every version of it has you in it."
+
+Tears were running down my face, ruining Michelle's careful makeup work. I didn't care.
+
+"I love you," he said again, like he needed to make sure I heard it. "And I know that's terrifying and huge and we're only eighteen and we're about to start college and everything's uncertain and—"
+
+I kissed him.
+
+Not soft and careful like at the dance. Not appropriate for public spaces. But desperately, completely, like I'd been holding back all night and couldn't anymore. My hands tangled in his hair. His arms pulled me close. The bench was uncomfortable and the position awkward but none of it mattered because Ethan Mercer had just told me he loved me and I—
+
+"I love you too," I whispered against his mouth. "God, I love you too."
+
+He pulled back just enough to see my face, his hands framing my jaw. "Yeah?"
+
+"Yeah. So much." I was crying and laughing at the same time. "I think I've loved you since you helped me practice slapshots in September and didn't make fun of how terrible I was. Or maybe since you stood up to your father in that courthouse. Or maybe since you chose MIT even though it scared you. I don't know when it started, but I know it's real."
+
+"We're really doing this," he said. "Telling each other we're in love at 2:30 in the morning after prom while sitting by a river in our fancy clothes."
+
+"Is that weird?"
+
+"It's perfect." He kissed me again, softer this time. "Everything about us is weird and perfect."
+
+We stayed like that for a long time. Holding each other. Kissing between words. Processing the enormity of what we'd just said. The river flowed past, indifferent to the two teenagers on the bench whose lives had just shifted into something bigger and more terrifying and more beautiful than either of us had expected.
+
+"We have to tell people," I said eventually. "Maya's going to die. She's been asking about you for weeks."
+
+"Jordan's going to mock me endlessly for saying it first."
+
+"You did say it first."
+
+"I couldn't help it. It just... came out. I was talking about tonight and you and suddenly the words were there and I couldn't not say them."
+
+"I'm glad you said them."
+
+"Me too." He checked his phone and winced. "It's almost 3. Your parents are going to kill me."
+
+"We're eighteen. Legally adults. They can't ground us."
+
+"Tell that to your father's death stare."
+
+But neither of us moved. We stayed on that bench by the river, in our prom clothes, holding onto the moment before we had to drive home and return to reality.
+
+"This changes things," Ethan said quietly.
+
+"Does it?"
+
+"We're not just dating anymore. We're... in love. That's different."
+
+"How?"
+
+"Higher stakes. More to lose." He looked at me seriously. "If we mess this up, if MIT breaks us or distance wins or we drift apart—it's not just losing a relationship. It's losing this."
+
+"Then we won't mess it up."
+
+"How do you know?"
+
+"Because we choose not to. Every day. On purpose." I kissed him once more. "We survived your father. We survived emancipation. We survived choosing ourselves over easy paths. We can survive being in love while going to MIT."
+
+"That's a lot of faith."
+
+"I have faith in us."
+
+"Even when it's scary?"
+
+"Especially when it's scary."
+
+We finally drove home around 3:30. The streets were empty, the city asleep. Ethan held my hand the entire drive, our fingers intertwined like we could anchor each other against whatever came next.
+
+At my door, he kissed me goodnight like he was sealing a promise.
 
 "Best prom ever," he said.
 
 "Only prom ever."
 
-"Best regardless." He touched the side of my face gently. "Three weeks until graduation. Then summer. Then MIT."
+"Best regardless." He touched the side of my face gently. "I love you."
+
+"I love you too."
+
+The words still felt new. Enormous. Perfect.
+
+"Three weeks until graduation. Then summer. Then MIT."
 
 "Then everything else."
 
@@ -445,6 +567,12 @@ I looked at the photos Dad had uploaded already—me and Ethan in the backyard, 
 In the photos, we looked happy. Really, genuinely happy.
 
 Because we were.
+
+And now we were in love.
+
+And that changed everything.
+
+---
 
 The next three weeks blurred together in a haze of final preparations and celebrations.
 

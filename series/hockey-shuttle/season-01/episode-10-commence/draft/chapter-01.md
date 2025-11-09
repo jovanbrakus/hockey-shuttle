@@ -8,7 +8,11 @@ Ethan was still here.
 
 Still in yesterday's clothes, still half-tangled in my comforter, still breathing slowly against my shoulder like he'd finally, finally let himself rest.
 
-I turned carefully, not wanting to wake him but needing to see his face. In sleep, he looked younger than seventeen—younger than he'd looked in months. The tension that lived permanently in his jaw was gone. His hair was a disaster, falling across his forehead in dark waves. There was a crease on his cheek from my pillowcase.
+My heart did this weird flutter thing—part excitement, part terror. We'd slept in the same bed. Nothing happened, just talking until we both passed out, but still. His arm was around me. I could feel his chest rise and fall. There was a warm spot where our bodies were pressed together that made my whole skin feel hyper-aware.
+
+I turned carefully, not wanting to wake him but needing to see his face. The movement made me conscious of morning breath and bedhead and the fact that I probably had mascara smudged under my eyes from yesterday's emotional overload.
+
+In sleep, he looked younger than seventeen—younger than he'd looked in months. The tension that lived permanently in his jaw was gone. His hair was a complete disaster, falling across his forehead in dark waves that I wanted to touch but didn't. There was a crease on his cheek from my pillowcase.
 
 He looked peaceful.
 
@@ -18,155 +22,159 @@ Relaxed. Safe. Free.
 
 "You're staring," he mumbled without opening his eyes.
 
-"You're still here."
+My face went hot. "You're still here."
 
-His eyes opened—gray-blue in the morning light, clear and calm. "Where else would I be?"
+His eyes opened—gray-blue in the morning light, clear and calm. A small smile pulled at his mouth. "Where else would I be?"
 
-"I don't know." I traced the edge of his jaw with one finger, still half-convinced he might disappear. "I keep thinking I'll wake up and you'll have disappeared back into Robert's plan."
+"I don't know." I traced the edge of his jaw with one finger, still half-convinced he might disappear. His skin was rough with stubble, which was weirdly intimate. "I keep thinking I'll wake up and you'll have... like, disappeared back into Robert's plan or something."
 
-His hand caught mine, pressed it flat against his chest. I could feel his heartbeat, steady and strong. "I'm legally free to stay exactly where I am."
+His hand caught mine, pressed it flat against his chest. I could feel his heartbeat, steady and strong, and the warmth of him through his wrinkled shirt. "I'm legally free to stay exactly where I am."
 
-"For now. Until you have to go home and—" I stopped. "Wait. Where did you tell your mom you were?"
+"For now. Until you have to go home and—" I stopped. "Wait. Where did you even tell your mom you were?"
 
 "I texted her last night. After you fell asleep." He smiled slightly. "Told her I was with you, that I was safe, and that I'd see her this morning."
 
-"And she was okay with that?"
+"And she was, like... okay with that?"
 
 "She said, and I quote, 'You just got emancipated. I can't exactly ground you anymore.'" His smile widened. "Then she said 'Be respectful of Sophia's parents and make good choices.'"
 
 I laughed despite myself. "Did you make good choices?"
 
-"We fell asleep fully clothed talking about contract law and engineering programs. I think we made extremely boring choices."
+"We fell asleep fully clothed talking about contract law and engineering programs. I think we made, like, extremely boring choices."
 
 "The most responsible almost-adults ever."
 
-"Terrifyingly responsible." He shifted slightly, propping himself up on one elbow. "What time is it?"
+"Terrifyingly responsible." He shifted slightly, propping himself up on one elbow. The movement made me aware of how close we were, how his face was only inches from mine. Morning-Ethan was doing things to my ability to think clearly. "What time is it?"
 
 I glanced at my phone on the nightstand. "6:47."
 
 "Your parents up?"
 
-"Probably. Dad's an early riser."
+"Probably. Dad's an early riser." Reality started seeping back in. My parents. Ethan staying over. The conversation we were definitely about to have. "Oh god."
 
-Ethan's expression shifted—not quite panic, but definite apprehension. "Are they going to kill me for staying over?"
+Ethan's expression shifted—not quite panic, but definite apprehension. "Are they gonna, like... kill me for staying over?"
 
 "You really did get emancipated yesterday, right? You're a legal adult now?"
 
 "Technically."
 
-"Then they can't ground you either." I sat up, running fingers through my disaster of bed-head. "But we probably shouldn't test their patience. Come on."
+"Then they can't ground you either." I sat up, immediately missing the warmth, running fingers through my disaster of bed-head. The morning-after awkwardness was hitting hard. We'd never done this before—woken up together, had to face parents together, existed in each other's space in daylight. "But we probably shouldn't, like, test their patience. Come on."
 
-We made my bed together in silence—a weirdly domestic moment that felt both strange and natural. Smoothing comforters, straightening pillows, erasing evidence of the night we'd spent just talking and existing in the same space.
+We made my bed together in silence—a weirdly domestic moment that felt both strange and natural. Smoothing comforters, straightening pillows, his hand accidentally brushing mine and both of us going still for a second before continuing. Erasing evidence of the night we'd spent just talking and existing in the same space.
 
 When we headed downstairs, my father was already in the kitchen with coffee and the newspaper. He looked up as we appeared, took in our rumpled clothes and awkward expressions, and said nothing for a long moment.
 
+My stomach dropped to somewhere around my knees.
+
 "Coffee?" he finally offered.
 
-"Please," Ethan said.
+"Please," Ethan said. His voice had that careful quality it got when he was trying very hard to be respectful.
 
-Dad poured two mugs, slid them across the counter, and returned to his paper. The silence stretched.
+Dad poured two mugs, slid them across the counter, and returned to his paper. The silence stretched. I wrapped both hands around my mug even though it was too hot, just to have something to do.
 
 "Mr. Liu," Ethan started, "I want to—"
 
-"You stayed over after one of the most emotionally intense days of your life," Dad interrupted, not looking up from the sports section. "You're both fully clothed, you clearly didn't sleep much, and my daughter looks happy. I'm choosing to be calm about this."
+"You stayed over after one of the most emotionally intense days of your life," Dad interrupted, not looking up from the sports section. "You're both fully clothed, you clearly didn't sleep much, and my daughter looks happy." He finally looked at us over his reading glasses. "I'm choosing to be calm about this."
+
+The relief was almost physical. Ethan's shoulders dropped about two inches.
 
 "Dad—" I began.
 
-"But," he continued, finally looking at us over his reading glasses, "we need to talk about what happens next."
+"But," he continued, and there it was, "we need to talk about what happens next."
 
-Ethan nodded, fingers wrapped around his coffee mug. "Yes, sir."
+Ethan nodded, fingers wrapped around his coffee mug like it might anchor him. "Yes, sir."
 
 "Sit."
 
-We sat at the kitchen table like students called to the principal's office. My mother appeared with a plate of scrambled eggs and toast, kissed the top of my head, and gave Ethan a look I couldn't quite read before sitting down across from us.
+We sat at the kitchen table like students called to the principal's office. My mother appeared with a plate of scrambled eggs and toast, kissed the top of my head—which somehow made me want to cry—and gave Ethan a look I couldn't quite read before sitting down across from us.
 
 "Ethan," Dad said carefully, "I respect what you did yesterday. Taking legal control of your own life at seventeen takes courage."
 
 "Thank you, sir."
 
-"But emancipation means you're responsible for every decision now. Every consequence. There's no safety net."
+"But emancipation means you're responsible for every decision now. Every consequence." Dad's voice wasn't harsh, just... serious. Worried. "There's no safety net."
 
 "I know."
 
-"Do you?" Dad's tone wasn't harsh, just genuinely questioning. "Because $2.5 million dollars and MIT aren't the same as choosing between pizza toppings. These are life-altering decisions, and you have—what—two weeks to make them?"
+"Do you?" Dad's tone wasn't harsh, just genuinely questioning. "Because $2.5 million dollars and MIT aren't, like, choosing between pizza toppings. These are life-altering decisions, and you have—what—two weeks to make them?"
 
-Ethan's hand found mine under the table. "June 1st deadline. Sixteen days."
+Ethan's hand found mine under the table, squeezed tight. "June 1st deadline. Sixteen days."
 
 "Have you read the contract?"
 
-"I opened it last night. Around midnight, after Sophia fell asleep. I..." He paused, squeezed my hand. "I didn't get very far. The numbers are... they're huge."
+"I opened it last night. Around midnight, after Sophia fell asleep." He paused, and I felt his hand tighten even more. "I... I didn't get very far. The numbers are... they're huge."
 
-Mom spoke for the first time. "What are you thinking about doing?"
+Mom spoke for the first time, her voice gentle but concerned. "What are you thinking about doing?"
 
-"I don't know yet." His voice was steady but honest. "Three months ago, I knew exactly what I wanted. Or I thought I did. I wanted to play hockey at the highest level, go pro as soon as possible, make my father proud. The NHL offer was literally the dream."
+"I don't know yet." His voice was steady but honest. I could feel the slight tremor in his hand. "Three months ago, I knew exactly what I wanted. Or I thought I did. I wanted to play hockey at the highest level, go pro as soon as possible, make my father proud. The NHL offer was literally the dream."
 
 "And now?" Dad asked.
 
-"Now I'm not sure whose dream it was." Ethan looked at me briefly, then back at my parents. "Sophia showed me there's more than one way to be excellent. That being smart isn't something to hide or apologize for. That you can be good at multiple things and it doesn't make you less dedicated to any of them."
+"Now I'm not sure if it was even my dream." Ethan looked at me briefly, then back at my parents. "Sophia showed me there's, like... more than one way to be excellent. That being smart isn't something to hide or apologize for. That you can be good at multiple things and it doesn't make you less dedicated to any of them."
 
-"But?" Mom prompted gently.
+"But?" Mom prompted gently. She had that look she got when she was holding back tears—eyes bright, jaw tight.
 
-"But $2.5 million dollars is generational money. It's security for my mom, for my future, for—" He stopped. "It's real."
+"But $2.5 million dollars is... it's generational money. It's security for my mom, for my future, for—" He stopped. "It's real. Like, actually real."
 
 "So is an MIT education," I said quietly.
 
 "So is not living your life for someone else," Dad added. "Even if that someone else is paying very well."
 
-My mother stood, refilled everyone's coffee. "Ethan, can I tell you something? Parent to almost-adult?"
+My mother stood, refilled everyone's coffee. Her hands were shaking slightly. "Ethan, can I tell you something? Parent to... almost-adult?"
 
 "Please."
 
-"When I was twenty-two, I had two job offers. One was in Toronto with a major badminton organization—coaching, training, building a program. It paid well, it was exactly what I'd trained for, and everyone told me I'd be crazy not to take it."
+She sat back down, wrapped her hands around her own mug. "When I was twenty-two, I had two job offers. One was in Toronto with a major badminton organization—coaching, training, building a program. It paid well, it was exactly what I'd trained for, and everyone told me I'd be crazy not to take it."
 
 I blinked. I'd never heard this story.
 
-"The other offer was in Winnipeg," Mom continued, "with a smaller organization, less money, less prestige. But your father had just gotten a job here, and I had to choose between the career I'd planned and the relationship I'd found."
+"The other offer was in Winnipeg," Mom continued, her voice getting quieter, "with a smaller organization, less money, less prestige. But your father had just gotten a job here, and I had to... I had to choose between the career I'd planned and the relationship I'd found."
 
 "What did you do?" Ethan asked.
 
-"I chose Toronto." Mom smiled at Dad. "Broke both our hearts. Took the prestigious job, told myself love would wait, that this was my one chance."
+"I chose Toronto." Mom smiled at Dad, but it was sad. "Broke both our hearts. Took the prestigious job, told myself love would wait, that this was my one chance."
 
 "But you're here," I said. "In Winnipeg. Together."
 
-"I quit after eight months." Mom sat back down. "The job was everything I wanted on paper. But I was miserable. I'd chosen resume over reality, and it felt wrong every single day."
+"I quit after eight months." Mom's voice cracked slightly. "The job was everything I wanted on paper. But I was miserable. I'd chosen resume over reality, and it felt wrong every single day. I cried myself to sleep. I called your father drunk at 2 AM multiple times. I was... I was so unhappy."
 
-"You regretted it," Ethan said.
+"You regretted it," Ethan said softly.
 
-"I learned from it," Mom corrected. "I learned that the right choice isn't always the obvious one. That sometimes the path that looks less impressive is actually more honest."
+"I learned from it," Mom corrected. "I learned that the right choice isn't always the obvious one. That sometimes the path that looks less impressive is actually more honest to who you are."
 
 Dad reached across and took her hand. "She showed up at my apartment in February with two suitcases and a job offer from the Winnipeg club that paid about half what Toronto did."
 
-"Best decision I ever made," Mom said. "Not because the relationship was more important than my career, but because I finally chose what I actually wanted instead of what looked good to everyone else."
+"Best decision I ever made." Mom was definitely crying now, but smiling through it. "Not because the relationship was more important than my career, but because I finally chose what I actually wanted instead of what looked good to everyone else."
 
-Ethan was quiet for a long moment. "You think I should choose MIT."
+Ethan was quiet for a long moment. I could see him processing, turning it over. "You think I should choose MIT."
 
-"I think you should choose honestly," Mom said. "If the NHL is what you genuinely want—not what Robert wants, not what looks impressive, but what feels right when you're quiet and honest with yourself—then take it. But if you're choosing it because you're afraid to disappoint people or because the money seems too good to refuse, you'll regret it."
+"I think you should choose honestly," Mom said. "If the NHL is what you genuinely want—not what Robert wants, not what looks impressive, but what feels right when you're quiet and honest with yourself—then take it. But if you're choosing it because you're afraid to disappoint people or because the money seems too good to refuse, you'll regret it. And that regret... it's heavy, honey. It stays with you."
 
 "How do I know the difference?"
 
-"You ask yourself which choice you're making because you want to, and which choice you're making because you're afraid," Dad said. "Fear is a terrible decision-maker."
+"You ask yourself which choice you're making because you want to, and which choice you're making because you're afraid," Dad said. "Fear is a terrible decision-maker. But it's also really loud."
 
-My phone buzzed on the table. Then Ethan's. Then his again.
+My phone buzzed on the table. Then Ethan's. Then his again, rapid-fire.
 
-He glanced at the screen and went pale. "Forty-seven missed calls."
+He glanced at the screen and went pale. Actually pale, like the blood drained from his face. "Forty-seven missed calls."
 
 "From?" I asked, though I already knew.
 
-"Robert. Caroline. Detroit scout. My lawyer." He scrolled through voicemails, his expression darkening with each one. "My father is... he's furious."
+"Robert. Caroline. Detroit scout. My lawyer." He scrolled through voicemails, his expression darkening with each one, jaw getting tighter. "My father is... he's furious."
 
 "Is he threatening you?" Dad asked sharply.
 
-"No. Just... disappointed. Loudly disappointed." Ethan set his phone down carefully. "He wants to meet. Says we need to discuss my 'impulsive decision' before I 'throw away my future.'"
+"No. Just... disappointed. Loudly disappointed." Ethan set his phone down carefully, like it might explode. "He wants to meet. Says we need to discuss my 'impulsive decision' before I 'throw away my future.'"
 
 "Are you going to meet him?"
 
-"My lawyer says I should. In a public place, on my terms, with clear boundaries." He looked exhausted again, the peace from earlier dissolving. "I probably should. Clear the air. Hear him out."
+"My lawyer says I should. In a public place, on my terms, with clear boundaries." He looked exhausted again, the peace from earlier dissolving like it had never existed. "I probably should, right? Like, clear the air. Hear him out."
 
 "You don't owe him anything," I said.
 
-"I know. But he's still my father." Ethan rubbed his eyes. "This is going to be the rest of my life, isn't it? Every decision, every choice, he's going to have an opinion. Even when he has no legal right to control me."
+"I know. But he's still my father." Ethan rubbed his eyes with the heels of his hands. "This is gonna be the rest of my life, isn't it? Every decision, every choice, he's gonna have an opinion. Even when he has no legal right to control me, he's just... he's gonna be there."
 
-"Not if you don't let him," Mom said. "Emancipation gave you legal freedom. Now you have to claim emotional freedom. That's harder."
+"Not if you don't let him," Mom said firmly. "Emancipation gave you legal freedom. Now you have to claim emotional freedom. That's harder. That's the work."
 
 Dad stood up, collected dishes. "Ethan, you're welcome to stay here as long as you need. But you should probably call your mother. Let her know you're okay."
 
@@ -174,7 +182,7 @@ Dad stood up, collected dishes. "Ethan, you're welcome to stay here as long as y
 
 As my parents moved into the living room, giving us space, Ethan pulled out his phone and stared at it like it might bite him.
 
-"Want me to leave you alone for this?" I asked.
+"Want me to, like, leave you alone for this?" I asked.
 
 "No. Stay." He found Caroline's number, pressed call, put it on speaker.
 
@@ -182,7 +190,7 @@ She answered on the first ring. "Ethan. Oh, thank god."
 
 "Hi, Mom."
 
-"Are you alright? Are you safe? Robert's been calling me all morning, screaming about you ruining your life and—"
+"Are you alright? Are you safe? Robert's been calling me all morning, screaming about you ruining your life and throwing away opportunities and—" Her voice was shaking.
 
 "I'm fine. I'm at Sophia's. Her parents know I'm here." He looked at me. "I'm completely fine."
 
@@ -190,25 +198,25 @@ She answered on the first ring. "Ethan. Oh, thank god."
 
 "I... I don't know yet. I haven't decided."
 
-"But you're considering it. Turning down $2.5 million dollars." Caroline's voice wasn't angry, just shocked. "Ethan, that's—"
+"But you're considering it. Turning down $2.5 million dollars." Caroline's voice wasn't angry, just shocked. Disbelieving. "Ethan, that's—"
 
 "Generational money. I know. Everyone keeps saying that."
 
 "Because it's true."
 
-"So is MIT. So is having a choice." He took a breath. "Mom, what do you think I should do?"
+"So is MIT. So is having a choice for once in my life." He took a breath. "Mom, what do you think I should do?"
 
-Long silence. I could hear Caroline breathing, gathering words.
+Long silence. I could hear Caroline breathing, gathering words, maybe crying.
 
-"I think," she said finally, "I think I spent seventeen years letting your father make decisions for our family. For you. And I'm not going to start making them now that you're finally free."
+"I think," she said finally, voice strengthening, "I think I spent seventeen years letting your father make decisions for our family. For you. And I'm not going to start making them now that you're finally free."
 
 "That's not an answer."
 
-"Yes, it is." Her voice strengthened. "Ethan, you asked what I think. I think you're brilliant enough to succeed at whatever you choose. I think you're brave enough to make hard choices. And I think for the first time in your life, you get to decide what you actually want."
+"Yes, it is." Her voice strengthened even more. "Ethan, you asked what I think. I think you're brilliant enough to succeed at whatever you choose. I think you're brave enough to make hard choices. And I think for the first time in your life, you get to decide what you actually want. Not what I want. Not what your father wants. What *you* want."
 
 "What if I choose wrong?"
 
-"Then you choose wrong, and you learn, and you choose differently next time. That's called being an adult."
+"Then you choose wrong, and you learn, and you choose differently next time. That's called being an adult. It's terrifying and messy and sometimes you make mistakes."
 
 Ethan laughed despite himself. "You're terrible at reassurance."
 
@@ -218,9 +226,9 @@ Ethan laughed despite himself. "You're terrible at reassurance."
 
 "I'm at a hotel. The Embassy Suites on Portage. I left your father last night." She said it quietly, like she still couldn't quite believe it. "I filed for divorce this morning. He was served about an hour ago."
 
-Ethan's hand tightened around mine. "Mom—"
+Ethan's hand went white-knuckled around mine. "Mom—"
 
-"Don't. I should have done it years ago." I heard her take a shaky breath. "You weren't afraid to choose yourself. I'm finally doing the same."
+"Don't. I should have done it years ago." I heard her take a shaky breath. "You weren't afraid to choose yourself. I'm finally doing the same. I'm scared out of my mind, but I'm doing it."
 
 "Does he know where you are?"
 
@@ -228,13 +236,13 @@ Ethan's hand tightened around mine. "Mom—"
 
 "Are you okay? Financially, I mean—"
 
-"I'm a forty-two-year-old woman with a business degree and seventeen years of architectural experience I never used. I'll figure it out." She laughed softly. "I'm terrified. But I think that means I'm doing the right thing."
+"I'm a forty-two-year-old woman with a business degree and seventeen years of architectural experience I never used because your father wanted me home. I'll figure it out." She laughed softly. "I'm terrified. But I think that means I'm doing the right thing."
 
 "Fear means you understand what you're risking," Ethan said.
 
 "Exactly. Now tell me about this contract. What are you really thinking?"
 
-Ethan looked at me, at my parents reading the newspaper in the living room, at the kitchen where we'd made coffee together like normal people with normal lives.
+Ethan looked at me, at my parents reading the newspaper in the living room but definitely listening, at the kitchen where we'd made coffee together like normal people with normal lives.
 
 "I'm thinking," he said slowly, "that I need to actually read it. All of it. Understand what I'd be agreeing to."
 
@@ -244,7 +252,7 @@ Ethan looked at me, at my parents reading the newspaper in the living room, at t
 
 "I'll be there in an hour."
 
-After he hung up, we sat in silence. The house smelled like coffee and toast and May morning. Through the window, I could see neighbors walking dogs, kids riding bikes, normal Saturday unfolding.
+After he hung up, we sat in silence. The house smelled like coffee and toast and May morning. Through the window, I could see neighbors walking dogs, kids riding bikes, normal Saturday unfolding like the world hadn't just tilted on its axis.
 
 "Your mom left him," I said quietly.
 
@@ -256,17 +264,17 @@ After he hung up, we sat in silence. The house smelled like coffee and toast and
 
 "How do you feel?"
 
-"Terrified. Relieved. Guilty." He counted on his fingers. "Proud of her. Worried for her. Afraid he's going to make her life hell."
+"Terrified. Relieved. Guilty." He counted on his fingers. "Proud of her. Worried for her. Afraid he's gonna make her life hell and it'll be my fault."
 
 "He can't control her anymore. Just like he can't control you."
 
-"Legal freedom doesn't mean he'll stop trying."
+"Legal freedom doesn't mean he'll stop trying." Ethan's voice went quiet. "He's really good at control, Sophie. Like, really, really good."
 
-"No," I agreed. "But it means you can say no."
+"I know."
 
 His phone buzzed again. This time, unfamiliar number. Detroit area code.
 
-"That's probably the scout," Ethan said. "Jim Morrison. He's been... respectful. Actually helpful."
+"That's probably the scout," Ethan said. "Jim Morrison. He's been... respectful. Actually helpful, which is weird."
 
 "You should answer it."
 
@@ -274,7 +282,7 @@ His phone buzzed again. This time, unfamiliar number. Detroit area code.
 
 "Tell him the truth. That you need time to decide."
 
-Ethan stared at the phone until it stopped ringing, then immediately started again. Same number.
+Ethan stared at the phone until it stopped ringing, then immediately started again. Same number. Persistent.
 
 He answered. "This is Ethan."
 
@@ -288,15 +296,15 @@ He answered. "This is Ethan."
 
 "Second—I'm assuming you got the contract we sent over. Have you had a chance to review it?"
 
-Ethan looked at me. I nodded encouragement. "I opened it, but I haven't read it thoroughly yet. I only got legally emancipated yesterday, and I—I need time to process everything."
+Ethan looked at me. I nodded encouragement. "I opened it, but I haven't, like, read it thoroughly yet. I only got legally emancipated yesterday, and I... I need time to process everything."
 
-"Completely understand. It's a big decision." Jim's voice was steady, professional, kind. "Can I ask what you're thinking? Generally?"
+"Completely understand. It's a big decision." Jim's voice was steady, professional, kind. Not pushy. "Can I ask what you're thinking? Generally?"
 
-"Honestly? I'm thinking this is the most money I've ever seen in my life and the biggest opportunity I've ever had, and three months ago I would have signed immediately."
+"Honestly? I'm thinking this is the most money I've ever seen in my life and the biggest opportunity I've ever had, and three months ago I would have signed immediately without even reading it."
 
 "And now?"
 
-"Now I'm trying to figure out if I want it because it's what I want, or because it's what I was raised to want."
+"Now I'm trying to figure out if I want it because it's what I actually want, or because it's what I was raised to want." The words came out raw, honest. "And I don't... I don't know yet."
 
 Jim was quiet for a moment. "That's a more mature question than most eighteen-year-olds ask."
 
@@ -332,7 +340,7 @@ After he hung up, Ethan set his phone down very carefully. "He told me to take m
 
 "Are you sure?"
 
-"You're the smartest person I know. And you ask better questions than anyone else." He opened his email, pulled up the PDF. "Besides, if I'm going to make a decision this big, I want you to know exactly what I'm considering."
+"You're the smartest person I know. And you ask better questions than anyone else." He opened his email, pulled up the PDF. "Besides, if I'm gonna make a decision this big, I want you to know exactly what I'm considering."
 
 So we sat at the kitchen table as Saturday morning light streamed through the windows, and we read the contract that could change everything.
 
@@ -345,9 +353,35 @@ So we sat at the kitchen table as Saturday morning light streamed through the wi
 **Training Camp:** August 1, 2025 - September 15, 2025
 **Season:** October 2025 - April 2026 (82 games scheduled)
 
-"August 1st," I said. "That's the same day as MIT orientation."
+The numbers swam in front of my eyes. $2.5 million. I'd never seen that much money written down before. It didn't even look real.
 
-"Mutual exclusivity," Ethan read further down. "Cannot defer to complete education. Must report to training camp within 48 hours of contract execution."
+Ethan's breathing had changed. Shorter. Faster.
+
+"Hey," I said softly. "You okay?"
+
+"That's... that's so much money, Sophie." His hands were shaking slightly. He set the laptop down, pressed his palms flat against the table like he needed to feel something solid. "That's more money than my mom will probably make in ten years. That's more than most people see in a lifetime."
+
+I watched his chest rise and fall, too fast. His face had gone pale again.
+
+"Breathe," I said. "Just breathe."
+
+"I am breathing."
+
+"You're hyperventilating." I put my hand over his. "Look at me."
+
+He did. His eyes were wide, almost panicked.
+
+"It's just numbers on a screen," I said. "They're not real until you make them real. Right now, they're just... possibilities."
+
+"Possibilities that could change my mom's entire life."
+
+"Or possibilities that could change yours in ways you don't want." I squeezed his hand. "Keep reading. Don't decide based on the first page."
+
+He nodded, took a deeper breath, pulled the laptop back.
+
+"August 1st," I read. "That's the same day as MIT orientation."
+
+"Mutual exclusivity," Ethan read further down, voice steadier now. "Cannot defer to complete education. Must report to training camp within 48 hours of contract execution."
 
 "So if you sign, you're all-in. No MIT this year."
 
@@ -365,17 +399,17 @@ Before I could answer, my mom appeared with more coffee and a plate of cinnamon 
 
 "Thank you, Mrs. Liu," Ethan said.
 
-"Mom," I corrected. "You're reading his potential life-altering contract in our kitchen. We're past formalities."
+"Mom," I corrected. "You're reading his potential life-altering contract in our kitchen at 7 AM on a Saturday. We're past formalities."
 
 "How much of it have you gotten through?" Mom asked.
 
 "About fifteen pages. There are three hundred and forty."
 
-She winced. "You're going to need more coffee."
+She winced. "You're definitely gonna need more coffee."
 
 We read for another hour. Dad joined us eventually, offered his perspective on the legal language. Mom pointed out clauses about injury protection and contract termination. By the time Caroline knocked on the door at 10:47, we'd made it through the financial sections and into the behavioral requirements.
 
-Caroline looked smaller than I remembered—dressed in jeans and a sweater, hair pulled back, no makeup. She looked like she'd cried recently and might cry again soon.
+Caroline looked smaller than I remembered—dressed in jeans and a sweater, hair pulled back, no makeup. She looked like she'd cried recently and might cry again soon. There was something raw about her, like a layer of polish had been stripped away.
 
 Ethan stood up so fast his chair nearly tipped over. "Mom."
 
@@ -383,19 +417,19 @@ Ethan stood up so fast his chair nearly tipped over. "Mom."
 
 "You're here now. That's what matters."
 
-"I should have protected you better."
+"I should have protected you better. I should have left years ago. I should have—"
 
-"You did what you could. He's—" Ethan stopped. "He's very good at control."
+"You did what you could. He's—" Ethan stopped. His jaw tightened in that way it did when he was thinking about Robert. "He's very good at control."
 
-"Too good." Caroline noticed the rest of us and straightened. "Mr. and Mrs. Liu, Sophia—thank you for letting Ethan stay here. I know this is unusual."
+"Too good." Caroline noticed the rest of us and straightened, trying to compose herself. "Mr. and Mrs. Liu, Sophia—thank you for letting Ethan stay here. I know this is unusual."
 
 "Unusual times," Dad said. "Coffee?"
 
-"Please."
+"Please. God, yes."
 
 We made space at the table. Caroline sat next to Ethan, took in the contract on his laptop screen, the printed pages covered in our notes and questions.
 
-"You're actually reading the whole thing," she said.
+"You're actually reading the whole thing," she said, surprised.
 
 "Seemed important."
 
@@ -403,7 +437,7 @@ We made space at the table. Caroline sat next to Ethan, took in the contract on 
 
 "I don't have an agent. I have a lawyer who told me to read everything before I commit to anything." Ethan turned the laptop toward her. "What do you think?"
 
-Caroline read in silence for several minutes. Her expression shifted from neutral to troubled to something close to anger.
+Caroline read in silence for several minutes. Her expression shifted from neutral to troubled to something close to anger. Her hands tightened on the edge of the table.
 
 "This is very restrictive," she said finally.
 
@@ -413,13 +447,13 @@ Caroline read in silence for several minutes. Her expression shifted from neutra
 
 "I'd be playing professional hockey. That's high-risk by definition."
 
-"Sanctioned high-risk. Their high-risk." She kept reading. "And this—media obligations at the team's discretion. You could be required to do promotional appearances on your off days."
+"Sanctioned high-risk. *Their* high-risk." She kept reading, anger building in her voice. "And this—media obligations at the team's discretion. You could be required to do promotional appearances on your off days. They own your time, honey."
 
 "That's normal for professional athletes."
 
-"Normal doesn't mean good." Caroline looked at him. "Honey, I'm not trying to talk you out of this. I'm trying to make sure you understand what you'd be agreeing to."
+"Normal doesn't mean good." Caroline looked at him, and there was something fierce in her eyes I'd never seen before. "Honey, I'm not trying to talk you out of this. I'm trying to make sure you understand what you'd be agreeing to. Because I spent seventeen years agreeing to things without reading the fine print, and I'm not watching you do the same."
 
-"I'm starting to." Ethan pulled the laptop back, scrolled to a section we'd flagged. "This is the part that bothers me most. Educational deferrals require written approval from team management, and can be denied for performance or team needs."
+"I'm starting to understand." Ethan pulled the laptop back, scrolled to a section we'd flagged. "This is the part that bothers me most. Educational deferrals require written approval from team management, and can be denied for performance or team needs."
 
 "Meaning MIT would have to wait," I said. "And they might not wait."
 
@@ -431,7 +465,7 @@ Caroline shook her head. "The schedule wouldn't allow it. Training camp alone is
 
 "But some do," I pointed out. "Some guys play college hockey first, then go pro."
 
-"At twenty-two or twenty-three," Ethan said. "Four or five years older than me."
+"At twenty-two or twenty-three," Ethan said. "Four or five years older than me. After they've, like, lived a little."
 
 We sat in silence. Outside, a lawn mower started up. Normal Saturday sounds for an abnormal Saturday conversation.
 
@@ -439,21 +473,21 @@ We sat in silence. Outside, a lawn mower started up. Normal Saturday sounds for 
 
 "Please."
 
-"I see my son at eighteen years old, signing away his autonomy to another organization that will tell him where to be, what to do, how to behave." She met his eyes. "You just fought for the right to make your own choices. This contract takes a lot of those choices away."
+"I see my son at eighteen years old, signing away his autonomy to another organization that will tell him where to be, what to do, how to behave." She met his eyes. "You just fought for the right to make your own choices. This contract takes a lot of those choices away. Maybe not in the same way Robert did, but... you'd still be controlled."
 
-"It's not the same as Robert," Ethan protested.
+"It's not the same as Robert," Ethan protested, but his voice wavered.
 
 "Isn't it? Different master, same lack of control."
 
 "It's a job. All jobs have requirements."
 
-"True. But most jobs don't own you 24/7 for three years straight." Caroline touched his hand gently. "I'm not saying don't do it. I'm saying make sure you're choosing it, not defaulting to it because it's what you've been trained to want."
+"True. But most jobs don't own you 24/7 for three years straight." Caroline touched his hand gently. "I'm not saying don't do it. I'm saying make sure you're choosing it, not defaulting to it because it's what you've been trained to want your entire life."
 
 Ethan looked at me. "What do you think?"
 
 "I think," I said carefully, "that three months ago, you would have signed this without reading it."
 
-"Yeah."
+"Yeah. Definitely."
 
 "And I think the fact that you're reading every word, asking questions, and looking for the catch means you're not the same person who would have signed blindly."
 
@@ -463,47 +497,49 @@ Ethan looked at me. "What do you think?"
 
 "What question?"
 
-"Is this the life you want, or the life you were taught to want?" I held his gaze. "Because they might not be the same thing."
+"Is this the life you want, or the life you were taught to want?" I held his gaze. "Because they might not be the same thing. And you need to figure out which is which."
 
 Caroline smiled at me. "You're very wise for seventeen."
 
-"I'm observant. And I've watched what control does to him." I looked at Ethan. "I don't want to watch him trade one form of control for another."
+"I'm observant. And I've watched what control does to him." I looked at Ethan. "I don't want to watch him trade one form of control for another, even if the new one comes with nicer benefits."
 
 "Even if the new form comes with $2.5 million dollars?" Ethan asked.
 
-"Especially then. Because money makes it harder to walk away when you realize you're miserable."
+"Especially then. Because money makes it harder to walk away when you realize you're miserable. It makes you feel trapped in gold handcuffs."
 
 My mom started crying quietly. Dad passed her a tissue.
 
-"Sorry," Mom said. "That just reminded me of myself at twenty-two. The prestigious job that paid well but felt wrong. How hard it was to quit because everyone thought I was crazy for not being grateful."
+"Sorry," Mom said, dabbing at her eyes. "That just... that reminded me of myself at twenty-two. The prestigious job that paid well but felt wrong every single day. How hard it was to quit because everyone thought I was crazy for not being grateful."
 
 "Were you grateful?" Ethan asked.
 
-"For the opportunity? Yes. For the experience? Absolutely. For learning that prestige and happiness aren't the same thing?" Mom smiled through tears. "Most grateful of all for that."
+"For the opportunity? Yes. For the experience? Absolutely. For learning that prestige and happiness aren't the same thing?" Mom smiled through tears. "Most grateful of all for that lesson."
 
 We kept reading. Page by page, clause by clause, parsing the contract that represented everything Ethan had been raised to want and everything I was afraid would consume him.
 
 By noon, we'd finished. Three hundred and forty pages of legalese, financial projections, behavioral requirements, and fine print.
 
-Ethan closed his laptop very carefully. "I need to walk. Clear my head. Can we—" He looked at me. "Want to walk?"
+Ethan closed his laptop very carefully. Sat back. Stared at nothing.
+
+"I need to walk," he said finally. "Clear my head. Can we—" He looked at me. "Want to walk?"
 
 "Always."
 
 We left our parents talking in the kitchen—about divorce lawyers and contract attorneys, about supporting kids through impossible choices, about their own decisions made decades ago that still resonated.
 
-Outside, May in Winnipeg was perfect. Not too hot, not too cold. Trees budding into green. Neighbors working in yards. Kids playing street hockey in driveways.
+Outside, May in Winnipeg was perfect. Not too hot, not too cold. Trees budding into green. Neighbors working in yards. Kids playing street hockey in driveways, the familiar sound of stick on pavement.
 
-We walked without direction, just moving. Past the park where we'd studied for math competitions. Past the coffee shop where we'd spent Saturday mornings solving problem sets. Past the rink where I'd learned to skate and he'd taught me slapshots.
+We walked without direction, just moving. Past the park where we'd studied for math competitions when we were nine. Past the coffee shop where we'd spent Saturday mornings solving problem sets this year. Past the rink where I'd learned to skate and he'd taught me slapshots.
 
 "I don't know what to do," Ethan said finally.
 
 "I know."
 
-"Everyone keeps asking me what I want, like it's a simple question."
+"Everyone keeps asking me what I want, like it's a simple question. Like I'm supposed to just, like, know."
 
-"It's the hardest question."
+"It's the hardest question in the world."
 
-"Three months ago, it was easy. I wanted to play professional hockey. Make my father proud. Be excellent at the thing I was good at." He kicked a stone down the sidewalk. "Now I don't know if any of that was actually mine."
+"Three months ago, it was easy. I wanted to play professional hockey. Make my father proud. Be excellent at the thing I was good at." He kicked a stone down the sidewalk. "Now I don't know if any of that was actually mine, or if it was just... programming."
 
 "What feels like yours?"
 
@@ -511,15 +547,15 @@ We walked without direction, just moving. Past the park where we'd studied for m
 
 "I'm not a future plan. I'm a person you're dating."
 
-"You're the person who made me realize I could want things Robert didn't want for me." He stopped walking, turned to face me. "I spent eight months watching you be excellent at multiple things. Badminton and academics, strategy and execution, science and sport. You didn't pick one and sacrifice everything else. You figured out how to be whole."
+"You're the person who made me realize I could want things Robert didn't want for me." He stopped walking, turned to face me. "I spent eight months watching you be excellent at multiple things. Badminton and academics, strategy and execution, science and sport. You didn't pick one and sacrifice everything else. You figured out how to be, like, whole."
 
 "I'm not in the NHL."
 
-"No. But you're happy. And I'm not sure I've ever seen my father happy. Successful, yes. Accomplished, absolutely. But happy?" He shook his head. "I don't think he knows how."
+"No. But you're happy. And I'm not sure I've ever seen my father happy. Successful, yes. Accomplished, absolutely. But happy?" He shook his head. "I don't think he knows how. I don't think he even wants to be."
 
 "Is that what you're afraid of? Becoming him?"
 
-"I'm afraid of signing that contract and waking up at twenty-five realizing I built someone else's life." He started walking again. "I'm afraid of turning it down and waking up at twenty-five realizing I threw away my only shot."
+"I'm afraid of signing that contract and waking up at twenty-five realizing I built someone else's life. That I'm successful and miserable and don't even remember who I actually am." He started walking again, faster now, like he needed to move. "But I'm also afraid of turning it down and waking up at twenty-five realizing I threw away my only shot. That I'm broke and bitter and wondering what if."
 
 "Those are both valid fears."
 
@@ -549,9 +585,9 @@ I thought about it. Really thought. "I'd ask myself which opportunity I could cr
 
 "But?"
 
-"But walking away from that much money feels insane."
+"But walking away from that much money feels insane. Like, actually crazy."
 
-"It is insane. By any normal metric, it's absolutely crazy." I pushed off gently, swinging slowly. "But you're not making a normal decision. You're making a decision about who you want to be."
+"It is insane. By any normal metric, it's absolutely nuts." I pushed off gently, swinging slowly. "But you're not making a normal decision. You're making a decision about who you want to be."
 
 "Who do I want to be?"
 
@@ -559,19 +595,19 @@ I thought about it. Really thought. "I'd ask myself which opportunity I could cr
 
 Ethan was quiet for a long time. Swinging gently, thinking hard, working through seventeen years of conditioning and eight months of revelation.
 
-"I want to be someone who's excellent because I choose to be, not because I'm afraid not to be," he said finally. "I want to be someone who's good at multiple things and doesn't apologize for it. I want to be someone who makes decisions based on what actually makes me happy, not what looks impressive to other people."
+"I want to be someone who's excellent because I choose to be, not because I'm afraid not to be," he said finally. "I want to be someone who's good at multiple things and doesn't apologize for it. I want to be someone who makes decisions based on what actually makes me happy, not what looks impressive to other people or makes them proud."
 
 "That sounds like MIT to me."
 
-"It does, doesn't it?" He stopped swinging. "But I have sixteen more days to decide. I'm not going to rush this."
+"It does, doesn't it?" He stopped swinging. Looked at me. "But I have sixteen more days to decide. I'm not gonna rush this. I can't."
 
 "Good. Don't."
 
-"Will you help me? Over the next two weeks? Ask me hard questions, make me think it through, call me out if I'm choosing for the wrong reasons?"
+"Will you help me? Over the next two weeks? Like, ask me hard questions, make me think it through, call me out if I'm choosing for the wrong reasons?"
 
 "What are the wrong reasons?"
 
-"Fear. Money. Pressure. Proving something to my father." He looked at me. "The right reason would be genuinely wanting that life. And I don't know if I do."
+"Fear. Money. Pressure. Proving something to my father." He looked at me. "The right reason would be genuinely wanting that life. And I don't know if I do. I really don't."
 
 "Then you have two weeks to figure it out."
 
@@ -583,7 +619,7 @@ Ethan heard it too. Smiled slightly.
 
 "Good. Love doesn't have to mean sacrifice."
 
-"Doesn't it though? Love means commitment. Commitment means choosing."
+"Doesn't it though? Like, love means commitment. Commitment means choosing."
 
 "Love means choosing, yes. But it doesn't mean choosing yourself out of existence." I stopped swinging, turned to face him fully. "You can love hockey and still want other things. You can be excellent at something and still be whole."
 
@@ -597,7 +633,7 @@ He reached across the space between swings and took my hand. "Thank you."
 
 "For being here. For reading that contract with me. For not telling me what to do."
 
-"I don't get to tell you what to do. Nobody does anymore."
+"I don't get to tell you what to do. Nobody does anymore. That's the whole point."
 
 "Terrifying freedom," he said.
 
@@ -605,7 +641,7 @@ He reached across the space between swings and took my hand. "Thank you."
 
 We stayed at the park until early afternoon, then walked back to my house where our parents were still talking. Caroline had apparently called her divorce attorney from our living room, and my dad had helped her understand some financial documents Robert had hidden from her for years.
 
-"Your father has been moving money into accounts I didn't know existed," Caroline told Ethan, her face pale but determined. "My lawyer says I have grounds for forensic accounting."
+"Your father has been moving money into accounts I didn't know existed," Caroline told Ethan, her face pale but determined, anger making her voice shake. "My lawyer says I have grounds for forensic accounting. He's been hiding assets, preparing for this."
 
 "Is that expensive?" Ethan asked.
 
@@ -615,37 +651,37 @@ We ordered pizza for lunch—normalcy in the middle of chaos. Sat around the liv
 
 "What happens next?" Mom asked. "For both of you?"
 
-Caroline set down her pizza slice. "I need to find an apartment. Get a job. Figure out how to be a forty-two-year-old single woman after seventeen years of marriage."
+Caroline set down her pizza slice, wiped her hands on a napkin. "I need to find an apartment. Get a job. Figure out how to be a forty-two-year-old single woman after seventeen years of marriage to a controlling man."
 
-"We can help with that," Dad said. "My firm is always looking for people with business experience. If you're interested, I can make some calls."
+"We can help with that," Dad said. "My firm is always looking for people with business experience. If you're interested, I can make some calls on Monday."
 
 "I don't have recent references. I haven't worked in almost two decades."
 
-"You managed a household, raised a child, navigated a complex marriage, and made it out alive," Mom said. "That's a resume."
+"You managed a household, raised a child, navigated a complex marriage, and made it out alive with your dignity," Mom said. "That's a resume. That's survival skills."
 
 Caroline's eyes filled with tears. "Thank you. Really. You don't have to—"
 
-"We know," I said. "But we want to."
+"We know," I said. "But we want to. You're helping him. Let us help you."
 
 Ethan was very quiet, processing everything. The contract still sat on my dining room table, three hundred and forty pages of possibility and constraint.
 
-"I'm going to call my lawyer," he said eventually. "Have him review the contract professionally. Get his take."
+"I'm gonna call my lawyer," he said eventually. "Have him review the contract professionally. Get his take on what I'm missing."
 
 "Good idea," Caroline said.
 
-"And I'm going to talk to Coach Williams. Ask him about players who've made similar choices."
+"And I'm gonna talk to Coach Williams. Ask him about players who've made similar choices."
 
 "Also good."
 
-"And I'm going to finish reading MIT's course catalog. Actually look at what I'd be studying, what opportunities exist, what life would look like there."
+"And I'm gonna finish reading MIT's course catalog. Actually look at what I'd be studying, what opportunities exist, what life would look like there. Make it real instead of just, like, theoretical."
 
 "Even better," I said.
 
-He looked at the contract. At his mother. At me. "But I'm not deciding today. Today I'm just going to exist. Be seventeen. Be emancipated. Be someone who doesn't have to answer to anyone."
+He looked at the contract. At his mother. At me. "But I'm not deciding today. Today I'm just gonna exist. Be seventeen. Be emancipated. Be someone who doesn't have to answer to anyone."
 
 "What does that look like?" Caroline asked.
 
-"Honestly? I have no idea. I've never done it before."
+"Honestly? I have no idea. I've literally never done it before."
 
 So we spent the rest of Saturday doing absolutely nothing productive. Watched a movie. Played board games. Ate dinner together—both sets of parents, me and Ethan, just existing in the same space without crisis or deadline.
 
@@ -657,7 +693,7 @@ At ten, we were on the front porch in the dark, moths batting against the porch 
 
 "They like you. Even my dad, and he doesn't like anyone."
 
-"Your mom cried four separate times."
+"Your mom cried, like, four separate times."
 
 "She's emotional about big decisions. Reminds her of her own." I leaned against the porch railing. "Are you okay? Really?"
 
@@ -671,23 +707,29 @@ At ten, we were on the front porch in the dark, moths batting against the porch 
 
 "Yeah. I think it will be."
 
-His phone buzzed. He glanced at it and immediately tensed. "Robert."
+His phone buzzed. He glanced at it and immediately tensed—whole body going rigid like he'd been shocked.
+
+"Robert," he said, voice flat.
 
 "Calling or texting?"
 
-"Text. He wants to meet tomorrow. Says we need to talk about my 'reckless decision-making.'"
+"Text. He wants to meet tomorrow. Says we need to talk about my 'reckless decision-making' and my 'future.'"
 
-"Are you going to respond?"
+My stomach dropped. "Are you gonna respond?"
 
 "Should I?"
 
-"That's up to you. You're emancipated. You don't owe him contact."
+"That's up to you. You're emancipated. You don't owe him contact. You don't owe him anything."
 
-Ethan stared at the text for a long moment, then put his phone away without responding. "Not tonight. Tonight he doesn't get to control my mood."
+Ethan stared at the text for a long moment. I could see his jaw working, could practically see the war happening inside him—years of conditioning saying "respond to your father" versus new freedom saying "you don't have to."
+
+Then he put his phone away without responding.
+
+"Not tonight," he said. "Tonight he doesn't get to control my mood."
 
 "Good choice."
 
-"Is it though? Eventually I'll have to deal with him."
+"Is it though? Like, eventually I'll have to deal with him, right? He's not just gonna disappear."
 
 "Eventually. Not today." I pushed off the railing, moved closer. "You survived emancipation. You read your contract. You supported your mom through filing for divorce. You made it through an entire day without your father dictating your schedule. That's enough for one Saturday."
 
@@ -701,7 +743,7 @@ He laughed, pulled me into a hug that felt like coming home. "I don't know what 
 
 "Your parents seem to have it figured out."
 
-"They're forty-five. They've had practice." I pulled back enough to see his face. "You're seventeen. You're allowed to not know."
+"They're forty-five. They've had, like, practice." I pulled back enough to see his face. "You're seventeen. You're allowed to not know."
 
 "I'm legally an adult now. Don't I have to have answers?"
 
@@ -719,7 +761,7 @@ When we separated, he was smiling. "Two weeks to decide my future, huh?"
 
 "Me. Definitely me." He pulled out his phone, made a note. "June 1st. Decision day."
 
-"What are you going to do until then?"
+"What are you gonna do until then?"
 
 "Think. Research. Ask questions. Talk to people who've made similar choices." He pocketed his phone. "And spend time with you. Normal time. Dating time. No crisis, no deadline, just us figuring out what us looks like when nobody's trying to keep us apart."
 
@@ -747,7 +789,7 @@ After they went to bed, I sat in the kitchen with the contract still open on the
 
 On paper, it was the obvious choice. Financial security. Professional success. Everything he'd trained for since he was four years old.
 
-But Ethan had changed. Eight months of friendship, revelation, crisis, and choice had transformed him from the controlled hockey player into someone who questioned, who analyzed, who chose.
+But Ethan had changed. Eight months of friendship, revelation, crisis, and choice had transformed him from the controlled hockey player into someone who questioned, who analyzed, who chose for himself.
 
 I didn't know what he'd decide. Honestly, I wasn't sure he knew yet.
 
