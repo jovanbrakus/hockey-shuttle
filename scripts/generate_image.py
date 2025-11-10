@@ -12,6 +12,9 @@ Usage:
     # Use Imagen 4.0
     uv run scripts/generate_image.py --prompt "A hockey player on ice" --subfolder "characters" --filename "hockey_player.png" --model imagen
 
+    # With input images (Gemini only - Imagen doesn't support input images)
+    uv run scripts/generate_image.py -p "Make this character more futuristic" -s "characters" -f "futuristic.png" --input-images path/to/image1.jpg path/to/image2.png
+
     # Short form
     uv run scripts/generate_image.py -p "Sunset" -s "scenes" -f "sunset.png" -m imagen
 
@@ -26,7 +29,7 @@ import argparse
 import os
 import sys
 from pathlib import Path
-from typing import Optional
+from typing import Optional, List
 
 try:
     from dotenv import load_dotenv
@@ -99,19 +102,54 @@ def get_unique_filename(output_dir: Path, filename: str) -> Path:
         counter += 1
 
 
-def generate_image_gemini(prompt: str, output_path: Path, api_key: str) -> bool:
-    """Generate image using Gemini 2.5 Flash Image model."""
+def generate_image_gemini(prompt: str, output_path: Path, api_key: str, input_images: Optional[List[Path]] = None) -> bool:
+    """Generate image using Gemini 2.5 Flash Image model.
+
+    Args:
+        prompt: Text prompt for image generation
+        output_path: Where to save the generated image
+        api_key: Gemini API key
+        input_images: Optional list of input image paths for multimodal generation
+
+    Returns:
+        True if successful, False otherwise
+    """
     try:
         import google.generativeai as genai
-    except ImportError:
-        print("❌ Error: google-generativeai package not installed")
-        print("\nInstall with: uv pip install google-generativeai")
+        from PIL import Image
+    except ImportError as e:
+        print(f"❌ Error: Required package not installed: {e}")
+        print("\nInstall with: uv pip install google-generativeai pillow")
         return False
 
     try:
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel("gemini-2.5-flash-image")
-        response = model.generate_content(prompt)
+
+        # Prepare content for generation
+        content_parts = []
+
+        # Add input images if provided
+        if input_images:
+            print(f"📸 Loading {len(input_images)} input image(s)...")
+            for img_path in input_images:
+                if not img_path.exists():
+                    print(f"❌ Input image not found: {img_path}")
+                    return False
+
+                try:
+                    img = Image.open(img_path)
+                    content_parts.append(img)
+                    print(f"   ✓ Loaded: {img_path.name}")
+                except Exception as e:
+                    print(f"❌ Error loading image {img_path}: {e}")
+                    return False
+
+        # Add text prompt
+        content_parts.append(prompt)
+
+        # Generate with all content parts
+        response = model.generate_content(content_parts)
 
         # Save the generated image
         image_found = False
@@ -136,8 +174,25 @@ def generate_image_gemini(prompt: str, output_path: Path, api_key: str) -> bool:
         return False
 
 
-def generate_image_imagen(prompt: str, output_path: Path, api_key: str) -> bool:
-    """Generate image using Imagen 4.0 model."""
+def generate_image_imagen(prompt: str, output_path: Path, api_key: str, input_images: Optional[List[Path]] = None) -> bool:
+    """Generate image using Imagen 4.0 model.
+
+    Args:
+        prompt: Text prompt for image generation
+        output_path: Where to save the generated image
+        api_key: Gemini API key
+        input_images: Optional list of input image paths (NOT SUPPORTED by Imagen)
+
+    Returns:
+        True if successful, False otherwise
+    """
+    # Check if input images were provided
+    if input_images and len(input_images) > 0:
+        print("❌ Error: Imagen 4.0 does not support input images")
+        print("ℹ️  Input images are only supported with the Gemini model")
+        print("   Please use --model gemini or remove the --input-images parameter")
+        return False
+
     try:
         from google import genai
         from google.genai import types
@@ -179,7 +234,8 @@ def generate_image(
     subfolder: str,
     filename: str,
     model_type: str = "gemini",
-    base_dir: Optional[Path] = None
+    base_dir: Optional[Path] = None,
+    input_images: Optional[List[Path]] = None
 ) -> Path:
     """
     Generate an image using specified Google AI model.
@@ -190,6 +246,7 @@ def generate_image(
         filename: Name for the output image file (should include extension)
         model_type: Either "gemini" or "imagen" (default: "gemini")
         base_dir: Optional base directory (defaults to hockey-shuttle/10-visuals)
+        input_images: Optional list of input image paths (only supported by Gemini)
 
     Returns:
         Path to the saved image file
@@ -221,9 +278,9 @@ def generate_image(
     # Generate based on model type
     success = False
     if model_type.lower() == "gemini":
-        success = generate_image_gemini(prompt, output_path, api_key)
+        success = generate_image_gemini(prompt, output_path, api_key, input_images)
     elif model_type.lower() == "imagen":
-        success = generate_image_imagen(prompt, output_path, api_key)
+        success = generate_image_imagen(prompt, output_path, api_key, input_images)
     else:
         print(f"❌ Unknown model type: {model_type}")
         print("   Valid options: 'gemini' or 'imagen'")
@@ -255,6 +312,9 @@ Examples:
 
   # Use Imagen 4.0
   %(prog)s --prompt "A hockey player" --subfolder "characters" --filename "hockey.png" --model imagen
+
+  # With input images (Gemini only)
+  %(prog)s -p "Make this more dramatic" -s "scenes" -f "dramatic.png" --input-images scene1.jpg scene2.png
 
   # Short form
   %(prog)s -p "City at sunset" -s "scenes" -f "city.png" -m imagen
@@ -291,6 +351,14 @@ Examples:
     )
 
     parser.add_argument(
+        "-i", "--input-images",
+        type=str,
+        nargs="+",
+        default=None,
+        help="One or more input images to use as reference (only supported with Gemini model)"
+    )
+
+    parser.add_argument(
         "-b", "--base-dir",
         type=str,
         default=None,
@@ -307,6 +375,11 @@ def main():
     # Convert base directory to Path if provided
     base_dir = Path(args.base_dir) if args.base_dir else None
 
+    # Convert input images to Path objects if provided
+    input_images = None
+    if args.input_images:
+        input_images = [Path(img) for img in args.input_images]
+
     # Generate the image
     model_name = "Gemini 2.5 Flash Image" if args.model == "gemini" else "Imagen 4.0"
     print(f"\n{'='*60}")
@@ -318,7 +391,8 @@ def main():
         subfolder=args.subfolder,
         filename=args.filename,
         model_type=args.model,
-        base_dir=base_dir
+        base_dir=base_dir,
+        input_images=input_images
     )
 
     print(f"\n{'='*60}")
