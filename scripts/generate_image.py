@@ -3,11 +3,11 @@
 Image Generator using Google Gemini 2.5 Flash (Nano Banana)
 
 This script generates images using Google's Gemini API based on text prompts.
-Generated images are saved to the output/images folder.
+Generated images are saved to the hockey-shuttle/10-visuals folder.
 
 Usage:
-    uv run scripts/generate_image.py --prompt "A hockey player on ice" --filename "hockey_player.png"
-    uv run scripts/generate_image.py -p "Sunset over mountains" -f "sunset.png"
+    uv run scripts/generate_image.py --prompt "A hockey player on ice" --subfolder "characters" --filename "hockey_player.png"
+    uv run scripts/generate_image.py -p "Sunset over mountains" -s "scenes" -f "sunset.png"
 
 Requirements:
     - GEMINI_API_KEY in .env file
@@ -62,23 +62,26 @@ def load_api_key() -> str:
     return api_key
 
 
-def generate_image(prompt: str, filename: str, output_dir: Optional[Path] = None) -> Path:
+def generate_image(prompt: str, subfolder: str, filename: str, base_dir: Optional[Path] = None) -> Path:
     """
     Generate an image using Google Gemini API based on the prompt.
 
     Args:
         prompt: Text description of the image to generate
+        subfolder: Subdirectory within the visuals folder (e.g., 'characters', 'scenes')
         filename: Name for the output image file (should include extension)
-        output_dir: Optional output directory (defaults to output/images)
+        base_dir: Optional base directory (defaults to hockey-shuttle/10-visuals)
 
     Returns:
         Path to the saved image file
     """
     # Set up output directory
-    if output_dir is None:
+    if base_dir is None:
         repo_root = find_repo_root()
-        output_dir = repo_root / "output" / "images"
+        base_dir = repo_root / "series" / "hockey-shuttle" / "10-visuals"
 
+    # Construct full output path with subfolder
+    output_dir = base_dir / subfolder
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Ensure filename has an extension
@@ -167,9 +170,9 @@ def parse_args():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  %(prog)s --prompt "A hockey player scoring a goal" --filename "hockey_goal.png"
-  %(prog)s -p "Futuristic city at sunset" -f "city.png"
-  %(prog)s --prompt "Abstract art with blue and gold" --filename "abstract.jpg"
+  %(prog)s --prompt "A hockey player scoring a goal" --subfolder "characters" --filename "hockey_goal.png"
+  %(prog)s -p "Futuristic city at sunset" -s "scenes" -f "city.png"
+  %(prog)s --prompt "Abstract art with blue and gold" --subfolder "artwork" --filename "abstract.jpg"
         """
     )
 
@@ -181,6 +184,13 @@ Examples:
     )
 
     parser.add_argument(
+        "-s", "--subfolder",
+        type=str,
+        required=True,
+        help="Subfolder within hockey-shuttle/10-visuals (e.g., 'characters', 'scenes', 'artwork')"
+    )
+
+    parser.add_argument(
         "-f", "--filename",
         type=str,
         required=True,
@@ -188,10 +198,10 @@ Examples:
     )
 
     parser.add_argument(
-        "-o", "--output-dir",
+        "-b", "--base-dir",
         type=str,
         default=None,
-        help="Custom output directory (default: output/images)"
+        help="Custom base directory (default: hockey-shuttle/10-visuals)"
     )
 
     return parser.parse_args()
@@ -201,8 +211,8 @@ def main():
     """Main entry point for the script."""
     args = parse_args()
 
-    # Convert output directory to Path if provided
-    output_dir = Path(args.output_dir) if args.output_dir else None
+    # Convert base directory to Path if provided
+    base_dir = Path(args.base_dir) if args.base_dir else None
 
     # Generate the image
     print(f"\n{'='*60}")
@@ -211,8 +221,9 @@ def main():
 
     output_path = generate_image(
         prompt=args.prompt,
+        subfolder=args.subfolder,
         filename=args.filename,
-        output_dir=output_dir
+        base_dir=base_dir
     )
 
     print(f"\n{'='*60}")
