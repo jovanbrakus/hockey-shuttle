@@ -98,32 +98,45 @@ def generate_image(prompt: str, subfolder: str, filename: str, base_dir: Optiona
     print(f"📝 Using model: Gemini 2.5 Flash (Nano Banana)")
 
     try:
-        # Use Imagen 3 model for image generation
-        # Note: Google's generative AI library uses imagen-3.0-generate-001 for image generation
-        model = genai.ImageGenerationModel("imagen-3.0-generate-001")
+        # Use Gemini 2.5 Flash Image model for image generation
+        model = genai.GenerativeModel("gemini-2.5-flash-image")
 
         # Generate the image
-        result = model.generate_images(
-            prompt=prompt,
-            number_of_images=1,
-            safety_filter_level="block_few",
-            person_generation="allow_adult",
-        )
+        response = model.generate_content(prompt)
 
-        # Save the first (and only) generated image
-        if result.images:
-            image = result.images[0]
+        # Save the generated image
+        # The response contains both text and image parts
+        image_found = False
+        if hasattr(response, '_result') and hasattr(response._result, 'candidates'):
+            candidate = response._result.candidates[0]
+            if hasattr(candidate, 'content') and hasattr(candidate.content, 'parts'):
+                for part in candidate.content.parts:
+                    # Check if this part contains inline image data
+                    if hasattr(part, 'inline_data') and part.inline_data:
+                        # The data is raw bytes, write it directly
+                        with open(output_path, 'wb') as f:
+                            # Make sure data attribute exists and has content
+                            if hasattr(part.inline_data, 'data') and part.inline_data.data:
+                                f.write(part.inline_data.data)
+                                image_found = True
+                            else:
+                                print(f"⚠️  Warning: inline_data exists but no data attribute")
 
-            # Save the image
-            image._pil_image.save(str(output_path))
+        if image_found:
+            # Load for verification
+            from PIL import Image
+            image = Image.open(str(output_path))
 
             print(f"✅ Image successfully generated and saved!")
             print(f"📂 Location: {output_path}")
-            print(f"📏 Size: {image._pil_image.size}")
+            print(f"📏 Size: {image.size}")
 
             return output_path
         else:
             print("❌ No images were generated")
+            print(f"Response structure: {dir(response)}")
+            if hasattr(response, '_result'):
+                print(f"Result: {response._result}")
             sys.exit(1)
 
     except AttributeError:
