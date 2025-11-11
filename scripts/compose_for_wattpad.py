@@ -2,35 +2,35 @@
 """
 Wattpad Episode Composer for Hockey Shuttle Series
 
-This script composes episodes from chapter markdown files into a format
-suitable for Wattpad publishing. It can output individual chapters or
-a combined episode file, optimized for mobile reading.
+Generates DOCX files with formatting and images for easy copy-paste into Wattpad.
+DOCX preserves bold, italic, and inline images when pasted.
 
 Usage:
-    uv run scripts/compose_for_wattpad.py <episode-path> [--output-dir <dir>] [--combine]
+    uv run scripts/compose_for_wattpad.py <episode-path>
 
 Examples:
-    # Generate separate chapters for Wattpad
+    # Generate separate chapter DOCX files for Wattpad
     uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
-
-    # Generate combined episode file
-    uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --combine
-
-    # Specify custom output directory
-    uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --output-dir wattpad-ready
 """
 
 import argparse
 import sys
-import re
 from pathlib import Path
-from datetime import datetime
+import re
+
+try:
+    from docx import Document
+    from docx.shared import Inches, Pt, RGBColor
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    DOCX_AVAILABLE = True
+except ImportError:
+    DOCX_AVAILABLE = False
 
 
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Compose episodes for Wattpad publishing",
+        description="Generate DOCX files for Wattpad publishing with images and formatting",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__
     )
@@ -44,22 +44,6 @@ def parse_args():
         type=str,
         default="output/wattpad",
         help="Output directory relative to repo root. Default: output/wattpad"
-    )
-    parser.add_argument(
-        "--combine",
-        action="store_true",
-        help="Combine all chapters into a single file instead of separate chapter files"
-    )
-    parser.add_argument(
-        "--add-metadata",
-        action="store_true",
-        default=True,
-        help="Add episode metadata header (enabled by default)"
-    )
-    parser.add_argument(
-        "--word-count",
-        action="store_true",
-        help="Display word count for each chapter"
     )
     return parser.parse_args()
 
@@ -75,8 +59,7 @@ def find_repo_root():
 
 
 def extract_episode_info(episode_path: Path):
-    """Extract episode information from path and outline."""
-    # Parse episode name from path
+    """Extract episode information from path."""
     episode_name = episode_path.name
     match = re.match(r"episode-(\d+)-(.+)", episode_name)
 
@@ -84,44 +67,27 @@ def extract_episode_info(episode_path: Path):
         episode_num = int(match.group(1))
         episode_title = match.group(2).replace("-", " ").title()
     else:
-        episode_num = "?"
+        episode_num = "1"
         episode_title = episode_name
 
-    # Try to read outline for more info
-    outline_path = episode_path / "outline.md"
-    series_name = "Hockey Shuttle"
-    season_num = "1"
-
-    if outline_path.exists():
-        content = outline_path.read_text()
-        # Look for series and season info in outline
-        series_match = re.search(r"\*\*Series\*\*:?\s*(.+)", content)
-        season_match = re.search(r"\*\*Season\*\*:?\s*(\d+)", content)
-
-        if series_match:
-            series_name = series_match.group(1).strip()
-        if season_match:
-            season_num = season_match.group(1).strip()
-
     return {
-        "series": series_name,
-        "season": season_num,
+        "series": "Hockey Shuttle",
+        "season": "1",
         "episode": episode_num,
         "title": episode_title,
-        "full_title": f"{series_name} - S{season_num}E{episode_num}: {episode_title}",
+        "full_title": f"Hockey Shuttle - Season 1, Episode {episode_num}: {episode_title}",
         "episode_slug": episode_name
     }
 
 
 def read_chapter_files(episode_path: Path):
-    """Read all chapter markdown files from the draft directory."""
+    """Read all chapter markdown files."""
     draft_dir = episode_path / "draft"
 
     if not draft_dir.exists():
         print(f"❌ Error: Draft directory not found at {draft_dir}")
         return []
 
-    # Find all chapter files
     chapter_files = sorted(draft_dir.glob("chapter-*.md"))
 
     if not chapter_files:
@@ -133,22 +99,18 @@ def read_chapter_files(episode_path: Path):
         try:
             content = chapter_file.read_text()
 
-            # Extract chapter title if present
+            # Extract chapter title
             title = None
             lines = content.split("\n")
-            for line in lines[:10]:  # Check first 10 lines for title
+            for line in lines[:10]:
                 if line.startswith("# "):
                     title = line[2:].strip()
                     break
 
-            # Calculate word count
-            word_count = len(content.split())
-
             chapters.append({
                 "filename": chapter_file.name,
                 "title": title,
-                "content": content,
-                "word_count": word_count
+                "content": content
             })
         except Exception as e:
             print(f"⚠️  Warning: Could not read {chapter_file}: {e}")
@@ -156,69 +118,91 @@ def read_chapter_files(episode_path: Path):
     return chapters
 
 
-def format_for_wattpad(content: str, strip_markdown=True):
-    """
-    Format content for Wattpad.
-    Wattpad supports basic formatting but works best with clean, simple text.
-    """
-    lines = content.split("\n")
-    formatted_lines = []
+def get_image_map(repo_root: Path):
+    """Create a map of available images for automatic insertion."""
+    visuals_dir = repo_root / "series" / "hockey-shuttle" / "10-visuals"
 
-    for line in lines:
-        # Skip the main chapter title (will be added separately)
-        if line.startswith("# ") and len(formatted_lines) == 0:
-            continue
-
-        # Convert heading levels (Wattpad prefers bold for subheadings)
-        if line.startswith("## "):
-            # Subheadings become bold
-            formatted_lines.append(f"**{line[3:].strip()}**")
-            formatted_lines.append("")  # Add spacing
-        elif line.startswith("### "):
-            # Sub-subheadings also become bold but smaller
-            formatted_lines.append(f"**{line[4:].strip()}**")
-            formatted_lines.append("")
-        elif line.strip() == "---":
-            # Scene breaks - Wattpad uses centered asterisks
-            formatted_lines.append("")
-            formatted_lines.append("* * *")
-            formatted_lines.append("")
-        else:
-            # Keep the line as-is (Wattpad supports basic markdown like *italic* and **bold**)
-            formatted_lines.append(line)
-
-    return "\n".join(formatted_lines).strip()
+    return {
+        "episode_header": visuals_dir / "episode-headers" / "ep01-returning-to-center-ice.png",
+        "sophia_portrait": visuals_dir / "characters" / "sophia-chen-athlete-v1.png",
+        "ethan_portrait": visuals_dir / "characters" / "ethan-price-hockey-v1.png",
+        "parking_lot_reunion": visuals_dir / "key-scenes" / "ep01-parking-lot-reunion.png",
+        "winnipeg_winter": visuals_dir / "key-scenes" / "the-forks-winnipeg-winter.png",
+        "empty_rink": visuals_dir / "atmospheric" / "empty-rink-golden-hour.png",
+        "frost_window": visuals_dir / "atmospheric" / "frost-on-window.png",
+        "snow_falling": visuals_dir / "atmospheric" / "snow-falling-night.png",
+        "ice_texture": visuals_dir / "atmospheric" / "ice-texture-closeup.png",
+        "truck_interior": visuals_dir / "atmospheric" / "truck-interior-dashboard.png",
+        "coffee_cup": visuals_dir / "atmospheric" / "coffee-cup-winter.png",
+        "shuttlecock": visuals_dir / "atmospheric" / "shuttlecock-in-flight.png",
+        "hockey_puck": visuals_dir / "atmospheric" / "hockey-puck-closeup.png",
+        "crossed_equipment": visuals_dir / "atmospheric" / "crossed-equipment.png",
+        "two_paths": visuals_dir / "atmospheric" / "two-paths-snow.png",
+    }
 
 
-def create_episode_header(episode_info: dict):
-    """Create a metadata header for the episode."""
-    header = f"""━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{episode_info['series']}
-Season {episode_info['season']} • Episode {episode_info['episode']}
-"{episode_info['title']}"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+def get_chapter_images(chapter_num: int, image_map: dict):
+    """Get images to insert for a specific chapter based on IMAGE-PLACEMENT-GUIDE.md logic."""
+    images = []
 
-"""
-    return header
+    if chapter_num == 1:
+        # Chapter 1: Episode header + childhood/ice images
+        if image_map.get("episode_header") and image_map["episode_header"].exists():
+            images.append(("opening", image_map["episode_header"], ""))
+        if image_map.get("ice_texture") and image_map["ice_texture"].exists():
+            images.append(("middle", image_map["ice_texture"], "Eight years ago..."))
+        if image_map.get("empty_rink") and image_map["empty_rink"].exists():
+            images.append(("end", image_map["empty_rink"], "Six years apart..."))
+
+    elif chapter_num == 2:
+        # Chapter 2: Winnipeg winter + parking lot reunion
+        if image_map.get("winnipeg_winter") and image_map["winnipeg_winter"].exists():
+            images.append(("opening", image_map["winnipeg_winter"], "Winnipeg, present day"))
+        if image_map.get("snow_falling") and image_map["snow_falling"].exists():
+            images.append(("before_reunion", image_map["snow_falling"], ""))
+        if image_map.get("parking_lot_reunion") and image_map["parking_lot_reunion"].exists():
+            images.append(("reunion", image_map["parking_lot_reunion"], "The moment everything changed"))
+        if image_map.get("frost_window") and image_map["frost_window"].exists():
+            images.append(("end", image_map["frost_window"], "One familiar face in a city of strangers"))
+
+    elif chapter_num == 3:
+        # Chapter 3: Badminton/truck/coffee
+        if image_map.get("shuttlecock") and image_map["shuttlecock"].exists():
+            images.append(("opening", image_map["shuttlecock"], ""))
+        if image_map.get("truck_interior") and image_map["truck_interior"].exists():
+            images.append(("middle", image_map["truck_interior"], "Later that evening..."))
+        if image_map.get("coffee_cup") and image_map["coffee_cup"].exists():
+            images.append(("end", image_map["coffee_cup"], "Warming up to something new"))
+
+    elif chapter_num == 4:
+        # Chapter 4: Hockey atmosphere
+        if image_map.get("empty_rink") and image_map["empty_rink"].exists():
+            images.append(("opening", image_map["empty_rink"], ""))
+        if image_map.get("hockey_puck") and image_map["hockey_puck"].exists():
+            images.append(("before_game", image_map["hockey_puck"], "Game night"))
+        if image_map.get("crossed_equipment") and image_map["crossed_equipment"].exists():
+            images.append(("end", image_map["crossed_equipment"], "Two worlds colliding"))
+
+    return images
 
 
 def create_chapter_header(chapter_num: int, chapter_title: str, episode_info: dict):
-    """Create a header for individual chapter."""
-    header = f"""━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{episode_info['series']} - S{episode_info['season']}E{episode_info['episode']}
-Chapter {chapter_num}
-{chapter_title if chapter_title else ''}
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-"""
-    return header
+    """Create header text for chapter."""
+    header_lines = [
+        "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+        f"{episode_info['series']} - S{episode_info['season']}E{episode_info['episode']}",
+        f"Chapter {chapter_num}",
+    ]
+    if chapter_title:
+        header_lines.append(chapter_title)
+    header_lines.append("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    return "\n".join(header_lines)
 
 
 def create_chapter_footer(is_last_chapter=False):
-    """Create a footer for chapters."""
+    """Create footer text for chapter."""
     if is_last_chapter:
-        footer = """
-
+        return """
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Thank you for reading!
@@ -227,192 +211,253 @@ Don't forget to vote ⭐ if you enjoyed this episode!
 
 What did you think? Leave a comment! 💬
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-"""
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
     else:
-        footer = """
-
+        return """
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 To be continued...
 
 Don't forget to vote ⭐ and comment 💬
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-"""
-    return footer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
 
 
-def compose_single_chapter(chapter: dict, chapter_num: int, episode_info: dict,
-                          add_metadata: bool, is_last_chapter: bool):
-    """Compose a single chapter for Wattpad."""
-    parts = []
+def add_formatted_text(paragraph, text):
+    """Add text to paragraph with markdown formatting (bold, italic)."""
+    # Split by bold markers
+    parts = re.split(r'(\*\*[^*]+\*\*)', text)
 
-    # Add chapter header
-    if add_metadata:
-        parts.append(create_chapter_header(chapter_num, chapter["title"], episode_info))
-    elif chapter["title"]:
-        parts.append(f"# {chapter['title']}\n")
-
-    # Add formatted content
-    formatted_content = format_for_wattpad(chapter["content"])
-    parts.append(formatted_content)
-
-    # Add footer
-    if add_metadata:
-        parts.append(create_chapter_footer(is_last_chapter))
-
-    return "\n".join(parts)
-
-
-def compose_combined_episode(chapters: list, episode_info: dict, add_metadata: bool):
-    """Combine all chapters into a single episode file."""
-    parts = []
-
-    # Add episode header
-    if add_metadata:
-        parts.append(create_episode_header(episode_info))
-
-    # Add each chapter
-    for i, chapter in enumerate(chapters, 1):
-        is_last = (i == len(chapters))
-
-        # Chapter divider
-        if i > 1:
-            parts.append("\n\n")
-
-        # Chapter content
-        chapter_content = compose_single_chapter(
-            chapter, i, episode_info, add_metadata, is_last
-        )
-        parts.append(chapter_content)
-
-    return "\n".join(parts)
+    for part in parts:
+        if part.startswith('**') and part.endswith('**'):
+            # Bold text
+            run = paragraph.add_run(part[2:-2])
+            run.bold = True
+        else:
+            # Check for italic within non-bold text
+            italic_parts = re.split(r'(\*[^*]+\*)', part)
+            for ipart in italic_parts:
+                if ipart.startswith('*') and ipart.endswith('*') and not ipart.startswith('**'):
+                    # Italic text
+                    run = paragraph.add_run(ipart[1:-1])
+                    run.italic = True
+                else:
+                    # Regular text
+                    if ipart:
+                        paragraph.add_run(ipart)
 
 
-def save_chapters_separately(chapters: list, episode_info: dict, output_dir: Path,
-                             add_metadata: bool, show_word_count: bool):
-    """Save each chapter as a separate file."""
-    episode_dir = output_dir / episode_info['episode_slug']
-    episode_dir.mkdir(parents=True, exist_ok=True)
+def generate_chapter_docx(chapter: dict, chapter_num: int, episode_info: dict,
+                          output_path: Path, image_map: dict, is_last: bool):
+    """Generate DOCX file for a single chapter with formatting and images."""
+    if not DOCX_AVAILABLE:
+        print("⚠️  python-docx not installed. Install with: uv pip install python-docx")
+        return False
 
-    print(f"\n📝 Composing {len(chapters)} chapters for Wattpad...")
-    if show_word_count:
-        print(f"\nWord counts:")
+    try:
+        doc = Document()
 
-    for i, chapter in enumerate(chapters, 1):
-        is_last = (i == len(chapters))
+        # Set document margins
+        sections = doc.sections
+        for section in sections:
+            section.top_margin = Inches(1)
+            section.bottom_margin = Inches(1)
+            section.left_margin = Inches(1)
+            section.right_margin = Inches(1)
 
-        # Compose chapter
-        chapter_content = compose_single_chapter(
-            chapter, i, episode_info, add_metadata, is_last
-        )
+        # Add chapter header
+        header_text = create_chapter_header(chapter_num, chapter["title"], episode_info)
+        header_para = doc.add_paragraph(header_text)
+        header_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        for run in header_para.runs:
+            run.font.size = Pt(11)
 
-        # Save to file
-        output_file = episode_dir / f"chapter-{i:02d}.txt"
-        output_file.write_text(chapter_content, encoding='utf-8')
+        doc.add_paragraph()  # Spacing
 
-        # Display info
-        chapter_name = chapter["title"] if chapter["title"] else f"Chapter {i}"
-        if show_word_count:
-            print(f"  • {chapter_name}: {chapter['word_count']:,} words")
+        # Get images for this chapter
+        chapter_images = get_chapter_images(chapter_num, image_map)
 
-        print(f"✅ Saved: {output_file}")
+        # Add opening image if available
+        opening_images = [img for img in chapter_images if img[0] == "opening"]
+        for _, img_path, caption in opening_images:
+            try:
+                doc.add_picture(str(img_path), width=Inches(6))
+                last_paragraph = doc.paragraphs[-1]
+                last_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                if caption:
+                    caption_para = doc.add_paragraph(caption)
+                    caption_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                    caption_para.runs[0].italic = True
+                doc.add_paragraph()  # Spacing
+            except Exception as e:
+                print(f"⚠️  Could not add image {img_path}: {e}")
 
-    # Create a manifest file
-    manifest_content = f"""Episode: {episode_info['full_title']}
-Chapters: {len(chapters)}
-Total Words: {sum(ch['word_count'] for ch in chapters):,}
-Generated: {datetime.now().strftime("%B %d, %Y at %I:%M %p")}
+        # Parse chapter content
+        lines = chapter["content"].split("\n")
+        in_paragraph = False
+        current_para = None
+        skip_first_title = True
+        line_count = 0
 
-Chapter Files:
-"""
-    for i in range(1, len(chapters) + 1):
-        manifest_content += f"  {i}. chapter-{i:02d}.txt\n"
+        for line in lines:
+            line = line.rstrip()
+            line_count += 1
 
-    manifest_file = episode_dir / "MANIFEST.txt"
-    manifest_file.write_text(manifest_content, encoding='utf-8')
-    print(f"✅ Saved manifest: {manifest_file}")
+            # Skip the main chapter title (already in header)
+            if skip_first_title and line.startswith("# "):
+                skip_first_title = False
+                continue
 
-    return episode_dir
+            # Headings (convert to bold text)
+            if line.startswith("## "):
+                para = doc.add_paragraph()
+                run = para.add_run(line[3:].strip())
+                run.bold = True
+                run.font.size = Pt(14)
+                doc.add_paragraph()  # Spacing
+                in_paragraph = False
+                current_para = None
+                continue
+            elif line.startswith("### "):
+                para = doc.add_paragraph()
+                run = para.add_run(line[4:].strip())
+                run.bold = True
+                run.font.size = Pt(12)
+                doc.add_paragraph()  # Spacing
+                in_paragraph = False
+                current_para = None
+                continue
 
+            # Scene breaks (horizontal rules)
+            if line.strip() == "---":
+                # Add middle images at scene breaks
+                middle_images = [img for img in chapter_images if img[0] in ["middle", "before_reunion", "before_game"]]
+                if middle_images and line_count > len(lines) / 3:  # Only after some content
+                    for _, img_path, caption in middle_images[:1]:  # Add one at a time
+                        try:
+                            doc.add_paragraph()
+                            doc.add_picture(str(img_path), width=Inches(6))
+                            last_paragraph = doc.paragraphs[-1]
+                            last_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                            if caption:
+                                caption_para = doc.add_paragraph(caption)
+                                caption_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                                caption_para.runs[0].italic = True
+                            chapter_images = [img for img in chapter_images if img != (_, img_path, caption)]
+                        except Exception as e:
+                            print(f"⚠️  Could not add image {img_path}: {e}")
 
-def save_combined_episode(chapters: list, episode_info: dict, output_dir: Path,
-                         add_metadata: bool, show_word_count: bool):
-    """Save all chapters combined into a single file."""
-    output_dir.mkdir(parents=True, exist_ok=True)
+                # Scene break
+                para = doc.add_paragraph("* * *")
+                para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                doc.add_paragraph()  # Spacing
+                in_paragraph = False
+                current_para = None
+                continue
 
-    print(f"\n📝 Composing combined episode for Wattpad...")
+            # Empty lines
+            if not line.strip():
+                in_paragraph = False
+                current_para = None
+                continue
 
-    if show_word_count:
-        print(f"\nWord counts:")
-        for i, chapter in enumerate(chapters, 1):
-            chapter_name = chapter["title"] if chapter["title"] else f"Chapter {i}"
-            print(f"  • {chapter_name}: {chapter['word_count']:,} words")
-        total_words = sum(ch['word_count'] for ch in chapters)
-        print(f"\nTotal: {total_words:,} words")
+            # Regular text with formatting
+            if not in_paragraph or current_para is None:
+                current_para = doc.add_paragraph()
+                current_para.paragraph_format.line_spacing = 1.5
+                in_paragraph = True
+            else:
+                current_para.add_run(" ")
 
-    # Compose combined content
-    combined_content = compose_combined_episode(chapters, episode_info, add_metadata)
+            # Add text with bold/italic support
+            add_formatted_text(current_para, line)
 
-    # Save to file
-    safe_title = episode_info['episode_slug']
-    output_file = output_dir / f"{safe_title}-complete.txt"
-    output_file.write_text(combined_content, encoding='utf-8')
+        # Add end images
+        doc.add_paragraph()  # Spacing before end images
+        end_images = [img for img in chapter_images if img[0] in ["end", "reunion"]]
+        for _, img_path, caption in end_images:
+            try:
+                doc.add_picture(str(img_path), width=Inches(6))
+                last_paragraph = doc.paragraphs[-1]
+                last_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                if caption:
+                    caption_para = doc.add_paragraph(caption)
+                    caption_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                    caption_para.runs[0].italic = True
+                doc.add_paragraph()  # Spacing
+            except Exception as e:
+                print(f"⚠️  Could not add image {img_path}: {e}")
 
-    print(f"\n✅ Saved combined episode: {output_file}")
+        # Add footer
+        footer_text = create_chapter_footer(is_last)
+        footer_para = doc.add_paragraph(footer_text)
+        footer_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-    return output_file
+        doc.save(output_path)
+        return True
+
+    except Exception as e:
+        print(f"❌ Error generating DOCX: {e}")
+        import traceback
+        traceback.print_exc()
+        return False
 
 
 def main():
+    """Main execution function."""
     args = parse_args()
 
-    # Find repo root and set up paths
+    if not DOCX_AVAILABLE:
+        print("❌ Error: python-docx not installed")
+        print("   Install with: uv pip install python-docx")
+        sys.exit(1)
+
     repo_root = find_repo_root()
     episode_path = repo_root / args.episode_path
-    output_dir = repo_root / args.output_dir
 
-    # Validate episode path
     if not episode_path.exists():
         print(f"❌ Error: Episode path not found: {episode_path}")
         sys.exit(1)
 
-    # Extract episode information
-    print(f"\n🏒 Processing: {episode_path.name}")
     episode_info = extract_episode_info(episode_path)
-    print(f"   {episode_info['full_title']}")
 
-    # Read chapter files
+    print(f"\n🏒 Processing: {episode_info['episode_slug']}")
+    print(f"   {episode_info['full_title']}\n")
+
     chapters = read_chapter_files(episode_path)
+
     if not chapters:
         sys.exit(1)
 
-    print(f"\n📚 Found {len(chapters)} chapters")
+    print(f"📚 Found {len(chapters)} chapters\n")
 
-    # Compose for Wattpad
-    if args.combine:
-        output_file = save_combined_episode(
-            chapters, episode_info, output_dir,
-            args.add_metadata, args.word_count
-        )
-        print(f"\n✨ Combined episode ready for Wattpad!")
-        print(f"   📁 {output_file}")
-    else:
-        output_dir_path = save_chapters_separately(
-            chapters, episode_info, output_dir,
-            args.add_metadata, args.word_count
-        )
-        print(f"\n✨ Individual chapters ready for Wattpad!")
-        print(f"   📁 {output_dir_path}")
+    # Get image map
+    image_map = get_image_map(repo_root)
 
-    print(f"\n💡 Tips for Wattpad:")
-    print(f"   • Upload each chapter separately for best reader engagement")
-    print(f"   • Use chapter titles to create compelling episode structure")
-    print(f"   • Add a cover image (recommended size: 512x800px)")
-    print(f"   • Encourage readers to vote ⭐ and comment 💬")
-    print(f"   • Consider adding trigger warnings if needed")
-    print(f"\n🎯 Ready to publish!\n")
+    # Output directory
+    output_dir = repo_root / args.output_dir / episode_info['episode_slug']
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"📝 Creating DOCX files for Wattpad...\n")
+
+    for i, chapter in enumerate(chapters, 1):
+        is_last = (i == len(chapters))
+
+        # Generate chapter DOCX
+        output_file = output_dir / f"chapter-{i:02d}.docx"
+
+        if generate_chapter_docx(chapter, i, episode_info, output_file, image_map, is_last):
+            chapter_name = chapter["title"] if chapter["title"] else f"Chapter {i}"
+            print(f"✅ Saved: {output_file.name} - {chapter_name}")
+
+    print(f"\n✨ Done! DOCX files ready for Wattpad!")
+    print(f"📁 Location: {output_dir}\n")
+    print("💡 To use:")
+    print("   1. Open DOCX file in Microsoft Word")
+    print("   2. Select All (Cmd+A / Ctrl+A)")
+    print("   3. Copy (Cmd+C / Ctrl+C)")
+    print("   4. Paste into Wattpad chapter editor")
+    print("   5. Formatting (bold, italic) and images preserved!\n")
 
 
 if __name__ == "__main__":

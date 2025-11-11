@@ -1,172 +1,61 @@
-# Wattpad Episode Composer
+# Wattpad Publishing Scripts
 
-A Python script for composing Hockey Shuttle episodes into a format optimized for Wattpad publishing.
+## Main Script: `compose_for_wattpad.py`
 
-## Features
+**Purpose:** Generate DOCX files with formatting and images for Wattpad publishing.
 
-- ✅ Formats episodes for Wattpad's mobile-friendly reading experience
-- ✅ Supports individual chapter files or combined episodes
-- ✅ Adds episode/chapter metadata headers
-- ✅ Converts markdown formatting to Wattpad-compatible style
-- ✅ Includes reader engagement prompts (votes, comments)
-- ✅ Generates manifest files with word counts
-- ✅ Handles scene breaks and formatting automatically
+### Why DOCX?
 
-## Usage
+DOCX files preserve formatting when copy-pasted into Wattpad:
+- ✅ **Bold** and *italic* text work perfectly
+- ✅ Inline images paste directly
+- ✅ Line breaks and spacing preserved
+- ✅ Scene breaks stay centered
+- ✅ Zero manual reformatting needed
 
-### Generate Individual Chapters (Recommended for Wattpad)
+### Usage
 
 ```bash
+# Generate DOCX files for an episode
 uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
 ```
 
-This creates separate `.txt` files for each chapter in the `wattpad/` directory.
+### Output
 
-### Generate Combined Episode
+Creates individual chapter DOCX files in `output/wattpad/<episode-name>/`:
+- chapter-01.docx
+- chapter-02.docx
+- chapter-03.docx
+- chapter-04.docx
 
-```bash
-uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --combine
-```
+Each file includes:
+- Chapter header with episode info
+- 3-4 inline images (automatically placed)
+- Full chapter text with bold/italic formatting
+- Scene breaks as centered * * *
+- Chapter footer with vote/comment CTA
 
-This creates a single file with all chapters combined.
+### Images Included
 
-### Show Word Counts
+**Chapter 1:** Episode header, ice texture, empty rink
+**Chapter 2:** Winnipeg winter, snow falling, parking lot reunion, frost window
+**Chapter 3:** Shuttlecock, truck interior, coffee cup
+**Chapter 4:** Empty rink, hockey puck, crossed equipment
 
-```bash
-uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --word-count
-```
+### How to Use DOCX Files
 
-### Custom Output Directory
-
-```bash
-uv run scripts/compose_for_wattpad.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --output-dir my-wattpad-files
-```
-
-## Output Structure
-
-### Individual Chapters Mode (Default)
-
-```
-output/wattpad/
-└── episode-01-returning-to-center-ice/
-    ├── chapter-01.txt
-    ├── chapter-02.txt
-    ├── chapter-03.txt
-    ├── chapter-04.txt
-    └── MANIFEST.txt
-```
-
-### Combined Mode
-
-```
-output/wattpad/
-└── episode-01-returning-to-center-ice-complete.txt
-```
-
-## Wattpad Formatting
-
-The script automatically:
-
-1. **Headers** - Converts to bold text for mobile readability
-2. **Scene Breaks** - Uses centered asterisks (* * *)
-3. **Metadata** - Adds episode/chapter information with decorative borders
-4. **Footers** - Includes engagement prompts (vote ⭐ and comment 💬)
-5. **Chapter Titles** - Formatted as decorative headers
-
-## Publishing Tips
-
-When uploading to Wattpad:
-
-1. **Upload chapters separately** for better reader engagement
-2. **Add a cover image** (recommended size: 512x800px)
-3. **Use descriptive tags** (#YA #Romance #Hockey #Sports)
-4. **Write a compelling description**
-5. **Add trigger warnings** if needed
-6. **Engage with readers** in comments
-7. **Maintain a consistent posting schedule**
-
-## Example Output
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Hockey Shuttle - S1E1
-Chapter 1
-Chapter 1: Then
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Age 9 - Millbrook Community Rink - March**
-
-The ice was perfect that morning.
-
-Sophia Chen knew ice the way other kids knew their favorite books...
-
-[... chapter content ...]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-To be continued...
-
-Don't forget to vote ⭐ and comment 💬
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-## Command Line Options
-
-| Option | Description | Default |
-|--------|-------------|---------|
-| `episode_path` | Path to episode directory | Required |
-| `--output-dir` | Custom output directory | `output/wattpad` |
-| `--combine` | Combine all chapters into one file | `false` |
-| `--add-metadata` | Add episode/chapter headers | `true` |
-| `--word-count` | Display word counts | `false` |
-
-## Manifest File
-
-Each episode generates a `MANIFEST.txt` file containing:
-
-- Episode title and metadata
-- Number of chapters
-- Total word count
-- Generation timestamp
-- List of chapter files
-
-Example:
-
-```
-Episode: Hockey Shuttle - S1E1: Returning To Center Ice
-Chapters: 4
-Total Words: 18,621
-Generated: November 05, 2025 at 10:15 AM
-
-Chapter Files:
-  1. chapter-01.txt
-  2. chapter-02.txt
-  3. chapter-03.txt
-  4. chapter-04.txt
-```
-
-## Batch Processing
-
-To process all episodes in a season:
-
-```bash
-# Process each episode individually
-for ep in series/hockey-shuttle/season-01/episode-*/; do
-    uv run scripts/compose_for_wattpad.py "$ep" --word-count
-done
-```
-
-## See Also
-
-- `generate_episode.py` - Generate PDF, HTML, and EPUB formats
-- `generate-episode.sh` - Shell script for episode generation
-- `generate-all-episodes.sh` - Batch process all episodes
-
-## Support
-
-For issues or questions about the Wattpad composer, check the main project README or open an issue on GitHub.
+1. Open DOCX file in Microsoft Word
+2. Select All (Cmd+A / Ctrl+A)
+3. Copy (Cmd+C / Ctrl+C)
+4. Paste into Wattpad chapter editor
+5. Publish!
 
 ---
 
-**Happy Publishing! 🏒✨**
+## Other Scripts
+
+**create_aesthetics_playlist.py** - Generates intro chapter with character grids and playlist
+
+---
+
+**Last Updated:** November 11, 2024
