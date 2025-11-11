@@ -2,12 +2,15 @@
 """
 Episode Generator for Hockey Shuttle Series
 
-This script generates PDF, HTML, and EPUB files from episode markdown files.
-Usage: uv run scripts/generate_episode.py <episode-path> [--formats pdf,html,epub]
+Generates PDF, HTML, EPUB, and DOCX formats from episode markdown files
+with automatic inline image insertion.
+
+Usage:
+    uv run scripts/generate_episode.py <episode-path> [--formats pdf,html,epub,docx]
 
 Example:
     uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
-    uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats pdf,html
+    uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats html,docx
 """
 
 import argparse
@@ -17,28 +20,55 @@ import markdown2
 import re
 from datetime import datetime
 
+# Check for optional dependencies
+try:
+    from docx import Document
+    from docx.shared import Inches, Pt, RGBColor
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    DOCX_AVAILABLE = True
+except ImportError:
+    DOCX_AVAILABLE = False
+
+try:
+    from weasyprint import HTML
+    PDF_AVAILABLE = True
+except (ImportError, OSError):
+    PDF_AVAILABLE = False
+
+try:
+    from ebooklib import epub
+    EPUB_AVAILABLE = True
+except ImportError:
+    EPUB_AVAILABLE = False
+
 
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Generate PDF, HTML, and EPUB from episode markdown files"
+        description="Generate PDF, HTML, EPUB, and DOCX from episode markdown files with images"
     )
     parser.add_argument(
         "episode_path",
         type=str,
-        help="Path to episode directory (e.g., series/hockey-shuttle/season-01/episode-01-returning-to-center-ice)"
+        help="Path to episode directory"
     )
     parser.add_argument(
         "--formats",
         type=str,
-        default="md,pdf,html,epub",
-        help="Comma-separated list of formats to generate (md,pdf,html,epub). Default: all"
+        default="html,epub,docx",
+        help="Comma-separated list of formats (html,epub,docx,pdf). Default: html,epub,docx"
     )
     parser.add_argument(
         "--output-dir",
         type=str,
         default="output",
-        help="Output directory relative to repo root. Default: output"
+        help="Output directory. Default: output"
+    )
+    parser.add_argument(
+        "--with-images",
+        action="store_true",
+        default=True,
+        help="Include images in output (default: True)"
     )
     return parser.parse_args()
 
@@ -54,8 +84,7 @@ def find_repo_root():
 
 
 def extract_episode_info(episode_path: Path):
-    """Extract episode information from path and outline."""
-    # Parse episode name from path
+    """Extract episode information from path."""
     episode_name = episode_path.name
     match = re.match(r"episode-(\d+)-(.+)", episode_name)
 
@@ -63,57 +92,42 @@ def extract_episode_info(episode_path: Path):
         episode_num = int(match.group(1))
         episode_title = match.group(2).replace("-", " ").title()
     else:
-        episode_num = "?"
+        episode_num = "1"
         episode_title = episode_name
 
-    # Try to read outline for more info
-    outline_path = episode_path / "outline.md"
-    series_name = "Hockey Shuttle"
-    season_num = "1"
-
-    if outline_path.exists():
-        content = outline_path.read_text()
-        # Look for series and season info in outline
-        series_match = re.search(r"\*\*Series\*\*:?\s*(.+)", content)
-        season_match = re.search(r"\*\*Season\*\*:?\s*(\d+)", content)
-
-        if series_match:
-            series_name = series_match.group(1).strip()
-        if season_match:
-            season_num = season_match.group(1).strip()
-
     return {
-        "series": series_name,
-        "season": season_num,
+        "series": "Hockey Shuttle",
+        "season": "1",
         "episode": episode_num,
         "title": episode_title,
-        "full_title": f"{series_name} - Season {season_num}, Episode {episode_num}: {episode_title}"
+        "full_title": f"Hockey Shuttle - Season 1, Episode {episode_num}: {episode_title}",
+        "episode_slug": episode_name
     }
 
 
 def read_chapter_files(episode_path: Path):
-    """Read all chapter markdown files from the draft directory."""
+    """Read all chapter markdown files."""
     draft_dir = episode_path / "draft"
 
     if not draft_dir.exists():
-        print(f"Error: Draft directory not found at {draft_dir}")
+        print(f"❌ Error: Draft directory not found at {draft_dir}")
         return []
 
-    # Find all chapter files
     chapter_files = sorted(draft_dir.glob("chapter-*.md"))
 
     if not chapter_files:
-        print(f"Error: No chapter files found in {draft_dir}")
+        print(f"❌ Error: No chapter files found in {draft_dir}")
         return []
 
     chapters = []
     for chapter_file in chapter_files:
         try:
             content = chapter_file.read_text()
-            # Extract chapter title if present
-            lines = content.split("\n")
+
+            # Extract chapter title
             title = None
-            for line in lines[:10]:  # Check first 10 lines for title
+            lines = content.split("\n")
+            for line in lines[:10]:
                 if line.startswith("# "):
                     title = line[2:].strip()
                     break
@@ -124,30 +138,58 @@ def read_chapter_files(episode_path: Path):
                 "content": content
             })
         except Exception as e:
-            print(f"Warning: Could not read {chapter_file}: {e}")
+            print(f"⚠️  Warning: Could not read {chapter_file}: {e}")
 
     return chapters
 
 
-def combine_chapters(chapters, episode_info):
-    """Combine all chapters into a single markdown document."""
+def get_image_map(repo_root: Path):
+    """Create a map of available images for automatic insertion."""
+    visuals_dir = repo_root / "series" / "hockey-shuttle" / "10-visuals"
+
+    return {
+        "episode_header": visuals_dir / "episode-headers" / "ep01-returning-to-center-ice.png",
+        "sophia_portrait": visuals_dir / "characters" / "sophia-chen-athlete-v1.png",
+        "ethan_portrait": visuals_dir / "characters" / "ethan-price-hockey-v1.png",
+        "parking_lot_reunion": visuals_dir / "key-scenes" / "ep01-parking-lot-reunion.png",
+        "winnipeg_winter": visuals_dir / "key-scenes" / "the-forks-winnipeg-winter.png",
+        "empty_rink": visuals_dir / "atmospheric" / "empty-rink-golden-hour.png",
+        "frost_window": visuals_dir / "atmospheric" / "frost-on-window.png",
+        "snow_falling": visuals_dir / "atmospheric" / "snow-falling-night.png",
+        "ice_texture": visuals_dir / "atmospheric" / "ice-texture-closeup.png",
+        "truck_interior": visuals_dir / "atmospheric" / "truck-interior-dashboard.png",
+        "coffee_cup": visuals_dir / "atmospheric" / "coffee-cup-winter.png",
+        "shuttlecock": visuals_dir / "atmospheric" / "shuttlecock-in-flight.png",
+        "hockey_puck": visuals_dir / "atmospheric" / "hockey-puck-closeup.png",
+        "crossed_equipment": visuals_dir / "atmospheric" / "crossed-equipment.png",
+        "two_paths": visuals_dir / "atmospheric" / "two-paths-snow.png",
+    }
+
+
+def combine_chapters(chapters: list, episode_info: dict, include_images: bool, repo_root: Path):
+    """Combine all chapters into single markdown content with optional images."""
     combined = []
 
-    # Add title page
-    combined.append(f"# {episode_info['full_title']}")
-    combined.append("")
-    combined.append("---")
-    combined.append("")
+    # Title page
+    combined.append(f"# {episode_info['full_title']}\n")
+    combined.append("---\n")
 
-    # Add each chapter
+    image_map = get_image_map(repo_root) if include_images else {}
+
     for i, chapter in enumerate(chapters, 1):
+        # Chapter heading
         if chapter["title"]:
-            combined.append(f"# Chapter {i}: {chapter['title']}")
+            combined.append(f"## Chapter {i}: {chapter['title']}\n")
         else:
-            combined.append(f"# Chapter {i}")
-        combined.append("")
+            combined.append(f"## Chapter {i}\n")
 
-        # Add chapter content (skip the title line if it exists)
+        # Add episode header image at start of chapter 1
+        if i == 1 and include_images and image_map.get("episode_header"):
+            img_path = image_map["episode_header"]
+            if img_path.exists():
+                combined.append(f"\n![Episode Header]({img_path})\n")
+
+        # Add chapter content
         content = chapter["content"]
         lines = content.split("\n")
 
@@ -157,18 +199,27 @@ def combine_chapters(chapters, episode_info):
 
         combined.append("\n".join(lines).strip())
         combined.append("")
-        combined.append("---")
-        combined.append("")
+
+        # Add chapter-specific images based on content/position
+        if include_images:
+            if i == 2 and image_map.get("parking_lot_reunion"):
+                # Add reunion scene in chapter 2
+                img_path = image_map["parking_lot_reunion"]
+                if img_path.exists():
+                    combined.append(f"\n![The Reunion]({img_path})\n")
+
+        combined.append("---\n")
 
     return "\n".join(combined)
 
 
 def generate_html(markdown_content: str, episode_info: dict, output_path: Path):
-    """Generate HTML file from markdown content."""
-    # Convert markdown to HTML
-    html_content = markdown2.markdown(markdown_content, extras=['fenced-code-blocks', 'tables', 'break-on-newline'])
+    """Generate HTML file from markdown with images."""
+    html_content = markdown2.markdown(
+        markdown_content,
+        extras=['fenced-code-blocks', 'tables', 'break-on-newline']
+    )
 
-    # Create complete HTML document
     html_doc = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -176,118 +227,146 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{episode_info['full_title']}</title>
     <style>
-        @page {{
-            size: letter;
-            margin: 1in;
-        }}
-
         body {{
-            font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif;
+            font-family: Georgia, 'Times New Roman', serif;
             line-height: 1.6;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
             color: #333;
-            background: #fafafa;
         }}
-
-        h1 {{
-            font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif;
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-            margin-top: 40px;
-            page-break-after: avoid;
+        h1, h2, h3 {{ color: #2c3e50; }}
+        img {{
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 2em auto;
+            border-radius: 4px;
         }}
-
-        h2, h3 {{
-            font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif;
-            color: #34495e;
-            margin-top: 30px;
-            page-break-after: avoid;
-        }}
-
-        p {{
-            margin: 1em 0;
-            text-align: justify;
-            orphans: 3;
-            widows: 3;
-        }}
-
         hr {{
             border: none;
             border-top: 1px solid #bdc3c7;
             margin: 40px 0;
-            page-break-after: always;
         }}
-
-        blockquote {{
-            border-left: 4px solid #3498db;
-            padding-left: 20px;
-            margin: 20px 0;
-            font-style: italic;
-            color: #555;
-        }}
-
-        em {{
-            font-style: italic;
-        }}
-
-        strong {{
-            font-weight: bold;
-        }}
-
-        /* Prevent emoji font embedding */
-        * {{
-            font-variant-emoji: text;
-        }}
-
         @media print {{
-            body {{
-                max-width: 100%;
-                background: white;
-                padding: 0;
-            }}
+            body {{ max-width: 100%; }}
         }}
     </style>
 </head>
 <body>
-    {html_content}
-    <hr>
-    <footer style="text-align: center; color: #7f8c8d; margin-top: 40px;">
-        <p>Generated on {datetime.now().strftime("%B %d, %Y")}</p>
-    </footer>
+{html_content}
 </body>
 </html>"""
 
-    output_path.write_text(html_doc)
-    print(f"✓ Generated HTML: {output_path}")
+    output_path.write_text(html_doc, encoding='utf-8')
+    return True
 
 
-def generate_pdf(html_path: Path, output_path: Path):
-    """Generate PDF file from HTML."""
+def generate_docx(markdown_content: str, episode_info: dict, output_path: Path, image_map: dict):
+    """Generate DOCX file with inline images."""
+    if not DOCX_AVAILABLE:
+        print("⚠️  python-docx not installed. Install with: uv pip install python-docx")
+        return False
+
     try:
-        from weasyprint import HTML
-        HTML(filename=str(html_path)).write_pdf(output_path)
-        print(f"✓ Generated PDF: {output_path}")
-    except ImportError:
-        print("⚠ Warning: weasyprint not installed. PDF generation skipped.")
-        print("  Install with: uv pip install weasyprint")
+        doc = Document()
+
+        # Set document margins
+        sections = doc.sections
+        for section in sections:
+            section.top_margin = Inches(1)
+            section.bottom_margin = Inches(1)
+            section.left_margin = Inches(1)
+            section.right_margin = Inches(1)
+
+        # Title page
+        title = doc.add_heading(episode_info['full_title'], 0)
+        title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
+        # Parse markdown and add to document
+        lines = markdown_content.split("\n")
+        in_paragraph = False
+        current_para = None
+
+        for line in lines:
+            line = line.rstrip()
+
+            # Check for image references
+            img_match = re.match(r'!\[([^\]]*)\]\(([^)]+)\)', line)
+            if img_match:
+                alt_text = img_match.group(1)
+                img_path = Path(img_match.group(2))
+                if img_path.exists():
+                    try:
+                        doc.add_picture(str(img_path), width=Inches(6))
+                        last_paragraph = doc.paragraphs[-1]
+                        last_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                        # Add caption
+                        if alt_text:
+                            caption = doc.add_paragraph(alt_text)
+                            caption.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                            caption.runs[0].italic = True
+                        doc.add_paragraph()  # Spacing
+                    except Exception as e:
+                        print(f"⚠️  Could not add image {img_path}: {e}")
+                continue
+
+            # Headings
+            if line.startswith("# "):
+                doc.add_heading(line[2:], 1)
+                in_paragraph = False
+            elif line.startswith("## "):
+                doc.add_heading(line[3:], 2)
+                in_paragraph = False
+            elif line.startswith("### "):
+                doc.add_heading(line[4:], 3)
+                in_paragraph = False
+            # Horizontal rules
+            elif line.strip() == "---":
+                doc.add_page_break()
+                in_paragraph = False
+            # Empty lines
+            elif not line.strip():
+                in_paragraph = False
+                current_para = None
+            # Regular text
+            else:
+                if not in_paragraph or current_para is None:
+                    current_para = doc.add_paragraph()
+                    in_paragraph = True
+                else:
+                    current_para.add_run(" ")
+
+                # Simple markdown parsing for bold and italic
+                text = line
+                # Handle bold
+                text = re.sub(r'\*\*([^\*]+)\*\*', lambda m: m.group(1), text)
+                # Handle italic
+                text = re.sub(r'\*([^\*]+)\*', lambda m: m.group(1), text)
+
+                run = current_para.add_run(text)
+
+                # Apply styles based on original markdown
+                if "**" in line:
+                    run.bold = True
+                if line.startswith("*") and not line.startswith("**"):
+                    run.italic = True
+
+        doc.save(output_path)
+        return True
+
     except Exception as e:
-        print(f"⚠ Warning: PDF generation failed: {e}")
-
-
-def generate_markdown(markdown_content: str, episode_info: dict, output_path: Path):
-    """Generate combined markdown file."""
-    output_path.write_text(markdown_content)
-    print(f"✓ Generated Markdown: {output_path}")
+        print(f"❌ Error generating DOCX: {e}")
+        return False
 
 
 def generate_epub(markdown_content: str, episode_info: dict, output_path: Path):
     """Generate EPUB file from markdown content."""
-    try:
-        from ebooklib import epub
+    if not EPUB_AVAILABLE:
+        print("⚠️  ebooklib not installed. Install with: uv pip install ebooklib")
+        return False
 
+    try:
         # Create EPUB book
         book = epub.EpubBook()
 
@@ -295,7 +374,7 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path):
         book.set_identifier(f"hockey-shuttle-s{episode_info['season']}-e{episode_info['episode']}")
         book.set_title(episode_info['full_title'])
         book.set_language('en')
-        book.add_author('Generated from Hockey Shuttle Series')
+        book.add_author('Hockey Shuttle Series')
 
         # Split into chapters
         chapters_content = markdown_content.split("---")
@@ -341,84 +420,110 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path):
 
         # Write EPUB file
         epub.write_epub(output_path, book, {})
-        print(f"✓ Generated EPUB: {output_path}")
-    except ImportError:
-        print("⚠ Warning: ebooklib not installed. EPUB generation skipped.")
-        print("  Install with: uv pip install ebooklib")
+        return True
+
     except Exception as e:
-        print(f"⚠ Warning: EPUB generation failed: {e}")
+        print(f"❌ Error generating EPUB: {e}")
+        return False
+
+
+def generate_pdf(html_path: Path, output_path: Path):
+    """Generate PDF file from HTML."""
+    if not PDF_AVAILABLE:
+        print("⚠️  WeasyPrint not available. Install with: uv pip install weasyprint")
+        return False
+
+    try:
+        HTML(filename=str(html_path)).write_pdf(output_path)
+        return True
+    except Exception as e:
+        print(f"❌ Error generating PDF: {e}")
+        return False
 
 
 def main():
+    """Main execution function."""
     args = parse_args()
 
-    # Find repo root and set up paths
     repo_root = find_repo_root()
     episode_path = repo_root / args.episode_path
-    output_dir = repo_root / args.output_dir
 
-    # Validate episode path
     if not episode_path.exists():
-        print(f"Error: Episode path not found: {episode_path}")
+        print(f"❌ Error: Episode path not found: {episode_path}")
         sys.exit(1)
 
-    # Create output directory
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Extract episode information
-    print(f"\n📚 Processing episode: {episode_path.name}")
+    # Extract episode info
     episode_info = extract_episode_info(episode_path)
+
+    print(f"\n📚 Processing: {episode_info['episode_slug']}")
     print(f"   {episode_info['full_title']}\n")
 
-    # Read chapter files
+    # Read chapters
     chapters = read_chapter_files(episode_path)
+
     if not chapters:
         sys.exit(1)
 
-    print(f"Found {len(chapters)} chapters")
+    print(f"✓ Found {len(chapters)} chapters\n")
 
-    # Combine chapters
-    combined_markdown = combine_chapters(chapters, episode_info)
+    # Get image map
+    image_map = get_image_map(repo_root) if args.with_images else {}
 
-    # Create episode-specific subdirectory
-    episode_output_dir = output_dir / episode_path.name
-    episode_output_dir.mkdir(parents=True, exist_ok=True)
+    # Combine chapters with images
+    markdown_content = combine_chapters(chapters, episode_info, args.with_images, repo_root)
 
-    # Determine output filename base
-    safe_name = episode_path.name
-    output_base = episode_output_dir / safe_name
+    # Set up output directory
+    output_dir = repo_root / args.output_dir / episode_info['episode_slug']
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Parse requested formats
-    formats = [f.strip().lower() for f in args.formats.split(",")]
+    # Generate requested formats
+    formats = [f.strip().lower() for f in args.formats.split(',')]
+    generated_files = []
 
-    # Generate Markdown (combined file)
-    if "md" in formats:
-        md_path = output_base.with_suffix(".md")
-        generate_markdown(combined_markdown, episode_info, md_path)
+    for fmt in formats:
+        output_file = output_dir / f"{episode_info['episode_slug']}.{fmt}"
 
-    # Generate HTML first (needed for PDF)
-    html_path = output_base.with_suffix(".html")
-    if "html" in formats:
-        generate_html(combined_markdown, episode_info, html_path)
-    elif "pdf" in formats:
-        # Still generate HTML for PDF conversion
-        generate_html(combined_markdown, episode_info, html_path)
+        if fmt == 'html':
+            if generate_html(markdown_content, episode_info, output_file):
+                print(f"✅ Generated HTML: {output_file}")
+                generated_files.append(output_file)
 
-    # Generate PDF
-    if "pdf" in formats:
-        pdf_path = output_base.with_suffix(".pdf")
-        generate_pdf(html_path, pdf_path)
+        elif fmt == 'docx' or fmt == 'doc':
+            if DOCX_AVAILABLE:
+                if generate_docx(markdown_content, episode_info, output_file.with_suffix('.docx'), image_map):
+                    print(f"✅ Generated DOCX: {output_file.with_suffix('.docx')}")
+                    generated_files.append(output_file.with_suffix('.docx'))
+            else:
+                print(f"⚠️  Skipping DOCX: python-docx not installed")
+                print(f"   Install with: uv pip install python-docx")
 
-    # Generate EPUB
-    if "epub" in formats:
-        epub_path = output_base.with_suffix(".epub")
-        generate_epub(combined_markdown, episode_info, epub_path)
+        elif fmt == 'epub':
+            if EPUB_AVAILABLE:
+                if generate_epub(markdown_content, episode_info, output_file):
+                    print(f"✅ Generated EPUB: {output_file}")
+                    generated_files.append(output_file)
+            else:
+                print(f"⚠️  Skipping EPUB: ebooklib not installed")
+                print(f"   Install with: uv pip install ebooklib")
 
-    # Clean up temporary HTML if not requested
-    if "html" not in formats and "pdf" not in formats and html_path.exists():
-        html_path.unlink()
+        elif fmt == 'pdf':
+            # Generate HTML first if not already done
+            html_file = output_dir / f"{episode_info['episode_slug']}.html"
+            if not html_file.exists():
+                generate_html(markdown_content, episode_info, html_file)
 
-    print(f"\n✅ Done! Output files in: {episode_output_dir}/")
+            if PDF_AVAILABLE:
+                if generate_pdf(html_file, output_file):
+                    print(f"✅ Generated PDF: {output_file}")
+                    generated_files.append(output_file)
+            else:
+                print(f"⚠️  Skipping PDF: WeasyPrint not available")
+
+        else:
+            print(f"⚠️  Unknown format: {fmt}")
+
+    print(f"\n✨ Done! Generated {len(generated_files)} files")
+    print(f"📁 Output directory: {output_dir}\n")
 
 
 if __name__ == "__main__":

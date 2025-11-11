@@ -12,47 +12,34 @@ uv sync
 ```
 
 This will install:
-- `markdown` - Markdown to HTML conversion
-- `weasyprint` - PDF generation from HTML
+- `markdown2` - Markdown to HTML conversion
+- `python-docx` - DOCX generation with images
+- `weasyprint` - PDF generation from HTML (optional)
 - `ebooklib` - EPUB generation
 
 ## Usage
 
-### Generate Episode Files (Recommended: Use Wrapper Script)
+### Generate Episode Files
 
-The easiest way to generate episodes is using the wrapper script which handles PDF library paths:
+Generate combined episode files in multiple formats with inline images:
 
 ```bash
-# Generate all formats (MD, PDF, HTML, EPUB) - RECOMMENDED
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
+# Generate default formats (HTML, EPUB, DOCX) with images
+uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
 
 # Generate specific formats only
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats md,html
+uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats html,docx
 
-# Generate markdown only (combined single file)
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats md
-
-# Specify custom output directory
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --output-dir my-output
-```
-
-### Alternative: Direct Python Script
-
-You can also call the Python script directly (requires setting library paths manually):
-
-```bash
-# macOS: Set library path for PDF generation
-export DYLD_LIBRARY_PATH=$(brew --prefix)/lib:$DYLD_LIBRARY_PATH
-
-# Then run the script
-uv run python scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
+# Generate all formats including PDF
+uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice --formats html,epub,docx,pdf
 ```
 
 ### Command Options
 
 - `episode_path` (required): Path to episode directory containing `draft/` folder with chapter markdown files
-- `--formats`: Comma-separated list of formats to generate (options: `md`, `pdf`, `html`, `epub`). Default: all formats
+- `--formats`: Comma-separated list of formats to generate (options: `html`, `epub`, `docx`, `pdf`). Default: `html,epub,docx`
 - `--output-dir`: Output directory path relative to repo root. Default: `output`
+- `--with-images`: Include inline images in output (default: True)
 
 ## Episode Structure
 
@@ -87,51 +74,42 @@ Generated files are placed in the `output/` directory (or custom directory if sp
 ```
 output/
 └── episode-01-returning-to-center-ice/           # Episode-specific subfolder
-    ├── episode-01-returning-to-center-ice.md    # Combined markdown (94 KB)
-    ├── episode-01-returning-to-center-ice.html  # Styled HTML (103 KB)
-    ├── episode-01-returning-to-center-ice.pdf   # Print-ready PDF (230 KB)
-    └── episode-01-returning-to-center-ice.epub  # E-reader format (51 KB)
+    ├── episode-01-returning-to-center-ice.html  # Styled HTML with images (119 KB)
+    ├── episode-01-returning-to-center-ice.docx  # Word document with images (3.2 MB)
+    ├── episode-01-returning-to-center-ice.epub  # E-reader format (64 KB)
+    └── episode-01-returning-to-center-ice.pdf   # Print-ready PDF (optional)
 ```
 
 ## Examples
 
-### Generate Episode 1 (all formats)
+### Generate Episode 1 (default formats)
 ```bash
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
+uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-returning-to-center-ice
 ```
 
 Output:
 ```
-📚 Processing episode: episode-01-returning-to-center-ice
+📚 Processing: episode-01-returning-to-center-ice
    Hockey Shuttle - Season 1, Episode 1: Returning To Center Ice
 
-Found 4 chapters
-✓ Generated Markdown: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.md
-✓ Generated HTML: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.html
-✓ Generated PDF: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.pdf
-✓ Generated EPUB: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.epub
+✓ Found 4 chapters
 
-✅ Done! Output files in: output/episode-01-returning-to-center-ice/
+✅ Generated HTML: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.html
+✅ Generated DOCX: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.docx
+✅ Generated EPUB: output/episode-01-returning-to-center-ice/episode-01-returning-to-center-ice.epub
+
+✨ Done! Generated 3 files
+📁 Output directory: output/episode-01-returning-to-center-ice/
 ```
 
-### Generate Markdown only (combined single file)
+### Generate HTML and DOCX only
 ```bash
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-02-new-lines --formats md
+uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-02-new-lines --formats html,docx
 ```
 
-### Generate PDF only
+### Generate all formats including PDF
 ```bash
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-02-new-lines --formats pdf
-```
-
-### Generate HTML and EPUB
-```bash
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-03-defensive-zone --formats html,epub
-```
-
-### Generate Markdown and HTML (no EPUB/PDF)
-```bash
-./scripts/generate-episode.sh series/hockey-shuttle/season-01/episode-04-matchup --formats md,html
+uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-03-defensive-zone --formats html,epub,docx,pdf
 ```
 
 ## Troubleshooting
