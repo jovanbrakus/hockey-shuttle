@@ -1,7 +1,7 @@
-# Book Title Analysis: Hockey Shuttle Series
+# Book Title Analysis: The Boy Who Knew Me First Series
 
 **Analysis Date:** November 15, 2025
-**Current Title:** Hockey Shuttle
+**Current Title:** The Boy Who Knew Me First
 **Genre:** YA Contemporary Romance (Episodic Series)
 **Target Audience:** YA readers (ages 14-18+) who love slow burn romance, sports stories, and forbidden love
 
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-After comprehensive analysis, the current title "Hockey Shuttle" scores **5/10**. While intellectually clever (referencing both hockey and badminton shuttlecock), it fails to communicate the romance genre, create emotional intrigue, or appeal to the target YA romance audience.
+After comprehensive analysis, the current title "The Boy Who Knew Me First" scores **5/10**. While intellectually clever (referencing both hockey and badminton shuttlecock), it fails to communicate the romance genre, create emotional intrigue, or appeal to the target YA romance audience.
 
 Through three rounds of title generation with the episode-writer specialist agent, **30 alternative titles** were created and evaluated. **All 30 titles scored higher than the current title**, with scores ranging from 6/10 to 9/10.
 
@@ -22,7 +22,7 @@ Through three rounds of title generation with the episode-writer specialist agen
 
 ## Current Title Analysis
 
-### Hockey Shuttle (Current) - Score: 5/10
+### The Boy Who Knew Me First (Current) - Score: 5/10
 
 **Concept:**
 A play on words referencing Ethan's hockey career and Sophia's badminton sport (shuttlecock).
@@ -42,7 +42,7 @@ A play on words referencing Ethan's hockey career and Sophia's badminton sport (
 - **Market positioning:** Could be mistaken for sports non-fiction or middle-grade adventure
 
 **Target Market Analysis:**
-YA romance readers seek titles that promise emotional experiences: longing, tension, forbidden attraction, second chances, transformation. "Hockey Shuttle" promises none of these. The title works intellectually but fails emotionally—the opposite of what successful YA romance requires.
+YA romance readers seek titles that promise emotional experiences: longing, tension, forbidden attraction, second chances, transformation. "The Boy Who Knew Me First" promises none of these. The title works intellectually but fails emotionally—the opposite of what successful YA romance requires.
 
 **Verdict:** 5/10
 Clever concept, poor market execution for the genre and audience.
@@ -461,12 +461,12 @@ For positioning as a high-tension, high-stakes romance where every choice matter
 ---
 
 ### Option 4: Keep Current, Add Subtitle
-**"Hockey Shuttle: [Strong subtitle]"**
+**"The Boy Who Knew Me First: [Strong subtitle]"**
 
-If keeping "Hockey Shuttle" for brand reasons, pair it with an emotionally resonant subtitle:
-- "Hockey Shuttle: The Boy Who Knew Me First"
-- "Hockey Shuttle: The Ice Between Us"
-- "Hockey Shuttle: Match Point"
+If keeping "The Boy Who Knew Me First" for brand reasons, pair it with an emotionally resonant subtitle:
+- "The Boy Who Knew Me First: The Boy Who Knew Me First"
+- "The Boy Who Knew Me First: The Ice Between Us"
+- "The Boy Who Knew Me First: Match Point"
 
 This preserves the sports dual-reference while adding the emotional hook missing from the main title.
 
@@ -482,8 +482,8 @@ This preserves the sports dual-reference while adding the emotional hook missing
 4. **Swoon factor** - Does it promise intimate, romantic moments?
 5. **Relatability** - Can I imagine myself in this story?
 
-**"Hockey Shuttle" delivers:** Sports specificity
-**"Hockey Shuttle" missing:** Everything else on this list
+**"The Boy Who Knew Me First" delivers:** Sports specificity
+**"The Boy Who Knew Me First" missing:** Everything else on this list
 
 **Top recommended titles deliver:** All five elements
 
@@ -501,7 +501,7 @@ This preserves the sports dual-reference while adding the emotional hook missing
 
 ## Conclusion
 
-While "Hockey Shuttle" demonstrates clever wordplay, it fundamentally misaligns with YA romance market expectations. The title works as an intellectual puzzle but fails as an emotional promise—exactly backward for the genre.
+While "The Boy Who Knew Me First" demonstrates clever wordplay, it fundamentally misaligns with YA romance market expectations. The title works as an intellectual puzzle but fails as an emotional promise—exactly backward for the genre.
 
 All 30 generated alternatives better serve the story's actual content (slow burn reunion romance with forbidden love and emancipation themes) and better signal to target readers what kind of emotional experience awaits them.
 
@@ -509,7 +509,7 @@ All 30 generated alternatives better serve the story's actual content (slow burn
 
 **Conservative recommendation:** Retitle to **"The Ice Between Us"** for series branding with episode structure.
 
-**Compromise recommendation:** Keep "Hockey Shuttle" but add strong subtitle to provide missing emotional context.
+**Compromise recommendation:** Keep "The Boy Who Knew Me First" but add strong subtitle to provide missing emotional context.
 
 The current title may be personally meaningful to the creator, but successful YA romance requires titles that speak first to readers' hearts, not their heads. Every one of these 30 alternatives moves in that direction.
 

@@ -1,4 +1,4 @@
-# Hockey Shuttle - Reddit Promotional Visuals
+# The Boy Who Knew Me First - Reddit Promotional Visuals
 
 ## Overview
 Reddit promotional images for r/YAlit, r/RomanceBooks, r/WattpadBooks, and related communities need to:
@@ -25,7 +25,7 @@ First introduction to the series, generate curiosity
 
 ### MidJourney Prompt
 ```
-Professional book announcement graphic, main book cover prominently displayed center frame, Hockey Shuttle title visible, subtle Winnipeg winter background softly blurred, stack of papers or notebook suggesting episodic format, warm desk lamp lighting creating cozy reader atmosphere, teal and gold color scheme, includes text space for "New on Wattpad" or similar, professional book marketing aesthetic, inviting and approachable, contemporary YA vibe --ar 4:3 --v 6
+Professional book announcement graphic, main book cover prominently displayed center frame, The Boy Who Knew Me First title visible, subtle Winnipeg winter background softly blurred, stack of papers or notebook suggesting episodic format, warm desk lamp lighting creating cozy reader atmosphere, teal and gold color scheme, includes text space for "New on Wattpad" or similar, professional book marketing aesthetic, inviting and approachable, contemporary YA vibe --ar 4:3 --v 6
 ```
 
 ### Stable Diffusion Prompt
@@ -40,7 +40,7 @@ Negative prompt: cluttered, too many books, dark, messy, cartoon, low quality, o
 [Top or bottom third - clean sans-serif font]
 
 NEW EPISODIC YA SERIES
-"Hockey Shuttle" - Season 1 Now on Wattpad
+"The Boy Who Knew Me First" - Season 1 Now on Wattpad
 
 Slow-burn romance • Sports fiction • Canadian winter
 He's a hockey star hiding who he really wants to be.
@@ -153,7 +153,7 @@ Neither of us moved apart.
 - White or gold text
 - Clean serif or elegant sans-serif
 - Drop shadow for readability
-- Author credit: "— Hockey Shuttle, Season 1"
+- Author credit: "— The Boy Who Knew Me First, Season 1"
 - Small "Now on Wattpad" at bottom
 
 ### Reddit Post Title Ideas
@@ -170,12 +170,12 @@ Clearly communicate genre, tropes, and appeal factors
 
 ### MidJourney Prompt
 ```
-Clean minimalist infographic design, winter sports aesthetic background subtle, list-style layout with icons, "Hockey Shuttle - What to Expect" header, bullet points with small visual icons (hockey puck, badminton shuttlecock, book, heart, snowflake, etc), professional graphic design, teal navy and gold color scheme, modern YA marketing style, readable and shareable, Instagram-friendly square format --ar 1:1 --v 6 --style raw --stylize 300
+Clean minimalist infographic design, winter sports aesthetic background subtle, list-style layout with icons, "The Boy Who Knew Me First - What to Expect" header, bullet points with small visual icons (hockey puck, badminton shuttlecock, book, heart, snowflake, etc), professional graphic design, teal navy and gold color scheme, modern YA marketing style, readable and shareable, Instagram-friendly square format --ar 1:1 --v 6 --style raw --stylize 300
 ```
 
 ### Content Template
 ```
-HOCKEY SHUTTLE - SEASON 1
+THE BOY WHO KNEW ME FIRST - SEASON 1
 What You're Getting Into:
 
 ⛸️ Sports-Focused (authentic hockey & badminton)
@@ -216,7 +216,7 @@ SET IN WINNIPEG, MANITOBA
 
 Real locations. Real winter. Real hockey culture.
 
-"Hockey Shuttle" - YA Romance Series
+"The Boy Who Knew Me First" - YA Romance Series
 Now on Wattpad
 ```
 
@@ -246,7 +246,7 @@ Professional book launch graphic, bold modern design, "NOW AVAILABLE" text promi
 [Large Bold Text]
 NOW AVAILABLE ON WATTPAD
 
-HOCKEY SHUTTLE - SEASON 1
+THE BOY WHO KNEW ME FIRST - SEASON 1
 10 Episodes • Complete Season • Free to Read
 
 The reunion. The slow burn. The choice.
@@ -306,7 +306,7 @@ WHAT READERS ARE SAYING
 "[Actual reader quote from Wattpad comments]"
 — Wattpad Reader
 
-HOCKEY SHUTTLE - Season 1
+THE BOY WHO KNEW ME FIRST - Season 1
 [Current read count] • [Current vote count]
 Free on Wattpad: [link]
 ```
@@ -326,12 +326,12 @@ Quick visual appeal to trope readers (huge on Reddit romance communities)
 
 ### MidJourney Prompt
 ```
-Checklist graphic design, winter aesthetic background, list of romance tropes with checkmarks, "Check Your Tropes" header, Hockey Shuttle branding, clean modern design, teal gold and white color scheme, readable typography, shareable square format, professional marketing graphic --ar 1:1 --v 6 --style raw
+Checklist graphic design, winter aesthetic background, list of romance tropes with checkmarks, "Check Your Tropes" header, The Boy Who Knew Me First branding, clean modern design, teal gold and white color scheme, readable typography, shareable square format, professional marketing graphic --ar 1:1 --v 6 --style raw
 ```
 
 ### Content Template
 ```
-HOCKEY SHUTTLE - Trope Check
+THE BOY WHO KNEW ME FIRST - Trope Check
 
 ✅ Childhood Friends Reunion
 ✅ Slow Burn (the SLOW kind)
@@ -368,7 +368,7 @@ Maintain momentum, celebrate release schedule
 [Episode number] NOW LIVE
 
 "[Episode Title]"
-Hockey Shuttle - Season 1
+The Boy Who Knew Me First - Season 1
 
 [Brief teaser: "Sophia makes a choice that changes everything"]
 
@@ -465,7 +465,7 @@ Read now on Wattpad: [link]
 ### Winter Season (Nov-Feb)
 - "Winter romance recommendations?"
 - "Coziest winter reads?"
-- Post Hockey Shuttle content during these discussions
+- Post The Boy Who Knew Me First content during these discussions
 
 ### Hockey Season
 - r/hockey or r/hockeyplayers for authentic representation angle
@@ -479,7 +479,7 @@ Read now on Wattpad: [link]
 - Many subs do monthly themed reading
 - "Sports romance" month
 - "Canadian authors" theme
-- Position Hockey Shuttle for relevant challenges
+- Position The Boy Who Knew Me First for relevant challenges
 
 ---
 

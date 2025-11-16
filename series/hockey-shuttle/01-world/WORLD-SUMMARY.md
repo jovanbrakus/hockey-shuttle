@@ -1,4 +1,4 @@
-# Hockey Shuttle - World Building Summary
+# The Boy Who Knew Me First - World Building Summary
 
 ## Overview
 A vivid, authentic world spanning two Canadian cities across seven years, grounding a YA romance in the specific realities of hockey culture, class differences, and Winnipeg winters.

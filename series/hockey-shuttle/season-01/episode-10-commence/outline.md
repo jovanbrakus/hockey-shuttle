@@ -1419,7 +1419,7 @@ Coming Soon"
 ---
 
 **END OF EPISODE 10: "COMMENCE"**
-**END OF SEASON 1: "HOCKEY SHUTTLE"**
+**END OF SEASON 1: "THE BOY WHO KNEW ME FIRST"**
 
 Season 1 Theme: **"Fighting for the right to choose"**
 Season 2 Theme: **"Living with the choices you made"**

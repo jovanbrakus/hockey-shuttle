@@ -1,5 +1,5 @@
 #!/bin/bash
-# Generate all Hockey Shuttle Season 1 episodes in all formats
+# Generate all The Boy Who Knew Me First Season 1 episodes in all formats
 
 EPISODES=(
     "series/hockey-shuttle/season-01/episode-01-returning-to-center-ice"
@@ -15,7 +15,7 @@ EPISODES=(
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-echo "🏒 Hockey Shuttle - Season 1 Episode Generation"
+echo "🏒 The Boy Who Knew Me First - Season 1 Episode Generation"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo ""
 

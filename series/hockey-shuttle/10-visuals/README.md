@@ -1,10 +1,10 @@
-# Hockey Shuttle - Visual Assets & AI Prompt Library
+# The Boy Who Knew Me First - Visual Assets & AI Prompt Library
 
 ## Overview
-This directory contains comprehensive AI art generation prompts for creating all visual assets for the Hockey Shuttle YA episodic series Season 1. All prompts are optimized for MidJourney, Stable Diffusion, and similar AI art tools.
+This directory contains comprehensive AI art generation prompts for creating all visual assets for the The Boy Who Knew Me First YA episodic series Season 1. All prompts are optimized for MidJourney, Stable Diffusion, and similar AI art tools.
 
 **Last Updated**: 2025-11-05
-**Series**: Hockey Shuttle - Season 1
+**Series**: The Boy Who Knew Me First - Season 1
 **Genre**: YA Contemporary Romance, Sports Fiction
 **Setting**: Winnipeg, Canada - Modern Day
 
@@ -440,7 +440,7 @@ Each includes:
 
 ## Quick Start Checklist
 
-Getting started with Hockey Shuttle visuals:
+Getting started with The Boy Who Knew Me First visuals:
 
 - [ ] Read through series summary and character docs
 - [ ] Review color palette and visual themes
@@ -545,4 +545,4 @@ Let the story lead. Let the visuals follow.
 
 *Generated visuals to date: 0 (prompts ready, generation phase next)*
 *Target visual count for Season 1 launch: ~50 core assets*
-*Ready to bring Hockey Shuttle to visual life.*
+*Ready to bring The Boy Who Knew Me First to visual life.*

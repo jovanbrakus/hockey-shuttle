@@ -1,5 +1,5 @@
 # CONTINUITY REVIEW REPORT: Episode 2 "New Lines"
-## Hockey Shuttle Series - Season 1, Episode 2
+## The Boy Who Knew Me First Series - Season 1, Episode 2
 
 **Review Date:** November 4, 2025  
 **Reviewer:** Continuity Tracker  

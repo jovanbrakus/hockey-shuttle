@@ -1,4 +1,4 @@
-# Hockey Shuttle - Episode Header Images
+# The Boy Who Knew Me First - Episode Header Images
 
 ## Overview
 Episode headers appear at the top of each episode on Wattpad. They should:

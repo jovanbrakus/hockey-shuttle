@@ -1,4 +1,4 @@
-# Hockey Shuttle - Main Series Cover Prompts
+# The Boy Who Knew Me First - Main Series Cover Prompts
 
 ## Overview
 The main series cover needs to work at both thumbnail and full size on Wattpad. It should instantly communicate: YA romance, sports fiction, winter atmosphere, slow-burn tension, and dual worlds colliding (hockey + badminton).
@@ -164,7 +164,7 @@ Negative prompt: explicit, kissing, cartoon, anime, unrealistic, oversaturated, 
 - **Option 4**: Integrated with ice/court lines
 
 ### Font Style Suggestions
-- Bold sans-serif for "HOCKEY SHUTTLE"
+- Bold sans-serif for "THE BOY WHO KNEW ME FIRST"
 - Clean, modern, confident
 - Avoid overly decorative or script fonts
 - Consider hockey jersey lettering influence

@@ -1,6 +1,6 @@
 # Episode 2: "New Lines" - Outline
 
-## Hockey Shuttle - Season 1, Episode 2
+## The Boy Who Knew Me First - Season 1, Episode 2
 
 ---
 

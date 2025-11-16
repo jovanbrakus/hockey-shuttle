@@ -1,4 +1,4 @@
-# Season 1: Hockey Shuttle - Complete Episode Guide
+# Season 1: The Boy Who Knew Me First - Complete Episode Guide
 
 ## Overview
 10 episodes × 80 pages = 800 pages of slow-burn romance

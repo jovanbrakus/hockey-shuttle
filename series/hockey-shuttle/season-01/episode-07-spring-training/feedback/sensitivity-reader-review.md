@@ -1,6 +1,6 @@
 # SENSITIVITY READER REVIEW
 ## Episode 7: "Spring Training"
-**Hockey Shuttle Series, Season 1**
+**The Boy Who Knew Me First Series, Season 1**
 
 ---
 

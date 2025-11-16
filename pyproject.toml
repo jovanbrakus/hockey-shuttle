@@ -1,7 +1,7 @@
 [project]
 name = "book-series"
 version = "0.1.0"
-description = "System for development of Hockey Shuttle book series"
+description = "System for development of The Boy Who Knew Me First book series"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

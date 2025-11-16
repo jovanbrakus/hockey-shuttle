@@ -1,7 +1,7 @@
-# Hockey Shuttle - Instagram Marketing Visuals
+# The Boy Who Knew Me First - Instagram Marketing Visuals
 
 ## Overview
-Instagram content for promoting Hockey Shuttle should balance aesthetic appeal, authenticity, and strategic book marketing. Content types include:
+Instagram content for promoting The Boy Who Knew Me First should balance aesthetic appeal, authenticity, and strategic book marketing. Content types include:
 - Grid posts (permanent feed)
 - Stories (24-hour, more casual)
 - Reels (short video format - prompts for static images that suggest motion)
@@ -23,7 +23,7 @@ Introduce series officially, anchor feed aesthetic
 
 ### MidJourney Prompt
 ```
-Professional book cover photo composition for Instagram, Hockey Shuttle book cover centered on aesthetic background, soft Winnipeg winter scene or ice texture backdrop, professional flat lay photography, warm and cold color balance, cozy reading aesthetic, props: warm drink, winter blanket or scarf, maybe badminton shuttlecock and hockey puck artfully arranged, natural lighting, bookstagram style, teal and gold palette, inviting composition --ar 4:5 --v 6
+Professional book cover photo composition for Instagram, The Boy Who Knew Me First book cover centered on aesthetic background, soft Winnipeg winter scene or ice texture backdrop, professional flat lay photography, warm and cold color balance, cozy reading aesthetic, props: warm drink, winter blanket or scarf, maybe badminton shuttlecock and hockey puck artfully arranged, natural lighting, bookstagram style, teal and gold palette, inviting composition --ar 4:5 --v 6
 ```
 
 ### Stable Diffusion Prompt
@@ -37,7 +37,7 @@ Negative prompt: cluttered, messy, dark, too many items, cartoon, low quality, a
 ```
 The reunion I didn't see coming. The slow burn I can't stop writing. ⛸️🏸
 
-HOCKEY SHUTTLE - Season 1 is now LIVE on Wattpad!
+THE BOY WHO KNEW ME FIRST - Season 1 is now LIVE on Wattpad!
 
 He's the hockey captain everyone sees.
 She's the girl who knew him before he became someone else.
@@ -154,7 +154,7 @@ I'd never heard before.
 Everyone knew Ethan Price.
 I used to know Ethan.
 
-— Hockey Shuttle, Episode 1
+— The Boy Who Knew Me First, Episode 1
 ```
 
 **Quote 2: The Tension**
@@ -170,7 +170,7 @@ on the pencil.
 I forgot what
 we were solving.
 
-— Hockey Shuttle
+— The Boy Who Knew Me First
 ```
 
 **Quote 3: His POV**
@@ -214,7 +214,7 @@ I reminded him.
 Neither of us
 moved apart.
 
-— Hockey Shuttle
+— The Boy Who Knew Me First
 ```
 
 ### Caption Strategy
@@ -301,12 +301,12 @@ Quiz: "Which character are you?"
 
 ---
 
-## CAROUSEL POST 1: "10 Things About Hockey Shuttle"
+## CAROUSEL POST 1: "10 Things About The Boy Who Knew Me First"
 
 ### Slide 1 (Cover)
 ```
 Bold graphic with series title
-"10 THINGS ABOUT HOCKEY SHUTTLE"
+"10 THINGS ABOUT THE BOY WHO KNEW ME FIRST"
 Eye-catching design
 ```
 
@@ -330,7 +330,7 @@ Clean design, each slide one fact:
 
 ### Caption
 ```
-Wondering if HOCKEY SHUTTLE is for you? Here's what you need to know! ⛸️🏸
+Wondering if THE BOY WHO KNEW ME FIRST is for you? Here's what you need to know! ⛸️🏸
 
 Swipe through for the full breakdown, then tell me:
 What sold you? Or what made you hesitate?
@@ -345,7 +345,7 @@ What sold you? Or what made you hesitate?
 ### Slide 1: Cover
 ```
 "MEET THE CAST"
-Hockey Shuttle
+The Boy Who Knew Me First
 Character introduction carousel
 ```
 
@@ -364,7 +364,7 @@ Each character gets aesthetic slide:
 
 ### Caption
 ```
-The thing about Hockey Shuttle? Every character has layers.
+The thing about The Boy Who Knew Me First? Every character has layers.
 
 No villains. No stereotypes.
 Just complicated people making complicated choices.
@@ -400,7 +400,7 @@ Each: professional photography, teal and gold palette, emotional progression, si
 
 ---
 
-## REEL CONCEPT 2: "POV: You're reading Hockey Shuttle"
+## REEL CONCEPT 2: "POV: You're reading The Boy Who Knew Me First"
 
 ### Image Sequence Prompt
 ```
@@ -451,7 +451,7 @@ Professional testimonial graphic for Instagram, soft winter background blurred, 
 ⭐⭐⭐⭐⭐
 — @[wattpad username]
 
-HOCKEY SHUTTLE - Season 1
+THE BOY WHO KNEW ME FIRST - Season 1
 [Read count] • [Vote count]
 Free on Wattpad
 
@@ -464,12 +464,12 @@ Free on Wattpad
 
 ### Design Prompt
 ```
-Trope checklist graphic Instagram square, winter aesthetic background, list format with check marks, "Check Your Tropes" bold header, Hockey Shuttle branding, modern clean design, teal gold white color scheme, readable typography, bookstagram style --ar 1:1 --v 6
+Trope checklist graphic Instagram square, winter aesthetic background, list format with check marks, "Check Your Tropes" bold header, The Boy Who Knew Me First branding, modern clean design, teal gold white color scheme, readable typography, bookstagram style --ar 1:1 --v 6
 ```
 
 ### Content
 ```
-HOCKEY SHUTTLE
+THE BOY WHO KNEW ME FIRST
 Trope Check ✓
 
 ✓ Childhood Friends Reunion

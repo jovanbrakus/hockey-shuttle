@@ -1,10 +1,10 @@
-# Hockey Shuttle - Website Functional Specification
+# The Boy Who Knew Me First - Website Functional Specification
 
 ## Project Overview
 
-**Project Name:** Hockey Shuttle Fan Landing Page
+**Project Name:** The Boy Who Knew Me First Fan Landing Page
 **Type:** Static Website
-**Purpose:** Provide an immersive entry point into the Hockey Shuttle book series universe for fans and new readers
+**Purpose:** Provide an immersive entry point into the The Boy Who Knew Me First book series universe for fans and new readers
 **Target Audience:** Young Adult readers (ages 13-18), sports romance enthusiasts, fans of episodic series
 **Version:** 1.0
 **Date:** November 2025
@@ -13,14 +13,14 @@
 
 ## 1. Executive Summary
 
-The Hockey Shuttle website is a comprehensive digital experience designed to immerse fans in the world of this YA sports romance series. The site will feature rich visual storytelling, character profiles, episode guides, online reading capabilities, and strategic affiliate marketing through book recommendations. The website prioritizes user experience, visual appeal, and conversion through Amazon affiliate links.
+The The Boy Who Knew Me First website is a comprehensive digital experience designed to immerse fans in the world of this YA sports romance series. The site will feature rich visual storytelling, character profiles, episode guides, online reading capabilities, and strategic affiliate marketing through book recommendations. The website prioritizes user experience, visual appeal, and conversion through Amazon affiliate links.
 
 ---
 
 ## 2. Core Objectives
 
 ### Primary Goals
-1. **Immerse readers** in the Hockey Shuttle universe through high-quality photography and design
+1. **Immerse readers** in the The Boy Who Knew Me First universe through high-quality photography and design
 2. **Provide multiple reading options** (online HTML, downloadable PDF/ePub)
 3. **Generate revenue** through Amazon affiliate book recommendations
 4. **Build community** by serving as a central hub for series fans
@@ -114,7 +114,7 @@ HOME (Landing Page)
 ### 4.1 HOME PAGE (Landing)
 
 #### Purpose
-Create an immediate emotional connection and immerse visitors in the Hockey Shuttle world.
+Create an immediate emotional connection and immerse visitors in the The Boy Who Knew Me First world.
 
 #### Visual Design
 
@@ -129,7 +129,7 @@ Create an immediate emotional connection and immerse visitors in the Hockey Shut
 **Overlaid UI Elements:**
 - **Top Corner:** Hamburger menu icon + "Menu" text (fixed position, high z-index)
 - **Center Hero Section:**
-  - Book title: "Hockey Shuttle" in bold, dramatic typography
+  - Book title: "The Boy Who Knew Me First" in bold, dramatic typography
   - Tagline: "Where ice meets court, and hearts collide"
   - Brief hook text (2-3 sentences)
   - CTA Button: "Start Reading Episode 1" (prominent, with contrast)
@@ -386,7 +386,7 @@ Deep character exploration to build emotional investment and understanding.
 ### 4.4 WORLD PAGES
 
 #### Purpose
-Immerse readers in the Hockey Shuttle universe through rich location profiles.
+Immerse readers in the The Boy Who Knew Me First universe through rich location profiles.
 
 **Full-Screen Background Visual (Location-Specific):**
 - **Each location page features its own full-screen background drawing/image** generated using Gemini AI
@@ -461,7 +461,7 @@ Generate affiliate revenue while providing value to readers seeking similar cont
 
 **Overlaid Hero Section:**
 - **Top Corner:** Hamburger menu icon + "Menu" text
-- Heading: "If You Love Hockey Shuttle..." (in semi-transparent card)
+- Heading: "If You Love The Boy Who Knew Me First..." (in semi-transparent card)
 - Subheading: "You'll love these books too"
 - Brief intro about why these books are recommended
 
@@ -493,7 +493,7 @@ Organize by categories:
 - Book cover image (high quality)
 - Title and author
 - 2-3 sentence description
-- Why Hockey Shuttle fans will love it
+- Why The Boy Who Knew Me First fans will love it
 - Rating/accolades (if notable)
 - "View on Amazon" button (affiliate link)
 - Price display (if possible via Amazon API)
@@ -622,7 +622,7 @@ Persistent monetization opportunity across all pages except homepage.
 
 5. **Suggested Books** (100-150 words each × 30-40 books)
    - Book description
-   - Why Hockey Shuttle fans will enjoy
+   - Why The Boy Who Knew Me First fans will enjoy
    - Comparison points
 
 6. **About/Author Content** (300-500 words)
@@ -916,7 +916,7 @@ Persistent monetization opportunity across all pages except homepage.
 2. Clicks on intriguing recommendation
 3. Views Amazon page (affiliate link)
 4. Potentially purchases
-5. Returns to continue reading Hockey Shuttle
+5. Returns to continue reading The Boy Who Knew Me First
 
 ---
 
@@ -1027,7 +1027,7 @@ Persistent monetization opportunity across all pages except homepage.
 - **Email Newsletter:** Episode release notifications, book recommendations
 - **Author Blog:** Behind-the-scenes content, writing process
 - **Interactive Map:** Clickable Winnipeg map with story locations
-- **Character Quizzes:** "Which Hockey Shuttle character are you?"
+- **Character Quizzes:** "Which The Boy Who Knew Me First character are you?"
 - **Fan Art Gallery:** Showcase reader-submitted artwork
 - **Audio Versions:** Episodic audiobook integration
 - **Merchandise Store:** T-shirts, bookmarks, posters (via print-on-demand)
@@ -1205,7 +1205,7 @@ Persistent monetization opportunity across all pages except homepage.
    - Limitation of liability
 
 4. **Copyright Notice**
-   - All content © [Year] Hockey Shuttle
+   - All content © [Year] The Boy Who Knew Me First
    - Rights reserved statement
 
 5. **Cookie Consent** (if EU traffic expected)
@@ -1217,7 +1217,7 @@ Persistent monetization opportunity across all pages except homepage.
 
 ## 15. Conclusion
 
-The Hockey Shuttle website will serve as a comprehensive digital hub for fans, combining immersive visual storytelling, accessible reading options, and strategic monetization through affiliate marketing. By prioritizing user experience, mobile performance, and SEO best practices, the site is positioned to grow organically while generating passive revenue through thoughtfully curated book recommendations.
+The The Boy Who Knew Me First website will serve as a comprehensive digital hub for fans, combining immersive visual storytelling, accessible reading options, and strategic monetization through affiliate marketing. By prioritizing user experience, mobile performance, and SEO best practices, the site is positioned to grow organically while generating passive revenue through thoughtfully curated book recommendations.
 
 The modular, static site architecture ensures low maintenance costs, fast performance, and easy scalability as the series grows. With clear success metrics and a phased development approach, the website can launch efficiently and iterate based on real user data.
 
@@ -1264,7 +1264,7 @@ The modular, static site architecture ensures low maintenance costs, fast perfor
 4. **BookBub** - Book recommendation layout
 5. **Goodreads** - Character/book organization
 
-**Differentiators for Hockey Shuttle:**
+**Differentiators for The Boy Who Knew Me First:**
 - Higher quality photography (immersive environment)
 - Cleaner, more modern design
 - Multiple download formats (PDF + ePub)
@@ -1296,7 +1296,7 @@ The modular, static site architecture ensures low maintenance costs, fast perfor
 
 ## 16. Google Stitch - AI Designer Page Prompts
 
-This section provides detailed prompts for **Google Stitch - AI Designer** to generate each page of the Hockey Shuttle website. Google Stitch is Google's experimental AI-powered tool that converts text prompts into full UI designs with exportable code (HTML, Tailwind CSS, JSX, or Figma). Each prompt below describes the full visual layout including the full-screen background visual and overlaid UI elements.
+This section provides detailed prompts for **Google Stitch - AI Designer** to generate each page of the The Boy Who Knew Me First website. Google Stitch is Google's experimental AI-powered tool that converts text prompts into full UI designs with exportable code (HTML, Tailwind CSS, JSX, or Figma). Each prompt below describes the full visual layout including the full-screen background visual and overlaid UI elements.
 
 ### About Google Stitch
 - **Tool URL:** https://stitch.withgoogle.com/
@@ -1318,7 +1318,7 @@ When using these prompts in Google Stitch, ensure:
 ### 16.1 Home Page (Landing) - Google Stitch Prompt
 
 ```
-Create a modern, immersive landing page for a YA sports romance book series website called "Hockey Shuttle" with these specifications:
+Create a modern, immersive landing page for a YA sports romance book series website called "The Boy Who Knew Me First" with these specifications:
 
 FULL-SCREEN BACKGROUND:
 - Generate a full-screen (100vw x 100vh minimum) atmospheric background illustration
@@ -1343,7 +1343,7 @@ Top Right Corner (Fixed Position):
 - Hover effect: slight scale (1.05) and opacity change
 
 Center Hero Section:
-- Large, bold title: "HOCKEY SHUTTLE"
+- Large, bold title: "THE BOY WHO KNEW ME FIRST"
   - Typography: Bold, modern sans-serif (700-900 weight)
   - Font size: 72-96px desktop, 48px mobile
   - Color: White with subtle text shadow
@@ -1404,7 +1404,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.2 Character Pages - Google Stitch Prompt
 
 ```
-Create an immersive character profile page for the "Hockey Shuttle" book series with these specifications:
+Create an immersive character profile page for the "The Boy Who Knew Me First" book series with these specifications:
 
 FULL-SCREEN BACKGROUND:
 - Generate a full-screen atmospheric background illustration
@@ -1494,7 +1494,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.3 Episodes Season Overview Page - Google Stitch Prompt
 
 ```
-Create an episode listing/overview page for "Hockey Shuttle" Season 1 with these specifications:
+Create an episode listing/overview page for "The Boy Who Knew Me First" Season 1 with these specifications:
 
 FULL-SCREEN BACKGROUND:
 - Generate a full-screen atmospheric background illustration
@@ -1577,7 +1577,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.4 Individual Episode Page - Google Stitch Prompt
 
 ```
-Create an individual episode detail page for "Hockey Shuttle" with these specifications:
+Create an individual episode detail page for "The Boy Who Knew Me First" with these specifications:
 
 FULL-SCREEN BACKGROUND:
 - Generate a full-screen atmospheric background illustration
@@ -1699,7 +1699,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.5 World/Location Pages - Google Stitch Prompt
 
 ```
-Create location profile pages for the "Hockey Shuttle" universe with these specifications:
+Create location profile pages for the "The Boy Who Knew Me First" universe with these specifications:
 
 NOTE: Create separate variations for each location type:
 - St. Paul's High School
@@ -1814,7 +1814,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.6 Suggested Books Page - Google Stitch Prompt
 
 ```
-Create a book recommendations page with affiliate links for "Hockey Shuttle" readers with these specifications:
+Create a book recommendations page with affiliate links for "The Boy Who Knew Me First" readers with these specifications:
 
 FULL-SCREEN BACKGROUND:
 - Generate a full-screen atmospheric background illustration
@@ -1835,7 +1835,7 @@ Top Right Corner (Fixed):
 
 Page Header:
 - Large semi-transparent hero section
-- Heading: "If You Love Hockey Shuttle..." (48-60px, white, bold)
+- Heading: "If You Love The Boy Who Knew Me First..." (48-60px, white, bold)
 - Subheading: "You'll love these books too" (24-28px, light gray)
 - Brief intro paragraph (2-3 sentences):
   - Why these books are recommended
@@ -1931,7 +1931,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.7 About Page - Google Stitch Prompt
 
 ```
-Create an "About" page for the "Hockey Shuttle" book series with these specifications:
+Create an "About" page for the "The Boy Who Knew Me First" book series with these specifications:
 
 FULL-SCREEN BACKGROUND:
 - Generate a full-screen atmospheric background illustration
@@ -1949,7 +1949,7 @@ Top Right Corner (Fixed):
 
 Page Header:
 - Semi-transparent hero section
-- "About Hockey Shuttle" heading (60-72px, white, bold)
+- "About The Boy Who Knew Me First" heading (60-72px, white, bold)
 - Centered layout
 
 About the Series Section:
@@ -2022,7 +2022,7 @@ TECHNICAL SPECIFICATIONS:
 ### 16.8 Hamburger Menu Component - Google Stitch Prompt
 
 ```
-Create a hamburger menu navigation component for the "Hockey Shuttle" website with these specifications:
+Create a hamburger menu navigation component for the "The Boy Who Knew Me First" website with these specifications:
 
 MENU TRIGGER (Visible on All Pages):
 - Position: Fixed top-right corner (or top-left)
@@ -2080,7 +2080,7 @@ Menu Header:
   - Color: White
   - Hover: Accent color, slight rotation
   - Cursor: pointer
-- "Hockey Shuttle" logo/text (optional):
+- "The Boy Who Knew Me First" logo/text (optional):
   - Below close button
   - Centered or left-aligned
   - Margin-bottom: 30px
@@ -2233,5 +2233,5 @@ TECHNICAL SPECIFICATIONS:
 
 **Document Version:** 1.0
 **Last Updated:** November 15, 2025
-**Author:** Hockey Shuttle Project Team
+**Author:** The Boy Who Knew Me First Project Team
 **Status:** Ready for Review and Approval

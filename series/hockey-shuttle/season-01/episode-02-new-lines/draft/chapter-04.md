@@ -832,7 +832,7 @@ Tomorrow everything would be different.
 
 ---
 
-## NEXT TIME ON HOCKEY SHUTTLE...
+## NEXT TIME ON THE BOY WHO KNEW ME FIRST...
 
 *Episode 3: "Real Talk"*
 

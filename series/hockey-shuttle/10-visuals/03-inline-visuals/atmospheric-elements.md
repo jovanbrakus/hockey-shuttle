@@ -1,4 +1,4 @@
-# Hockey Shuttle - Atmospheric Elements & Chapter Openers
+# The Boy Who Knew Me First - Atmospheric Elements & Chapter Openers
 
 ## Overview
 Atmospheric visual elements that set mood, mark transitions, and enhance the reading experience without depicting specific characters or plot points. These are versatile pieces that can be used throughout the series for chapter openers, scene breaks, or thematic emphasis.
@@ -748,7 +748,7 @@ Atmospheric images without characters:
 
 ### Building Series Identity
 Consistent atmospheric elements across episodes create:
-- Visual recognition (readers know it's Hockey Shuttle)
+- Visual recognition (readers know it's The Boy Who Knew Me First)
 - Professional cohesion
 - Brand identity for series growth
 - Memorable aesthetic signature
