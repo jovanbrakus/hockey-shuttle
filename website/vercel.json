@@ -1,14 +1,14 @@
 {
-  "version": 2,
-  "public": true,
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": "src",
   "rewrites": [
     {
-      "source": "/:path*",
-      "destination": "/src/:path*"
+      "source": "/",
+      "destination": "/pages/index.html"
     },
     {
-      "source": "/",
-      "destination": "/src/pages/index.html"
+      "source": "/:path*",
+      "destination": "/:path*"
     }
   ],
   "headers": [
