@@ -7,6 +7,8 @@
 
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <script src="../css/tailwind-config.js"></script>
+  <link rel="stylesheet" href="../css/styles.css"/>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect"/>
@@ -15,44 +17,6 @@
 
   <!-- Material Symbols -->
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
-
-  <!-- Tailwind Config -->
-  <script id="tailwind-config">
-    tailwind.config = {
-      darkMode: "class",
-      theme: {
-        extend: {
-          colors: {
-            "primary": "#7c5295", // Purple for Sophia's analytical/thoughtful nature
-            "background-dark": "#0A091A",
-            "card-dark": "rgba(13, 12, 34, 0.75)",
-            "content-card-dark": "rgba(23, 22, 48, 0.6)",
-            "text-off-white": "#E5E7EB",
-            "text-subtle": "#A5B4FC",
-            "brand-purple": "#8B5CF6"
-          },
-          fontFamily: {
-            "sans": ["Roboto", "sans-serif"],
-            "serif": ["Playfair Display", "serif"]
-          },
-          borderRadius: {"DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px"},
-        },
-      },
-    }
-  </script>
-
-  <style type="text/tailwindcss">
-    body {
-      @apply font-sans bg-background-dark text-text-off-white;
-    }
-    .material-symbols-outlined {
-      font-variation-settings:
-      'FILL' 0,
-      'wght' 400,
-      'GRAD' 0,
-      'opsz' 24
-    }
-  </style>
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="512x512" href="../images/favicon.png"/>
