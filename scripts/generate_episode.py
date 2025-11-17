@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Episode Generator for Hockey Shuttle Series
+Episode Generator for The Boy Who Knew Me First Series
 
 Generates PDF, HTML, EPUB, and DOCX formats from episode markdown files
 with automatic inline image insertion and professional cover pages.
@@ -114,11 +114,11 @@ def extract_episode_info(episode_path: Path):
         episode_title = episode_name
 
     return {
-        "series": "Hockey Shuttle",
+        "series": "The Boy Who Knew Me First",
         "season": "1",
         "episode": episode_num,
         "title": episode_title,
-        "full_title": f"Hockey Shuttle - Season 1, Episode {episode_num}: {episode_title}",
+        "full_title": f"The Boy Who Knew Me First - Season 1, Episode {episode_num}: {episode_title}",
         "episode_slug": episode_name
     }
 
@@ -244,7 +244,7 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path, 
         cover_html = f"""
     <div class="cover-page">
         <div class="cover-content">
-            <h1 class="cover-title">Hockey Shuttle</h1>
+            <h1 class="cover-title">The Boy Who Knew Me First</h1>
             <p class="cover-season">Season {episode_info['season']}</p>
             <p class="cover-episode">Episode {episode_info['episode']}</p>
             <p class="cover-author">by Joxy</p>
@@ -423,7 +423,7 @@ def generate_docx(markdown_content: str, episode_info: dict, output_path: Path, 
 
                 # Title
                 title_para = doc.add_paragraph()
-                title_run = title_para.add_run('Hockey Shuttle')
+                title_run = title_para.add_run('The Boy Who Knew Me First')
                 title_run.font.size = Pt(48)
                 title_run.font.bold = True
                 title_run.font.color.rgb = RGBColor(255, 255, 255)
@@ -753,7 +753,7 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path, 
                 <div class="cover">
                     <img src="cover.png" alt="Cover"/>
                     <div class="cover-text">
-                        <h1>Hockey Shuttle</h1>
+                        <h1>The Boy Who Knew Me First</h1>
                         <p>Season {episode_info['season']}</p>
                         <p>Episode {episode_info['episode']}</p>
                         <p class="author">by Joxy</p>

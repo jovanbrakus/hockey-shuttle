@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Wattpad Episode Composer for Hockey Shuttle Series
+Wattpad Episode Composer for The Boy Who Knew Me First Series
 
 Generates DOCX files with formatting and images for easy copy-paste into Wattpad.
 DOCX preserves bold, italic, and inline images when pasted.
@@ -71,11 +71,11 @@ def extract_episode_info(episode_path: Path):
         episode_title = episode_name
 
     return {
-        "series": "Hockey Shuttle",
+        "series": "The Boy Who Knew Me First",
         "season": "1",
         "episode": episode_num,
         "title": episode_title,
-        "full_title": f"Hockey Shuttle - Season 1, Episode {episode_num}: {episode_title}",
+        "full_title": f"The Boy Who Knew Me First - Season 1, Episode {episode_num}: {episode_title}",
         "episode_slug": episode_name
     }
 

@@ -1,4 +1,4 @@
-# Hockey Shuttle - Season 1 Status
+# The Boy Who Knew Me First - Season 1 Status
 
 ## 🎉 SEASON 1 COMPLETE + ENHANCED!
 

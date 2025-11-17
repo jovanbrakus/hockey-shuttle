@@ -1,5 +1,5 @@
 # SENSITIVITY REVIEW: Episode 9 "Championship Weekend"
-## Hockey Shuttle Series - Season 1
+## The Boy Who Knew Me First Series - Season 1
 
 **Reviewer Role:** Sensitivity Reader
 **Date:** November 9, 2025

@@ -1,6 +1,6 @@
 # Episode 1: "Returning to Center Ice"
 
-## Hockey Shuttle - Season 1, Episode 1
+## The Boy Who Knew Me First - Season 1, Episode 1
 
 **Status:** COMPLETE ✓
 **Total Word Count:** ~16,113 words

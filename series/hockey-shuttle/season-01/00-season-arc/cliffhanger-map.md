@@ -1,4 +1,4 @@
-# Season 1: Hockey Shuttle - Cliffhanger Map
+# Season 1: The Boy Who Knew Me First - Cliffhanger Map
 
 ## Philosophy: The Art of "One More Episode"
 

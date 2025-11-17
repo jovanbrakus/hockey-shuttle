@@ -59,7 +59,7 @@ def create_aesthetics_playlist_docx():
             section.right_margin = Inches(1)
 
         # Title
-        title = doc.add_heading('Hockey Shuttle', 0)
+        title = doc.add_heading('The Boy Who Knew Me First', 0)
         title.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
         subtitle = doc.add_paragraph('Season 1 • Aesthetics & Playlist')
@@ -71,7 +71,7 @@ def create_aesthetics_playlist_docx():
 
         # Introduction
         intro = doc.add_paragraph()
-        intro_run = intro.add_run('Welcome to Hockey Shuttle! Before we dive into the story, meet our main characters through their aesthetics and the soundtrack that defines their journey.')
+        intro_run = intro.add_run('Welcome to The Boy Who Knew Me First! Before we dive into the story, meet our main characters through their aesthetics and the soundtrack that defines their journey.')
         intro_run.italic = True
         intro.alignment = WD_ALIGN_PARAGRAPH.CENTER
 

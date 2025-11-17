@@ -1,7 +1,7 @@
 # EPISODE 8: "RECRUITING SEASON"
 
 ## Episode Information
-- **Series**: Hockey Shuttle (Season 1)
+- **Series**: The Boy Who Knew Me First (Season 1)
 - **Episode Number**: 8 of 10
 - **Target Length**: ~80 pages (20,000 words)
 - **Structure**: 4 chapters × 20 pages each

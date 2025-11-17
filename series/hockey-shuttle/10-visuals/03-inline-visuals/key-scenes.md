@@ -1,7 +1,7 @@
-# Hockey Shuttle - Key Scene Illustration Prompts
+# The Boy Who Knew Me First - Key Scene Illustration Prompts
 
 ## Overview
-Visual illustrations of pivotal scenes from Hockey Shuttle Season 1. These images capture emotional turning points, memorable moments, and scenes readers will want to see visualized. They should enhance the reading experience without being too literal or removing imagination.
+Visual illustrations of pivotal scenes from The Boy Who Knew Me First Season 1. These images capture emotional turning points, memorable moments, and scenes readers will want to see visualized. They should enhance the reading experience without being too literal or removing imagination.
 
 **Purpose**:
 - Mark major emotional beats

@@ -1,7 +1,7 @@
 # EPISODE 3: "DEFENSIVE ZONE"
 
 ## Episode Information
-- **Series**: Hockey Shuttle
+- **Series**: The Boy Who Knew Me First
 - **Season**: 1
 - **Episode**: 3 of 10
 - **Target Length**: 80 pages (~20,000 words)

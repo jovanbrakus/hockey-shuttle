@@ -1,5 +1,5 @@
 # COMPREHENSIVE AI PATTERN ANALYSIS REPORT
-## Episode 3 "Defensive Zone" - Hockey Shuttle Series
+## Episode 3 "Defensive Zone" - The Boy Who Knew Me First Series
 
 ---
 

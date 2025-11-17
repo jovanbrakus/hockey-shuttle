@@ -1,5 +1,5 @@
 # SENSITIVITY REVIEW: Episode 10 "Commence"
-## Hockey Shuttle - Season 1 Finale
+## The Boy Who Knew Me First - Season 1 Finale
 
 **Reviewer Role:** Sensitivity Reader
 **Date:** November 9, 2025
@@ -757,6 +757,6 @@ This episode has tremendous heart and important messages. With sensitivity revis
 
 ---
 
-**Reviewer:** Sensitivity Reader (Hockey Shuttle Project)
+**Reviewer:** Sensitivity Reader (The Boy Who Knew Me First Project)
 **Review Complete:** November 9, 2025
 **Recommended Actions:** Implement high-priority revisions, consult own-voices sensitivity readers for Asian-Canadian and Black experience, consider medium-priority revisions for depth and authenticity.

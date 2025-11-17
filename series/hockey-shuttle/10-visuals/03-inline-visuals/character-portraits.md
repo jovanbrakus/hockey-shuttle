@@ -1,4 +1,4 @@
-# Hockey Shuttle - Character Portrait Prompts
+# The Boy Who Knew Me First - Character Portrait Prompts
 
 ## Overview
 Character portraits for inline use in Wattpad chapters, character sheets, or promotional character introductions. These should capture personality, be YA-appropriate, and allow readers to connect with characters while leaving some room for imagination.

@@ -90,7 +90,7 @@ uv run scripts/generate_episode.py series/hockey-shuttle/season-01/episode-01-re
 Output:
 ```
 📚 Processing: episode-01-returning-to-center-ice
-   Hockey Shuttle - Season 1, Episode 1: Returning To Center Ice
+   The Boy Who Knew Me First - Season 1, Episode 1: Returning To Center Ice
 
 ✓ Found 4 chapters
 
@@ -244,4 +244,4 @@ For issues or questions:
 
 ## License
 
-Part of the Hockey Shuttle series project.
+Part of the The Boy Who Knew Me First series project.

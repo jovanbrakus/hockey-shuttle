@@ -1,6 +1,6 @@
 # Episode 1: "Returning to Center Ice" - Outline
 
-## Hockey Shuttle - Season 1, Episode 1
+## The Boy Who Knew Me First - Season 1, Episode 1
 
 ---
 

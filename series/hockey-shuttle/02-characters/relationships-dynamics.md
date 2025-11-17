@@ -1,4 +1,4 @@
-# Relationship Dynamics - Hockey Shuttle Season 1
+# Relationship Dynamics - The Boy Who Knew Me First Season 1
 
 ## Core Romantic Triangle (Not Really a Triangle)
 

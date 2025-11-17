@@ -46,7 +46,7 @@ Artistic collage mood board, multiple overlapping photos creating story progress
 ⛸️ 🏸 ❤️
 </p>
 
-<h1 align="center">HOCKEY SHUTTLE</h1>
+<h1 align="center">THE BOY WHO KNEW ME FIRST</h1>
 <h2 align="center">Season One Aesthetics + Playlist</h2>
 
 <p align="center">

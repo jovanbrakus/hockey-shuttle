@@ -1,5 +1,5 @@
 # SENSITIVITY REVIEW: EPISODE 8 "RECRUITING SEASON"
-## Hockey Shuttle Series, Season 1
+## The Boy Who Knew Me First Series, Season 1
 
 **Reviewer Role:** Sensitivity Reader
 **Date:** November 2025

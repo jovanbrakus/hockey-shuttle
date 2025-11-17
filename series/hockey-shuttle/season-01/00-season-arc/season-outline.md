@@ -1,4 +1,4 @@
-# Season 1: Hockey Shuttle - Season Arc Overview
+# Season 1: The Boy Who Knew Me First - Season Arc Overview
 
 ## Season Theme
 **"The Distance Between What We Want and What We Choose"**

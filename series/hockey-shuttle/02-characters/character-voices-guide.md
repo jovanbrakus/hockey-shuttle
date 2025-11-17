@@ -1,5 +1,5 @@
 # Character Voices & Dialogue Guide
-## Hockey Shuttle Series
+## The Boy Who Knew Me First Series
 
 This guide captures the distinct voice patterns, speech rhythms, and internal monologue styles for each main character. Use this to maintain authentic, differentiated voices throughout the series.
 
