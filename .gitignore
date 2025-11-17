@@ -35,8 +35,6 @@ ENV/
 .DS_Store
 
 # Book production
-*.pdf
-*.epub
 *.mobi
 *.azw3
 output/
