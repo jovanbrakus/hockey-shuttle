@@ -624,8 +624,8 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path, 
 
                 # Text content
                 author_text = "Joxy"
-                title_line1 = "HOCKEY"
-                title_line2 = "SHUTTLE"
+                title_line1 = "THE BOY WHO"
+                title_line2 = "KNEW ME FIRST"
                 season_text = f"Season {episode_info['season']}"
                 episode_text = f"Episode {episode_info['episode']}"
 

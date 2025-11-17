@@ -10,7 +10,8 @@ EPISODES=(
     "series/hockey-shuttle/season-01/episode-06-the-weight"
     "series/hockey-shuttle/season-01/episode-07-spring-training"
     "series/hockey-shuttle/season-01/episode-08-recruiting-season"
-    # Add episodes 9-10 when complete
+    "series/hockey-shuttle/season-01/episode-09-championship-weekend"
+    "series/hockey-shuttle/season-01/episode-10-commence"
 )
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
