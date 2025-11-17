@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>St. Paul's High School - The Boy Who Knew Me First</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#f4c025",
+              "background-light": "#f8f8f5",
+              "background-dark": "#221e10",
+            },
+            fontFamily: {
+              "display": ["Spline Sans"]
+            },
+            borderRadius: {"DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        body {
+            background-image: linear-gradient(rgba(10, 15, 25, 0.7), rgba(10, 15, 25, 0.7)), url('https://images.unsplash.com/photo-1543615294-3534b4c02c67?q=80&w=2940&auto=format&fit=crop');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-white">
+<div class="relative flex min-h-screen w-full flex-col">
+<!-- FIXED NAVIGATION -->
+<div class="fixed top-0 right-0 z-50 p-4 md:p-6">
+<button class="flex items-center gap-2 rounded-full bg-black/30 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-black/50">
+<span class="material-symbols-outlined text-xl">menu</span>
+<span class="hidden md:inline">Menu</span>
+</button>
+</div>
+<main class="flex h-full grow flex-col items-center p-4 md:p-8 lg:p-12">
+<div class="flex w-full max-w-4xl flex-col gap-8">
+<!-- HERO HEADER -->
+<header class="w-full rounded-t-xl bg-[rgba(26,35,50,0.9)] p-8 md:p-10">
+<h1 class="text-4xl font-bold leading-tight tracking-tight text-white md:text-5xl lg:text-6xl">St. Paul's High School</h1>
+<p class="mt-2 text-lg text-white/80 md:text-xl">Where rivalries are born and secrets are kept.</p>
+</header>
+<div class="flex w-full flex-col gap-8 rounded-b-xl bg-[rgba(45,74,110,0.85)] p-4 md:p-8">
+<!-- OVERVIEW TEXT -->
+<section>
+<p class="text-base font-normal leading-relaxed text-white/90 md:text-lg md:leading-loose">
+                            Where rivalries are born and secrets are kept. St. Paul's is the heart of the series, a battleground for both sports and social standing. Its hallways have witnessed heated confrontations, secret meetings, and the blossoming of unexpected romances. For the students who walk these halls, it's more than just a school—it's the entire world.
+                        </p>
+<p class="mt-4 text-base font-normal leading-relaxed text-white/90 md:text-lg md:leading-loose">
+                            From the roar of the crowd in the gymnasium to the whispered conversations in the library, every corner of St. Paul's holds a piece of the story. It is the backdrop against which characters define themselves, forge alliances, and face their greatest challenges.
+                        </p>
+</section>
+<!-- PHOTO GALLERY -->
+<section>
+<h2 class="px-4 pb-3 pt-5 text-2xl font-bold tracking-tight text-white">Photo Gallery</h2>
+<div class="relative">
+<div class="flex overflow-x-auto pb-4 [-ms-scrollbar-style:none] [scrollbar-width:none] [&amp;::-webkit-scrollbar]:hidden">
+<div class="flex flex-none items-stretch gap-4 px-4">
+<div class="flex h-full w-60 min-w-60 flex-1 flex-col gap-3 rounded-lg md:w-80 md:min-w-80">
+<div class="w-full transform cursor-pointer overflow-hidden rounded-lg border border-white/20 bg-center bg-no-repeat transition-transform duration-300 hover:scale-105" data-alt="The bustling school cafeteria at lunchtime, filled with students.">
+<div class="aspect-[4/3] w-full bg-cover" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBV_supTaWzWFCsqyWmRoEBDcQSCw9i8Vvk7I8ieox6UMsr9DuGyH9hf8n8g3ptawl7u_gLRGpDfVVr0fwyrm4d5kSd8KSoH5IbUjmtG-u3Dv2i2i5HyPFPKWRJQWqQ-3x4f1PT9XsyPEVlCbY0G-i1XVWOoLBSD8UautT-K02DLVJ7CcVY7knj1xnLLH6eVSEMi9IZzqI3vi1n8E8hBa-PXMA1W4acYsGSm589ikYVClT8_-d1NuXSRXQKw2oa7_66KiqcmKrGQ24");'></div>
+</div>
+<div>
+<p class="text-base font-medium leading-normal text-white">The Cafeteria</p>
+<p class="text-sm font-normal leading-normal text-white/70">The social hub.</p>
+</div>
+</div>
+<div class="flex h-full w-60 min-w-60 flex-1 flex-col gap-3 rounded-lg md:w-80 md:min-w-80">
+<div class="w-full transform cursor-pointer overflow-hidden rounded-lg border border-white/20 bg-center bg-no-repeat transition-transform duration-300 hover:scale-105" data-alt="A quiet, well-lit library with rows of bookshelves.">
+<div class="aspect-[4/3] w-full bg-cover" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBV_supTaWzWFCsqyWmRoEBDcQSCw9i8Vvk7I8ieox6UMsr9DuGyH9hf8n8g3ptawl7u_gLRGpDfVVr0fwyrm4d5kSd8KSoH5IbUjmtG-u3Dv2i2i5HyPFPKWRJQWqQ-3x4f1PT9XsyPEVlCbY0G-i1XVWOoLBSD8UautT-K02DLVJ7CcVY7knj1xnLLH6eVSEMi9IZzqI3vi1n8E8hBa-PXMA1W4acYsGSm589ikYVClT8_-d1NuXSRXQKw2oa7_66KiqcmKrGQ24");'></div>
+</div>
+<div>
+<p class="text-base font-medium leading-normal text-white">The Library</p>
+<p class="text-sm font-normal leading-normal text-white/70">A quiet refuge.</p>
+</div>
+</div>
+<div class="flex h-full w-60 min-w-60 flex-1 flex-col gap-3 rounded-lg md:w-80 md:min-w-80">
+<div class="w-full transform cursor-pointer overflow-hidden rounded-lg border border-white/20 bg-center bg-no-repeat transition-transform duration-300 hover:scale-105" data-alt="An empty basketball court inside the school gymnasium.">
+<div class="aspect-[4/3] w-full bg-cover" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBV_supTaWzWFCsqyWmRoEBDcQSCw9i8Vvk7I8ieox6UMsr9DuGyH9hf8n8g3ptawl7u_gLRGpDfVVr0fwyrm4d5kSd8KSoH5IbUjmtG-u3Dv2i2i5HyPFPKWRJQWqQ-3x4f1PT9XsyPEVlCbY0G-i1XVWOoLBSD8UautT-K02DLVJ7CcVY7knj1xnLLH6eVSEMi9IZzqI3vi1n8E8hBa-PXMA1W4acYsGSm589ikYVClT8_-d1NuXSRXQKw2oa7_66KiqcmKrGQ24");'></div>
+</div>
+<div>
+<p class="text-base font-medium leading-normal text-white">The Gym</p>
+<p class="text-sm font-normal leading-normal text-white/70">Where champions are made.</p>
+</div>
+</div>
+<div class="flex h-full w-60 min-w-60 flex-1 flex-col gap-3 rounded-lg md:w-80 md:min-w-80">
+<div class="w-full transform cursor-pointer overflow-hidden rounded-lg border border-white/20 bg-center bg-no-repeat transition-transform duration-300 hover:scale-105" data-alt="A sunlit classroom with empty desks and chairs.">
+<div class="aspect-[4/3] w-full bg-cover" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBV_supTaWzWFCsqyWmRoEBDcQSCw9i8Vvk7I8ieox6UMsr9DuGyH9hf8n8g3ptawl7u_gLRGpDfVVr0fwyrm4d5kSd8KSoH5IbUjmtG-u3Dv2i2i5HyPFPKWRJQWqQ-3x4f1PT9XsyPEVlCbY0G-i1XVWOoLBSD8UautT-K02DLVJ7CcVY7knj1xnLLH6eVSEMi9IZzqI3vi1n8E8hBa-PXMA1W4acYsGSm589ikYVClT8_-d1NuXSRXQKw2oa7_66KiqcmKrGQ24");'></div>
+</div>
+<div>
+<p class="text-base font-medium leading-normal text-white">The Classroom</p>
+<p class="text-sm font-normal leading-normal text-white/70">Lessons in life and love.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- EPISODES SET HERE -->
+<section>
+<h2 class="px-4 pb-3 pt-5 text-2xl font-bold tracking-tight text-white">Episodes Set Here</h2>
+<div class="grid grid-cols-1 gap-4 px-4 sm:grid-cols-2 lg:grid-cols-3">
+<div class="flex flex-col gap-4 rounded-lg bg-white/5 p-4 transition-colors hover:bg-white/10">
+<div class="aspect-video w-full rounded-md bg-cover bg-center" data-alt="Abstract image representing a heated discussion." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCK4xxAGre45gM3uJbxJqoNtP0ZtLWYLieHHGyk71ANIT8AUROKmkca44g6o511jERLOVdDqmRS5IJ6guHUBd8KAmEAMvRH8hiF4A2ZvJg-9tAaXdYiyxAtYtsi9cH8NTykUnjLfutdWHXSNhdj40R9mDRpNhCMDULUOWNDBDgYsQqoPWzCgZMrT-KYiZnrfHmtQhBh5dYYMl00axZvhxd6yCpQoQ3Si3yha1P39xAM-uUbYfSYEprhz1PWnb-z5J8PAU3swnJ0XQs')"></div>
+<div>
+<p class="text-sm font-medium text-white/70">Episode 01</p>
+<p class="text-lg font-bold text-white">The First Encounter</p>
+</div>
+<button class="mt-auto w-full rounded-md bg-primary py-2 text-center font-bold text-background-dark transition-opacity hover:opacity-90">Read Now</button>
+</div>
+<div class="flex flex-col gap-4 rounded-lg bg-white/5 p-4 transition-colors hover:bg-white/10">
+<div class="aspect-video w-full rounded-md bg-cover bg-center" data-alt="Abstract image of a competitive game." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuA9FUjEELDI9KdAaKup4jjR3_yigM8thgU6b2a65xiMxLZCbTl3cOXnIt_Ynn272quWoFH9FEJt_huIj3RnGwjJsldz7F4fUcKioWrJrPYIiXLMwGBwG8svnzZfuwIgfEyUkz1OM8nrWkyy2th2rqDAz_PKRR8j5BbLHfveejlUbhlyO2gkSBQCToTgCnSIo1zad47niiVdmK5RlOMKPDvmWrwyvGhjn09ri2p6io0mi4JqxVtnit_oN2iC9untlx2gujRlVjaoIvU')"></div>
+<div>
+<p class="text-sm font-medium text-white/70">Episode 05</p>
+<p class="text-lg font-bold text-white">The Big Game</p>
+</div>
+<button class="mt-auto w-full rounded-md bg-primary py-2 text-center font-bold text-background-dark transition-opacity hover:opacity-90">Read Now</button>
+</div>
+<div class="flex flex-col gap-4 rounded-lg bg-white/5 p-4 transition-colors hover:bg-white/10">
+<div class="aspect-video w-full rounded-md bg-cover bg-center" data-alt="Abstract image symbolizing a secret." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuAP6YvsTip3rU_mgXMKeVgtDoWMYjyfkP94ctJ7OGaEEtLfeei0Zm_T2I_H1RKeZqF2rjAaHYH0J9HY6siVKI8j8k_iD5jIyVVyqKdq5TgH4Jsq0XckiK76V6nZ0lWiNOMTs2jH0QxVE7FrqUXw9npfN2BpTBBg8Z5pXRjNnEO7yOLyG1z9-9Lbt9Dsw2mMUjzg4buZ5Rskgnju75j0Ahngl_FwuJgW5Jid0iv7O1ETvGaTvnanoLVSOXTq3zFYnRRti4sIgWOL4QQ')"></div>
+<div>
+<p class="text-sm font-medium text-white/70">Episode 08</p>
+<p class="text-lg font-bold text-white">A Secret Revealed</p>
+</div>
+<button class="mt-auto w-full rounded-md bg-primary py-2 text-center font-bold text-background-dark transition-opacity hover:opacity-90">Read Now</button>
+</div>
+</div>
+</section>
+<!-- SOCIAL HIERARCHY -->
+<section>
+<h2 class="px-4 pb-3 pt-5 text-2xl font-bold tracking-tight text-white">Social Hierarchy</h2>
+<div class="px-4">
+<div class="rounded-lg border border-white/20 bg-black/20 p-6">
+<p class="text-lg font-bold text-primary">The Elite</p>
+<p class="mt-1 text-white/90">Led by the star athletes and popular kids, this group rules the social scene. Getting in is hard, but falling out is easy.</p>
+<hr class="my-4 border-white/10"/>
+<p class="text-lg font-bold text-white">The Floaters</p>
+<p class="mt-1 text-white/90">Moving between circles, they are the connectors and observers of St. Paul's, knowing a little bit about everyone.</p>
+<hr class="my-4 border-white/10"/>
+<p class="text-lg font-bold text-white/80">The Outcasts</p>
+<p class="mt-1 text-white/90">Those who defy the norms, finding their own strength and community on the fringes of the high school ecosystem.</p>
+</div>
+</div>
+</section>
+</div>
+</div>
+</main>
+</div>
+</body></html>

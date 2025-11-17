@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Character Profile - Alexei Petrov</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#FF4500", // Fiery Orange/Red for Alexei
+              "background-light": "#f6f6f8",
+              "background-dark": "#101322",
+              "card-dark": "rgba(26, 35, 50, 0.85)",
+              "content-card-dark": "rgba(45, 74, 110, 0.7)",
+              "text-off-white": "#F0F4F8",
+              "text-subtle": "#929bc9"
+            },
+            fontFamily: {
+              "display": ["Inter", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.5rem", "lg": "1rem", "xl": "1.5rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style type="text/tailwindcss">
+        body {
+            @apply font-display bg-background-dark text-text-off-white;
+        }
+        .material-symbols-outlined {
+          font-variation-settings:
+          'FILL' 0,
+          'wght' 400,
+          'GRAD' 0,
+          'opsz' 24
+        }
+    </style>
+</head>
+<body class="relative min-h-screen w-full overflow-x-hidden">
+<!-- Full-screen atmospheric background -->
+<div class="fixed inset-0 z-0">
+<div class="absolute inset-0 bg-black opacity-70"></div>
+<img class="h-full w-full object-cover" data-alt="Dimly lit ice hockey rink with dramatic lighting and silhouettes of hockey equipment" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCL-SvqdVJ4wy5oudeWptog5i4TjvKm6tjjBnIqEDwzrJqKzYVOH8O9nOj_NrkRyL9oqAVhjnw8b9cDkONdBtYEhRC2rbHXi3ZtcT5R-Y3DD_dBwMeRPXIsYLviaEixgLUGsI3tuwARaFHQCTiPJC98DE-LJlMc8OQBRoTlpl7HAiqOEd2oRMTUfGFNJy8NJv4b_WxVrmb6AwkfVaVUUHbIhyHZ__QLkY2yfUJtPkuBsN4H7Xu23h_H3aIThR_5tf-0BtMmIDr9nEw"/>
+</div>
+<!-- Main Content -->
+<div class="relative z-10 flex min-h-screen w-full flex-col p-4 sm:p-6 md:p-8 lg:p-12">
+<!-- Fixed Header -->
+<header class="fixed top-4 right-4 z-50 sm:top-6 sm:right-6">
+<button class="group flex h-12 w-12 items-center justify-center gap-2 rounded-full bg-black/30 p-2 text-white shadow-lg backdrop-blur-sm transition hover:bg-black/50 md:h-auto md:w-auto md:px-4 md:py-2">
+<span class="material-symbols-outlined text-2xl">menu</span>
+<span class="hidden font-semibold md:inline">Menu</span>
+</button>
+</header>
+<main class="mx-auto flex w-full max-w-7xl flex-1 flex-col gap-5 lg:flex-row lg:gap-8">
+<!-- Left/Main Content Column -->
+<div class="flex flex-1 flex-col gap-5">
+<!-- Hero Section Card -->
+<section class="rounded-xl border border-white/10 bg-card-dark p-6 shadow-2xl backdrop-blur-lg md:p-8">
+<div class="flex flex-col items-center gap-8 md:flex-row md:items-start">
+<div class="w-full max-w-[300px] shrink-0 md:w-1/3">
+<div class="aspect-[3/4] w-full rounded-lg border-2 border-white/20 bg-cover bg-center bg-no-repeat shadow-lg" data-alt="Portrait of a determined young male hockey player" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDoRF8WLf952EmVOH2y_IMCtl-OtQkQCi83Rr9NmMZtn3Q7wSV5QaOSSL39R9LTHWSRsZdl43yYFc_5cUxelaKVyZYOuz3Wqpumq-pDSno6ieIJV5dEj1gsoTZASRLh-YxPo4_hGkq3eLQ4VYNolv3tOLp0XmK7luoqNxm8-xP4b2wWwnXWFZeaQ8ddgZuG3jB16W29ja-H7SEE-JwkZRNJmqE_wUmmXYotOY5EPSbyqtrXNPrB2yv9Nra2-qPwVo6_igc2qchz5F0')"></div>
+</div>
+<div class="flex flex-col text-center md:text-left">
+<h1 class="text-4xl font-black text-white sm:text-5xl md:text-6xl">Alexei 'Alex' Petrov</h1>
+<p class="mt-2 text-xl italic text-primary sm:text-2xl">The King of the Ice with a Guarded Heart</p>
+<!-- TextGrid Component -->
+<div class="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3">
+<div class="flex flex-1 flex-col gap-3 rounded-lg border border-white/10 bg-black/20 p-4">
+<span class="material-symbols-outlined text-primary">cake</span>
+<div class="flex flex-col gap-1">
+<h2 class="text-base font-bold leading-tight text-white">18</h2>
+<p class="text-sm font-normal leading-normal text-text-subtle">Age</p>
+</div>
+</div>
+<div class="flex flex-1 flex-col gap-3 rounded-lg border border-white/10 bg-black/20 p-4">
+<span class="material-symbols-outlined text-primary">sports_hockey</span>
+<div class="flex flex-col gap-1">
+<h2 class="text-base font-bold leading-tight text-white">Hockey</h2>
+<p class="text-sm font-normal leading-normal text-text-subtle">Sport</p>
+</div>
+</div>
+<div class="flex flex-1 flex-col gap-3 rounded-lg border border-white/10 bg-black/20 p-4">
+<span class="material-symbols-outlined text-primary">star</span>
+<div class="flex flex-col gap-1">
+<h2 class="text-base font-bold leading-tight text-white">Main Character</h2>
+<p class="text-sm font-normal leading-normal text-text-subtle">Role</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- About Section -->
+<section class="rounded-xl border border-white/10 bg-content-card-dark p-6 shadow-lg backdrop-blur-md md:p-8">
+<h2 class="text-2xl font-bold text-white">About Alexei</h2>
+<p class="mt-4 max-w-prose text-lg leading-relaxed text-text-off-white/90">
+                        Alexei Petrov is the formidable captain of the Northwood University hockey team, a prodigy on the ice known for his aggressive playing style and ice-cold demeanor. To the world, he is the untouchable king, destined for the NHL. But beneath the stoic facade lies a young man burdened by family expectations and a past he can't escape. His life is a carefully constructed fortress, built to keep everyone out—until a girl from his past unexpectedly crashes back into his life, threatening to melt the ice around his guarded heart.
+                    </p>
+</section>
+<!-- Photo Gallery -->
+<section>
+<h2 class="px-2 text-2xl font-bold text-white">Gallery</h2>
+<div class="mt-4 flex gap-4 overflow-x-auto pb-4">
+<div class="w-48 shrink-0 sm:w-52">
+<div class="aspect-[4/5] w-full rounded-lg bg-cover bg-center bg-no-repeat shadow-md transition-transform duration-300 hover:scale-105" data-alt="A moody shot of a hockey player in the locker room." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDVojRgSt1xFwcUpW-HxnVHgwLvwBUAZplNapUh9jv6FkF4zNDEmMz4nl_RCDvLDtK7_nVxpLdeEASTaLmFwXkG6yk-6IL7_DqDNgH1ETiDBWIn-C60cy8-c2SzTvZ5bxOWa4UyTBwlwdo6P2HOfdvI78v9z6WbYY0ljKWtx-mjgwgK0hwlWQi_i4jzTpkmrmnOeoznD1twJ7jlNIxZESOQ6RNrVRRwpzh4grVLC_HrIr4o9m0853SV-yg9az-RexR1bgYEdf-CWvQ')"></div>
+</div>
+<div class="w-48 shrink-0 sm:w-52">
+<div class="aspect-[4/5] w-full rounded-lg bg-cover bg-center bg-no-repeat shadow-md transition-transform duration-300 hover:scale-105" data-alt="Action shot of a hockey game in progress." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuANyT7WBrPV93UTWTjqEf3auUaSf94OfKJz0NuekqDMTVITJarhROFZsPZt2zjrAD5ezCC5aIn62hIxQ5i_eDSBqB4njtKcVbaaDsW7sR8iNufzcW1G6iIol896v2Ziy2W81AFxFIF-jOB9D4LcYp5_KMDRIbLedyJz3dJL-cRp93-S5Ye7t_bXPA48Xqw0zRMG2ZntqiU5tk9-9Qxn7e469Hbc2yeMc3tINUiWTBQLARA8MOIGgkDc2WlNMk67kkeUbctZxns4028')"></div>
+</div>
+<div class="w-48 shrink-0 sm:w-52">
+<div class="aspect-[4/5] w-full rounded-lg bg-cover bg-center bg-no-repeat shadow-md transition-transform duration-300 hover:scale-105" data-alt="Close-up of a hockey puck on the ice." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuARzotodawBtQye1gePrsH_-ab6-k5GjWRjWKjf4Qt04ci6JijBAKkH7qbBoM9pkyE1wNpvPnzeZhEnq0S3XZyUvlDsocTnesluDVQn5G_hLWuaV7XTmzLoyI02eDsaOgeM2NVSbX4Ze9ii9A6zLHq-Kf34wd7TrafjccgYD2OBAgY0oV3Epjs_dT7Frrr_1V_bIjnJzowRPn4M6TX0tpUwiLEebp4v2CAfqCuKoC8QXmtKvNVeYL7QkEnQpNSW9l3tZMi7gsIhnx0')"></div>
+</div>
+<div class="w-48 shrink-0 sm:w-52">
+<div class="aspect-[4/5] w-full rounded-lg bg-cover bg-center bg-no-repeat shadow-md transition-transform duration-300 hover:scale-105" data-alt="A pair of hockey skates hanging up." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBICYGs3vFYkRe9cWoP8_rggE11tL7XXlOKhlC4Z-JGB5OgieQPAvFMHxc_s6V7XXkO3RFCJIsL2nYKD2z0inlNU7AOxX1xG1EK1qsvkpNw2hrHHi_kjgEwtktWINYI5nr3PLCLpyiMB8STLdHVCnHrtOwypuFlRdJN_ItHKFRYKPKRkda90RBoNbDhZZ3dyjgM1hXuCsTNHxZ_XiB5n9TWQoBp2QggDRlRlNzptdI__1FV0roRQVmz4QedmiUP3oWVWl1LrOmF3jA')"></div>
+</div>
+</div>
+</section>
+<!-- Quote Callout -->
+<section class="rounded-xl border-l-4 border-primary bg-primary/20 p-6 shadow-lg backdrop-blur-md">
+<p class="text-xl italic text-white/90">"The ice is the only place where nothing else matters. It's just me, the puck, and the roar of the crowd. Everything else just... fades away."</p>
+</section>
+<!-- Relationships Section -->
+<section class="rounded-xl border border-white/10 bg-content-card-dark p-6 shadow-lg backdrop-blur-md md:p-8">
+<h2 class="text-2xl font-bold text-white">Relationships</h2>
+<div class="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
+<!-- Card Component -->
+<div class="flex items-stretch justify-between gap-4 rounded-lg bg-black/20 p-4 transition hover:bg-black/40">
+<div class="flex flex-1 flex-col justify-center gap-1">
+<p class="text-base font-bold leading-tight text-white">Isabelle 'Izzy' Reyes</p>
+<p class="text-sm font-normal leading-normal text-text-subtle">The girl who knew him first.</p>
+</div>
+<div class="aspect-square w-16 shrink-0 rounded-full bg-cover bg-center bg-no-repeat" data-alt="Portrait of Isabelle Reyes, a female badminton player." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuAMZjs1Km66QCI0U23QA3E5A2ToIMA0xzyLUgzmF7WwLEbV9UcCupOJEY9KVKFJoyyaPYSwXxoZV6-wiYPars9aikeaVx9CO9gqoKV4zS4gHPuxrDj3WHaRGTOzpVgaWkzNH7NUJgyKhIqeLdDp7kxlJBtGOTdxXnmMtIT468KuRotfbZ3luLWbawodLhmBvnbLYRrSI0ErFb0UswdPcoE--bCvKDWmj2H5DLid0sqXGSs1y-EVfEg8oYO-UvTzi8pO12Nv648LnOg')"></div>
+</div>
+<div class="flex items-stretch justify-between gap-4 rounded-lg bg-black/20 p-4 transition hover:bg-black/40">
+<div class="flex flex-1 flex-col justify-center gap-1">
+<p class="text-base font-bold leading-tight text-white">Cole Matthews</p>
+<p class="text-sm font-normal leading-normal text-text-subtle">Teammate &amp; Best Friend</p>
+</div>
+<div class="aspect-square w-16 shrink-0 rounded-full bg-cover bg-center bg-no-repeat" data-alt="Portrait of Cole Matthews, a male hockey player." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuC0HwCLu_5DAOUfLKmDFZha0fiDAynAHipqz_TXHJgJJrF-fG-3SkkF0QQG7yr2yLQzoLwpWWinF2mB2f70MV9BxNk5r99XJ-q9fYMXoY2CRRmFB4FM4z1P9thGzkBR9wUIt2wt_dZsXt9ifI8UHukFhLfPhpgz8Z-_3yZ76rHpd2YYrRn77lwslGJX5zzhLglWyDRoaIf8NVjcHw4UgxqZI_1WHWIg-5b9y_4nCVA5er0IHaHGWjaL_ums23DbSg5q1Umvcm04NtY')"></div>
+</div>
+</div>
+</section>
+</div>
+<!-- Right Sidebar -->
+<aside class="w-full shrink-0 lg:w-80">
+<div class="sticky top-24 flex flex-col gap-5">
+<div class="rounded-xl border border-white/10 bg-content-card-dark p-6 shadow-lg backdrop-blur-md">
+<h3 class="text-xl font-bold text-white">Suggested Books</h3>
+<div class="mt-4 flex flex-col gap-4">
+<!-- Suggested Book Card -->
+<div class="flex items-center gap-4">
+<div class="h-24 w-16 shrink-0 rounded bg-cover bg-center" data-alt="Abstract book cover with blue and orange tones." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuA7m_gJykw-JvqlxcwYp-e8zB_sgeor0Ug3_1kG8dsUS_adMz5bpnLWf1S5rX6Kquwa4P2EkuRC71x8Zujq0bUqIGLXRwOQBJWSx_A92xWaDyK0ggQhKSyjyTRjAwRC2T3hOlw3im0kZH-q_SZnTXnlTyL-Ugt4NS-36HrXpxEnJPsixSRLL7PgGiKM5DOhgIjf3bAF7s0bpKx994HJJaZWieYvuWjXFvKLxJ0euu_hoqBQ55aXlBeS_BE80G_k9to2Z60hgkPcRzQ')"></div>
+<div class="flex flex-col">
+<h4 class="font-bold leading-tight text-white">The Boy Who Knew Me First</h4>
+<p class="text-sm text-text-subtle">Book 1</p>
+<a class="mt-2 text-sm font-semibold text-primary hover:underline" href="#">Learn More</a>
+</div>
+</div>
+<!-- Suggested Book Card -->
+<div class="flex items-center gap-4">
+<div class="h-24 w-16 shrink-0 rounded bg-cover bg-center" data-alt="Abstract book cover with shades of teal and purple." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBj7AGSS7CdCMtzP9_wWwtqnxT5OWnkhoTocgV8fdFn8xgjeOrkDh-cfNdNVuSdOgO4I5hwkvrM4xcGUEt3405HXweGxZTlhld_GXCAlAtSkgZBSr1hvxp3s5wuBhqv89YF8Daq8uSdGuYxTEaFAQXBHRAQwsnC-0RoVFqjqomG2bDfe1ZB7leaTyZPfvHIXTVOv29-1qzgPucdIq4XFZ9DUikQEN6haBTqwQG5OFqCehzp12DWhSvq8T7R5wDsJaqb_Mb9QLODDpU')"></div>
+<div class="flex flex-col">
+<h4 class="font-bold leading-tight text-white">The Girl He Never Forgot</h4>
+<p class="text-sm text-text-subtle">Book 2</p>
+<a class="mt-2 text-sm font-semibold text-primary hover:underline" href="#">Learn More</a>
+</div>
+</div>
+<!-- Suggested Book Card -->
+<div class="flex items-center gap-4">
+<div class="h-24 w-16 shrink-0 rounded bg-cover bg-center" data-alt="Abstract book cover with fiery red and black." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBXw99Km2UX4REi0sQEzAk0b5Yb1chbjerPlxHwvBDRmdzK-m8IagKG9wWSdAI9srpBK43aNdM7qH3DD-r9S4b4cxhBLNnlfCXnSzK4HCEsyYFZPGBG5JCrH0uWih5VFUjbcY2-bCivc5R-x_AYdoXhJPs48zA19-Oj-nGEF3y-PrHToQcJYEcjdcM15aCvw4ki_auDL7G638MJOFcZrj3r-Dip54CJWW12mEVebdxwrq2zEYYfsl__5wGOfDpR00pkRWOCgn1YhHQ')"></div>
+<div class="flex flex-col">
+<h4 class="font-bold leading-tight text-white">The Game They Always Played</h4>
+<p class="text-sm text-text-subtle">Book 3</p>
+<a class="mt-2 text-sm font-semibold text-primary hover:underline" href="#">Learn More</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</main>
+</div>
+</body></html>

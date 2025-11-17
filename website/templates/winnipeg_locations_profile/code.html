@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Winnipeg Locations - The Boy Who Knew Me First</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+    tailwind.config = {
+        darkMode: "class",
+        theme: {
+            extend: {
+                colors: {
+                    "primary": "#2b4bee",
+                    "background-light": "#f6f6f8",
+                    "background-dark": "#101322",
+                },
+                fontFamily: {
+                    "display": ["Inter", "sans-serif"]
+                },
+                borderRadius: {
+                    "DEFAULT": "0.5rem",
+                    "lg": "1rem",
+                    "xl": "1.5rem",
+                    "full": "9999px"
+                },
+            },
+        },
+    }
+    </script>
+<style>
+        body {
+            background-color: #101322;
+        }
+        .full-screen-bg {
+            background-image: linear-gradient(rgba(16, 19, 34, 0.7), rgba(16, 19, 34, 0.7)), url("https://images.unsplash.com/photo-1541334924344-18c7c2511475?q=80&w=2070&auto=format&fit=crop");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body class="font-display">
+<div class="full-screen-bg">
+<div class="relative flex h-auto min-h-screen w-full flex-col text-white group/design-root overflow-x-hidden">
+<header class="fixed top-0 right-0 p-6 z-50">
+<button class="flex items-center gap-2 text-white hover:text-primary transition-colors">
+<span class="material-symbols-outlined">menu</span>
+<span class="font-medium">Menu</span>
+</button>
+</header>
+<div class="layout-container flex h-full grow flex-col">
+<main class="flex flex-1 justify-center py-5">
+<div class="layout-content-container flex flex-col w-full max-w-4xl flex-1 px-4">
+<!-- HeaderImage modified into Hero Card -->
+<div class="bg-cover bg-center flex flex-col justify-end overflow-hidden mt-24" data-alt="Winnipeg cityscape at dusk in winter, with city lights reflecting on snow.">
+<div class="bg-[rgba(26,35,50,0.9)] p-10 rounded-t-xl">
+<h1 class="text-white tracking-tight text-5xl md:text-6xl font-bold leading-tight">Winnipeg Locations</h1>
+<p class="text-lg text-gray-300 mt-2">Where the ice is cold but the hearts are warm.</p>
+</div>
+</div>
+<!-- BodyText modified into Overview Card -->
+<div class="bg-[rgba(45,74,110,0.85)] p-10">
+<p class="text-lg leading-relaxed text-gray-200">
+                                Where the ice is cold but the hearts are warm. Discover the city that shaped their story, from the frost-covered banks of The Forks to the roaring arenas that hold their dreams. Winnipeg is more than just a backdrop; it's a character in its own right, its winter chill and warm heart echoing the journey of love and hockey that unfolds on its streets.
+                            </p>
+<p class="text-lg leading-relaxed text-gray-200 mt-4">
+                                This is the place where stolen glances across a snowy rink turned into a love story for the ages, and where the pressure of high-stakes hockey forged an unbreakable bond. Every landmark holds a memory, every street corner a piece of their history.
+                            </p>
+</div>
+<!-- Carousel -->
+<div class="bg-[rgba(45,74,110,0.85)] p-10">
+<div class="flex overflow-x-auto [-ms-scrollbar-style:none] [scrollbar-width:none] [&amp;::-webkit-scrollbar]:hidden -mx-10 px-6">
+<div class="flex items-stretch p-4 gap-4">
+<div class="flex h-full flex-1 flex-col gap-4 rounded-lg min-w-[350px]">
+<div class="w-full bg-center bg-no-repeat aspect-[1.4/1] bg-cover rounded-lg border border-white/20 hover:scale-105 transition-transform duration-300" data-alt="The Forks historic site in Winnipeg with its market building." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuD_8izcT3ornA9wh6CRTG9zx82GdsctoO1qUOh0Rf3_f-K4UWfGk_gSotZ8nKzwfc7PchUQgOkHPiPYbgThVF2yIT0zz7otowVfw_3OGuyvBd2-vxK1ep348jMjaiesU2rcFZ1E3k7waB4jnk3WzyTJ_LjhWFKucccQLnNLuL4C5GmXpad9VgiQHt_FlkXapU0D85qwFoldoLBPiPMPFKHgxxxTaesCsauxRBwqpKx9bAdS5HfgUOI6NTWdyZuF2HuJ7srOSqMVeis");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">The Forks</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">A historic meeting place.</p>
+</div>
+</div>
+<div class="flex h-full flex-1 flex-col gap-4 rounded-lg min-w-[350px]">
+<div class="w-full bg-center bg-no-repeat aspect-[1.4/1] bg-cover rounded-lg border border-white/20 hover:scale-105 transition-transform duration-300" data-alt="An ice hockey arena with bright lights and an empty rink." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuADX2q-rHFE3Bw2_LwxwPeUXYDaf-tVj4bttRwiFaGuAA-NJ9AT-5yS-hkHxMmnXZ348Y5uhiIrKl8qoIzZ-0Yl-ehZN7_Nh3ZKBdaIE8b2RrrUkUZNDtI_KOILNmsD0RuH7FI5m3nV3x-15ikTqpdfbYLU1fd_UOCVXKUoCWJ1MT-nhdBPwkz0WoIDY2iMUhPtZaU60G1_4qzqTb1zUcLorz5J4hAeoUh-SPTq_JJtS-u9ynCY3At_x2NNG9qB2mhOjeTGj0epqdg");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">Northwood Arena</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">Home of the Northwood Knights.</p>
+</div>
+</div>
+<div class="flex h-full flex-1 flex-col gap-4 rounded-lg min-w-[350px]">
+<div class="w-full bg-center bg-no-repeat aspect-[1.4/1] bg-cover rounded-lg border border-white/20 hover:scale-105 transition-transform duration-300" data-alt="A quiet, tree-lined residential street in the Crescentwood neighborhood." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuACmhu1Ga0L71RsMj08hd2sHNZYn-tX0hczgtZKyFdl9EYEd4b31Z1EuIELFItgWH8S4u2_Ig_TRBH311KmjWxQrP1pVddjoMry7l5lyIvmSFbY2v0NSnt5OzklqqjIJ-7rrjf49oQPIomAOE8Zg9HP3HGQKS5TaQmaKHyuETRz-D2iNrMbpxNlh1BQ8O3QXsPMlfgVu-wq2a2RN97KZ1po8vG3CSqlYMUCWO84I37vs6ZfMBBR5lRIIFrqOL9Jpz2OQkegTyw6244");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">Crescentwood</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">Where their story began.</p>
+</div>
+</div>
+<div class="flex h-full flex-1 flex-col gap-4 rounded-lg min-w-[350px]">
+<div class="w-full bg-center bg-no-repeat aspect-[1.4/1] bg-cover rounded-lg border border-white/20 hover:scale-105 transition-transform duration-300" data-alt="The cozy interior of a local coffee shop." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAqZIj6AVGLBzzksf2ei6uRhTjqu8nFu9g0BZusWO7lzJYML5RPdS1siXDUF3pgpTmmRGx9subkR-e19TR7vObdVGSRe1jqC0r8bNa_il39Rvd9R5ZOa18qNfEsL6CDzQs71vU0KIWLvnu1-ielry7FkSGKIIO9O3sMK1QpBTmdtKe48zY4_U454Cia31VslugFmDpTp-KIckQXqrtwTZLHh03O_nfBqdVDNRI3Wux-Vd1N7tTcHJktU1V69uwB_Sztsq_dZzVb1Ks");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">The Daily Grind Cafe</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">Their favorite date spot.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- SectionHeader and ImageGrid modified into Featured Episodes section -->
+<div class="bg-[rgba(45,74,110,0.85)] p-10">
+<h2 class="text-white text-2xl font-bold leading-tight tracking-tight pb-4">Episodes Set Here</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+<div class="flex flex-col gap-3 pb-3">
+<div class="w-full bg-center bg-no-repeat aspect-[3/4] bg-cover rounded-lg" data-alt="Book cover for Episode 2: The First Chill" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDHRDa6k24ci0qiJZzXwuJXu0wVA6DkK2cnz9ZHviRgH70mClbmJhgZWyIZs9gg1AoXJddxk610QYQnxqn3cMFyREJPNq8UPjbty51WNLT983_wfuOBVDcGzFaG5_1PycXatqW0ljnTYnRjaxmJgcm04JVMfmKgZ5ocQTW2EsrQFpHlw0pGGPAM_EHEPTQPflbkrx-DIPcpzrI7PxQX3zUHu5IFVh90hGYJq2fM4zaKa5kkLp_bibLUDpvUcUdMaW1t3eeQCkbggiI");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">Episode 2: The First Chill</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">A chance encounter changes everything.</p>
+<a class="text-amber-400 hover:text-amber-300 text-sm font-medium leading-normal mt-1 inline-block" href="#">Read</a>
+</div>
+</div>
+<div class="flex flex-col gap-3 pb-3">
+<div class="w-full bg-center bg-no-repeat aspect-[3/4] bg-cover rounded-lg" data-alt="Book cover for Episode 5: Meltdown on Ice" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCeFTMxqpvLF_B9dBlLinRwrM67osomQ3EHi3RSMW2p4oeAl-CC5_jMWKTpSu__J3Q2672WBslxktCsC0_9aA0ZPli4Jua9ZJ1GI9Y5JEHJJnvJd0kfxJAqoEiTaiIUj0C432J4MTT8QVk_RpfJBsADFaw1eql_jSUx_FABquw5ywXBXb441n0mYf9V2Tm0NvjRH-d2AC5hUCFY3xMqOWpSQy59aKc_AwI4ZVhPM7gEhh6Ovt_9p23k0HvYHK0UoHsqPNSGIotZhY0");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">Episode 5: Meltdown on Ice</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">Tensions rise during the playoffs.</p>
+<a class="text-amber-400 hover:text-amber-300 text-sm font-medium leading-normal mt-1 inline-block" href="#">Read</a>
+</div>
+</div>
+<div class="flex flex-col gap-3 pb-3">
+<div class="w-full bg-center bg-no-repeat aspect-[3/4] bg-cover rounded-lg" data-alt="Book cover for Episode 9: Winter's End" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDRzIV3Xsgm9MuZ8ynUWc20DTfVjzCMMHfWfZf6pEbO6XhFzvWqCNDcvLFXL0Jgqa_sEF819ytqG4d5BDW0YUn-FaGSW3y3E-yMhLgM06vcJKCWRPhhlQXi-FyxWYwAgwbadLg_kYd9gG6c5t2Du4VYMkG5SRd9S2EoghKe1KqgHqUwnKT9_o3wpQNgN8mLgugL0sged2Q2VJpS-nR8OaekPbz4mxznknsFN1qDlKYaI-L4JxiyppR5jfREWwhjzx1sE2rVHDTRXqc");'></div>
+<div>
+<p class="text-white text-base font-medium leading-normal">Episode 9: Winter's End</p>
+<p class="text-gray-400 text-sm font-normal leading-normal">A decision that will define their future.</p>
+<a class="text-amber-400 hover:text-amber-300 text-sm font-medium leading-normal mt-1 inline-block" href="#">Read</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Interactive Map (New Component) -->
+<div class="bg-[rgba(45,74,110,0.85)] p-10 rounded-b-xl mb-24">
+<h2 class="text-white text-2xl font-bold leading-tight tracking-tight pb-4">Explore Key Locations</h2>
+<div class="aspect-video bg-gray-800 rounded-lg overflow-hidden relative">
+<img class="w-full h-full object-cover" data-alt="A stylized dark mode map of Winnipeg with location markers." data-location="Winnipeg, Manitoba, Canada" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAiNJh6iB2kxNAeoA_dnCA1NbK4ZYex3I4Vg5jMexaTkQYUXiTwSKcPLH3MPKvqnWSx3xU3eSrFk3lyJcFXVjnGZe8_tKDFviO6kIDI7DgmqHAlBCzsRW8tOZ9rPzWAG_QZVV2sflAsSQD-TYaEfcu-ca7UcbDy60qMBSsG1TWszOfjxr6zHjWaUuVmBXcImcq6Az-DP9_gdZdGA-LRqpiImr_7MDctqqb1XBBVbqfazpHnA9s-YSiBP57sP7JvBt7Vy2hI60zwKPo"/>
+<!-- Markers would be interactive elements overlaid here -->
+<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center">
+<span class="material-symbols-outlined text-amber-400 text-4xl animate-pulse">location_on</span>
+<p class="text-white bg-black/50 px-2 py-1 rounded-md text-sm">Interactive Map</p>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+</div>
+</body></html>

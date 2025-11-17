@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Badminton Courts - The Boy Who Knew Me First</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#f67355", // From original components, but request uses Amber Gold. I'll use the request's palette.
+                        "background-light": "#f8f6f5",
+                        "background-dark": "#221310",
+                    },
+                    fontFamily: {
+                        "display": ["Lexend", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        body {
+            background-color: #221310;
+            color: #F5F5F5;
+        }
+    </style>
+</head>
+<body class="font-display">
+<!-- Full-screen background -->
+<div class="fixed inset-0 z-[-1]">
+<div class="absolute inset-0 bg-cover bg-center" data-alt="Atmospheric illustration of an indoor badminton court with warm lighting and court lines." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBDcuJivESi_kp7kjL5uLVlq-7hhhGHJIWcRNbGfw_rhfxMCfBbb8kXwswkPxgHJqyA_vfA9cgKZ5SR_fjxT-J2qd1A31TCU1gjVta32SAWLMlvp7QqUgECXt1afKVQ4Cw05rIfewpcDE45UWQo2eRcAtRGI5EmeRauPCZsAz9tH9ahC-hOYJTUFFuikQspoxY514qFa2KDdGZpcro7CQXX1z1g_fGJBhkYpXFH98lwpJQskVsdnppPBxeLrM1pHvotC7Jz8glLMAA');"></div>
+<div class="absolute inset-0 bg-black/70"></div>
+</div>
+<!-- Main Content Container -->
+<div class="relative min-h-screen w-full flex flex-col items-center px-4 sm:px-6 lg:px-8">
+<!-- Top Right Menu -->
+<header class="fixed top-0 right-0 p-4 sm:p-6 z-50">
+<button class="flex items-center gap-2 text-[#F5F5F5] font-semibold text-sm hover:text-[#FFBF00] transition-colors">
+<span class="material-symbols-outlined">menu</span>
+<span>Menu</span>
+</button>
+</header>
+<main class="w-full max-w-5xl mx-auto py-20 sm:py-24">
+<!-- Location Header -->
+<section class="mb-8">
+<div class="bg-[#1A2332]/90 p-10 rounded-t-lg">
+<h1 class="text-[#F5F5F5] text-4xl sm:text-5xl md:text-6xl font-bold leading-tight tracking-tight">Badminton Courts</h1>
+<p class="text-[#F5F5F5]/80 text-lg mt-2 font-light">Where Rivalries Ignite and Hearts Collide</p>
+</div>
+</section>
+<!-- Location Overview -->
+<section class="mb-12">
+<div class="bg-[#2D4A6E]/85 p-8 sm:p-10 rounded-lg">
+<p class="text-[#F5F5F5] text-lg leading-loose">
+                        This is the heart of the action, a place of intense competition, whispered secrets, and the silent understanding that only grows between two people across a net. The squeak of shoes on polished wood, the sharp thwack of a shuttlecock, and the charged atmosphere of countless matches set the stage for the pivotal moments in their story.
+                    </p>
+<p class="text-[#F5F5F5] text-lg leading-loose mt-6">
+                        More than just a training ground, the courts are a sanctuary and a battlefield. It's where partnerships are forged in the heat of a volley and where unspoken feelings are revealed in a fleeting glance between points. Every line on the court marks a boundary they must navigate, both in the game and in their evolving relationship.
+                    </p>
+</div>
+</section>
+<!-- Photo Gallery -->
+<section class="mb-12">
+<h2 class="text-[#F5F5F5] text-3xl font-bold leading-tight tracking-tight mb-6 px-2">Gallery</h2>
+<div class="relative">
+<div class="flex overflow-x-auto pb-4 gap-4 sm:gap-6 [-ms-scrollbar-style:none] [scrollbar-width:none] [&amp;::-webkit-scrollbar]:hidden">
+<!-- Gallery Item 1 -->
+<div class="flex-shrink-0 w-[350px] group">
+<div class="w-full h-[250px] bg-center bg-cover rounded-lg border border-white/20 overflow-hidden transform transition-transform duration-300 group-hover:scale-105" data-alt="A close-up of a shuttlecock resting on a badminton racket." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBLYIkDttKQfbAQZPWij3B67N_Wdht7HLsUonWi1HlWXgL3TSuq5wXvPNEh6oSQMn9l7LWbMLkk4LQXDNrIPdUvyx6JZ8QkQUn0fr2pUwCm241vFI4YJ5qcBclsmXs3akC-TXJmVcAU3uHwHVHUVfrzx0apgS0Dk-qT64e9-g0KyhaO8wsdKymhLjrajZbPwFANh3OFjzejPCbcUvcGn3rxJ-blIYvnL8lVh7sJKbVe3Nqpfuseo2mmR1odU5fZx1x8hjAiQr5MmDE");'></div>
+</div>
+<!-- Gallery Item 2 -->
+<div class="flex-shrink-0 w-[350px] group">
+<div class="w-full h-[250px] bg-center bg-cover rounded-lg border border-white/20 overflow-hidden transform transition-transform duration-300 group-hover:scale-105" data-alt="An empty badminton court illuminated by a single overhead light." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCAFPepaBqW0vRnaOdahqbyP2sfe1rmJnpnpz5NiAzECltAHaWpi94x-HHLvoIiYNGj7fj8xKO6PJRbL8FkGU4ithi0Lcs9-CJc7JX1u0Z_js0-5RS0BWxnfwYPaWlenv3CLiUcn0F4E45Hu4O7-3Di0bVfvwonhJaf0bKElGUVtYL6JAP0LvyotnjUGREjNiIwsUs8rvIbo0SjDgcjcZ9DCSBxUBpV0EsvPmQgh_LDk0nyJUJRjJhNjUFeZ9_I-9cTCKdKB7KvZKY");'></div>
+</div>
+<!-- Gallery Item 3 -->
+<div class="flex-shrink-0 w-[350px] group">
+<div %20shoes%20on%20the%20line");'="" class="w-full h-[250px] bg-center bg-cover rounded-lg border border-white/20 overflow-hidden transform transition-transform duration-300 group-hover:scale-105" data-alt="A pair of athletic shoes on the court's boundary line." style='background-image: url("https://placeholder.pics/svg/350x250/1A2332/F5F5F5-Players'></div>
+</div>
+<!-- Gallery Item 4 -->
+<div class="flex-shrink-0 w-[350px] group">
+<div class="w-full h-[250px] bg-center bg-cover rounded-lg border border-white/20 overflow-hidden transform transition-transform duration-300 group-hover:scale-105" data-alt="A golden trophy sitting on a wooden bench beside the court." style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDzzwEdeM_joMlRW_JNfFG1mbbxRZU-PFDH-rOV_JJ567QYS62c0cMmJpW47v__LPGiA4TNSX5JFf1kdK-oPGhKCzKkv1nntUtQAcJrEWuk58wxcrQvjnqs6By68W7TQfsNL7ZXkl0IT1P59wb7MYlr5BBmLMNn--I4c23OBLHJ32tuwFChoC6v10LnYQQhVPykbEi7Ez4jP1mCEHiiXcgNxWexvKOjbxbGtIznKac2k7iKBuelU9XJSqXttRVIkGOXMpjePcDjKHk");'></div>
+</div>
+</div>
+</div>
+</section>
+<!-- Featured Episodes -->
+<section class="mb-12">
+<h2 class="text-[#F5F5F5] text-3xl font-bold leading-tight tracking-tight mb-6 px-2">Episodes Set Here</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+<!-- Episode Card 1 -->
+<div class="bg-[#1A2332]/90 rounded-lg overflow-hidden flex flex-col p-4 gap-4 border border-[#A06D53]/50">
+<div class="w-full aspect-[4/3] bg-cover bg-center rounded" data-alt="Cover art for Episode 3." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDWfAwSMME2XOEKOlySsrjgLAUhyxI4zAzikWtzeg0_HHfM9ShKzg7pw9FIE0NlU4qU_GKXJsELWXti-UL2IbdRTTEZfVS9E2U7_EH_O8chgwjmTDuq0JDQHTkgHalClswGCugfNCtG8XPa84Fj3rJFiI0d_SKf-MzVVis1LJFdz6AFFTkeT6DiTXWCKcjLZapVTsFoYNBd1f48qNhVpTK2-VArDWWIzOC_n1pXV3IYRMqsM9kjBx6QapehzCXLg91e_YqLQgAduD4');"></div>
+<div class="flex flex-col flex-grow">
+<p class="text-sm font-semibold text-[#F5F5F5]/70">Episode 3</p>
+<h3 class="text-xl font-bold text-[#F5F5F5] mt-1">The First Match</h3>
+<div class="mt-auto pt-4">
+<a class="block w-full text-center bg-[#FFBF00] text-[#1A2332] font-bold py-2 px-4 rounded hover:bg-opacity-90 transition-colors" href="#">Read Now</a>
+</div>
+</div>
+</div>
+<!-- Episode Card 2 -->
+<div class="bg-[#1A2332]/90 rounded-lg overflow-hidden flex flex-col p-4 gap-4 border border-[#A06D53]/50">
+<div class="w-full aspect-[4/3] bg-cover bg-center rounded" data-alt="Cover art for Episode 7." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCNM3TAxtwI1xpeoncuRPzqpw5AQYEKzv3GXLiNnLsQIFRlhN0P6F08dM-ln_RclbKXicg8tHZ8BWwKg35cbkzBBYeDgBxksb2eoM7oEIei8rIpRFE9wRi3A3ImEZJQS0Mjvib8M20BaJI-aNbkfz5nggC-JbHGKzK7oFOiywTQgZktxmbtVUWQgF4hNG_rny6yWXXI1-BTsPrH2hkvqbzuZg2-c8sia5xT30mBYU2etxm-yL9qg-i3wml38k5slq8Fw3ggkyZKXps');"></div>
+<div class="flex flex-col flex-grow">
+<p class="text-sm font-semibold text-[#F5F5F5]/70">Episode 7</p>
+<h3 class="text-xl font-bold text-[#F5F5F5] mt-1">A Tiebreaker's Tension</h3>
+<div class="mt-auto pt-4">
+<a class="block w-full text-center bg-[#FFBF00] text-[#1A2332] font-bold py-2 px-4 rounded hover:bg-opacity-90 transition-colors" href="#">Read Now</a>
+</div>
+</div>
+</div>
+<!-- Episode Card 3 -->
+<div class="bg-[#1A2332]/90 rounded-lg overflow-hidden flex flex-col p-4 gap-4 border border-[#A06D53]/50">
+<div class="w-full aspect-[4/3] bg-cover bg-center rounded" data-alt="Cover art for Episode 12." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuAtD_RupdF6YYsMvDWP3-WT8HytoTrkIJ4phm6vZWcveIn7NM5xM1RSFtOh2hPGEUeAd4Xjq97VlFww5bY7gMl63bn9xVt9vu2Vap3OSsJuoC8VzjnM_t0jeQLGOhgcA3b3LMakZG9cpLFyMA5uEscvHMslFgt7tZGfAbCbR3os5_S_pUt1HNnTJHkUx9OsBmGYwsRAg6_TUZuwlzCjnh-AolDWE08a9eu13kB7VmaojprjtG5bzp9igUzRqtHxz5iUq3Gg1fRONV4');"></div>
+<div class="flex flex-col flex-grow">
+<p class="text-sm font-semibold text-[#F5F5F5]/70">Episode 12</p>
+<h3 class="text-xl font-bold text-[#F5F5F5] mt-1">Championship Point</h3>
+<div class="mt-auto pt-4">
+<a class="block w-full text-center bg-[#FFBF00] text-[#1A2332] font-bold py-2 px-4 rounded hover:bg-opacity-90 transition-colors" href="#">Read Now</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Additional Info -->
+<section>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<!-- The Sport Card -->
+<div class="bg-[#2D4A6E]/85 p-6 rounded-lg">
+<h3 class="text-2xl font-bold text-[#F5F5F5]">The Sport</h3>
+<p class="text-[#F5F5F5]/90 mt-3 leading-relaxed">Badminton is a game of precision, agility, and strategy. A shuttlecock can travel at speeds over 200 mph, making it the fastest racket sport in the world. In this story, every smash and drop shot is a conversation without words.</p>
+</div>
+<!-- The Teams Card -->
+<div class="bg-[#2D4A6E]/85 p-6 rounded-lg">
+<h3 class="text-2xl font-bold text-[#F5F5F5]">The Teams</h3>
+<p class="text-[#F5F5F5]/90 mt-3 leading-relaxed">The courts are home to the Northwood High Ravens and their rivals, the Westwood Academy Eagles. The fierce competition between these two teams forms the backdrop for the central romance, testing loyalties on and off the court.</p>
+</div>
+</div>
+</section>
+</main>
+</div>
+</body></html>
