@@ -34,7 +34,7 @@ function createMenuElements() {
 
       <!-- Navigation Links -->
       <nav class="space-y-2">
-        <a href="index.html" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
+        <a href="/" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
           <span class="material-symbols-outlined">home</span>
           <span>Home</span>
         </a>
@@ -49,40 +49,40 @@ function createMenuElements() {
             <span class="material-symbols-outlined transition-transform" id="characters-arrow">expand_more</span>
           </button>
           <div id="characters-submenu" class="hidden pl-8 mt-2 space-y-1">
-            <a href="sophia-chen.html" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
+            <a href="/sophia-chen" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
               Sophia Chen
             </a>
-            <a href="ethan-price.html" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
+            <a href="/ethan-price" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
               Ethan Price
             </a>
-            <a href="maya-foster.html" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
+            <a href="/maya-foster" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
               Maya Foster
             </a>
-            <a href="jordan-nakamura.html" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
+            <a href="/jordan-nakamura" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
               Jordan Nakamura
             </a>
-            <a href="becca-martinez.html" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
+            <a href="/becca-martinez" class="block px-4 py-2 text-sm text-[#e0e0e0] transition-all rounded-lg hover:bg-white/10 hover:text-white hover:pl-6">
               Becca Martinez
             </a>
           </div>
         </div>
 
-        <a href="episodes.html" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
+        <a href="/episodes" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
           <span class="material-symbols-outlined">menu_book</span>
           <span>Episodes</span>
         </a>
 
-        <a href="world.html" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
+        <a href="/world" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
           <span class="material-symbols-outlined">public</span>
           <span>World</span>
         </a>
 
-        <a href="books.html" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
+        <a href="/books" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
           <span class="material-symbols-outlined">auto_stories</span>
           <span>Suggested Books</span>
         </a>
 
-        <a href="about.html" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
+        <a href="/about" class="flex items-center gap-3 px-4 py-3 text-lg font-medium text-white transition-all rounded-lg hover:bg-white/10 hover:pl-6 hover:text-[#ff6b4a]">
           <span class="material-symbols-outlined">info</span>
           <span>About</span>
         </a>

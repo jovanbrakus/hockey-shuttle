@@ -7,16 +7,55 @@
       "destination": "/pages/index.html"
     },
     {
+      "source": "/about",
+      "destination": "/pages/about.html"
+    },
+    {
+      "source": "/episodes",
+      "destination": "/pages/episodes.html"
+    },
+    {
+      "source": "/world",
+      "destination": "/pages/world.html"
+    },
+    {
+      "source": "/books",
+      "destination": "/pages/books.html"
+    },
+    {
+      "source": "/sophia-chen",
+      "destination": "/pages/sophia-chen.html"
+    },
+    {
+      "source": "/ethan-price",
+      "destination": "/pages/ethan-price.html"
+    },
+    {
+      "source": "/maya-foster",
+      "destination": "/pages/maya-foster.html"
+    },
+    {
+      "source": "/jordan-nakamura",
+      "destination": "/pages/jordan-nakamura.html"
+    },
+    {
+      "source": "/becca-martinez",
+      "destination": "/pages/becca-martinez.html"
+    },
+    {
       "source": "/pages/:path*",
       "destination": "/pages/:path*"
     },
     {
-      "source": "/:page.html",
-      "destination": "/pages/:page.html"
-    },
-    {
       "source": "/:path*",
       "destination": "/:path*"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/:page.html",
+      "destination": "/:page",
+      "permanent": true
     }
   ],
   "headers": [
