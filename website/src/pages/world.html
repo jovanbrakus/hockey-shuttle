@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>The World - The Boy Who Knew Me First</title>
+  <meta name="description" content="Explore the world of The Boy Who Knew Me First - from Winnipeg's ice rinks to badminton courts, discover the locations where Sophia and Ethan's story unfolds."/>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet"/>
+
+  <!-- Material Symbols -->
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+
+  <!-- Tailwind Config -->
+  <script src="../css/tailwind-config.js"></script>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="../css/styles.css"/>
+
+  <style>
+    .text-shadow {
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    }
+  </style>
+</head>
+
+<body class="bg-background-light dark:bg-background-dark font-display text-white">
+
+  <!-- Full-screen background -->
+  <div class="fixed inset-0 z-0 h-screen w-screen bg-cover bg-center"
+       style='background-image: linear-gradient(rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.6) 100%), url("../images/bg-landing.png");'>
+  </div>
+
+  <!-- Main Content Wrapper -->
+  <div class="relative z-10 flex min-h-screen w-full flex-col items-center overflow-x-hidden p-4 sm:p-6 md:p-8">
+
+    <!-- Top Right Menu -->
+    <header class="fixed top-0 right-0 z-50 p-4 md:p-6">
+      <button class="flex h-[44px] w-auto cursor-pointer items-center justify-center gap-2 rounded-full px-4 text-white transition-transform hover:scale-105 hover:opacity-90">
+        <span class="material-symbols-outlined text-shadow">menu</span>
+        <span class="text-base font-medium text-shadow">Menu</span>
+      </button>
+    </header>
+
+    <!-- Content Container -->
+    <div class="flex h-full w-full max-w-6xl grow flex-col items-center py-12 md:py-20">
+
+      <!-- Page Header -->
+      <section class="mb-12 w-full text-center">
+        <div class="rounded-xl border border-white/10 bg-[rgba(26,35,50,0.85)] p-8 backdrop-blur-md max-w-4xl mx-auto">
+          <h1 class="text-shadow text-4xl font-black uppercase leading-tight tracking-wider text-white md:text-5xl lg:text-6xl mb-4">
+            The World
+          </h1>
+          <p class="text-base leading-relaxed text-[#e0e0e0] md:text-lg">
+            From Winnipeg's frozen rinks to the competitive badminton courts, explore the locations that shape Sophia and Ethan's story. Each place holds memories, challenges, and moments that define their journey together.
+          </p>
+        </div>
+      </section>
+
+      <!-- Locations Grid -->
+      <section class="w-full mb-12">
+        <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+
+          <!-- St. Paul's High School -->
+          <div class="group flex flex-col rounded-xl border border-white/10 bg-[rgba(45,74,110,0.75)] p-6 backdrop-blur-md transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+            <span class="material-symbols-outlined text-5xl text-[#ff6b4a] mb-4">school</span>
+            <h3 class="mb-3 text-2xl font-bold text-white">St. Paul's High School</h3>
+            <p class="mb-4 text-sm text-[#e0e0e0] leading-relaxed flex-grow">
+              Where it all begins. The hallways where they reunite, the cafeteria where social hierarchies play out, and the classrooms where they're both fighting for academic excellence. St. Paul's is more than a school—it's the battleground for belonging.
+            </p>
+            <p class="text-xs text-[#b0b0b0] mb-4">
+              <strong>Key Locations:</strong> Cafeteria, Library, Hockey Rink entrance, Senior hallway
+            </p>
+            <p class="text-xs text-[#b0b0b0] italic">
+              Featured in: Episodes 1, 2, 3, 4, 6, 7, 8, 9, 10
+            </p>
+          </div>
+
+          <!-- Bell MTS Iceplex -->
+          <div class="group flex flex-col rounded-xl border border-white/10 bg-[rgba(45,74,110,0.75)] p-6 backdrop-blur-md transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+            <span class="material-symbols-outlined text-5xl text-[#ff8c6b] mb-4">sports_hockey</span>
+            <h3 class="mb-3 text-2xl font-bold text-white">The Rinks (Hockey)</h3>
+            <p class="mb-4 text-sm text-[#e0e0e0] leading-relaxed flex-grow">
+              Bell MTS Iceplex and community rinks where Ethan transforms into the player everyone knows. The cold, the intensity, the pressure of scouts watching—this is where hockey dreams either come true or shatter. Sophia watches from the stands, her presence his good luck charm.
+            </p>
+            <p class="text-xs text-[#b0b0b0] mb-4">
+              <strong>Atmosphere:</strong> Icy cold, dramatic lighting, roar of crowds, competitive intensity
+            </p>
+            <p class="text-xs text-[#b0b0b0] italic">
+              Featured in: Episodes 1, 2, 3, 4, 5, 7, 8
+            </p>
+          </div>
+
+          <!-- Badminton Courts -->
+          <div class="group flex flex-col rounded-xl border border-white/10 bg-[rgba(45,74,110,0.75)] p-6 backdrop-blur-md transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+            <span class="material-symbols-outlined text-5xl text-[#ffa94d] mb-4">sports_tennis</span>
+            <h3 class="mb-3 text-2xl font-bold text-white">Badminton Courts</h3>
+            <p class="mb-4 text-sm text-[#e0e0e0] leading-relaxed flex-grow">
+              Badminton Manitoba training facilities where Sophia finds her own excellence separate from Ethan's world. The precision, the speed, the singles competition where it's just you against yourself. This is where she proves she's not just "Ethan's friend"—she's elite in her own right.
+            </p>
+            <p class="text-xs text-[#b0b0b0] mb-4">
+              <strong>Key Moments:</strong> Provincial championships, doubles partnership with Maya, national gold
+            </p>
+            <p class="text-xs text-[#b0b0b0] italic">
+              Featured in: Episodes 2, 3, 4, 5, 6, 8
+            </p>
+          </div>
+
+          <!-- Winnipeg Locations -->
+          <div class="group flex flex-col rounded-xl border border-white/10 bg-[rgba(45,74,110,0.75)] p-6 backdrop-blur-md transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+            <span class="material-symbols-outlined text-5xl text-[#d4af37] mb-4">location_city</span>
+            <h3 class="mb-3 text-2xl font-bold text-white">Winnipeg Locations</h3>
+            <p class="mb-4 text-sm text-[#e0e0e0] leading-relaxed flex-grow">
+              The Forks where memories are made and futures decided. McNally Robinson bookstore where three hours disappear. Osborne Village streets walked in winter cold. Winnipeg isn't just setting—it's home, with all its brutal winters, tight-knit communities, and unexpected beauty.
+            </p>
+            <p class="text-xs text-[#b0b0b0] mb-4">
+              <strong>Notable Places:</strong> The Forks, McNally Robinson, Assiniboine Park, Osborne Village
+            </p>
+            <p class="text-xs text-[#b0b0b0] italic">
+              Featured in: Episodes 2, 4, 5, 6, 7, 9, 10
+            </p>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- World Details -->
+      <section class="w-full mb-12">
+        <div class="rounded-xl border border-white/10 bg-[rgba(26,35,50,0.85)] p-8 backdrop-blur-md">
+          <h2 class="text-2xl font-bold text-white mb-6">Setting Details</h2>
+
+          <div class="grid gap-6 md:grid-cols-2">
+            <div>
+              <h3 class="text-lg font-semibold text-[#ffa94d] mb-2">Timeline</h3>
+              <p class="text-[#e0e0e0] leading-relaxed">
+                <strong>Season 1:</strong> September (Junior year start) through August (MIT arrival)<br/>
+                <strong>Span:</strong> One full school year plus summer<br/>
+                <strong>Season:</strong> Winnipeg fall, brutal winter, spring thaw, summer
+              </p>
+            </div>
+
+            <div>
+              <h3 class="text-lg font-semibold text-[#ffa94d] mb-2">Cultural Context</h3>
+              <p class="text-[#e0e0e0] leading-relaxed">
+                Hockey culture dominates—it's not just a sport, it's identity. Badminton is lesser known but fiercely competitive. The mix of Canadian politeness and direct Prairie communication creates unique social dynamics.
+              </p>
+            </div>
+
+            <div>
+              <h3 class="text-lg font-semibold text-[#ffa94d] mb-2">Climate & Atmosphere</h3>
+              <p class="text-[#e0e0e0] leading-relaxed">
+                Winnipeg winters are legendary—brutal cold, endless snow, darkness. The cold becomes a character: forcing people together, creating intimate moments, making spring feel like rebirth. Weather shapes the story's mood.
+              </p>
+            </div>
+
+            <div>
+              <h3 class="text-lg font-semibold text-[#ffa94d] mb-2">Sports Seasons</h3>
+              <p class="text-[#e0e0e0] leading-relaxed">
+                <strong>Hockey:</strong> September–March (regular season), March–April (playoffs)<br/>
+                <strong>Badminton:</strong> Year-round training, October–March (competition season), April (nationals)
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Back to Home -->
+      <section class="w-full text-center">
+        <a href="index.html" class="inline-flex items-center gap-2 text-[#ffa94d] hover:text-[#ff8c6b] transition-colors">
+          <span class="material-symbols-outlined">arrow_back</span>
+          <span class="font-semibold">Back to Home</span>
+        </a>
+      </section>
+
+    </div>
+  </div>
+
+  <!-- Menu Script -->
+  <script src="../js/menu.js"></script>
+
+</body>
+</html>
