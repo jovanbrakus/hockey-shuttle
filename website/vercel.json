@@ -7,6 +7,14 @@
       "destination": "/pages/index.html"
     },
     {
+      "source": "/pages/:path*",
+      "destination": "/pages/:path*"
+    },
+    {
+      "source": "/:page.html",
+      "destination": "/pages/:page.html"
+    },
+    {
       "source": "/:path*",
       "destination": "/:path*"
     }
