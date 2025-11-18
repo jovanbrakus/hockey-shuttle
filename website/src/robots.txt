@@ -1,0 +1,24 @@
+# robots.txt for The Boy Who Knew Me First
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin/utility paths (if any exist in future)
+# Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://www.theboywho.com/sitemap.xml
+
+# Crawl delay (optional, for politeness)
+# Crawl-delay: 1
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Block download folder if it exists
+Disallow: /downloads/
