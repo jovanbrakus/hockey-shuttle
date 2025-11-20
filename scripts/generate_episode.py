@@ -244,11 +244,10 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path, 
         cover_html = f"""
     <div class="cover-page">
         <div class="cover-content">
-            <h1 class="cover-title">The Boy Who Knew Me First</h1>
-            <p class="cover-season">Season {episode_info['season']}</p>
+            <h1 class="cover-title">THE BOY WHO<br/>KNEW ME FIRST</h1>
             <p class="cover-episode">Episode {episode_info['episode']}</p>
-            <p class="cover-author">by Joxy</p>
         </div>
+        <p class="cover-author">Joxy</p>
     </div>
     <div style="page-break-after: always;"></div>
     """
@@ -260,29 +259,48 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path, 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{episode_info['full_title']}</title>
     <style>
+        * {{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }}
+
+        html, body {{
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }}
+
         body {{
             font-family: Georgia, 'Times New Roman', serif;
             line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 0;
             color: #333;
         }}
+
+        /* Book Cover - Edge to Edge */
+        @page :first {{
+            margin: 0;
+            size: 6in 9in;
+        }}
+
         .cover-page {{
-            width: 100%;
-            height: 100vh;
-            background-image: url('{cover_image_path}');
+            position: relative;
+            width: 6in;
+            height: 9in;
+            margin: 0;
+            padding: 0;
+            background-image: url('{cover_image_path.as_uri()}');
             background-size: cover;
             background-position: center center;
             background-repeat: no-repeat;
             display: flex;
-            align-items: center;
+            align-items: flex-end;
             justify-content: center;
-            position: relative;
-            margin: 0;
-            padding: 0;
             overflow: hidden;
+            page-break-after: always;
         }}
+
         .cover-page::before {{
             content: '';
             position: absolute;
@@ -290,47 +308,80 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path, 
             left: 0;
             right: 0;
             bottom: 0;
-            background: rgba(0, 0, 0, 0.4);
-        }}
-        .cover-content {{
-            position: relative;
+            background: linear-gradient(to bottom,
+                rgba(0, 0, 0, 0.2) 0%,
+                rgba(0, 0, 0, 0.4) 50%,
+                rgba(0, 0, 0, 0.7) 100%);
             z-index: 1;
+        }}
+
+        .cover-content {{
+            position: absolute;
+            z-index: 2;
             text-align: center;
-            color: white;
-            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9);
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            top: 80px;
+            left: 0;
+            right: 0;
+            padding: 0 40px;
         }}
+
         .cover-title {{
-            font-size: 4em;
-            margin: 0 0 0.5em 0;
-            font-weight: 700;
-            letter-spacing: 3px;
-            text-transform: uppercase;
-            color: #FFFFFF;
-        }}
-        .cover-season {{
-            font-size: 1.5em;
-            margin: 0.5em 0;
-            font-weight: 400;
-            color: #FFFFFF;
-        }}
-        .cover-episode {{
-            font-size: 1.5em;
-            margin: 0.5em 0;
-            font-weight: 400;
-            color: #FFFFFF;
-        }}
-        .cover-author {{
-            font-size: 1.2em;
-            margin: 2em 0 0 0;
-            font-style: italic;
+            font-family: 'Didot', 'Bodoni MT', 'Book Antiqua', Georgia, serif;
+            font-size: 3.5em;
             font-weight: 300;
+            line-height: 1.2;
+            margin: 0 0 150px 0;
             color: #FFFFFF;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            text-shadow: 0 3px 10px rgba(0, 0, 0, 0.8);
         }}
+
+        .cover-episode {{
+            font-family: 'Didot', 'Bodoni MT', 'Book Antiqua', Georgia, serif;
+            font-size: 1.6em;
+            font-weight: 300;
+            margin: 0;
+            color: #FFFFFF;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+        }}
+
+        .cover-author {{
+            position: absolute;
+            bottom: 80px;
+            left: 0;
+            right: 0;
+            z-index: 2;
+            font-family: 'Didot', 'Bodoni MT', 'Book Antiqua', Georgia, serif;
+            font-size: 1.1em;
+            font-weight: 300;
+            font-style: normal;
+            margin: 0;
+            color: #FFFFFF;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            text-shadow: 0 2px 6px rgba(0, 0, 0, 0.9);
+            text-align: center;
+        }}
+
         .content {{
-            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
         }}
-        h1, h2, h3 {{ color: #2c3e50; }}
+
+        h1, h2, h3 {{
+            color: #2c3e50;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }}
+
+        p {{
+            margin-bottom: 1em;
+        }}
+
         img {{
             max-width: 100%;
             height: auto;
@@ -338,14 +389,30 @@ def generate_html(markdown_content: str, episode_info: dict, output_path: Path, 
             margin: 2em auto;
             border-radius: 4px;
         }}
+
         hr {{
             border: none;
             border-top: 1px solid #bdc3c7;
             margin: 40px 0;
         }}
+
         @media print {{
-            body {{ max-width: 100%; }}
-            .cover-page {{ page-break-after: always; }}
+            html, body {{
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }}
+
+            .cover-page {{
+                page-break-after: always;
+                margin: 0;
+                padding: 0;
+            }}
+
+            .content {{
+                max-width: 100%;
+            }}
         }}
     </style>
 </head>
@@ -417,39 +484,43 @@ def generate_docx(markdown_content: str, episode_info: dict, output_path: Path, 
                 import os
                 os.unlink(temp_cover.name)
 
-                # Add spacing to position text in center
-                for _ in range(8):
+                # Add spacing to position text near top (like PDF)
+                for _ in range(2):
                     doc.add_paragraph()
 
-                # Title
+                # Title (uppercase, thin serif style)
                 title_para = doc.add_paragraph()
-                title_run = title_para.add_run('The Boy Who Knew Me First')
-                title_run.font.size = Pt(48)
-                title_run.font.bold = True
+                title_run = title_para.add_run('THE BOY WHO KNEW ME FIRST')
+                title_run.font.name = 'Didot'
+                title_run.font.size = Pt(52)
+                title_run.font.bold = False
                 title_run.font.color.rgb = RGBColor(255, 255, 255)
                 title_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-                # Season
-                season_para = doc.add_paragraph()
-                season_run = season_para.add_run(f'Season {episode_info["season"]}')
-                season_run.font.size = Pt(24)
-                season_run.font.color.rgb = RGBColor(255, 255, 255)
-                season_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                # Spacing before episode (150px equivalent = ~4 paragraphs)
+                for _ in range(4):
+                    doc.add_paragraph()
 
-                # Episode
+                # Episode (thin serif style)
                 episode_para = doc.add_paragraph()
                 episode_run = episode_para.add_run(f'Episode {episode_info["episode"]}')
-                episode_run.font.size = Pt(24)
+                episode_run.font.name = 'Didot'
+                episode_run.font.size = Pt(26)
+                episode_run.font.bold = False
                 episode_run.font.color.rgb = RGBColor(255, 255, 255)
                 episode_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
-                # Author (with more spacing)
-                for _ in range(4):
+                # Push author to bottom with spacing
+                for _ in range(14):
                     doc.add_paragraph()
+
+                # Author at bottom (just "Joxy", not "by Joxy")
                 author_para = doc.add_paragraph()
-                author_run = author_para.add_run('by Joxy')
+                author_run = author_para.add_run('Joxy')
+                author_run.font.name = 'Didot'
                 author_run.font.size = Pt(18)
-                author_run.font.italic = True
+                author_run.font.bold = False
+                author_run.font.italic = False
                 author_run.font.color.rgb = RGBColor(255, 255, 255)
                 author_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
@@ -594,26 +665,25 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path, 
                 # Draw text overlay directly on the image
                 draw = ImageDraw.Draw(img_with_bg)
 
-                # Try to use Orkney font by Hanken Design Co
+                # Try to use Didot/Bodoni thin serif fonts to match PDF
                 import os
-                home = os.path.expanduser("~")
                 try:
-                    # Orkney fonts for EPUB cover
-                    author_font = ImageFont.truetype(f"{home}/Library/Fonts/orkney-medium.otf", 140)
-                    title_font = ImageFont.truetype(f"{home}/Library/Fonts/orkney-bold.otf", 240)
-                    subtitle_font = ImageFont.truetype(f"{home}/Library/Fonts/orkney-regular.otf", 110)
+                    # Didot (macOS system font) - thin, elegant serif - smaller title for EPUB
+                    author_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Didot.ttc", 90)
+                    title_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Didot.ttc", 190)
+                    subtitle_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Didot.ttc", 130)
                 except:
                     try:
-                        # Fallback to Arial
-                        author_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial.ttf", 140)
-                        title_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial.ttf", 240)
-                        subtitle_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial.ttf", 110)
+                        # Fallback to Georgia (serif)
+                        author_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Georgia.ttf", 90)
+                        title_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Georgia.ttf", 190)
+                        subtitle_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Georgia.ttf", 130)
                     except:
                         try:
-                            # Fallback to Helvetica
-                            author_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 140)
-                            title_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 240)
-                            subtitle_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 110)
+                            # Fallback to Times New Roman
+                            author_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Times New Roman.ttf", 90)
+                            title_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Times New Roman.ttf", 190)
+                            subtitle_font = ImageFont.truetype("/System/Library/Fonts/Supplemental/Times New Roman.ttf", 130)
                         except:
                             author_font = ImageFont.load_default()
                             title_font = ImageFont.load_default()
@@ -622,15 +692,15 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path, 
                 # Calculate center positions
                 center_x = ebook_width // 2
 
-                # Text content
+                # Text content - three lines for title like PDF
                 author_text = "Joxy"
                 title_line1 = "THE BOY WHO"
-                title_line2 = "KNEW ME FIRST"
-                season_text = f"Season {episode_info['season']}"
+                title_line2 = "KNEW ME"
+                title_line3 = "FIRST"
                 episode_text = f"Episode {episode_info['episode']}"
 
-                # Orange/gold color for title
-                title_color = (255, 180, 50)  # Orange/gold
+                # White color for all text
+                text_color = (255, 255, 255)  # White
 
                 # Helper function to draw text with shadow
                 def draw_text_with_shadow(text, font, y_pos, color=(255, 255, 255), is_title=False):
@@ -650,31 +720,31 @@ def generate_epub(markdown_content: str, episode_info: dict, output_path: Path, 
 
                     return text_height
 
-                # Author at the very top
-                author_y = 120
-                draw_text_with_shadow(author_text, author_font, author_y, color=(255, 255, 255))
+                # Title at top
+                top_start = 200  # Start 200px from top
 
-                # Title, Season, Episode near the bottom
-                bottom_start = ebook_height - 800  # Start 800px from bottom
+                # Title line 1: THE BOY WHO
+                title1_height = draw_text_with_shadow(title_line1, title_font, top_start,
+                                                     color=text_color, is_title=True)
 
-                # Title line 1: HOCKEY
-                title1_height = draw_text_with_shadow(title_line1, title_font, bottom_start,
-                                                     color=title_color, is_title=True)
-
-                # Title line 2: SHUTTLE
-                title2_y = bottom_start + title1_height + 20
+                # Title line 2: KNEW ME (with 70px spacing)
+                title2_y = top_start + title1_height + 70
                 title2_height = draw_text_with_shadow(title_line2, title_font, title2_y,
-                                                     color=title_color, is_title=True)
+                                                     color=text_color, is_title=True)
 
-                # Season
-                season_y = title2_y + title2_height + 80
-                season_height = draw_text_with_shadow(season_text, subtitle_font, season_y,
-                                                     color=(255, 255, 255))
+                # Title line 3: FIRST (with 70px spacing)
+                title3_y = title2_y + title2_height + 70
+                title3_height = draw_text_with_shadow(title_line3, title_font, title3_y,
+                                                     color=text_color, is_title=True)
 
-                # Episode
-                episode_y = season_y + season_height + 50
+                # Episode below title with spacing
+                episode_y = title3_y + title3_height + 250
                 draw_text_with_shadow(episode_text, subtitle_font, episode_y,
-                                     color=(255, 255, 255))
+                                     color=text_color)
+
+                # Author at the bottom
+                author_y = ebook_height - 250
+                draw_text_with_shadow(author_text, author_font, author_y, color=text_color)
 
                 # Save to temp file
                 temp_cover = tempfile.NamedTemporaryFile(delete=False, suffix='.png')
