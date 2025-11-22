@@ -102,14 +102,15 @@ def get_unique_filename(output_dir: Path, filename: str) -> Path:
         counter += 1
 
 
-def generate_image_gemini(prompt: str, output_path: Path, api_key: str, input_images: Optional[List[Path]] = None) -> bool:
-    """Generate image using Gemini 2.5 Flash Image model.
+def generate_image_gemini(prompt: str, output_path: Path, api_key: str, input_images: Optional[List[Path]] = None, model_name: str = "gemini-2.5-flash-image") -> bool:
+    """Generate image using Gemini Image model.
 
     Args:
         prompt: Text prompt for image generation
         output_path: Where to save the generated image
         api_key: Gemini API key
         input_images: Optional list of input image paths for multimodal generation
+        model_name: Gemini model name to use
 
     Returns:
         True if successful, False otherwise
@@ -124,7 +125,7 @@ def generate_image_gemini(prompt: str, output_path: Path, api_key: str, input_im
 
     try:
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-2.5-flash-image")
+        model = genai.GenerativeModel(model_name)
 
         # Prepare content for generation
         content_parts = []
@@ -244,7 +245,7 @@ def generate_image(
         prompt: Text description of the image to generate
         subfolder: Subdirectory within the visuals folder (e.g., 'characters', 'scenes')
         filename: Name for the output image file (should include extension)
-        model_type: Either "gemini" or "imagen" (default: "gemini")
+        model_type: Either "gemini", "gemini-3-pro-preview", or "imagen" (default: "gemini")
         base_dir: Optional base directory (defaults to hockey-shuttle/10-visuals)
         input_images: Optional list of input image paths (only supported by Gemini)
 
@@ -271,19 +272,32 @@ def generate_image(
     api_key = load_api_key()
 
     # Determine model and print info
-    model_name = "Gemini 2.5 Flash Image" if model_type.lower() == "gemini" else "Imagen 4.0"
+    model_mapping = {
+        "gemini": ("Gemini 2.5 Flash Image", "gemini-2.5-flash-image"),
+        "gemini-3-pro-preview": ("Gemini 3 Pro Image Preview", "gemini-3-pro-image-preview"),
+        "imagen": ("Imagen 4.0", None)
+    }
+
+    model_key = model_type.lower()
+    if model_key not in model_mapping:
+        print(f"❌ Unknown model type: {model_type}")
+        print("   Valid options: 'gemini', 'gemini-3-pro-preview', or 'imagen'")
+        sys.exit(1)
+
+    model_display_name, gemini_model_name = model_mapping[model_key]
+
     print(f"🎨 Generating image with prompt: '{prompt[:80]}{'...' if len(prompt) > 80 else ''}'")
-    print(f"📝 Using model: {model_name}")
+    print(f"📝 Using model: {model_display_name}")
 
     # Generate based on model type
     success = False
-    if model_type.lower() == "gemini":
-        success = generate_image_gemini(prompt, output_path, api_key, input_images)
-    elif model_type.lower() == "imagen":
+    if model_key in ["gemini", "gemini-3-pro-preview"]:
+        success = generate_image_gemini(prompt, output_path, api_key, input_images, gemini_model_name)
+    elif model_key == "imagen":
         success = generate_image_imagen(prompt, output_path, api_key, input_images)
     else:
         print(f"❌ Unknown model type: {model_type}")
-        print("   Valid options: 'gemini' or 'imagen'")
+        print("   Valid options: 'gemini', 'gemini-3-pro-preview', or 'imagen'")
         sys.exit(1)
 
     if not success:
@@ -346,8 +360,8 @@ Examples:
         "-m", "--model",
         type=str,
         default="gemini",
-        choices=["gemini", "imagen"],
-        help="Model to use: 'gemini' (default) or 'imagen'"
+        choices=["gemini", "gemini-3-pro-preview", "imagen"],
+        help="Model to use: 'gemini' (default), 'gemini-3-pro-preview', or 'imagen'"
     )
 
     parser.add_argument(
